@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3049 blind set 6 (promoter self-check). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen BEFORE the genomes are downloaded.
+Tool: dcf_promoters.py (SHA-256 b2749443b22506ef87331e1b48f848d293ebbe4fa23b74ee595bc2aacc45541a) run on gene finder v2.30 predictions only (no annotation).
+Statistic E17 = (17-nt spacer share of top-quarter learned sites) / (same on composition-shuffled windows); "clear signal" means E17 > 1.5.
+Development (14 seen genomes): Firmicutes 1.84-2.89 (7/7 > 1.5); others 0.76-1.21 (0/7 > 1.5).
+Genomes (none in seen_accessions.txt): Firmicutes NC_004668 Enterococcus faecalis, NC_002737 Streptococcus pyogenes, NC_004722 Bacillus cereus,
+NC_003366 Clostridium perfringens; others NC_004347 Shewanella oneidensis, NC_003902 Xanthomonas campestris, NC_002942 Legionella pneumophila,
+NC_005966 Acinetobacter baylyi. Missing files are dropped; thresholds scale as "all but one".
+T1 Firmicutes: E17 > 1.5 in >= 3 of 4.
+T2 Others: E17 < 1.5 in >= 3 of 4.
+T3 Separation: the lowest Firmicute E17 exceeds the median of the others.
+T4 Gene finder v2.30 calls genetic code 11 in all 8.

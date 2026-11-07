@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Digital Cosmos Framework: verified mathematics, phone toolkit and pre-registration ledger"
+authors:
+  - family-names: Mason
+    given-names: "Gary NOMEREMORTAL"
+version: "2026-11-06"
+date-released: 2026-11-06
+license: MIT
+repository-code: "https://github.com/xNOMEREMORTALx/dcf-math"
