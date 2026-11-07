@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3057b R5d (are learned promoters at operon starts?). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen before the run.
+Boxes learned by dcf_promoters.py on gene-finder predictions (no annotation). Annotation used only to define two gene classes:
+ FIRST = annotated gene whose same-strand upstream neighbour ends > 250 nt away (likely operon start);
+ INTERNAL = annotated gene whose same-strand upstream neighbour ends within 40 nt (likely inside an operon).
+Score = best joint -35/-10 site score (spacer 15-19) in the 150 nt upstream. Threshold = 99th percentile of the same score on shuffled
+FIRST windows. Hit rate = fraction of windows above threshold. Ratio = hit(FIRST)/hit(INTERNAL).
+V1 Clear-signal Firmicutes (S. pneumoniae, S. pyogenes, C. perfringens, Lactococcus, E. faecalis): ratio >= 2 in >= 4 of 5.
+V2 Non-Firmicute controls (E. coli, Vibrio, Pseudomonas): ratio < ratio of every one of the 5 Firmicutes' median (i.e. median control ratio < median Firmicute ratio).
+V3 Firmicutes: hit(FIRST) >= 0.20 in >= 4 of 5.

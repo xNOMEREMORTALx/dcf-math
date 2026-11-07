@@ -1,0 +1,5 @@
+PRE-REGISTRATION L3057 (late Enterococcus file for blind set 6). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen BEFORE download.
+Accepted files: E. faecalis V583 (NC_004668 or its GenBank twin AE016830) or strain OG1RF (CP002621 / NC_017316); none seen before.
+Tools as L3053: gene finder v2.30, dcf_promoters.py (SHA as in PREREGISTERED_L3049_blind6.txt).
+U1 Promoter self-check reports a CLEAR signal (E17 > 1.5).
+U2 Genetic code 11.
