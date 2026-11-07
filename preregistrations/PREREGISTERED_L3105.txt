@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3105 O5 (blind test of the 3'UTR tail rule). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen BEFORE download.
+Rule (found post hoc in L3101 on 24 other genes): 3'UTR > 500 nt -> brain, otherwise heart. No new tuning.
+Heart-enriched (12): MYL3 NM_000258, CSRP3 NM_003476, TNNC1 NM_003280, MYOZ2 NM_016599, MYL4 NM_002476, ANKRD1 NM_014391, CASQ2 NM_001232,
+HSPB7 NM_014424, SCN5A NM_198056, KCNH2 NM_000238, HCN4 NM_005477, NKX2-5 NM_004387.
+Brain-enriched (12): CAMK2A NM_015981, DLG4 NM_001365, GRIA2 NM_000826, SLC17A7 NM_020309, NEUROD6 NM_022728, SST NM_001048, SYT1 NM_005639,
+GAD1 NM_000817, SNCA NM_000345, VSNL1 NM_003385, CALB1 NM_004929, PLP1 NM_000533.
+Records whose DEFINITION does not name the intended gene are dropped (thresholds scale to the genes kept).
+T1 The rule classifies >= 75% of kept genes correctly.
+T2 Median 3'UTR brain > heart, Mann-Whitney one-sided p < 0.05.
+T3 Codon-usage nearest-centroid (leave-one-out) stays <= 75% (codon usage remains a weak organ marker).
