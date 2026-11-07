@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3061 R6 (helical phasing of repeated sites). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen before any count.
+Data: annotated intergenic regions >= 50 nt (between consecutive genes, any strands) of 10 development genomes: E. coli, Vibrio, C. jejuni,
+H. pylori, S. pneumoniae, Lactococcus, M. tuberculosis, Bacteroides, Pyrococcus, Methanosarcina. 8-mers with >= 3 distinct bases.
+Direct repeat: the same 8-mer twice; inverted repeat: an 8-mer and its reverse complement; d = start-to-start distance, 8..45 nt.
+Whole-turn bins W = {10, 11, 21, 22, 31, 32}; half-turn bins H = {15, 16, 26, 27, 36, 37}. Ratio = sum(W) / sum(H), pooled over genomes.
+Control: the same regions, composition-shuffled, 5 shuffles.
+S1 Direct repeats: ratio > 1.10.   S2 Inverted repeats: ratio > 1.10.
+S3 Shuffled controls: both ratios within 0.90-1.10.
+S4 d = 37 is not elevated: count(37) < 1.2 x mean(count(36), count(38)) for both repeat types.
