@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3113 (26 and 29: iron / copper in heart genes, helix geometry, digit law). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026.
+Frozen before any count. Proteins: the 54 human mRNAs of L3097 + L3105 (24 heart, 24 brain, 6 housekeeping) and the 13 human mitochondrial
+proteins (hsmt.gb). Length in amino acids (CDS/3 - 1).
+F1 Heart proteins: the number divisible by 26 or by 29 is within the binomial 95% range of chance (rate 1/26 + 1/29 - 1/754 = 0.0727; n = 24).
+F2 All 67 proteins together: same, chance rate 0.0727.
+F3 No group difference: heart vs brain counts differ by <= 3.
+F4 Digit law (Lambda, proved): x vs 26x shares 3/26 = 0.11538 and x vs 29x shares 3/29 = 0.10345 of decimals; checked on 10^6 digits of
+   pi and e, each within 0.0015.
+Method note (not a prediction): with a freely chosen offset, every length fits any modulus (offset = length mod m), so offsets chosen after
+seeing the data cannot count as evidence.
