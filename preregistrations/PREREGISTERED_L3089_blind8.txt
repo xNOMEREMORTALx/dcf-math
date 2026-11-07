@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3089 blind set 8 (gene-level pyrrolysine candidates). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen BEFORE download.
+Tools: gene finder v2.30; dcf_pylflag.py (SHA-256 2952984a1f57d0df45291665097d6ddce70d228d17f5783fb1c22fd1e025a6be), gene list output.
+Genomes (methylamine-using methanogens, expected pyrrolysine users; none in seen_accessions.txt): NC_014002 Methanohalophilus mahii;
+NC_018876 Methanolobus psychrophilus; NC_015676 Methanosalsum zhilinae; NC_019977 Methanomethylovorans hollandica.
+Reference set (annotation, used only for grading): CDS whose product names a mono-, di- or trimethylamine methyltransferase AND that are
+marked /pseudo (internal stop). "Caught" = a TAG read-through candidate on the same strand covering > 50% of the CDS.
+G1 Across the received genomes, >= 90% of reference genes are caught (and >= 1 reference gene exists in >= 3 genomes).
+G2 Each genome lists <= 30 TAG candidates in >= 3 of 4 (the list stays short enough to inspect).
+G3 Genetic code 11 called in all.
