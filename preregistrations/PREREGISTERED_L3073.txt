@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3073 J4b (label-free pyrrolysine flag). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen before any run.
+Input: gene finder v2.30 predictions only. A "join across X" (X = TAA, TAG, TGA): two consecutive same-strand predictions where the first ends
+with stop X, the second starts in the same reading frame within 600 nt after X, there is no other in-frame stop between them, and each part >= 150 nt.
+Excess(TAG) = joins(TAG) / [ (joins(TAA) + joins(TGA)) * u(TAG) / (u(TAA) + u(TGA)) ], u = share of predicted genes ending in that stop.
+Y1 Methanosarcina acetivorans: the TAG joins include >= 5 of the 7 known pyrrolysine genes (L3069 list), with <= 20 TAG joins in total.
+Y2 Methanosarcina: Excess(TAG) >= 2.
+Y3 The 9 other development genomes (E. coli, Vibrio, C. jejuni, H. pylori, M. jannaschii, Pyrococcus, Bacteroides, M. tuberculosis,
+   S. pneumoniae): Excess(TAG) < 2 in >= 8 of 9.
