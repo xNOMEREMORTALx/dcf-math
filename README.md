@@ -5,7 +5,7 @@
 Verified number-theory results from the Digital Cosmos Framework (DCF).
 - **Pre-registration.** Every prediction was hashed and frozen before its test was run.
 - **Honest grading.** Every result is graded honestly, failures included.
-- **Running record:** 192 of 254 pre-registered predictions passed, plus 3 split.
+- **Running record:** 194 of 257 pre-registered predictions passed, plus 3 split.
 
 ## Contents
 - **`notes/Note_Lambda_digit_agreement_draft_v0.5.md`:** a closed-form law for how often a number and its multiple share digits.
@@ -19,7 +19,7 @@ Verified number-theory results from the Digital Cosmos Framework (DCF).
   - A mod-24 classification of the primes that divide them (density 1/3).
   - Star-number sides of hexagonal-number grids.
 - **`phone/`:** the DCF phone toolkit (`dcf_phone_6.05.py`, self-test 257/257), a DNA codec and an error-correcting code. Runs in Pydroid 3 on Android.
-- **`preregistrations/`:** 63 frozen prediction files from rounds L2746–L3041, with `LEDGER.md` listing their SHA-256 hashes.
+- **`preregistrations/`:** 64 frozen prediction files from rounds L2746–L3045, with `LEDGER.md` listing their SHA-256 hashes.
 
 **Related.** The gene finder is in [dcf-genefinder](https://github.com/xNOMEREMORTALx/dcf-genefinder).
 
