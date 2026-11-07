@@ -19,7 +19,7 @@ Verified number-theory results from the Digital Cosmos Framework (DCF).
   - A mod-24 classification of the primes that divide them (density 1/3).
   - Star-number sides of hexagonal-number grids.
 - **`phone/`:** the DCF phone toolkit (`dcf_phone_6.05.py`, self-test 257/257), a DNA codec and an error-correcting code. Runs in Pydroid 3 on Android.
-- **`preregistrations/`:** 71 frozen prediction files from rounds L2746–L3073, with `LEDGER.md` listing their SHA-256 hashes.
+- **`preregistrations/`:** 72 frozen prediction files from rounds L2746–L3077, with `LEDGER.md` listing their SHA-256 hashes.
 
 **Related.** The gene finder is in [dcf-genefinder](https://github.com/xNOMEREMORTALx/dcf-genefinder).
 

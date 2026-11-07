@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3077 blind set 7 (pyrrolysine flag). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen BEFORE the genomes are downloaded.
+Tools: gene finder v2.30, then dcf_pylflag.py (SHA-256 78e29f358f3afd51d7e6376a019cd37611265e0725c3120a982cb5b543d2dd4e) on its predictions only. "Flagged" = TAG excess >= 2.
+Pyrrolysine users (literature): NC_007355 Methanosarcina barkeri Fusaro; NC_003901 Methanosarcina mazei Go1; NC_007955 Methanococcoides burtonii;
+NC_007907 Desulfitobacterium hafniense Y51 (a bacterium). Non-users: NC_000916 Methanothermobacter thermautotrophicus; NC_007796 Methanospirillum
+hungatei; NC_002939 Geobacter sulfurreducens; NC_007493 Rhodobacter sphaeroides chr 1. None in seen_accessions.txt. Missing files are dropped
+("k of 4" becomes "all but (4-k)").
+B1 Users flagged in >= 3 of 4.   B2 Non-users not flagged in >= 3 of 4.
+B3 The lowest user excess exceeds the highest non-user excess.   B4 Genetic code 11 called in all.
