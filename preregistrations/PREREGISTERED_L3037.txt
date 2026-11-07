@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3037 (star numbers 13, 37 in gene architecture). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen before any count.
+Genomes (development, annotated CDS): E. coli, Vibrio chr I, C. jejuni, H. pylori, M. jannaschii, Pyrococcus, Methanosarcina, Bacteroides,
+M. tuberculosis, S. pneumoniae. Single-segment CDS only.
+R1 Protein length in codons is uniform mod 13 and mod 37 (chi-square p > 0.001) in >= 9 of 10 genomes for each modulus (null: no star resonance).
+R2 Pooled same-strand intergenic distance d (next start - previous stop end, nt; negative = overlap): counts at d = 13 and d = 37 are each
+   < 1.5 x the mean of their two neighbours (d +- 1) (null).
+R3 Positive control: d = -4 (ATGA overlap) and d = -1 (TGATG-type) are the two most common distances in the pooled data.
+R4 Phase control: d mod 3 is NOT uniform (chi-square p < 1e-6), since overlaps and short spacers favour particular frames.

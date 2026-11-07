@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3041 R5 (promoters, label-free scan). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen before any scan.
+Windows: 250 nt upstream of annotated starts (same strand), genes whose upstream neighbour on the same strand ends > 250 nt away
+(likely operon-first genes). Hits: -35 hexamer within 1 mismatch of TTGACA and -10 hexamer within 1 mismatch of TATAAT, spacer s = 14..20.
+Control: the same windows shuffled (base composition kept), 10 shuffles averaged. Enrichment E(s) = real hits / shuffled hits.
+P1 E. coli: the spacer with the highest enrichment is s = 16, 17 or 18, and E(17) > 1.5.
+P2 E. coli: E(14) and E(20) are both < E(17) - 0.3 (a peak, not a plateau).
+P3 B. subtilis-type low-GC Firmicute (S. pneumoniae) also peaks at s = 16-18 (sigma-A is sigma-70 family).
+P4 M. tuberculosis (GC 0.66): E(17) is lower than in E. coli (its sigma-A promoters are less TATAAT-like and the hexamers are AT-rich vs genome).
