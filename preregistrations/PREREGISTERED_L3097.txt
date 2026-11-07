@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3097 (organ-specific genes: what does sequence alone show?). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen BEFORE download.
+Human RefSeq mRNAs (one efetch file). Heart-specific (12): MYH7 NM_000257, MYH6 NM_002471, TNNT2 NM_000364, ACTC1 NM_005159, NPPA NM_006172,
+NPPB NM_002521, MYL2 NM_000432, MYL7 NM_021223, TNNI3 NM_000363, RYR2 NM_001035, PLN NM_002667, MYBPC3 NM_000256.
+Brain-specific (12): GFAP NM_002055, SNAP25 NM_003081, SYN1 NM_006950, GRIN1 NM_007327, NEFL NM_006158, MBP NM_002385, SYP NM_003179,
+GAP43 NM_002045, OLIG2 NM_005806, STMN2 NM_007029, GABRA1 NM_000806, NRGN NM_006176.
+Housekeeping (6): GAPDH NM_002046, ACTB NM_001101, TUBB NM_178014, RPLP0 NM_001002, PGK1 NM_000291, HPRT1 NM_000194.
+Rule: a record whose DEFINITION does not name the intended gene is dropped (recorded). Features from each record: CDS length, 5'UTR and 3'UTR
+lengths, GC3 of the CDS, codon usage (61 sense codons).
+O1 Brain mRNAs have longer 3'UTRs: median 3'UTR(brain) > median 3'UTR(heart), Mann-Whitney one-sided p < 0.05.
+O2 GC3 does not separate the groups: |median GC3(brain) - median GC3(heart)| < 0.05.
+O3 Codon usage alone is a weak organ marker: leave-one-out nearest-centroid accuracy (heart vs brain, codon frequencies) <= 75%.
+O4 Neither organ group differs from housekeeping in GC3 by > 0.10 (median).
