@@ -27,3 +27,6 @@ Verified number-theory results from the Digital Cosmos Framework (DCF).
 **Drafts.** Both notes still need a specialist literature check (zbMATH/MathSciNet, OEIS) before any claim of novelty.
 
 **What the record is.** The pre-registration record documents the method. It is not a claim that every DCF idea holds; failed predictions are kept and reported.
+
+## License
+MIT (see `LICENSE`), the same as dcf-genefinder.
