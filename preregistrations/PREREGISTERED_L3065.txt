@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3065 ("plucked string" lengths; patterns at gene junctions). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen before any count.
+Genomes: the 10 development genomes of L3037 (annotated single-segment CDS).
+H1 String-harmonic test: gene lengths in nt show NO phase concentration at the helix period. Rayleigh test of exp(2 pi i L / T) for
+   T = 10.5 and T = 11.0 nt: p > 0.01 for both periods in >= 9 of 10 genomes.
+H2 Control period: the same test at T = 3 nt is degenerate (all lengths are multiples of 3, R = 1) - reported, not graded.
+J1 Positive control (stop context): the base right after the stop codon (+1 after stop) is non-uniform (chi-square p < 1e-6) in >= 8 of 10 genomes.
+J2 Positive control (start context): per-position information content (bits, vs the genome's base composition) over -20..-1 before the start
+   has its maximum inside -15..-5 (the Shine-Dalgarno zone) in >= 7 of 10 genomes.
+J3 Length-junction coupling: the identity of the stop codon (TAA / TAG / TGA) does NOT depend on gene length class (short < 300 nt,
+   medium, long > 1500 nt): chi-square p > 0.001 in >= 8 of 10 genomes.
