@@ -1,0 +1,6 @@
+PRE-REGISTRATION L2981 (Synechocystis, late file for blind set 3). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. LOCUS line only read.
+NC_000911 Synechocystis sp. PCC 6803, 3,573,470 bp. Same tools and grader as L2977. Targets carried from the frozen L2973 set (B1-B5):
+S1 v2.27 calls genetic code 11.
+S2 v2.27 finds more genes than v2.26 (gain > 0).
+S3 v2.27 precision change vs v2.26 >= -2.0 points.
+S4 v2.27 correct >= 85%.

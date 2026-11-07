@@ -1,0 +1,6 @@
+L2829, Gary NOMEREMORTAL Mason, DCF. Frozen 2026-11-03 before any run-length or windowed-GC statistic was computed on reciprocal strands.
+Strands: 1/p in base 4 (A0 C1 G2 T3), one full period, every base-4 Midy prime 1000 < p < 5000 with period >= 1000 (the 79 of L2826).
+Null: 200 mononucleotide shuffles of each strand (same composition), seed 2829.
+S1 maximum homopolymer run of the strand <= the null median maximum run, for >= 90% of primes.
+S2 variance of GC fraction over non-overlapping 50-nt windows < the null 5th percentile, for >= 90% of primes.
+S3 no strand contains a homopolymer run longer than 6.

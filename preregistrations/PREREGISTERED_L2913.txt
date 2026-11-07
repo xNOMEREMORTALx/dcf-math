@@ -1,0 +1,15 @@
+PRE-REGISTRATION L2913: special numbers and rhythms in the "language" of DNA. Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026.
+Frozen before any statistic below is computed. Genomes: the 31 chromosomes of genome_list.txt (accession only).
+A. Gene lengths and number families. L = codon count of each annotated single-part CDS (length/3, stop included).
+   Families: primes; squares; triangular numbers n(n+1)/2; star numbers 6n(n-1)+1.
+   Null: for each gene, the local density of the family in [L-10, L+10]; expected count = sum of local densities.
+A1 primes: observed/expected in 0.95..1.05 (pooled over all genes).
+A2 squares, triangular, star: observed count inside the 99% Poisson interval of its expectation (pooled), for all three.
+A3 digital root (Gary's reduction end) of L: chi-square over 1..9 (8 d.f.) not significant at p < 0.001 (pooled), using as expected
+   the digital-root shares of the local-null neighbourhoods (so length-distribution effects cancel).
+B. The helical rhythm. x_i = 1 where the dinucleotide at i is AA or TT (first 1 Mb of each chromosome, forward strand).
+   C(d) = autocorrelation for d = 1..40, detrended by its 7-point moving average; best period P in 8..14 bp by Fourier fit on d = 5..40.
+   Null: 5 first-order Markov sequences with the same dinucleotide frequencies; same statistic.
+B1 the median best period over the 31 genomes lies in 10.5..11.5 bp (the bacterial helical-repeat rhythm reported in the literature).
+B2 the amplitude at the best period exceeds the maximum of its 5 Markov nulls in at least 25 of 31 genomes.
+C. Brain rhythms: literature only, no numerical test (unit-free ratios only; Hz values depend on the second).

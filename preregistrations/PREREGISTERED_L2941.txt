@@ -1,0 +1,14 @@
+PRE-REGISTRATION L2941 (leads N4, N5). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026. Frozen before the runs below.
+N4 derivation (same Fourier method as L2937, with a shift t on the second number): for y = (r/s) x + t,
+  P(same digit) = 1/b + (d^2/(b r s)) * [ B2({beta}) - B2({beta + theta})/2 - B2({beta - theta})/2 ],
+  B2(x) = x^2 - x + 1/6,  d = gcd(r - s, b),  theta = (r mod d)/d,  beta = b s t / d.   (t = 0 gives L2937's closed form.)
+  Checks: x vs x + t (r = s = 1, d = b, theta = 1/b, beta = t): gives 1 - b t for 0 <= t <= 1/b, as it must.
+N5 derivation: agreement on k consecutive digits = agreement of one digit in base b^k, so
+  P_k(c) = (c - 1 + gcd(c - 1, b^k)) / (b^k c); the best multiplier for k-digit blocks is b^k + 1 with 2/(b^k + 1).
+Data: first 10^6 decimals of pi (guarded mpmath rule).
+A1  pi vs c pi + t, for (c, t) in {(1, 0.03), (1, 1/7), (2, 1/2), (11, 1/2), (11, 1/3), (11, 0.05), (3, 1/4)}: every measured share within
+    0.0015 of the N4 formula (7 cases).
+A2  pi vs c pi, agreement on 2 consecutive digits (overlapping windows): for c in {2, 6, 11, 101}, within 3 sd (binomial) of P_2(c)
+    = 1/100, 1/60, 1/55, 2/101.
+A3  c = 101 beats c = 11 on 2-digit blocks (P_2(101) = 0.0198 > P_2(11) = 0.0182), while c = 11 beats c = 101 on single digits
+    (lambda(11) = 0.1818 > lambda(101) = 0.1089).

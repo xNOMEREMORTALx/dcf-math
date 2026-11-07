@@ -1,0 +1,3 @@
+L2803 (frozen in L2802_report.md, restated before running): third escalation tier, ORFs >= 120 nt, applied only when GC < 0.30 and the
+150-nt escalation is still uncertain. Development data (all genomes seen). Pass = Buchnera resolves to "stop, clear" (interval below +0.05)
+at 120 nt AND M. genitalium, M. pneumoniae, Ureaplasma all stay Trp clear (lower bound > +0.05) at 120 nt.

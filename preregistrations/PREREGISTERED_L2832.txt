@@ -1,0 +1,5 @@
+L2832, Gary NOMEREMORTAL Mason, DCF. Frozen 2026-11-03 BEFORE either file is received. Tool: dcf_genefinder_mobile.py v2.20 (hash in report).
+Z1 Mycoplasma hyopneumoniae 232 NC_006360: final code call = file's majority /transl_table (expected 4); read-through and length-ratio agree.
+Z2 Candidatus Zinderia insecticola CARI NC_014497 (extreme AT, ~208 kb; literature: UGA = Trp): final code call = majority /transl_table;
+   length ratio >= 1.5.
+Z3 Both: no RELIABILITY WARNING, and predictions correct >= 80%.

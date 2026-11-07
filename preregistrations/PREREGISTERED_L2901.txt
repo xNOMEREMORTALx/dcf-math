@@ -1,0 +1,9 @@
+PRE-REGISTRATION L2901 (lead L2900): a joint-digit normality test built on Theorem Lambda. Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026.
+Frozen before any statistic below is computed.
+Statistic: for the first N = 100,000 decimals of x and multipliers C = {2, 3, 6, 11, 21}, a_c = share of positions where x and c*x
+(fractional parts) carry the same digit; d = (a_c - lambda_10(c))_c. Covariance Sigma of d estimated from 300 uniformly random digit
+strings of length N (seed 2901). Q = d^T Sigma^-1 d (about chi-square, 5 d.f.). Pass if Q < 20.5 (p > 0.001); "detected" if Q > 50.
+N1  Q < 20.5 for all six presumed/known normal numbers: pi, e, sqrt 2, ln 2, Champernowne 0.123456789101112..., Copeland-Erdos 0.235711131719...
+N2  Q > 50 for 0.(0123456789) repeated (single digits exactly uniform, so a one-digit frequency test cannot see it).
+N3  Q > 50 for the periodic order-2 de Bruijn word (every pair of digits exactly equally often), repeated.
+Exploratory, not graded: order-3 and order-4 de Bruijn words; a Liouville-type number.

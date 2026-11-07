@@ -1,0 +1,15 @@
+PRE-REGISTRATION L2858 (lead L2854: dark frequencies of decimal periods)
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 4 Nov 2026. Frozen before any digit sum of a prime in the test range is computed.
+
+Scope: primes p with 3 | T = ord_p(10), index k = (p-1)/T >= 2, and the cube-root line not forced by Midy (equivalently T odd).
+Training: 7 <= p < 150,000 (already scanned in L2637; 1730 primes). Test: 150,000 <= p < 1,000,000 (8110 primes, list in test_pk.txt).
+A = s0 + s1*w + s2*w^2 (w = e^{2 pi i/3}, s_c = digit sum over positions t = c mod 3); Q = |A|^2.
+Lattice fact found on training (to be proved): A is divisible by (10w - 1) in Z[w], so Q = 111*q' with q' a norm (p != 37).
+Null model (fitted on training only, p != 37): q' ~ sigma'^2 * Exp(1), log sigma'^2 = b0 + b1 log p + b2 log k + gamma,
+b = (-2.7458, 0.9786, -1.0790). P(A = 0) = (sqrt3/2)/(pi sigma'^2); P(q' = 1) = 6 (sqrt3/2)/(pi sigma'^2) e^{-1/sigma'^2}.
+Expected in test: zeros E0 = 1.888 (Poisson 95%: 0..5); q' = 1: E1 = 6.053 (Poisson 95%: 2..11).
+
+Predictions:
+D1  every test prime has Q divisible by 111 (8110/8110).
+D2  number of test primes with A = 0 (all three phase sums equal) lies in 0..5.
+D3  number of test primes with q' = 1 lies in 2..11.

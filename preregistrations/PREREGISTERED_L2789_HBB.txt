@@ -1,0 +1,10 @@
+L2789 pre-registration (reconstruction of L2676, whose original wording was not recovered). Frozen 2026-11-02 BEFORE any period-3
+statistic was computed on HBB. Only the FASTA header and first 60 nt of gene.fna had been seen.
+Data: HBB_datasets.zip (Drive), ncbi_dataset/data/gene.fna, record NC_000011.10:c5227071-5225464 (1608 nt, sense strand). CRC OK.
+Annotation: exons/introns located by GT..AG splice sites; accepted only if the spliced CDS translates to a 147-aa protein + stop
+starting MVHLTPEEK (self-check; no other annotation used).
+Statistic: period-3 power S = sum over A,C,G,T of |sum_n x_b(n) exp(-2 pi i n/3)|^2 on each segment (CDS part of each exon; each intron);
+p = fraction of 2000 mononucleotide shuffles of that segment with S >= observed (seed 2789). R = S / mean shuffle S.
+P1 at least 2 of the 3 coding-exon segments have p < 0.05.
+P2 both introns have p >= 0.05.
+P3 length-weighted mean R over coding segments >= 2 x that over introns.

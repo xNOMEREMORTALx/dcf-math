@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3033 L2936l (other figurate grids). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen before the computation.
+Square grids whose cell count m^2 is a centred hexagonal number H_n = 3n(n-1)+1: 4m^2 = 3(2n-1)^2 + 1, i.e. (2m)^2 - 3(2n-1)^2 = 1.
+By hand: m = 1, 13, 181 (169 = H_8). Both 13 and 181 are star numbers (S_2, S_6).
+K1 The first 12 sides m (> 1) of "hexagonal square grids" are ALL star numbers S_j.
+K2 The sides satisfy m_(k+1) = 14 m_k - m_(k-1).
+K3 Square grids whose cell count is a triangular number (m^2 = n(n+1)/2) have sides 1, 6, 35, 204 (m_(k+1) = 6 m_k - m_(k-1)), the classical
+   square triangular numbers; none of the first 12 sides > 1 is a star number.

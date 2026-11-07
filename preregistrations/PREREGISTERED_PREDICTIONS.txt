@@ -1,0 +1,24 @@
+pre-registered 2026-10-29T07:50:31Z (before any grading)
+NC_000964.3: 4215606 bp, predicted 3679 genes -> pred_g2_t11.gff3 (16S anti-SD anchor: TAGAAAGGAGGTGA)
+NC_000962.3: 4411532 bp, predicted 3790 genes -> pred_g3_t11.gff3 (16S anti-SD anchor: AGAAAGGAGGTGAT)
+NC_007795.1: 2821361 bp, predicted 2309 genes -> pred_g4_t11.gff3 (16S anti-SD anchor: AGAAAGGAGGTGAT)
+NC_002516.2: 6264404 bp, predicted 6479 genes -> pred_g5_t11.gff3 (16S anti-SD anchor: TTAAGGAGGTGATC)
+NC_000908.2: 580076 bp, predicted 496 genes -> pred_g6_t4.gff3 (16S anti-SD anchor: AAAGGAGGTGATCC)
+NC_000908.2: 580076 bp, predicted 652 genes -> pred_g6_t11.gff3 (16S anti-SD anchor: AAAGGAGGTGATCC)
+NC_000907.1: 1830138 bp, predicted 1601 genes -> pred_g7_t11.gff3 (16S anti-SD anchor: TCAGTAAGGAGGTG)
+NC_000915.1: 1667867 bp, predicted 1436 genes -> pred_g8_t11.gff3 (16S anti-SD anchor: AAAGGAGGTGATCC)
+NC_000909.1: 1664970 bp, predicted 1567 genes -> pred_g9_t11.gff3 (16S anti-SD anchor: AGGAGGTGATCCAG)
+NC_001224.1: 85779 bp, predicted 55 genes -> pred_g10_t3.gff3 (16S anti-SD anchor: none)
+NC_005089.1: 16299 bp, predicted 14 genes -> pred_g11_t2.gff3 (16S anti-SD anchor: AACCTTCTCTAGGT)
+
+a9cd1a50e557505b32344697e82dc6488b03a38cd59fafed219b87c2b0d900a6  pred_g10_t3.gff3
+17e20212d631a4c908e75cb89074c666b334efe869ac8dacb3077c234bdc8639  pred_g11_t2.gff3
+1fcd5ea1be06e0e0662387ef62f3b07e3ebc05a579666acec6831f49ac4ccbc5  pred_g2_t11.gff3
+13e18ffa2deb6bc2e2d5869ab422a0c1925226d679b8e26a493035a27d72d054  pred_g3_t11.gff3
+07905ba1bbfcc449c81f902684bec8383ce58a72556676caa9f68c1fd3d63a63  pred_g4_t11.gff3
+a2e3459b85a07873d685266262dde0b066c5e7a7f98d946f25fc4882f4bfb764  pred_g5_t11.gff3
+c881833412ca2a7f87c5d0eacb0bb799a0587ab502436ffc6f3a7faa47e1c578  pred_g6_t11.gff3
+fa6c04ad36b4a59f8f4bef6a628bd65efbe81df072cd70b35b84429d5a913b41  pred_g6_t4.gff3
+ca962fbf08b34389c6f1abdd5f00b9549bd3a0b10e3b74815b3a24ef94db3088  pred_g7_t11.gff3
+a0f6c833e4ec5c3457e947527d22127bcf0c823a1a7fad0e40cc4fb4cd01f587  pred_g8_t11.gff3
+efa76d1580f41fda2b30037dec7f1e590bcb8a8845ea6cc338841f305a4b0575  pred_g9_t11.gff3

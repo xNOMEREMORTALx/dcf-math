@@ -1,0 +1,12 @@
+PRE-REGISTRATION L2949 (leads N8, G3). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026. Frozen before the runs below.
+N8 (x vs x^2). For normal x, the digits of x^2 are not a function of the digits of x at the same position (x^2 mod 1 depends on all of x),
+   so no Lambda-type excess is expected: shares should be 1/10. Exception: algebraic relations (phi^2 = phi + 1 has identical decimals).
+X1 pi vs pi^2, e vs e^2, ln2 vs (ln2)^2, sqrt3 vs ... (use pi^3 too): pi vs pi^2, pi vs pi^3, e vs e^2, ln 2 vs (ln 2)^2: each share within
+   3 sd (sd = 0.0003) of 1/10 on the first 10^6 decimals.
+X2 phi vs phi^2: share exactly 1 (identical decimals).
+G3 (benchmark). Genomes: cars (Carsonella), thth (Thermus), bper (B. pertussis), mmyc (M. mycoides, table 4), 10FY... (H. pylori), sfle (Shigella).
+   Tools: dcf_genefinder_mobile v2.24 (auto) and pyrodigal 3.7.1 (single mode, correct table). One grader for both:
+   found = annotated single-part CDS overlapped >= 50% of its length by a same-strand prediction; correct = prediction overlapped >= 50% of
+   its own length by a same-strand annotated CDS.
+B1 pyrodigal's "correct" >= ours in at least 5 of 6 genomes.
+B2 our "found" is within 10 percentage points of pyrodigal's in at least 4 of 6 genomes.

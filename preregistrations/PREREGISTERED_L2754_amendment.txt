@@ -1,0 +1,7 @@
+L2754 amendment to L2746, frozen 2026-10-31 BEFORE any of Thermotoga NC_000853, Aquifex NC_000918, Pyrococcus NC_003413, M. jannaschii NC_000909 were received.
+Script unchanged: frozen_L2746_L2748.py (70e590a8...80e0). Original H1-H3 remain on record and will be reported.
+PRIMARY criterion added: a genome's helical period counts as MEASURED only if peak strength / codon-shuffle null strength >= 1.10.
+H4 at least 3 of the 4 thermophiles have a MEASURED period (ratio >= 1.10).
+H5 every MEASURED thermophile period is <= 10.5 bp.
+If H4 fails, the thermophile helical-period lead is retired as untestable with this spectrum, regardless of H1/H2.
+Reference (development, 11 mesophile/other bacteria on hand): only C. jejuni (1.14) and H. influenzae (1.12) are MEASURED; Thermus HB8 is not (1.02).

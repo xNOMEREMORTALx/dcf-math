@@ -1,0 +1,7 @@
+L2796 pre-registration, Gary NOMEREMORTAL Mason, DCF, frozen 2026-11-02 before any A-tract statistic was computed.
+Question: why is Rickettsia (GC 0.29) flat on the helical spectrum (ratio 1.006) while other AT-rich genomes clear 1.10?
+A-tract = maximal run of >=4 A or >=4 T (A4+, T4+), center = run midpoint. Pairs = all ordered pairs of centers 3..30 bp apart.
+Phasing excess E = fraction of pairs with spacing in [10,11] (floor of distance) / same fraction in a null where each 1000-nt block is
+mononucleotide-shuffled (seed 2796), whole genome.
+A1 Rickettsia has the lowest E of the four genomes with GC < 0.35 (C. jejuni, M. jannaschii, M. genitalium, Rickettsia). Chance 25%.
+A2 Across the 18 L2793 genomes, Spearman rho(E, helix ratio from L2793) >= 0.5.

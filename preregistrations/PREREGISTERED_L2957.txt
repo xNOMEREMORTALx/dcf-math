@@ -1,0 +1,14 @@
+PRE-REGISTRATION L2957 ("pursue ALL leads"). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026. Frozen before the runs below.
+A. Blind: Arabidopsis thaliana mitochondrion NC_037304 (367,808 bp; LOCUS line read only). Gene finder v2.24 auto; pyrodigal (meta mode);
+   grader as L2949/L2953. Plant mitochondria: standard code, ~33 protein genes in 368 kb, introns/trans-splicing, C->U RNA editing.
+A1 The stop set called matches the annotation (standard code: TAA, TAG, TGA stops; AGR sense).
+A2 Sensitivity found >= 60% (single-part CDS only, as graded).
+A3 Precision is LOW: correct <= 50% (a large, mostly non-coding genome yields many spurious ORFs).
+G6 (code rule for tiny AT-rich genomes, development check). Proposed rule: genome < 300 kb and GC < 0.25 and length ratio > 1.45 -> TGA = Trp.
+   Development genomes meeting the size/GC condition: Carsonella (true code 11) and Zinderia (true 4).
+G6a Applying the rule leaves both development calls correct (Carsonella ratio <= 1.45; Zinderia stays/becomes 4).
+N9 (silver ratio, delta = 1 + sqrt 2). delta^n = P_n delta + P_(n-1) (Pell numbers), so decimals of delta^n are those of P_n * frac(delta).
+   Predicted share of equal digits of delta and delta^n = lambda_10(P_n); for delta^-n: odd n -> lambda(P_n) [delta^-n = (-1)^n(P_(n+1)... ) to be
+   derived in the script, complement law for the complemented parity].
+N9a For n = 2..9 (P_n = 2, 5, 12, 29, 70, 169, 408, 985), delta vs delta^n on 10^6 decimals: every share within 0.0015 of lambda(P_n)
+    (e.g. delta^3 = 5 delta + 2: 3/25; delta^5 = 29 delta + 12: 3/29 = 0.1034).

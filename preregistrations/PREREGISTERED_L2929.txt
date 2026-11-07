@@ -1,0 +1,11 @@
+PRE-REGISTRATION L2929 (leads L2926, L2927, L2928). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026. Frozen before the runs below.
+Golden-angle points theta_n = n/phi^2 turns; "records toward beta" as in L2925 (n <= 10^6, 60-digit precision).
+Derivation made now: F_t/phi^2 = F_{t-2} + psi^t (psi = -1/phi). If m | F_t, then n = F_t/m lands within |psi|^t/m of the direction
+(F_{t-2} mod m)/m.  m = 4: 4 | F_t iff 6 | t, and F_{t-2} = 3 (mod 4) always, so n = F_{6k}/4 = 2, 36, 646, 11592, 208010 approach 3/4.
+m = 5: 5 | F_t iff 5 | t; F_{5k-2} mod 5 cycles 2, 1, 3, 4, so n = F_{5k}/5 = 1, 11, 122, 1353, 15005, 166408 approach 2/5, 1/5, 3/5, 4/5, 2/5, 1/5.
+Q1  Every n = F_{6k}/4 <= 10^6 (k >= 2: 36, 646, 11592, 208010) is a record approach toward 3/4.
+Q2  Every n = F_{5k}/5 <= 10^6 (k >= 2) is a record approach toward its predicted pentagon direction.
+Q3  (L2927) Every record approach toward 1/5 and toward 2/5 (n <= 10^6) satisfies 5n = +-F_a +- F_b for some Fibonacci numbers (at most two terms).
+Q4  (L2928) phi^n = F_n phi + F_(n-1), so the fractional digits of phi^n are those of F_n * frac(phi). Theorem Lambda then predicts that the
+    first 10^6 decimals of phi and phi^n agree at share lambda_10(F_n). For n = 3..12 (F_n = 2, 3, 5, 8, 13, 21, 34, 55, 89, 144) every share
+    lies within 0.0015 of lambda_10(F_n)  (e.g. phi^8: 21 phi + 13, lambda = 1/7).

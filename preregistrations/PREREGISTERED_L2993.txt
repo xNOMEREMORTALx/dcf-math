@@ -1,0 +1,8 @@
+PRE-REGISTRATION L2993 N17 (other bases). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen before any digit is computed.
+lambda_b(c) = (c - 1 + gcd(c - 1, b))/(b c); predictions from phone 6.05 power_share(rel, 1, n, b). First 10^6 base-b digits. Tolerance 0.002.
+Base 3 (chance 1/3):
+ W1 cbrt2 vs x^7 = 4x: 1/2.   W2 cbrt2 vs x^13 = 16x: 3/8.   W3 sqrt2 vs x^5 = 4x: 1/2; sqrt2 vs x^9 = 16x: 3/8.
+ W4 cbrt2 vs x^n for n = 2, 4, 10 and sqrt2 vs x^3, x^7: 1/3.
+Base 5 (chance 1/5):
+ W5 cbrt2 vs x^13 = 16x: 1/4; sqrt2 vs x^9 = 16x: 1/4.   W6 sqrt3 vs x^9 = 81x: 17/81 = 0.20988 (> 0.2035).
+ W7 cbrt2 vs x^4, x^7, x^10 and sqrt3 vs x^3, x^5: 1/5.

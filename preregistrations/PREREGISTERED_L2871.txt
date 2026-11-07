@@ -1,0 +1,18 @@
+PRE-REGISTRATION L2871 (leads L2869 and L2867). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before the runs below.
+
+PART 1 (L2869: does the free mod-63 check catch deletions and insertions?)
+Strands: full base-4 periods of 1/p, primes 101 < p < 5000 with 3 | T (as in L2866), 20 random errors each, seed 2871.
+Analytic expectation (derived before simulating): if letter d is deleted with suffix value B after it, the shortened number
+is = 4^{-1}(3B - d*4^k) mod 63, so it can pass only if d is A (0) or T (3), and then with chance about 1/21.
+E1  pure deletion (strand becomes T-1 long): every deletion of a C or G is detected (100%).
+E2  pure deletion, all letters: detection between 96.0% and 99.0% (expected about 1 - 1/42 = 97.6%).
+E3  fixed-length read window (deletion pulls the next letter of the following period into the window): detection 97.5%-99.2% (1 - 1/63 = 98.4%).
+E4  fixed-length window with one insertion (last letter pushed out): detection 97.5%-99.2%.
+
+PART 2 (L2867: does the codon-phase statistic predict gene-finder accuracy?)  NOT blind: both quantities exist from earlier rounds,
+but they have never been compared. Genomes: the 29 with stored v2.17 runs (L2831/ratio), correct-table run (table 4 for
+Hodgkinia, M. florum, M. mycoides, Ureaplasma, M. pneumoniae, M. genitalium; table 11 otherwise). S = median codon-phase statistic
+over annotated genes >= 300 nt (L2866 definition, recomputed here for all 29).
+G1  Spearman rho(S, "predictions correct") > 0.3.
+G2  Spearman rho(S, "genes found") > 0.3.
+G3  In the regression accuracy ~ GC + log S, the log S coefficient is positive.

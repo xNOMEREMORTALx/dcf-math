@@ -1,0 +1,16 @@
+L2752 + L2797, Gary NOMEREMORTAL Mason, DCF. Written 2026-11-03 BEFORE the opa script or any period-3 statistic was run on these files.
+Only LOCUS/DEFINITION lines of the files had been read. (Gene-finder runs on nlac/sodl/upar were started; their outputs not yet read.)
+
+L2752 (ruler frozen in L2748_report.md; threshold stated now, same as L2748 O3). Genome: N. lactamica 020-06 NC_014752.
+Script: frozen_L2746_L2748.py 'opa' mode (70e590a8...80e0), rule B = PRIMARY. Scope: unit-5 tracts at loci whose CDS product says
+"opacity" (or a "hypothetical protein" leader directly upstream of an opacity CDS body), within 300 nt.
+Ruler: ON = an ATG-start CDS spans the repeat; OFF = repeat in a separate leader CDS, or body starts after the repeat on a non-ATG start,
+or the CDS is flagged pseudo; non-ATG starts spanning the repeat = ambiguous, excluded.
+N1 rule B agrees with the ruler at >= 80% of unambiguous opa tracts (graded only if >= 4 such tracts; else "not graded").
+
+L2797 (frozen in L2795_report.md, restated). Human beta-globin cluster (chr11 5,225,000-5,300,000) + alpha-globin cluster
+(chr16 140,000-180,000). Introns = gaps between consecutive exons of each protein-coding mRNA/CDS join (one transcript per gene,
+the longest CDS), introns >= 100 nt. Statistic and null exactly as L2789 (seed 2797).
+H1 >= 70% of introns have p > 0.5.
+H2 0% of introns have p < 0.05.
+H3 (positive control) >= 70% of CDS exon segments >= 90 nt have p < 0.05.

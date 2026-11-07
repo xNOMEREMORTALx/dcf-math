@@ -1,0 +1,10 @@
+PRE-REGISTRATION L2917 (leads L2915, L2916, L2910). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before the computations below.
+T1 (L2915, mobile-DNA words in islands). Genomes: the 29 with stored island maps (L2831/ratio, correct-table runs; islands were called
+   label-free from per-gene fit). Multi-copy genes = annotated CDS whose exact sequence occurs >= 3 times in the same chromosome.
+   Prediction: pooled, the share of multi-copy genes whose midpoint lies inside an island is at least 2x the share of all genes.
+T2 (L2916, helical rhythm vs GC). NOT blind: the per-genome periods/amplitudes of L2913 were seen; their relation to GC was not computed.
+   Strength = amplitude / max null amplitude (partB.json). Prediction: Spearman rho(strength, GC) < -0.4 over the 31 genomes.
+T3 (L2910, codon usage). Frame-0 codon counts (64 codons) of: (a) the 79 reciprocal RNA strands of L2909; (b) all annotated genes >= 300 nt
+   pooled per genome (31 genomes); (c) one shuffle of each reciprocal strand. Statistic: chi-square/df of codon counts against the
+   expectation from the strand's own base composition (product of position-free base frequencies).
+   Predictions: median chi2/df of reciprocal strands < 0.8; of shuffles 0.8-1.25; every genome > 5.

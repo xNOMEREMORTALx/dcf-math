@@ -1,0 +1,13 @@
+PRE-REGISTRATION L2945 (lead N6: blind test of the corrected shift law of L2941). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026.
+Frozen before any digit of e or sqrt 2 is compared. Law: x vs c x + t shares digits at the average, over the orbit {10^(n-1) t}, of the
+L2941 formula (phone 6.03 affine_share). Predicted shares (computed by affine_share, listed in predictions.txt):
+1 1/9 0 0.0
+1 1/90 0 0.0
+2 2/7 1/10 0.1
+11 1/9 1/11 0.09090909090909091
+11 5/13 1/11 0.09090909090909091
+3 1/7 2/21 0.09523809523809523
+6 2/7 23/252 0.09126984126984126
+11 1/11 12/121 0.09917355371900827
+S1  For x = e and x = sqrt 2 (first 10^6 decimals, guarded rule), each of the 8 (c, t) cases is within 0.0015 of its prediction (16 cases).
+S2  The two most extreme predictions hold: x vs x + 1/9 shares exactly 0 digits... (prediction listed), and x vs 11x + 1/11 is listed above.

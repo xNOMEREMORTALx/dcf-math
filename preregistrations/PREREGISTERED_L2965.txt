@@ -1,0 +1,11 @@
+PRE-REGISTRATION L2965 (blind set 2). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026. Files identified by LOCUS line only; frozen before any run.
+Genomes: 1 CP003543 Carsonella HC 166 kb; 2 CP003541 Carsonella CE 163 kb; 3 NC_013123 Sulcia SMDSEM 277 kb; 4 CP003263 Uzinura 263 kb;
+5 NC_008513 Buchnera Cc 416 kb; 6 NC_000908 M. genitalium 580 kb; 7 NC_003888 Streptomyces coelicolor 8.67 Mb; 8 NC_001263 Deinococcus chr1 2.65 Mb.
+Tools: gene finder v2.25 (auto code), pyrodigal 3.7.1 single mode with the true table from the annotation (or meta if it fails); grader L2953.
+True codes (expected from the literature): 4 for M. genitalium, 11 for the other seven; graded against the annotation's transl_table.
+C1 Code detector correct in all 8.
+C2 The v2.25 tiny-AT rule never flips a standard-code genome: genomes 1-4 (if < 300 kb, GC < 0.25) all called 11.
+C3 Genomes 1-6: DCF correct >= 85% in each.
+C4 Genomes 1-6: DCF found >= 80% in each.
+C5 GC-rich 7 and 8: DCF found < 85% in both AND Prodigal finds >= 10 points more in both (weakness persists).
+C6 GC-rich 7 and 8: DCF correct >= 85% in both.

@@ -1,0 +1,12 @@
+PRE-REGISTRATION L2969 (lead G4, held-out test). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026. Frozen before the fix is run on the held-out genomes.
+Fix (developed on Micrococcus, Thermus, B. pertussis only), active only when genome GC > 0.55:
+ (1) each stop-to-stop ORF is scored from its best start codon (ATG/GTG/TTG; max suffix sum of the period-3 log-likelihood ratio)
+     instead of over the whole ORF, and trimmed to that start; (2) minimum ORF length 180 nt instead of 300.
+Development (v2.25 -> fix): Micrococcus found 74.3 -> 94.2%, correct 91.1 -> 99.0%; Thermus 80.3 -> 96.2 / 95.6 -> 99.2;
+ B. pertussis 80.9 -> 95.2 / 91.3 -> 97.8.
+Held out (graded in L2965 with v2.25, never used for tuning): Streptomyces coelicolor NC_003888 (v2.25: 74.5 / 91.8),
+ Deinococcus radiodurans chr1 NC_001263 (82.9 / 94.6). Prodigal: 98.1 / 98.8 and 98.2 / 98.9.
+H1 Streptomyces: found >= 88% and correct >= 90%.
+H2 Deinococcus: found >= 90% and correct >= 93%.
+H3 Gap to Prodigal in genes found < 6 points in both.
+H4 Genomes with GC <= 0.55 are unaffected: Carsonella HC (CP003543) and E. coli K-12 give byte-identical predictions to v2.25.

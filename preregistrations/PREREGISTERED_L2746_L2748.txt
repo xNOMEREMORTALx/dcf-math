@@ -1,0 +1,20 @@
+L2746 + L2748 pre-registration, written 2026-10-30 BEFORE any of the test genomes were received (NCBI is unreachable from the workspace;
+files must come from Gary). Tool: dcf_genefinder_mobile.py v2.11, SHA-256 1c18cab07eac079955dd68596ff3d8e5e0ad334903ffe14a7f38844afb2c299b, unchanged.
+Test script: frozen_L2746_L2748.py (hash recorded in L2746_L2748_frozen.md). No change to either file before grading.
+
+L2746 helical period (AA/TT step spectrum, 4096-nt windows, peak in 8.5-12.5 bp; same method as L2745 Test C).
+Test genomes: Thermotoga maritima MSB8 NC_000853; Aquifex aeolicus VF5 NC_000918; Pyrococcus furiosus DSM 3638 NC_003413; M. jannaschii NC_000909.
+Disclosure: L2745 already contradicts its own proposed mesophile cut-off (B. subtilis 10.61 bp < 10.8), so no mesophile cut-off is predicted.
+H1 each of the four thermophiles: peak period <= 10.5 bp.
+H2 mean peak period of the four <= 10.6 bp (the 7 non-thermophiles of L2745 average 11.13 bp).
+H3 each of the four: peak strength > its codon-shuffle null strength.
+
+L2748 Opa / pentanucleotide ON-OFF (N. gonorrhoeae FA 1090, NC_002946).
+Gate (development, not blind): the script must first be run on N. meningitidis MC58 (NC_003112) and rule B must call OFF at the
+unit-5 tracts of NMB0442, NMB0926 and NMB1465. If the gate fails, the blind run is reported as not performed.
+Primary rule = B (frame match). Rule A (as written in L2744) is reported alongside, not graded.
+O1 FA 1090: repeat scan reports a unit-5 class with >=5 tracts.
+O2 FA 1090: repeat scan reports a poly-G/C class with >=5 tracts.
+O3 FA 1090: for unit-5 tracts lying in or <=300 nt upstream of an annotated CDS/gene, rule B's call agrees with the annotation
+   (pseudo -> OFF, intact -> ON) for >=80% of tracts (graded only if >=4 such tracts).
+O4 FA 1090: genetic code auto = 11; genes found >=75% and correct >=85%.

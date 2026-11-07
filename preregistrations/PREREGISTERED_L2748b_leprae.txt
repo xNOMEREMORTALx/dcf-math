@@ -1,0 +1,6 @@
+L2748b add-on, written 2026-10-31 after reading ONLY the LOCUS/DEFINITION line of NC_002677 (M. leprae TN). Tool v2.11 unchanged (1c18cab0...299b).
+M1 auto genetic code = 11.
+M2 frameshift flags fall at annotated pseudogenes at >=3x their genome coverage (if pseudogenes annotated).
+M3 predicted gene count is BELOW 75% of annotated single-part CDS + pseudo genes combined (decayed genome: many pseudogenes not called).
+M4 no SSR repeat class (poly-A/T, poly-G/C, unit 2, 4) with >=5 tracts.
+M5 genes found >=75% and predictions correct >=85% against non-pseudo CDS.

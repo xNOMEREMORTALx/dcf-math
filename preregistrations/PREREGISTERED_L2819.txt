@@ -1,0 +1,6 @@
+L2819 addendum, frozen 2026-11-03 after v2.19 was built on Hodgkinia (development) and BEFORE any Tremblaya file is received.
+v2.19 = v2.18 + rescue: if the reliability warning fires and GC > 0.55, retry with the second-codon-position seed under tables 11 and 4,
+adopt the single table whose median predicted gene >= 400 nt. Dev: Hodgkinia rescued to table 4, 81.1% correct (from 48.1%); no other
+genome triggers it, outputs byte-identical.
+F4 Tremblaya princeps PCIT NC_015736: if the v2.18 warning fires, v2.19's final code call matches the file's majority /transl_table AND
+   predictions correct >= 70%. If the warning does not fire, F4 is not graded (rescue not exercised).

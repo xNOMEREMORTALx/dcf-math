@@ -1,0 +1,10 @@
+PRE-REGISTRATION L2921 ("pursue all leads", batch A). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before the computations below.
+E1 (L2918, repeat flag) Gene finder v2.23 predictions on B. pertussis (bper.gb). A predicted gene is "repeat-flagged" if its exact sequence
+   occurs >= 3 times among the predicted genes. Annotated multi-copy genes = annotated CDS with >= 3 identical copies.
+   Sensitivity: >= 80% of annotated multi-copy genes overlap (>= 50% of their length) a repeat-flagged prediction.
+   Precision: >= 80% of repeat-flagged predictions overlap an annotated multi-copy gene.
+E2 (L2919) EXPLORATORY ONLY: the 31 genome strengths of L2913 were already seen, so genome size vs rhythm is reported, not graded.
+E3 (L2902, Champernowne) The Lambda-test statistic Q (L2901 null covariance) for Champernowne's constant increases with depth:
+   Q(10^4) < Q(10^5) < Q(10^6) (the bias decays like 1/log N, the noise like 1/sqrt N).
+E4 (L2920, frame structure) On the 79 reciprocal strands of L2909: the variance/mean ratio of 3-letter word counts is < 0.7 when words are
+   counted at every position (all frames), and >= 0.85 when counted in one frame only (positions 1, 4, 7, ...).

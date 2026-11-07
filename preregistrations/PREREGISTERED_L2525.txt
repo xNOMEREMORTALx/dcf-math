@@ -1,0 +1,7 @@
+L2525 matched-null test, Gary NOMEREMORTAL Mason, DCF. Frozen 2026-11-03 before running.
+For n = 2..20000 take the repetend of 1/n (strict period after the pre-period), canonicalised as its lexicographically least rotation.
+"Repeat" = that canonical repetend already occurred for some smaller n.
+Groups: G25 = n divisible by 2 or 5; Gp = n divisible by p, coprime to 10, for p = 3, 7, 11, 13 (multiples of p, not of 2 or 5).
+R1 repeat fraction in G25 >= 0.5.
+R2 repeat fraction in each Gp (p = 3, 7, 11, 13) <= 0.02.
+R3 the 7 group is not special: its repeat fraction lies within the range of the 3, 11, 13 groups +- 0.01.

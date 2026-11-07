@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3009 (S. epidermidis replacement). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen BEFORE the file is downloaded.
+NC_004461 (ATCC 12228) failed to download twice; replacement strain RP62A, NC_002976 (not in seen_accessions.txt).
+Tools: v2.29 (SHA 7dbe63dd...e27f) vs v2.28 (6945c10e...ff32); grader dcf_grade.py. Targets carried from the frozen L3001 set:
+F1 genetic code 11.  F2 v2.29 exact starts >= v2.28.  F3 v2.29 exact starts >= 70%.  F4 found and correct each >= v2.28 - 0.5.
+AMENDMENT (still before download): candidate v2.30 (SHA 6b26c032...5022, learned window 30 nt instead of 20; development: Sulfolobus 72.3 -> 75.7,
+Pyrococcus 84.2 -> 85.7, Bacteroides 70.2 -> 71.7, E. coli 85.4 -> 86.1). F5 v2.30 exact starts >= v2.29 on S. epidermidis RP62A,
+with found and correct each >= v2.29 - 0.5.

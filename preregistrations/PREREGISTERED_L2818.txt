@@ -1,0 +1,8 @@
+L2818 pre-registration, Gary NOMEREMORTAL Mason, DCF. Frozen 2026-11-03 before v2.18 exists and before any Tremblaya file is received.
+Development (sig.txt + length table, 28 genomes): median predicted gene length: Hodgkinia 246 nt; all 27 others 543-927 nt (Sodalis 543).
+RULE F (v2.18, warning only; gene calls and code call unchanged): if the median length of the tool's own predicted genes is < 400 nt,
+print "RELIABILITY WARNING: gene model likely failed; code call and gene calls not trustworthy".
+F1 (dev check) v2.18 prints the warning on Hodgkinia and on none of the other 27 development genomes; gene-call files byte-identical to v2.17.
+Blind, Candidatus Tremblaya princeps PCIT NC_015736 (GC ~0.59, ~139 kb, low-contrast GC-rich symbiont):
+F2 the warning fires if and only if predictions-correct < 70% (the warning is honest either way).
+F3 if the warning does not fire, the code call matches the file's majority /transl_table.

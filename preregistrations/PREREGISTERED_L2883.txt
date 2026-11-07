@@ -1,0 +1,12 @@
+PRE-REGISTRATION L2883 (lead L2880: ratio-free reciprocal address libraries). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026.
+Frozen before any library distance is computed. (Seen beforehand, for p = 1997 only: the agreement of word(1) with word(m)
+for every m; the high ones are m = small integers c and 1/c and fractions like 3/7. That is what defines the exclusion set.)
+Primes: the first 20 primes 1000 < p < 3000 with base-4 index 2 (T = (p-1)/2).
+word(a) = base-4 period of a/p, read from its first digit (fixed alignment, no rotation). Library size N = 64.
+Exclusion set B(p) = { r * s^-1 mod p : 1 <= r, s <= 15, gcd(r, s) = 1, r/s != 1 }, plus its negatives.
+Ratio-free library: go through a = 1, 2, 3, ... and accept a if for every accepted b, a * b^-1 mod p is not in B(p); stop at 64.
+Naive library: a = 1, ..., 64. Random libraries: 64 uniformly random words of length T, 20 per prime, seed 2883.
+d_min = least Hamming distance between two words of the library (fixed alignment).
+L1  ratio-free d_min >= median d_min of the random libraries, for at least 70% of the primes.
+L2  naive d_min < minimum d_min of the random libraries, for at least 90% of the primes.
+L3  the largest pair agreement inside every ratio-free library is <= 0.33.

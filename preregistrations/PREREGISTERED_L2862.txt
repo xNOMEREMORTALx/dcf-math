@@ -1,0 +1,19 @@
+PRE-REGISTRATION L2862: do DCF key numbers coincide with textbook biology/neurology integers more often than matched random numbers?
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 4 Nov 2026. Both lists written and frozen before any overlap is computed.
+
+F (framework numbers named in Gary's message or the project core, 23):
+37 47 59 89 108 109 117 126 127 135 137 163 203 207 248 299 401 459 1197 1231 2701 7659 9697
+
+B (textbook integers, genetics / cell biology / neurology / physiology; as usually quoted, listed once each):
+3 4 6 7 8 9 10 11 12 13 20 22 23 25 31 32 33 34 37 38 40 46 55 61 64 70 72 76 86 120 141 146 147 153 180 206 507 574 1542 2904 16569
+(sources of each: bases 4; codon 3; codons 64; sense 61; amino acids 20; chromosomes 46, pairs 23, autosome pairs 22;
+ human mtDNA genes 37, proteins 13, tRNAs 22, length 16569; B-DNA pitch 34 A, diameter 20 A, ~10 bp/turn;
+ beta-globin 146 aa, alpha 141, myoglobin 153, Hb tetramer 574; tRNA 76 nt; 16S 1542 nt, 23S 2904 nt, 5S 120 nt;
+ nucleosome 147 bp, octamer 8; cranial nerves 12, spinal nerve pairs 31, vertebrae 33, bones 206, teeth 32;
+ 86 billion neurons; resting -70 mV, threshold -55 mV, spike peak +40 mV, gamma 40 Hz; 6 cortical layers;
+ GPCR 7 helices; axoneme 9+2 (9, 11); 13 protofilaments, microtubule 25 nm; body temperature 37 C; heart 72 bpm;
+ ATP 507 Da, 38 ATP/glucose (classic), glucose 180 Da, 6 carbons.)
+
+Statistic: M0 = number of F members equal to some member of B; M1 = number within +-1 (Gary's own 108~109, 126~127 rule).
+Null: 100,000 random F' where each f is replaced by an integer drawn uniformly from [round(f/1.3), round(f*1.3)].
+Prediction P1: M0 is not above the null's 95th percentile. P2: M1 is not above the null's 95th percentile.

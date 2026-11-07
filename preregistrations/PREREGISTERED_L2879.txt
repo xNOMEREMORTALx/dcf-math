@@ -1,0 +1,10 @@
+PRE-REGISTRATION L2879 (lead L2876). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before any distance is computed.
+Codes: for each prime 400 < p < 2000 whose base-4 index is 2 (T = (p-1)/2), C_p = {base-4 period of a/p : 1 <= a < p}
+(p - 1 words of length T: all rotations of 1/p and of g/p, g a quadratic non-residue). Hamming distance = number of letters differing.
+d_min(C_p) is computed exactly with FFT correlations over all shifts.
+Baselines:
+ (i) random cyclic codes: two uniformly random strings of length T plus all their rotations (same size, same cyclic structure), 20 per p, seed 2879;
+ (ii) fully random codes of the same size: Poisson approximation, median d_min = largest d with C(N,2)*P(Bin(T,3/4) < d) <= ln 2.
+D1  d_min(C_p) exceeds the maximum over the 20 random cyclic codes for at least 90% of the primes.
+D2  d_min(C_p) exceeds the median d_min of a fully random code of the same size for at least 90% of the primes.
+D3  the deficit (3T/4 - d_min)/(sqrt(p) ln p) stays below 1 for every prime tested.

@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3025 L2936h/i. Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen before the survey. alpha = sqrt3 + sqrt2, w = alpha^2.
+Derivation: p = 11 mod 24: alpha^(p+1) = 1 and p+1 = 4m (m odd); w has odd order <=> alpha^((p+1)/2) = 1 (alpha a square in the cyclic group of order p+1).
+p = 1 mod 24: alpha in F_p*, p-1 = 2^s m (s >= 3); w has odd order <=> alpha^m = +-1, probability 1/2^(s-1); averaged over s: sum (1/2^(s-2))(1/2^(s-1)) = 1/6.
+H1 p = 11 mod 24 (p < 10^5): "divides a grid side" <=> alpha^((p+1)/2) = 1 in F_p(sqrt2) ... for every prime (computed in F_(p^2)).
+H2 p = 1 mod 24, p < 10^5: fraction dividing a grid side at s = v2(p-1) = 3, 4, 5 within 0.03 of 1/4, 1/8, 1/16 (s = 5 tolerance 0.03 too).
+H3 Prime star numbers (6n(n-1)+1) that are = 13 mod 24, below 10^6: first grid-side index (2k+1) equals (p+1)/2 in at least 80%.

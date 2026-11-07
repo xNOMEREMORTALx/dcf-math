@@ -1,0 +1,10 @@
+PRE-REGISTRATION L2896 (leads L2894, L2890, L2895). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before the runs below.
+Symmetric form (derived now): with tau uniform, the pair (x, (r/s)x) has the law of ({s tau}, {r tau}), so
+  lambda_b(r/s) = #{ j in [0, b r s) : floor(j/r) = floor(j/s) (mod b) } / (b r s).
+Corollary for normal numbers (proved for integer c by equidistribution of b^n x mod 1, Wall 1949):
+  if x is normal in base b, the digits of x and of c*x (after the point) coincide with frequency exactly lambda_b(c).
+M1  (exact) For every base b = 3..16 and every reduced r/s != 1 with 1 <= r, s <= 40, lambda_b(r/s) <= 2/(b+1), with equality only at
+    r/s = b+1 and 1/(b+1).
+M2  For x in {pi, e, sqrt 2, ln 2} and c in {2, 3, 6, 11, 21}, the share of the first 100,000 decimal digits where x and c*x agree is
+    within 0.005 of lambda_10(c) (20 cases; all must pass).
+M3  ln 2 and 11*ln 2: the same share is closer to 2/11 than to 1/10 (single most striking case; included in M2 but graded separately).

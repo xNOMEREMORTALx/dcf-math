@@ -1,0 +1,6 @@
+PRE-REGISTRATION L2905 (Gary's numbers 11, 31, 41, 131, 671). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before the runs below.
+Observation made before freezing (arithmetic only): all five end in 1, i.e. c = 1 (mod 10), the top class of Theorem Lambda, so
+  lambda_10(c) = (c + 9)/(10 c):  11 -> 2/11, 31 -> 4/31, 41 -> 5/41, 131 -> 14/131, 671 -> 68/671.
+P1  First 100,000 decimals of pi: the share of equal digits of pi and c*pi is within 0.004 of (c + 9)/(10c) for c = 31, 41, 131, 671 (4 cases, all must pass).
+P2  Full-reptend primes 1000 < p < 3000: digits of 1/p and c/p agree within 10c of (c + 9)(p - 1)/(10c), for c = 31, 41, 131 (every case).
+P3  Ordering: on the same primes, the mean agreement is ordered 11 > 31 > 41 > 131 (as (c+9)/(10c) decreases in c).

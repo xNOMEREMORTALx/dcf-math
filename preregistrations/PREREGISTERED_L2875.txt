@@ -1,0 +1,13 @@
+PRE-REGISTRATION L2875 (lead L2872). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before any simulation below.
+Tags: full base-4 periods of 1/p, rotated to start at the first G or T (L2871), primes 101 < p < 20000 with 9 | T (base-4 period),
+p not dividing 4^9 - 1 = 262143 = 3^3*7*19*73. 20 random errors of each kind per tag, seed 2875.
+Check M9: the tag, read as a base-4 number, is divisible by 262143 (it must be, by the lattice lemma with q = 1, 3, 9).
+Check FULL: p * N = 0 mod (4^T - 1), i.e. the tag is exactly the period of some a/p (needs p and T known).
+Analytic expectations, made now: a deletion escapes M9 only if the lost letter is A or T, then with chance ~ 1/87381;
+two opposite substitutions 9 places apart cancel mod 262143 (expected miss ~ 2.3%, 1/9 of the 6.9% seen mod 63).
+F1  M9 catches every single substitution (100%).
+F2  M9, single deletion (pure and fixed-window together): at most 2 misses in all trials.
+F3  M9, two substitutions: detection 97.0% - 98.5%.
+F4  FULL catches 100% of single and double substitutions and of fixed-window deletions and insertions.
+Exploratory (not graded): minimum Hamming distance between the periods of a/p and b/p (all a != b), for small p;
+literature: these sets are cyclic AN codes (Mandelbaum-Barrows when the base is a primitive root, which 4 never is).

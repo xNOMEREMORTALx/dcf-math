@@ -1,0 +1,15 @@
+PRE-REGISTRATION L2953: Gary's blind genome set (zip received 5 Nov 2026). Gary NOMEREMORTAL Mason, DCF. Frozen after reading ONLY the LOCUS
+lines (accession, length) and before running any tool or reading any annotation.
+Files: g1 NC_012803 (Micrococcus luteus), g2 NC_003450 (Corynebacterium glutamicum), g3 NC_010118 (Sulcia muelleri), g4 NC_021919 (Nasuia),
+g5 NC_005061 (Blochmannia floridanus), g6 = g7 NC_005072 (Prochlorococcus MED4, duplicate, md5 identical), g8 NC_007205 (Pelagibacter ubique),
+g9 NC_000913 (E. coli K-12: seen in development, reported but NOT graded). The requested Arabidopsis mitochondrion was not in the zip.
+Tools: dcf_genefinder_mobile.py v2.24 (table auto); pyrodigal 3.7.1 (single mode, table from the tool's own call). Grader as in L2949:
+found = annotated single-part CDS covered >= 50% by a same-strand prediction; correct = prediction covered >= 50% by a same-strand CDS.
+BG1  The auto-detected genetic code (stop set) matches the annotation's /transl_table for all 7 unseen genomes.
+BG2  Micrococcus (high GC): found >= 75% and correct >= 90%.
+BG3  Corynebacterium: found >= 80% and correct >= 90%.
+BG4  Sulcia, Nasuia, Blochmannia, Prochlorococcus, Pelagibacter: correct >= 85% in each.
+BG5  Micrococcus: Prodigal's found exceeds ours by at least 5 points (the high-GC gap of L2949).
+Helical rhythm (L2919; method and null exactly as L2913: AA/TT autocorrelation, best period 8-14 bp, strength = amplitude / max of 5 Markov nulls):
+R1  The three insect symbionts (Sulcia, Nasuia, Blochmannia) each have strength < 1.5.
+R2  The two free-living small genomes (Prochlorococcus, Pelagibacter) each have strength > 1.5.

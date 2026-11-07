@@ -1,0 +1,11 @@
+L2826 "Chargaff vs Midy", Gary NOMEREMORTAL Mason, DCF. Frozen 2026-11-03 before any k-mer statistic was computed.
+For a sequence s (one strand as given), k = 4, count all 256 words. For a pairing map m (rc = reverse complement, c = complement only,
+r = reverse only), asymmetry S_m = mean over words w with m(w) != w of |n(w) - n(m(w))| / (n(w) + n(m(w))) (words with zero total skipped).
+Null: same statistic on a mononucleotide shuffle of s (seed 2826). Lower S = stronger symmetry.
+Genomes: 29 bacterial/archaeal chromosomes on hand (28 development + Tremblaya); mitochondria (chicken, C. elegans, Drosophila, yeast)
+reported but not graded.
+Reciprocal strands: 1/p in base 4 (A0 C1 G2 T3), one full period, for every base-4 Midy prime 1000 < p < 5000 with period >= 1000.
+C1 every chromosome: S_rc < S_c (Chargaff's second rule beats Midy-type complement symmetry).
+C2 every chromosome: S_rc < shuffle S_rc (rc symmetry beyond what composition alone gives).
+C3 reciprocal Midy strands: S_c below its shuffle value for >= 95% of primes (Midy symmetry, by construction).
+C4 reciprocal Midy strands: S_rc within or above the shuffle 95% range (no Chargaff symmetry) for >= 80% of primes.

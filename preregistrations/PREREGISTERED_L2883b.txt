@@ -1,0 +1,7 @@
+PRE-REGISTRATION L2883b (fair re-test). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before the run.
+Reason: in L2883 the ratio-free libraries stopped at 26-36 words (the exclusion set leaves no 64 compatible numerators), so they were
+compared with 64-word random libraries: an unfair comparison. L1 of L2883 is therefore void, not passed.
+Fair test, on NEW primes: the first 20 primes 3000 < p < 6000 with base-4 index 2. Same exclusion set B(p) and greedy rule as L2883,
+no size cap (take every accepted numerator below p). Random libraries have EXACTLY the same number of words, 20 per prime, seed 28832.
+P1  ratio-free d_min >= median d_min of the size-matched random libraries, for at least 70% of the primes.
+P2  ratio-free d_min > maximum d_min of the size-matched random libraries, for at least 50% of the primes.

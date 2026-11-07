@@ -1,0 +1,11 @@
+pre-registered 2026-10-29T11:35:22Z before grading
+M. pneumoniae    true ?  | TAA -0.082(148) TAG -0.069(59) TGA 0.027(335) AGA 0.010(143) AGG 0.025(138) -> PREDICTED code 4/3
+Drosophila mito  true ?  | TAA nan(1) TAG nan(0) TGA nan(0) AGA nan(0) AGG nan(0) -> PREDICTED code 11
+S. coelicolor    true ?  | TAA -0.139(190) TAG -0.111(796) TGA -0.142(3557) AGA 0.024(469) AGG 0.054(3551) -> PREDICTED code 11
+NC_000912.1: 816394 bp, predicted 741 genes -> pred_g12_t4.gff3 (16S anti-SD anchor: AAAGGAGGTGATCC)
+NC_024511.2: 19524 bp, predicted 7 genes -> pred_g13_t11.gff3 (16S anti-SD anchor: TTTATATTAATAAT)
+  GC-rich genome (GC=0.72): seed filtered by GC frame plot -> 7842 seed ORFs
+NC_003888.3: 8667507 bp, predicted 6562 genes -> pred_g14_t11.gff3 (16S anti-SD anchor: AAAGGAGGTGATCC)
+abc65a5fbdde2f69e2b99514d3ea457b5423b1e4bf4159a5063c04da90d96c1a  pred_g12_t4.gff3
+89e7bf37acd2f3702c1729e01daedfca2e96a9f5712d41d854ad94e18bbbbff7  pred_g13_t11.gff3
+c2a8dd0bff4cfc889100d1ac259d16c627dc52e10b657f8e45a328379a5fb654  pred_g14_t11.gff3

@@ -1,0 +1,11 @@
+PRE-REGISTRATION L2909 (leads L2906 + RNA/mRNA links). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before the runs below.
+Reciprocal RNA strands: base-4 period of 1/p with A=0, C=1, G=2, U=3, for the base-4 Midy primes 1000 < p < 5000 with period >= 1000
+(the 79 strands of L2826/L2829). Each compared with 20 composition-preserving shuffles (seed 2909).
+D1  (L2906) Among primes p = 1 (mod 5) below 10^6, the share with 5 | ord_p(10) is 0.80 +- 0.01 (heuristic density 4/5:
+    5 | T exactly when 10 is not a fifth-power residue mod p).
+R1  (mRNA reading) Stop codons UAA, UAG, UGA, counted in all three frames over one period: across the 79 strands, the variance of
+    (count - 3T/64) is less than 0.8 times the same variance across their shuffles (reciprocal strands are "more even" than random).
+R2  (open reading frames) The longest stop-free stretch (any frame, in codons) of a reciprocal strand is at most the median of its
+    shuffles for at least 50% of strands (no tendency to long ORFs).
+R3  (RNA folding) Perfect hairpin stems of 6 bp (Watson-Crick plus G-U wobble), loop 3-8 nt: the reciprocal strand's count lies inside
+    its shuffles' range [min, max] for at least 90% of strands (no excess or deficit of hairpins).

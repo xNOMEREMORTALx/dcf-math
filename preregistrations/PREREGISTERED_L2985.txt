@@ -1,0 +1,7 @@
+PRE-REGISTRATION L2985 N14 (sharing powers of roots). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen before any digit is computed.
+x = m^(1/k): x^(kq+1) = m^q x shares lambda(m^q) = (m^q - 1 + gcd(m^q - 1, 10))/(10 m^q) with x; all other powers 1/10 (phone 6.05 power_share).
+Odd m: m^q - 1 is always even, so EVERY x^(kq+1) shares extra; m = 2: only when 2^q = 1 mod 5 (q = 4, 8, ...).
+First 10^6 decimals. Tolerance 0.0015.
+U1 cube root of 3: x^4 = 3x -> 2/15; x^7 = 9x -> 1/9; x^10 = 27x -> 14/135; x^13 = 81x -> 1/9; all other n in 2..14 -> 1/10.
+U2 sqrt 5: x^3 = 5x -> 3/25; x^5 = 25x -> 13/125 (measured > 0.1025, i.e. the excess is detected); even n in 2..14 -> 1/10.
+U3 sqrt 2: x^9 = 16x -> 1/8; x^3, x^5, x^7 -> 1/10.

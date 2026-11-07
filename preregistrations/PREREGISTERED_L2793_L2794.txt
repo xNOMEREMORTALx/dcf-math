@@ -1,0 +1,17 @@
+L2793 + L2794 pre-registration, Gary NOMEREMORTAL Mason, DCF, frozen 2026-11-02 before either statistic below was computed.
+
+L2793  Is the helical-period ratio (frozen_L2746_L2748.py helix_spectrum, peak strength / codon-shuffle null, seed 46) a composition meter?
+Genomes (18 chromosomes on hand): cjej nmen ngon hinf mlep styp sfle bper rick thth dera + T.maritima A.aeolicus P.furiosus M.jannaschii
+  + H.pylori M.genitalium M.pneumoniae. Thermophiles = thth, Tmar, Aaeo, Pfur, Mjan. NOT blind: ratios of 7 of these were seen in L2745/L2789.
+  New to me: exact ratios of the other 11 (including hpyl, mgen, mpne).
+C1 Spearman rho(ratio, GC) <= -0.5.
+C2 In OLS ratio ~ GC + thermophile, the 95% bootstrap interval (2000 genome resamples, seed 2793) of the thermophile coefficient includes 0.
+C3 Every genome with GC <= 0.35 has ratio >= 1.10 (the 1.10 line is crossed by composition alone).
+
+L2794  Intron anti-phasing (HBB introns had period-3 p ~0.95-0.98 vs shuffle in L2789).
+Data: S. cerevisiae mito NC_001224, COX1 and COB. Introns = gaps between consecutive exons in the COX1 / COB CDS joins.
+Each intron is split into ORF part (covered by any AI*/BI*/other intronic CDS on the same strand) and ORF-free part; parts < 100 nt dropped.
+Statistic and null exactly as L2789 (period-3 power S, 2000 mononucleotide shuffles, seed 2794).
+I1 ORF-free parts: >= 70% have p > 0.9 (anti-phased). (Chance rate 10%.)
+I2 Intronic ORF parts: >= 70% have p < 0.05 (positive control).
+I3 Exons (coding parts of COX1, COB, >=100 nt): >= 70% have p < 0.05.

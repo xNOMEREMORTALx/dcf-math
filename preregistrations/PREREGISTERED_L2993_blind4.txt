@@ -1,0 +1,12 @@
+PRE-REGISTRATION L2993 blind set 4 (gene starts). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen BEFORE the genomes are downloaded.
+Tool under test: gene finder v2.28 (SHA-256 6945c10e...ff32): start search extended back to the previous in-frame stop (v2.26-v2.27 searched
+only downstream of the best-start trim; E. coli exact starts 81.4% (v2.24) -> 63.0% (v2.27) -> 79.4% (v2.28)). Compared with v2.27 on the same files.
+Exact start = predicted start equals the annotated start, among annotated genes whose stop the tool predicted on the right strand.
+Genomes (none in seen_accessions.txt): NC_004461 Staphylococcus epidermidis; NC_004663 Bacteroides thetaiotaomicron; NC_006624 Thermococcus
+kodakarensis; NC_002607 Halobacterium salinarum chromosome; NC_005296 Rhodopseudomonas palustris; NC_000117 Chlamydia trachomatis;
+NC_003028 Streptococcus pneumoniae TIGR4; NC_000962 Mycobacterium tuberculosis H37Rv. Any file not received is dropped.
+D1 Genetic code 11 called in all.
+D2 v2.28 exact starts >= 70% in at least 6 of 8 (scaled if files are missing: all but 2).
+D3 v2.28 exact starts >= v2.27 + 8 points in at least 6 of 8 (all but 2).
+D4 v2.28 found >= 85% in at least 6 of 8 (all but 2), and correct >= 90% in all.
+D5 No sensitivity loss: v2.28 found >= v2.27 found - 0.5 points in every genome.

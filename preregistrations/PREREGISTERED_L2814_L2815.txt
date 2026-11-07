@@ -1,0 +1,6 @@
+L2814 + L2815, Gary NOMEREMORTAL Mason, DCF. Frozen 2026-11-03 before dcf_genefinder v2.17 (3fbc52f4...e353) ran on these files and
+before their /transl_table qualifiers were read. K1, K2 restate the freeze in L2813_report.md.
+K1 Mycoplasma mycoides SC PG1 NC_005364: v2.17 calls TGA = Trp with 95% lower bound > +0.065.
+K2 Mesoplasma florum L1 NC_006055: same as K1.
+K3 Hodgkinia cicadicola Dsem NC_012960 (GC-rich, ~144 kb): v2.17's final code call matches the file's majority /transl_table
+   (expected from the literature: TGA = Trp). Flags allowed. This is the hardest case: no GC-rich Trp genome is in the dev set.

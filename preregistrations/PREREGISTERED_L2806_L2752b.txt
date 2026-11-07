@@ -1,0 +1,8 @@
+L2806 + L2752b, Gary NOMEREMORTAL Mason, DCF. Frozen 2026-11-03 before any statistic; only LOCUS/DEFINITION and /gene names read.
+L2806 Mouse chr7 103,460,000-103,490,000 (GRCm39): adult beta genes Hbb-bs, Hbb-bt (longest non-pseudo CDS each). Intron 2 = second
+CDS gap. Statistic/null as L2789 (2000 shuffles, seed 2806).
+M1 both Hbb-bs IVS2 and Hbb-bt IVS2 have p > 0.9 (beta-IVS2 anti-phasing shared with human HBB/HBE1/HBG).
+M2 neither mouse intron 1 has p < 0.05.
+L2752b N. gonorrhoeae NCCP11945 NC_011035. Frozen ruler and rule B exactly as PREREGISTERED_L2752_L2797.txt (600b772d...c5a6).
+N1 rule B agrees with the ruler at >= 80% of unambiguous opa tracts (graded only if >= 4; else not graded).
+N2 code 11 auto; genes found >= 70%, correct >= 85% (Neisseria short-gene limit known: 73.5-73.9% found).

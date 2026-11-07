@@ -1,0 +1,10 @@
+L2810 pre-registration, Gary NOMEREMORTAL Mason, DCF. Frozen 2026-11-03 BEFORE dcf_genefinder or any margin was run on the two held-out
+genomes (Carsonella ruddii PV NC_008512; Wigglesworthia glossinidia NC_004344). Only their LOCUS/DEFINITION lines and CDS counts were read;
+their /transl_table qualifiers have NOT been read.
+Development (dev.txt, 25 genomes): standard-code max TGA margin +0.042 at 150 nt (95% upper +0.058, Buchnera); TGA=Trp min +0.084
+(95% lower +0.075, M. genitalium). Stop-identity yardstick |TAG-TAA| <= 0.034.
+RULE R (v2.17): same statistic and escalation as v2.16, decision threshold moved from +0.05 to +0.065 (midpoint of the dev CI gap).
+  Trp if 95% lower bound > 0.065; stop if 95% upper bound < 0.065; otherwise UNCERTAIN (then escalate to ORFs >= 150 nt as before).
+W1 Wigglesworthia: v2.17 code call matches the majority /transl_table of the file's CDS, and is not UNCERTAIN.
+W2 Carsonella: same as W1 (if fewer than 5 TGA-ended ORFs exist, the tool's fallback decides; graded on the final call).
+W3 Re-running v2.17 on all 25 dev genomes gives the correct call for 25/25 with no UNCERTAIN flags (Buchnera resolved).

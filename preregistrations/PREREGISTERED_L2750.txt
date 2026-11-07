@@ -1,0 +1,7 @@
+L2750 pre-registration (development data, annotation notes read for defect types only; flags NOT yet compared with them). 2026-10-31.
+Classes from RefSeq pseudo-CDS notes: CLEAN-FS = "frameshifted" and no "internal stop" and no "incomplete";
+OTHER = everything else with a type (internal stop and/or incomplete, with or without frameshift). Untyped notes (C. jejuni, S. flexneri) excluded.
+Flag hit = the genome's v2.11 frameshift list (already written, unchanged) has >=1 position inside the pseudo-CDS span +-150 nt.
+T1 pooled over the 9 typed bacterial genomes: P(hit | CLEAN-FS) >= 2 x P(hit | OTHER).
+T2 the genome-level flag enrichment at pseudogenes (x-factor) is higher in genomes whose typed pseudogenes are >=50% CLEAN-FS than in those <50%
+   (compare group means; genomes: rick thth dera mlep bper nmen ngon hinf styp).

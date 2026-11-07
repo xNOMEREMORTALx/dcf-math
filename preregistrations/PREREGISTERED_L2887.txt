@@ -1,0 +1,12 @@
+PRE-REGISTRATION L2887 (leads L2884 / L2881): the agreement law in any base. Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026.
+Theorem (proved before this file, by counting i = qc + r in [0, bc)): for an integer c >= 2 with b not dividing c,
+  lambda_b(c) = measure{u in [0,1): floor(b u) = floor(b {c u})} = (c - 1 + gcd(c - 1, b)) / (b c).
+  Base 4 gives last round's law; base 10 gives lambda(11) = 2/11, lambda(6) = 1/6, lambda(21) = 1/7, lambda(2) = 1/10.
+Corollary: the maximum over c >= 2 is 2/(b+1), at c = b + 1 (base 10: c = 11). Hence the full reciprocal code has d_min/T -> (b-1)/(b+1)
+(base 4: 3/5, as measured in L2879; base 10: 9/11 = 0.818).
+Frozen before any decimal-digit computation below.
+Q1  For every full-reptend prime 1000 < p < 5000 and every c = 2..30 (not a multiple of 10), the number of positions where the decimal
+    periods of 1/p and c/p (fixed alignment) carry the same digit differs from lambda_10(c)*(p-1) by at most 10c.
+Q2  For at least 90% of full-reptend primes 1000 < p < 3000, the multiplier m != 1 maximising that agreement is m = 11 or m = 11^-1 (mod p).
+Q3  For full-reptend primes 1000 < p < 2000, the minimum Hamming distance of {period of a/p} divided by T lies in 9/11 +- 0.02
+    for at least 90% of them. (For a full-reptend prime all a/p are rotations of 1/p, so d_min = T - max over shifts s != 0 of self-agreement.)

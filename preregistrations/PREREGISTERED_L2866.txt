@@ -1,0 +1,22 @@
+PRE-REGISTRATION L2866 (leads L2863 and L2859): codon phases vs digit phases, and the lattice law beyond order 3
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 4 Nov 2026. Frozen before any statistic below is computed.
+
+PART A. Genomes: the 31 chromosomes in genome_list.txt (>= 100 CDS each), identified by accession only.
+Genes: annotated single-part CDS of length >= 300 nt, read 5'->3' on their own strand, truncated to a multiple of 3.
+Phase statistic of a sequence x (length 3m): for each base b, c_bk = #{t : x_t = b, t = k mod 3}, A_b = c_b0 + c_b1 w + c_b2 w^2,
+f_b = frequency of b in x;  S(x) = sum_b |A_b|^2 / (3 m f_b (1 - f_b))   (about 2-3 for a random sequence).
+Shuffle null: one composition-preserving shuffle per gene (seed 2866).
+Reciprocal strands: 1/p in base 4 (A=0 C=1 G=2 T=3), one full period, truncated to a multiple of 3,
+for primes 1000 < p < 20000 with base-4 period >= 300; each compared with one shuffle of itself.
+Weighted amplitude W(x) = sum_t d_t w^t with d = 0,1,2,3 for A,C,G,T.
+
+H1  In every one of the 31 genomes, the median S of genes exceeds the 99th percentile of S over the shuffled genes.
+H2  Reciprocal strands are phase-flatter than random: median S(strand) < median S(shuffled strand).
+H3  (base-4 lattice lemma) For every prime 7 < p < 20000, p != 7, with 3 | base-4 period, W over one period is divisible
+    by (4w - 1) in Z[w], i.e. s0 + s1*4^{-1} + s2*4^{-2} = 0 (mod 21) for the three weighted phase sums.
+H4  Real genes are not on that lattice: pooled over all genes, the fraction with W divisible by (4w - 1) lies in 3.5%..6.0%
+    (a random element of Z[w] is divisible with probability 1/21 = 4.76%).
+
+PART B. Order-5 lines of 1/p in base 10 (primes with 5 | T, T odd, index >= 2, p < 1,000,000; s_c = digit sums over t = c mod 5).
+B1  (lattice lemma, order 5) every such prime has sum_c s_c 10^{-c} = 0 (mod 11111) (p not dividing 11111 = 41 * 271).
+B2  Exploratory, not graded: number with all five phase sums equal.

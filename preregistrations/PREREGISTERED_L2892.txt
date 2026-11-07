@@ -1,0 +1,13 @@
+PRE-REGISTRATION L2892 (lead L2889: rational multipliers). Gary NOMEREMORTAL Mason, DCF, 4 Nov 2026. Frozen before the runs below.
+Seen beforehand: lambda_10(r/s) for s <= 6, r <= 8 only (and lambda_4(3/7) has NOT been computed).
+Theorem L' (derived now): if y = r s^-1 x mod p with gcd(r, s) = 1, then y/p = {(r x/p + k)/s} with k = -r x p^-1 mod s. Counting over
+q = leading digit, k < s and t < r gives the exact rational
+  lambda_b(r/s) = #{(q, k, t): 0<=q<b, 0<=k<s, 0<=t<r, floor((r q + b k + t)/s) = q (mod b)} / (b r s),
+which is the long-run share of positions where x/p and (r/s)x/p carry the same base-b digit (exact up to O(brs)/p when x runs over
+all residues, as for a full-reptend prime). Symmetry: lambda(r/s) = lambda(s/r). s = 1 gives Theorem Lambda.
+R0  (exact) Over all reduced r/s != 1 with 1 <= r, s <= 20: the base-10 maximum is 2/11, attained only at 11 and 1/11;
+    the base-4 maximum is 2/5, attained only at 5 and 1/5.
+R1  Full-reptend base-10 primes 1000 < p < 5000, every reduced r/s with 1 <= r, s <= 12, r != s: the number of equal digits of 1/p and
+    (r s^-1 mod p)/p (fixed alignment) is within 10 r s of lambda_10(r/s)(p - 1).
+R2  Base-4 index-2 primes 1000 < p < 3000 (x runs over one coset only), every reduced r/s with r, s <= 8, r != s: the agreement share is
+    within 0.03 of lambda_4(r/s) for at least 95% of the (p, r/s) cases.

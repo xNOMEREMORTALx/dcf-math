@@ -1,0 +1,9 @@
+PRE-REGISTRATION L2961 (lead N10, plastic number). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026. Frozen before any digit is computed.
+rho = plastic number, rho^3 = rho + 1 (1.32471...). rho^n = c_n + b_n rho + a_n rho^2 with integers (classify.py).
+Law (extension of Lambda): x vs y share digits at lambda(k) when y = k x + integer; if y needs an independent irrational
+(rho^2 with a nonzero coefficient not proportional), the share is 1/10 (as for x vs x^2, L2949).
+Within powers 1..12 only (rho, rho^3) and (rho^4, rho^5) are identical (share 1); (rho^4, rho^7) and (rho^5, rho^7) have k = 2 -> 1/10.
+P1 rho vs rho^n for n = 2, 4, 5, 6, 7, 8, 9, 10, 11, 12 (first 10^6 decimals): every share within 0.0015 of 1/10.
+P2 The rival "keep only the rho-coefficient" rule (lambda(b_n)) is rejected where it differs: rho^8 (b=3: 0.1333), rho^10 (b=5: 0.12),
+   rho^11 (b=7: 0.1143) all measured below 0.104.
+P3 rho vs rho^3 and rho^4 vs rho^5 share exactly 1; rho^4 vs rho^7 within 0.0015 of 1/10.

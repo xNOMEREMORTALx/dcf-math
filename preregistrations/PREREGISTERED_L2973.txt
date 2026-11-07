@@ -1,0 +1,13 @@
+PRE-REGISTRATION L2973 (blind set 3, mid-GC). Gary NOMEREMORTAL Mason, DCF, 5 Nov 2026. Frozen BEFORE the genomes were downloaded.
+Tool under test: gene finder v2.27 (SHA-256 a85b9f10...2dcb): best-start scoring for the final gene calls of every non-mitochondrial
+genome, ORF minimum 240 nt (GC <= 0.55) / 180 nt (GC > 0.55); code detection as v2.25 (restores Hodgkinia, lost in v2.26).
+Comparison: v2.26 (SHA 4a192cf9...7994) and Prodigal (pyrodigal 3.7.1, annotation's table) on the same files. Grader as L2953.
+Genomes requested (none in seen_accessions.txt): 1 NC_002505 Vibrio cholerae chrI; 2 NC_003210 Listeria monocytogenes; 3 NC_002662 Lactococcus
+lactis; 4 NC_000911 Synechocystis; 5 NC_003030 Clostridium acetobutylicum; 6 NC_003552 Methanosarcina acetivorans; 7 NC_002516 Pseudomonas
+aeruginosa; 8 NC_002696 Caulobacter crescentus. Any file not received is dropped from the predictions that name it.
+B1 Genetic code 11 called in all 8 (v2.27).
+B2 Genomes 1-6: v2.27 finds more genes than v2.26 in >= 5 of 6, and the mean gain is between +1.5 and +7 points.
+B3 Genomes 1-6: mean precision change (v2.27 - v2.26) >= -2.0 points.
+B4 Genomes 7-8 (GC-rich): v2.27 found >= 90% and correct >= 93% in both.
+B5 Genomes 1-6: v2.27 correct >= 85% in each.
+Development basis (L2973): 7 mid-GC genomes, ORF min 240 + best start: mean found +3.6, precision -0.9 vs v2.25/v2.26.

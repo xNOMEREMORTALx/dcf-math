@@ -1,0 +1,7 @@
+PRE-REGISTRATION L2989 N16 (phi and sqrt 5). Gary NOMEREMORTAL Mason, DCF, 6 Nov 2026. Frozen before any digit is computed.
+phi = (1 + sqrt5)/2, so sqrt5 = 2 phi - 1 and phi^n = F_n phi + F_(n-1) = (F_n/2) sqrt5 + (F_n/2 + F_(n-1)).
+First 10^6 decimals, tolerance 0.0015.
+V1 phi vs sqrt5 (k = 2): 1/10.
+V2 sqrt5 vs phi^3 = sqrt5 + 2: identical decimals (share 1); also sqrt5 vs phi^-3 = sqrt5 - 2: share 1.
+V3 sqrt5 vs phi^9 = 17 sqrt5 + 38: lambda(17) = 9/85 = 0.10588 (excess detected: > 0.1035).
+V4 phi vs 5 sqrt5 = 10 phi - 5 (k = 10): 1/10.
