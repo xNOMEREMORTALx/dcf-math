@@ -8,7 +8,7 @@
 - **[D]** description only (true, but chosen after looking, so not evidence);
 - **[✗]** tested and failed.
 
-**Record:** 254 of 329 pre-registered predictions passed, plus 3 split.
+**Record:** 256 of 333 pre-registered predictions passed, plus 3 split.
 
 ---
 
@@ -33,7 +33,7 @@
                        │                                   │
    GENE FINDER v2.30 (label-free)                  METAL-USE PROFILE
    genes found, exact starts 52–92%  [V]           Fe–S CxxC: methanogens 3.4× aerobes, p=6e-5 [B]
-   genetic code called blind 96/99   [B]           C2H2 Zn-finger counter 8/8 on human  [B]
+   genetic code called blind 104/107 [B]           C2H2 Zn-finger counter 8/8 on human  [B]
    promoters: Firmicutes 17-bp spacer 22/22 [B]    p53 = 43.65 kDa (not 53) [V]; SOD1 15.94 (not 32) [V]
                        │                           Fe-Cu 5 blind: 4/4 PASS (L3137) [B]
                        │                                   │
@@ -95,3 +95,6 @@
 - **Numbers [V], links [D]:** Lyman-α 121.567 nm (121 = S₅); deuterium 61.40 MHz at 9.39 T (61 = H₅; instrument-dependent); 21-cm line 1420.405751768 MHz.
 - **Λ law [P]:** 1·λ(1) = 1 (hydrogen alone); 16·λ(16) = 2 (with K 19, Ca 20); 17·λ(17) = 18·λ(18) = 9/5.
 - **Reciprocals [P]:** periods of 1/17 and 1/19 are 16 and 18, hence 1/323 has period lcm(16, 18) = 144.
+- **Fe-O blind (L3173), 2 of 4:** facultatives fall between (barely) and carry selenocysteine; but two host-associated fermenting obligate anaerobes
+  (*Fusobacterium* 0.34, *Treponema* 0.49) read below the 0.50 cut [✗]. The Fe-S profile marks Fe-S-heavy anaerobic *energy metabolism*
+  (methanogens, sulfate reducers, acetogens, syntrophs), not oxygen intolerance as such.
