@@ -42,6 +42,7 @@
    selenocysteine at TGA: E. coli 3/3 (fdhF, fdnG, fdoG) [B]  (all Mo/W–Fe-S formate dehydrogenases)
    → NCBI note drafted (not sent)
    Sec codons follow Fe-S density blind: rho 0.84, anaerobes 49 vs aerobes 0 (L3145) [B]
+   (known biology: Zhang et al., Genome Biol 2006, low oxygen promotes Sec use; ours adds a label-free Fe-S link, L3157)
 ```
 
 ## 2. The real connections
