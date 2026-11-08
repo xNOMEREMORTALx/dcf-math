@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3121 (zinc fingers: audit and tests). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen before any count or download.
+C2H2 detector (standard consensus, Pfam-like): C-x(2,4)-C-x(12)-H-x(3,5)-H on protein sequences.
+Part A, now (18 prokaryotic proteomes from L3117, gene-finder predictions, standard code):
+Z1 C2H2 is rare in prokaryotes: <= 5 hits per 1000 proteins in >= 15 of 18 genomes.
+Z2 No enrichment over shuffled proteins (same composition, 3 shuffles): observed/shuffled <= 2 in >= 15 of 18.
+Part B, after download (human RefSeq mRNAs): SP1 NM_138473, GLI1 NM_005269, GTF3A (TFIIIA) NM_002097, EGR1 NM_001964, WT1 NM_024426,
+YY1 NM_003403, CTCF NM_006565, KLF4 NM_004235, TP53 NM_000546, SOD1 NM_000454. Literature finger counts: SP1 3, GLI1 5, GTF3A 9, EGR1 3,
+WT1 4, YY1 4, CTCF 11, KLF4 3.
+Z3 The detector's count equals the literature count (+-1) in >= 6 of 8 proteins.
+Z4 Human C2H2 proteins: detector hits per protein far above shuffled (observed/shuffled >= 20 pooled over the 8).
+Z5 TP53 computed molecular mass (from its translation, average residue masses) lies in 42.5-45.0 kDa, i.e. NOT ~53 kDa (53 is the apparent gel size).
+Z6 SOD1 computed subunit mass lies in 15.0-17.0 kDa, i.e. NOT ~32 kDa (32 kDa is the dimer).
