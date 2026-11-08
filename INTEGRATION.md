@@ -88,3 +88,10 @@
 - **[SP-1] Sec/Pyl ↔ Fe–S:** blind test of co-occurrence.
 - **[R2]** Twin-prime product periods; **[R5]** the general rule for Fibonacci-period minima.
 - **[N2]** OEIS/literature for the star-grid note.
+
+## Oxygen and hydrogen (L3169)
+- **Oxygen is the hub** linking Fe-S richness and selenocysteine: both rise without oxygen [B]; neither predicts the other within anaerobes [✗].
+- **Hydrogen bonds in DNA:** 2 + GC per base pair. Aerobes 2.64 vs anaerobes 2.48 in our 25 genomes [D]; literature: mostly ancestry, real only for obligate aerobes (Aslam et al. 2019).
+- **Numbers [V], links [D]:** Lyman-α 121.567 nm (121 = S₅); deuterium 61.40 MHz at 9.39 T (61 = H₅; instrument-dependent); 21-cm line 1420.405751768 MHz.
+- **Λ law [P]:** 1·λ(1) = 1 (hydrogen alone); 16·λ(16) = 2 (with K 19, Ca 20); 17·λ(17) = 18·λ(18) = 9/5.
+- **Reciprocals [P]:** periods of 1/17 and 1/19 are 16 and 18, hence 1/323 has period lcm(16, 18) = 144.
