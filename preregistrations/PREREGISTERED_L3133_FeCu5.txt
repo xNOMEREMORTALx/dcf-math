@@ -1,0 +1,12 @@
+DCF L3133 Fe-Cu 5 - blind metal-use profile test. Gary NOMEREMORTAL Mason. Frozen 2026-11-07 BEFORE download.
+Tool: dcf_metals.py (repo dcf-genefinder) on predictions of dcf_genefinder_mobile.py v2.30 (SHA 6b26c032...5022), no annotation used.
+Genomes (none in seen_accessions.txt). Labels are fixed here from the literature lifestyle, not from any data:
+  ANAEROBES: NC_004557 Clostridium tetani E88; NC_002937 Desulfovibrio vulgaris Hildenborough; NC_005791 Methanococcus maripaludis S2
+  AEROBES:   NC_002947 Pseudomonas putida KT2440; NC_003047 Sinorhizobium meliloti 1021; NC_003155 Streptomyces avermitilis MA-4680
+Predictions:
+  F1 The tool's own reading line (CxxC > 0.7 per 1000 aa = "Fe-S rich") matches the lifestyle label in >= 5 of 6 genomes.
+  F2 Every anaerobe has a higher CxxC density than every aerobe (all 9 pairs).
+  F3 Every anaerobe has higher R (observed/expected from cysteine level) than every aerobe (all 9 pairs).
+  F4 C2H2 zinc fingers <= 5 proteins per 1000 in all 6.
+Known risk stated in advance: D. vulgaris carries many c-type cytochromes (CxxCH), which add to CxxC for a non-Fe-S reason; that would
+still count as iron use. Streptomyces is GC ~70%, which may shift cysteine level; R corrects for that.

@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3133 R1 (smallest denominator with a Fibonacci-length period). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen before computing.
+Known so far (L3129): period 144 -> smallest q = 323. Theory: for prime n, a prime p has ord_10(p) = n only if p = 1 (mod n) (p = 2kn + 1).
+Q1 Period F13 = 233 (prime): the smallest q is 467 (= 2*233 + 1, prime).
+Q2 Period F7 = 13 (prime): the smallest q is 53.
+Q3 Period F11 = 89 (prime): the smallest q is a prime of the form 2*89*k + 1 (q = 1 mod 178).
+Q4 Period F14 = 377 = 13 x 29: the smallest q is below 200,000.
