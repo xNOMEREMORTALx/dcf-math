@@ -8,7 +8,7 @@
 - **[D]** description only (true, but chosen after looking, so not evidence);
 - **[✗]** tested and failed.
 
-**Record:** 240 of 311 pre-registered predictions passed, plus 3 split.
+**Record:** 244 of 315 pre-registered predictions passed, plus 3 split.
 
 ---
 
@@ -35,7 +35,7 @@
    genes found, exact starts 52–92%  [V]           Fe–S CxxC: methanogens 3.4× aerobes, p=6e-5 [B]
    genetic code called blind 66/68   [B]           C2H2 Zn-finger counter 8/8 on human  [B]
    promoters: Firmicutes 17-bp spacer 22/22 [B]    p53 = 43.65 kDa (not 53) [V]; SOD1 15.94 (not 32) [V]
-                       │                           Fe-Cu 5 blind test: frozen, awaiting genomes
+                       │                           Fe-Cu 5 blind: 4/4 PASS (L3137) [B]
                        │                                   │
    EXTRA AMINO ACIDS (the 21st and 22nd)  ─────────────────┘
    pyrrolysine at TAG: 48/48 genes, 9 species [B]  (all Fe/Co-corrinoid methyltransferase partners)
