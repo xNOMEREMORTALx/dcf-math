@@ -1,0 +1,19 @@
+DCF L3149 - Code-fix: genome-size prior for table 4 (gene finder v2.31), blind test. Gary NOMEREMORTAL Mason. Frozen 2026-11-08 BEFORE download.
+Change (developed on L3145 Gluconobacter only, plus all logged disagreements L2953-L3145): when the read-through test says table 11 and the
+length ratio says table 4, the ratio may not override if the genome is > 2.5 Mb (known table-4 bacteria <= ~2.2 Mb; Spiroplasma 0.7-2.2 Mb).
+All 4 earlier logged disagreements are unchanged by the rule (3 were < 0.25 Mb; Gluconobacter is fixed).
+Tool: dcf_genefinder_mobile.py v2.31, SHA-256 prefix 215898dfd579, --table auto. Graded with the file's own annotation.
+Genomes (accessions and organism names checked against seen list and all earlier reports):
+  NC_013209 Acetobacter pasteurianus IFO 3283-01 (true table 11, ~2.9 Mb)
+  NC_010125 Gluconacetobacter diazotrophicus PAl 5 (11, ~3.9 Mb)
+  NC_008343 Granulibacter bethesdensis CGDNIH1 (11, ~2.7 Mb)
+  NC_009952 Dinoroseobacter shibae DFL 12 (11, ~3.8 Mb)
+  NC_006526 Zymomonas mobilis ZM4 (11, ~2.1 Mb; BELOW the 2.5 Mb cut, so the new rule does not protect it)
+  NC_006908 Mycoplasma mobile 163K (true table 4, ~0.78 Mb)
+  Any file whose LOCUS line does not match is excluded and reported.
+Predictions:
+  C1 All 4 genomes > 2.5 Mb are called table 11.
+  C2 Zymomonas is called table 11.
+  C3 Mycoplasma mobile is called table 4.
+  C4 Genes found >= 85% in >= 4 of the 5 table-11 genomes.
+Also reported (not graded): what v2.30 would have called for each, to show whether the rule was exercised.
