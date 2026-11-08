@@ -8,7 +8,7 @@
 - **[D]** description only (true, but chosen after looking, so not evidence);
 - **[✗]** tested and failed.
 
-**Record:** 252 of 324 pre-registered predictions passed, plus 3 split.
+**Record:** 254 of 329 pre-registered predictions passed, plus 3 split.
 
 ---
 
@@ -33,7 +33,7 @@
                        │                                   │
    GENE FINDER v2.30 (label-free)                  METAL-USE PROFILE
    genes found, exact starts 52–92%  [V]           Fe–S CxxC: methanogens 3.4× aerobes, p=6e-5 [B]
-   genetic code called blind 86/89   [B]           C2H2 Zn-finger counter 8/8 on human  [B]
+   genetic code called blind 96/99   [B]           C2H2 Zn-finger counter 8/8 on human  [B]
    promoters: Firmicutes 17-bp spacer 22/22 [B]    p53 = 43.65 kDa (not 53) [V]; SOD1 15.94 (not 32) [V]
                        │                           Fe-Cu 5 blind: 4/4 PASS (L3137) [B]
                        │                                   │
@@ -42,7 +42,9 @@
    selenocysteine at TGA: E. coli 3/3 (fdhF, fdnG, fdoG) [B]  (all Mo/W–Fe-S formate dehydrogenases)
    → NCBI note drafted (not sent)
    Sec codons follow Fe-S density blind: rho 0.84, anaerobes 49 vs aerobes 0 (L3145) [B]
-   (known biology: Zhang et al., Genome Biol 2006, low oxygen promotes Sec use; ours adds a label-free Fe-S link, L3157)
+   (known biology: Zhang et al., Genome Biol 2006, low oxygen promotes Sec use)
+   WITHIN anaerobes, Fe-S density does NOT predict Sec count: blind rho -0.10, pooled 0.18 (L3165) [✗]
+   -> the Sec-iron link is the shared oxygen-free lifestyle, not iron itself
 ```
 
 ## 2. The real connections
