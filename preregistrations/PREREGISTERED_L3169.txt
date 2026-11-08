@@ -1,0 +1,16 @@
+DCF L3169 - Fe-O: facultative anaerobes in between? Blind. Gary NOMEREMORTAL Mason. Frozen 2026-11-08 BEFORE download.
+Tools: gene finder v2.31 (SHA 215898dfd579...) -> dcf_metals.py (CxxC per 1000 aa). Annotation read only after tool numbers are hashed,
+to count transl_except aa:Sec codons.
+Genomes (accessions and names checked against seen list and all earlier reports); lifestyle labels from the literature:
+  FACULTATIVE: NC_009648 Klebsiella pneumoniae MGH 78578; NC_009832 Serratia proteamaculans 568; NC_008570 Aeromonas hydrophila ATCC 7966;
+               NC_009436 Enterobacter sp. 638
+  OBLIGATE AEROBE: NC_004757 Nitrosomonas europaea ATCC 19718; NC_006361 Nocardia farcinica IFM 10152
+  OBLIGATE ANAEROBE: NC_003454 Fusobacterium nucleatum ATCC 25586; NC_002967 Treponema denticola ATCC 35405
+  Files whose LOCUS does not match are excluded and reported.
+Predictions:
+  X1 The facultatives' median CxxC density lies strictly between the obligate-aerobe median and the obligate-anaerobe median.
+  X2 With the frozen 0.50 cut, both obligate anaerobes read > 0.50 and both obligate aerobes < 0.50 (4 of 4).
+  X3 Every facultative is below every obligate anaerobe (8 of 8 pairs).
+  X4 Selenocysteine follows the capacity for anaerobic life: >= 3 of 4 facultatives carry >= 1 annotated Sec codon, and the two obligate
+     aerobes carry 0.
+Not graded (outcome already known from the literature, so not blind): GC content by group. Reported descriptively only.
