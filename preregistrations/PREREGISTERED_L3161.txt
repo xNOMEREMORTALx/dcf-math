@@ -1,0 +1,17 @@
+DCF L3161 - SP-3 (within anaerobes: does Fe-S density predict selenocysteine?) and Sec-2 AT (new finder on AT-rich genomes), blind.
+Gary NOMEREMORTAL Mason. Frozen 2026-11-08 BEFORE download.
+Why: Zhang et al. (Genome Biol 2006) already showed anaerobes favour Sec. Our L3145 rho 0.84 mixed anaerobes and aerobes. Within anaerobes
+only, development (8 genomes, L3137+L3145) gave rho 0.54, p 0.17.
+Tools: dcf_genefinder_mobile.py v2.31 (SHA 215898dfd579...) -> dcf_metals.py (CxxC per 1000 aa) -> dcf_secflag.py (SHA 59e3188bf547...).
+Annotation read ONLY after tool numbers are written: transl_except aa:Sec codons.
+Genomes, all anaerobes (accessions and names checked against seen list and all earlier reports):
+  NC_009706 Clostridium kluyveri DSM 555; NC_009633 Alkaliphilus metalliredigens QYMF; NC_007519 Desulfovibrio alaskensis G20;
+  NC_008346 Syntrophomonas wolfei Goettingen; NC_009634 Methanococcus vannielii SB; NC_009943 Desulfococcus oleovorans Hxd3;
+  NC_009454 Pelotomaculum thermopropionicum SI; NC_010001 Clostridium phytofermentans ISDg; NC_002936 Dehalococcoides ethenogenes 195;
+  NC_000917 Archaeoglobus fulgidus DSM 4304.  Files whose LOCUS does not match are excluded and reported.
+Predictions:
+  A1 Spearman rho(CxxC density, annotated Sec codons) >= 0.3 across the blind anaerobes.
+  A2 Pooled with the 8 development anaerobes, rho > 0 with one-sided p < 0.05.
+  A3 The 0.50 cut calls >= 90% of the blind genomes anaerobe.
+  A4 dcf_secflag recall >= 50% of annotated Sec sites, pooled over blind genomes with GC < 0.45 (if they hold >= 5 sites; else not graded).
+  A5 dcf_secflag lists <= 100 candidates in >= 80% of blind genomes with GC < 0.45.
