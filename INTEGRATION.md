@@ -8,7 +8,7 @@
 - **[D]** description only (true, but chosen after looking, so not evidence);
 - **[✗]** tested and failed.
 
-**Record:** 244 of 315 pre-registered predictions passed, plus 3 split.
+**Record:** 248 of 320 pre-registered predictions passed, plus 3 split.
 
 ---
 
@@ -41,6 +41,7 @@
    pyrrolysine at TAG: 48/48 genes, 9 species [B]  (all Fe/Co-corrinoid methyltransferase partners)
    selenocysteine at TGA: E. coli 3/3 (fdhF, fdnG, fdoG) [B]  (all Mo/W–Fe-S formate dehydrogenases)
    → NCBI note drafted (not sent)
+   Sec codons follow Fe-S density blind: rho 0.84, anaerobes 49 vs aerobes 0 (L3145) [B]
 ```
 
 ## 2. The real connections
