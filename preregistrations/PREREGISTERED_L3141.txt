@@ -1,0 +1,18 @@
+DCF L3141 - SP-1 (selenocysteine follows iron) and Fe-Cu 6 (fixed cut), blind. Gary NOMEREMORTAL Mason. Frozen 2026-11-07 BEFORE download.
+Tools: dcf_genefinder_mobile.py v2.30 (SHA 6b26c032...) -> dcf_metals.py (CxxC per 1000 aa) -> dcf_pylflag.py. Annotation is read ONLY after
+the tool numbers are written, and only for (a) counting transl_except aa:Sec codons, (b) scoring Sec-site recovery.
+Genomes (none in seen_accessions.txt; organism names also checked against all earlier reports). Lifestyle labels fixed here from literature:
+  ANAEROBES: NC_007644 Moorella thermoacetica ATCC 39073; NC_007759 Syntrophus aciditrophicus SB; NC_006138 Desulfotalea psychrophila LSv54;
+             NC_007503 Carboxydothermus hydrogenoformans Z-2901; NC_007498 Pelobacter carbinolicus DSM 2380
+  AEROBES:   NC_008699 Nocardioides sp. JS614; NC_006677 Gluconobacter oxydans 621H; NC_008268 Rhodococcus jostii RHA1;
+             NC_004463 Bradyrhizobium japonicum USDA 110
+  Any file whose LOCUS line does not match an accession above is excluded and reported. (9 genomes: 5 anaerobes, 4 aerobes.)
+Cut fixed now from all 24 genomes measured so far (L3117 + L3137): highest aerobe 0.41, lowest anaerobe 0.60 -> cut 0.50 per 1000 aa.
+Predictions:
+  S1 Spearman rho between CxxC density and annotated Sec-codon count across the 9 genomes >= 0.5.
+  S2 The anaerobes' total annotated Sec codons >= 3x the aerobes' total (if the aerobes total 0, pass when anaerobes total >= 3).
+  F5 With the 0.50 cut, lifestyle is called correctly in >= 8 of 9.
+  F6 Anaerobe CxxC density > aerobe density in >= 18 of the 20 anaerobe-aerobe pairs.
+  F7 dcf_pylflag TGA read-through candidates cover >= 40% of annotated Sec sites, pooled over all 9 (L3137 development rate: 10/20).
+Risks stated in advance: Bradyrhizobium fixes nitrogen (nitrogenase is Fe-S heavy) and may score high for an aerobe; Gluconobacter and
+Nocardioides are strict aerobes; Moorella and Carboxydothermus are thermophilic Firmicutes rich in Sec formate dehydrogenases.
