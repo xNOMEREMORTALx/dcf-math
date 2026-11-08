@@ -79,3 +79,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3097.txt | `26f6b2ecb8010f07fbe6f3e91066e1ad28861f45af47aa75f2745162c2bbf004` |
 | PREREGISTERED_L3105.txt | `df6a2fc17289a329400dc5166a4b8642bde6df7a403c7c5054164b9e8a0f3d7b` |
 | PREREGISTERED_L3113.txt | `8cd06ddea2361fe179028e77d931bbe095aa415b1b06bda3687aa6a72731f489` |
+| PREREGISTERED_L3117.txt | `b9933cb26927551f448f8778a596ffd2c3a87371610b3f23a3badfdca6aa174b` |

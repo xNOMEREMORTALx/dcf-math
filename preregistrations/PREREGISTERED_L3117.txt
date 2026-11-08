@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3117 (iron-sulfur signature in predicted proteins). Gary NOMEREMORTAL Mason, DCF, 7 Nov 2026. Frozen before any count.
+Proteins: gene finder v2.30 predictions, translated with the standard code (labels not used). Motif: C-x-x-C (iron-sulfur / zinc ligand pair).
+Statistic R = observed CxxC count / expected from each genome's own cysteine frequency (sum over proteins of (L-3) * fC^2).
+Methanogens (anaerobic, Fe-S rich), 11: M. acetivorans, M. jannaschii, M. barkeri, M. mazei, M. burtonii, M. thermautotrophicus,
+M. hungatei, M. mahii, M. psychrophilus, M. zhilinae, M. hollandica.
+Aerobes, 7: P. aeruginosa, C. crescentus, M. tuberculosis, X. campestris, R. sphaeroides chr1, A. baylyi, L. pneumophila.
+P1 R > 1.5 in all 11 methanogens.
+P2 Median R(methanogens) > median R(aerobes), Mann-Whitney one-sided p < 0.01.
+P3 CxxC per 1000 amino acids: methanogen median at least 1.5x the aerobe median.
