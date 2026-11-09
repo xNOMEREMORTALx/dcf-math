@@ -1,0 +1,17 @@
+DCF L3217 - [Fe-Fd] lineage-matched pairs, [Sec-O], [G-starts c]. Blind (blind_18). Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE download.
+Tools: gene finder v2.31 (215898df...) -> dcf_metals.py frozen a640abc9... (CxxC per 1000 aa); v2.32b candidate
+dev/dcf_genefinder_v2.32b_candidate.py SHA-256 69cc0a616d42017c9e460c622e0581b09d00efb51118e98d3868dda9e9ba892e; grader dcf_grade.py 761bd8a5...
+Tool numbers hashed before any annotation is read. Accessions absent from seen_accessions.txt (127); names absent from seen_names.txt.
+Pairs (ferredoxin-based energy/carbon metabolism member FIRST; partner from the same phylum without it):
+  P1 Desulfobacterota/deltaproteobacteria: NC_013173 Desulfomicrobium baculatum DSM 4028 (sulfate reducer) vs NC_008095 Myxococcus xanthus DK 1622 (aerobe)
+  P2 Bacillota: NC_009253 Desulfotomaculum reducens MI-1 (sulfate/metal reducer) vs NC_006322 Bacillus licheniformis ATCC 14580 (aerobe/facultative)
+  P3 Campylobacterota: NC_012115 Nautilia profundicola AmH (anaerobe, reductive TCA, H2) vs NC_009850 Arcobacter butzleri RM4018 (aerotolerant, oxidative)
+  Files whose LOCUS does not match are excluded and reported.
+Predictions:
+  D1 In each pair the first member reads higher (3 of 3).
+  D2 All 3 first members read > 0.50 and all 3 partners < 0.50.
+  D3 [Sec-O] Every annotated Sec codon (transl_except) in the three partners lies in a gene whose product names a formate dehydrogenase. Graded only if a partner carries >= 1 Sec codon.
+  D4 [G-starts c] v2.32b vs v2.31 over the 6 genomes: mean exact-start gain >= +1.0 point.
+  D5 No genome loses more than 1.0 point of exact starts.
+  D6 Genes found and predictions correct each change by less than 0.5 point in every genome.
+Risks: Myxococcus and Bacillus are GC/lineage-distant from their partners within the phylum; Arcobacter is microaerophilic and carries some anaerobic respiration; the 0.50 cut has a soft edge (L3213: 0.51).
