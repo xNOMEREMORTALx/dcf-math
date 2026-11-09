@@ -1,0 +1,14 @@
+DCF L3229 - [Z-match] do metal nuclear/electron counts appear as distances or positions in metal-using proteomes? Gary NOMEREMORTAL Mason.
+Frozen 2026-11-09 BEFORE computing. Gary's hypothesis is stated as the prediction; neighbouring numbers are the controls.
+Data: label-free predicted proteomes (v2.31) of the 11 Fe-S-RICH chromosomes fixed in L3225 (CxxC density >= 0.60) and the 12 Fe-S-POOR ones (<= 0.40).
+Iron: Z = 26 protons (= 26 electrons in the neutral atom); Fe-56: N = 30 neutrons, A = 56.
+Measures:
+  (a) cysteine-pair spacing O/E at distance d (as in L3225, extended to d = 60), per genome;
+  (b) distance in residues from the predicted start (Met = position 1) to the first cysteine of the first CxxC in each protein, pooled per group.
+Predictions (each "neighbour mean" uses d-2, d-1, d+1, d+2):
+  Z1 O/E at d = 26 exceeds its neighbour mean by >= 10% in >= 8 of the 11 Fe-S-rich genomes.
+  Z2 O/E at d = 30 exceeds its neighbour mean by >= 10% in >= 8 of the 11 Fe-S-rich genomes.
+  Z3 O/E at d = 56 exceeds its neighbour mean by >= 10% in >= 8 of the 11 Fe-S-rich genomes.
+  Z4 Pooled over Fe-S-rich genomes, first-CxxC start positions at exactly 26 are >= 1.5x the mean count at positions 24, 25, 27, 28.
+Expectation stated by the analyst before computing: chemistry gives no reason for these numbers, so a null is expected; the test is run because Gary asked.
+Base rate: by chance about 1 in 5 single-genome comparisons clear +10% at long distances (noise), so >= 8/11 is unlikely by chance.
