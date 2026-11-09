@@ -32,3 +32,5 @@ Verified number-theory results from the Digital Cosmos Framework (DCF).
 MIT (see `LICENSE`), the same as dcf-genefinder.
 
 - **[INTEGRATION.md](INTEGRATION.md):** one-page map of all threads, each link labelled proved / verified / blind-passed / description / failed.
+
+- **[handoff/](handoff/):** six-part handoff (H1 start here, H2 formulas and theorems, H3 gene-finder toolkit, H4 repos/phone/Drive workflow, H5 leads path, H6 round log).
