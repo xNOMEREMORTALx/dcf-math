@@ -1,0 +1,20 @@
+DCF L3189 - Fe-rTCA, Fe-H2b, Sec-O revised. Blind. Gary NOMEREMORTAL Mason. Frozen 2026-11-08 BEFORE download.
+Tools: gene finder v2.31 (SHA 215898dfd579...) -> dcf_metals.py (CxxC per 1000 aa). Frozen cut 0.50 (L3141).
+Annotation (transl_except aa:Sec) is read only after tool_numbers.txt is written and hashed.
+Genomes (accessions checked against seen_accessions.txt (112); names searched in earlier reports on Drive: none found).
+Labels from the literature:
+  rTCA ANAEROBE (green sulfur phototroph; energy from sulfide, not mainly H2):
+      NC_002932 Chlorobaculum tepidum TLS; NC_007514 Chlorobium chlorochromatii CaD3
+  CALVIN + H2 AEROBE: NC_009720 Xanthobacter autotrophicus Py2 (chromosome)
+  CALVIN, NON-H2 AEROBE: NC_013422 Halothiobacillus neapolitanus c2 (sulfur oxidiser); NC_007614 Nitrosospira multiformis ATCC 25196 (ammonia oxidiser)
+  MEGAPLASMID: NC_005241 Cupriavidus necator H16 pHG1 (carries the hydrogenase genes); comparator chr1 NC_008313 = 0.40 (L3181)
+  Files whose LOCUS does not match are excluded and reported.
+Predictions:
+  G1 Both green sulfur bacteria read > 0.50 (Fe-S-rich anaerobic carbon fixation reads high without being mainly H2-driven).
+  G2 Both Calvin non-H2 aerobes read < 0.50.
+  G3 Xanthobacter (Calvin + H2) reads higher than both Calvin non-H2 aerobes (2 of 2 pairs): H2 raises the reading with carbon fixation held constant.
+  G4 pHG1 proteins read higher than Cupriavidus chromosome 1 (> 0.40).
+  G5 Halothiobacillus and Nitrosospira carry 0 annotated Sec codons (Sec-O revised: aerobes without H2/formate metabolism).
+Risks: green sulfur bacteria may encode uptake hydrogenases; pHG1 is ~450 kb with many non-Fe-S genes; Xanthobacter margin may be small;
+the gene finder may call few genes on a plasmid (its self-training needs enough coding sequence).
+Descriptive only: R, GC, Sec in the other genomes.
