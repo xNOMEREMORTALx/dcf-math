@@ -1,0 +1,14 @@
+DCF L3233 - [Z-other] and [Strand-pol]. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE computing.
+Data: label-free predicted proteomes/genes (gene finder v2.31 runs) of the 28 graded chromosomes of blind_14-18 (pHG1 excluded; Nautilia now included = 29).
+PART A [Z-other] metal nuclear counts as residue-pair distances. Isotope = most abundant. Ligand pair chosen by the metal's commonest protein ligand.
+  Neighbour mean = O/E at d-2, d-1, d+1, d+2. A metal PASSES if O/E at d = Z OR d = N exceeds its neighbour mean by >= 10% in >= 2/3 of the 29 genomes (>= 20).
+  M1 Nickel Ni-58 (Z 28, N 30), Cys-Cys pairs.
+  M2 Copper Cu-63 (Z 29, N 34), His-His pairs.
+  M3 Zinc Zn-64 (Z 30, N 34), Cys-Cys pairs.
+  M4 Selenium Se-80 (Z 34, N 46), Cys-Cys pairs.
+  M5 Molybdenum Mo-98 (Z 42, N 56), Cys-Cys pairs.
+  Analyst's expectation: null (L3229: iron 26/30/56 null; base rate ~17-29% per comparison).
+PART B [Strand-pol] replication polarization. Origin = minimum and terminus = maximum of the cumulative GC skew (label-free). Leading strand = genes oriented
+  from origin toward terminus. "Metal genes" = predicted genes whose protein carries >= 1 CxxC motif.
+  P1 Pooled over the 29 genomes, metal genes sit on the leading strand more often than all other genes (difference >= 2 percentage points, chi-square p < 0.01).
+  P2 The difference is positive in >= 20 of 29 genomes.
