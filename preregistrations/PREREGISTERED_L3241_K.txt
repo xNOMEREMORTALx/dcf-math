@@ -1,0 +1,11 @@
+DCF L3241 - [41-path] Gary's numbers 41, 401 and 153 as DNA/protein periodicities. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE computing.
+Gary's hypothesis is stated as the prediction; neighbouring numbers are controls. Analyst's expectation: null (no chemical or physical reason known).
+Data: the 35 chromosomes with gene finder predictions (blind_14-19; pHG1 excluded). Gene predictions only; no annotation is used.
+Controls are chosen with the SAME remainder mod 3 as the test lag, because coding DNA has a strong period-3 signal that would otherwise bias the comparison.
+  K1 Protein lengths: pooled over all predicted proteins, (fraction of lengths divisible by 41) x 41 >= 1.10, AND larger than the same ratio for 37 and for 43.
+  K2 DNA lag 41: identity rate P(base[i] = base[i+41]) exceeds the mean of lags 35, 38, 44, 47 in >= 24 of 35 genomes (sign test, chance ~17.5).
+  K3 DNA lag 401: identity rate exceeds the mean of lags 395, 398, 404, 407 in >= 24 of 35 genomes.
+  K4 DNA lag 153: identity rate exceeds the mean of lags 147, 150, 156, 159 in >= 24 of 35 genomes.
+Number checks (Gary's statements, verified by computation, not predictions): digit reductions of 401, 41, 131.81 and the E8 numbers;
+prime relations in 401, 79, 47, 41, 5; reciprocal periods; 401 in pi (mpmath rule); 163 and the cube (e^(pi sqrt163)); phi, sqrt5 and pi;
+the 1-3-5 permutations.
