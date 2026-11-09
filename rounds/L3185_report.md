@@ -18,6 +18,9 @@ Both were matched by LOCUS line and are complete. Tool hashes matched H3.
 
 > **Correction (L3197).** The Sec counts in this report were made with `grep -c 'aa:Sec'`, which also counts the tRNA-Sec anticodon lines (`/anticodon=(…,aa:Sec,…)`). The true selenocysteine codons (`transl_except`) are: *Desulforapulum* **26** (not 27), *C. ljungdahlii* **9** (not 12), *A. woodii* **1** (not 2), *Hydrogenobacter* **1** (not 2; in formate dehydrogenase-N alpha). Every genome reported with 0 stays 0. **No verdict changes:** F5 needed ≥ 1 Sec codon in ≥ 2 of 3 H2-anaerobes and 0 in the fermenters, which still holds (3 of 3; 0 of 3).
 
+
+> **Correction (L3205).** The gene-finding numbers in §4 came from the gene finder's built-in comparison line, not from `dcf_grade.py`. The graders differ. With `dcf_grade.py`: *Hydrogenobacter* found 93.0%, correct 99.2%, exact starts 81.1%; *L. acidophilus* found 90.7%, correct **98.6%** (not 93.3%), exact starts 88.7%. No prediction depended on these numbers.
+
 ---
 
 ## 1. All ten genomes
