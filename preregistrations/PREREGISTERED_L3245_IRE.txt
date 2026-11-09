@@ -1,0 +1,14 @@
+DCF L3245 - [IRE] label-free detection of iron-responsive elements in human mRNA (the Fe-S sensor IRP1 binds them). Gary NOMEREMORTAL Mason.
+Frozen 2026-11-09 BEFORE any mRNA is downloaded. Scanner mrna/dcf_ire.py SHA-256 4499bd990861321b7450ab84eaecc4d9935b9b8bee755c80515922a906347b5e
+(CAGTGN loop, 5-bp upper stem <=1 mismatch incl. G-U, unpaired 5' C bulge, 3-bp lower stem <=1 mismatch; UTRs from the longest ORF, label-free).
+Calibration on random sequence only: 0.04-0.07 hits per 10 kb (GC 0.40-0.60).
+RefSeq mRNAs (fetched together as blind_mrna1):
+  KNOWN IRE (from the literature): NM_002032 FTH1, NM_000146 FTL, NM_003234 TFRC, NM_000032 ALAS2, NM_001098 ACO2, NM_014585 SLC40A1, NM_001430 EPAS1
+  CONTROLS (no IRE reported): NM_001101 ACTB, NM_002046 GAPDH, NM_000546 TP53, NM_000454 SOD1, NM_000518 HBB, NM_000207 INS, NM_000477 ALB, NM_002467 MYC
+  Records whose LOCUS/DEFINITION does not match the gene are excluded and reported.
+Predictions:
+  R1 >= 5 of the 7 IRE mRNAs carry >= 1 scanner hit.
+  R2 <= 1 of the 8 controls carries a hit.
+  R3 Among IRE mRNAs with hits, >= 80% have a hit in the expected UTR (5' UTR for FTH1, FTL, ALAS2, ACO2, SLC40A1, EPAS1; 3' UTR for TFRC).
+Risks: the strict model may miss variant IREs (the ferritin IREs carry an extended internal loop instead of a lone C bulge);
+the RefSeq record may start inside a 5' UTR. This validates a tool on known biology; it is not a discovery claim.
