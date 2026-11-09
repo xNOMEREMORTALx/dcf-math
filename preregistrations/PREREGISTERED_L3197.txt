@@ -1,0 +1,19 @@
+DCF L3197. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE download (blind_17) and BEFORE computing (R5c).
+PART A - [Fe-ferment H2], blind_17. Tools: gene finder v2.31 (215898dfd579...) -> dcf_metals.py frozen version a640abc9... (CxxC per 1000 aa). Cut 0.50.
+Annotation (Sec) read only after tool_numbers.txt is hashed. Accessions not in seen_accessions.txt; names not in seen_names.txt.
+  H2-EVOLVING FERMENTERS (obligate anaerobes, ferredoxin/hydrogenase H2 production):
+    NC_009437 Caldicellulosiruptor saccharolyticus DSM 8903; NC_003869 Thermoanaerobacter (Caldanaerobacter) tengcongensis MB4;
+    NC_009617 Clostridium beijerinckii NCIMB 8052; NC_014833 Ruminococcus albus 7 (chromosome)
+  NON-H2 (LACTIC) FERMENTERS:
+    NC_008054 Lactobacillus delbrueckii bulgaricus ATCC 11842; NC_008525 Pediococcus pentosaceus ATCC 25745;
+    NC_008528 Oenococcus oeni PSU-1; NC_006448 Streptococcus thermophilus LMG 18311
+  Predictions:
+    H1 All 4 H2-evolving fermenters read > 0.50.
+    H2 All 4 lactic fermenters read < 0.50.
+    H3 Complete separation: every H2 fermenter above every lactic fermenter (16/16 pairs; exact one-sided p = 1/70).
+    H4 All 4 lactic fermenters carry 0 annotated Sec codons.
+  Risks: phylogeny confound (Clostridia vs Lactobacillales); two H2 fermenters are thermophiles; lactic bacteria are aerotolerant, not strict anaerobes.
+PART B - [R5c] smallest q with period F_n, n = 21..25, all primes < 10^8 and their powers (exact if the minimum is below 10^8; otherwise not graded).
+  F21 = 10946 = 2*13*421; F22 = 17711 = 89*199; F23 = 28657 (prime, forced prime minimum, not graded); F24 = 46368 = 2^5*3^2*7*23; F25 = 75025 = 5^2*3001.
+  N1 F24: minimum composite.  N2 F21: minimum prime.  N3 F22: minimum prime.  N4 F25: minimum prime.
+  Basis: composite minima need cheap partial-period primes covering every prime factor (L3193); 46368 is the only highly composite target.
