@@ -1,0 +1,15 @@
+NM_002032	len 1203	CDS 210-761	IRE hits 1 5UTR@45	Homo sapiens ferritin heavy chain 1 (FTH1), mRNA.
+NM_000146	len 871	CDS 200-727	IRE hits 1 5UTR@39	Homo sapiens ferritin light chain (FTL), mRNA.
+NM_003234	len 5224	CDS 284-2566	IRE hits 4 3UTR@3513,3UTR@3917,3UTR@3982,3UTR@4029	Homo sapiens transferrin receptor (TFRC), transcript variant 1, mRNA.
+NM_000032	len 1940	CDS 52-1815	IRE hits 1 5UTR@21	Homo sapiens 5'-aminolevulinate synthase 2 (ALAS2), transcript variant
+NM_001098	len 2734	CDS 31-2373	IRE hits 1 5UTR@20	Homo sapiens aconitase 2 (ACO2), mRNA; nuclear gene for mitochondrial 
+NM_014585	len 3330	CDS 327-2042	IRE hits 1 5UTR@110	Homo sapiens solute carrier family 40 member 1 (SLC40A1), mRNA.
+NM_001430	len 5155	CDS 506-3118	IRE hits 0 	Homo sapiens endothelial PAS domain protein 1 (EPAS1), mRNA.
+NM_001101	len 1812	CDS 85-1212	IRE hits 0 	Homo sapiens actin beta (ACTB), mRNA.
+NM_002046	len 1285	CDS 77-1084	IRE hits 0 	Homo sapiens glyceraldehyde-3-phosphate dehydrogenase (GAPDH), transcr
+NM_000546	len 2512	CDS 143-1324	IRE hits 0 	Homo sapiens tumor protein p53 (TP53), transcript variant 1, mRNA.
+NM_000454	len 895	CDS 78-542	IRE hits 0 	Homo sapiens superoxide dismutase 1 (SOD1), mRNA.
+NM_000518	len 628	CDS 51-494	IRE hits 0 	Homo sapiens hemoglobin subunit beta (HBB), mRNA.
+NM_000207	len 465	CDS 60-392	IRE hits 0 	Homo sapiens insulin (INS), transcript variant 1, mRNA.
+NM_000477	len 2285	CDS 42-1871	IRE hits 0 	Homo sapiens albumin (ALB), mRNA.
+NM_002467	len 3721	CDS 409-1728	IRE hits 0 	Homo sapiens MYC proto-oncogene, bHLH transcription factor (MYC), tran
