@@ -1,0 +1,12 @@
+DCF L3249 - [F5-41] Gary: "41 and 5 may be frequencies that carry information in biological systems". Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE computing.
+Data: the 35 chromosomes of blind_14-19 (pHG1 excluded), whole sequence, both the raw genome and the coding regions predicted by the gene finder (sense strand, concatenated).
+Measure: Fourier power spectrum of the four base-indicator sequences (A, C, G, T; summed), in consecutive windows of 4100 nt (4100 = 5 x 820 = 41 x 100, so both
+periods fall exactly on a frequency bin), averaged over windows. Power at period 5 = bin 820; at period 41 = bin 100.
+Neighbour controls (smooth spectrum): period 5 vs mean of bins 810-815 and 825-830; period 41 vs mean of bins 95-98 and 102-105.
+Predictions (Gary's hypothesis, analyst expects null; chance ~17.5 of 35):
+  F1 Genome DNA: power at period 5 exceeds its neighbours in >= 24 of 35 genomes.
+  F2 Genome DNA: power at period 41 exceeds its neighbours in >= 24 of 35 genomes.
+  F3 Coding regions: power at period 5 exceeds its neighbours in >= 24 of 35 genomes.
+  F4 Coding regions: power at period 41 exceeds its neighbours in >= 24 of 35 genomes.
+Positive control (must succeed for the method to count): coding regions, period 3 (bin 4100/3 is not an integer, so use window 4101 = 3 x 1367, bin 1367
+  vs bins 1357-1362 and 1372-1377) exceeds neighbours in >= 33 of 35 genomes.
