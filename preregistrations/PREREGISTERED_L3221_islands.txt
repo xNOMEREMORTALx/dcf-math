@@ -1,0 +1,10 @@
+DCF L3221 - [Fe-island] label-free Fe-S island finder, blind test on blind_18. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE any blind_18 annotation is read
+(blind_18 tool runs were in progress; no grading done).
+Method: rounds/dcf_islands_dev_L3221.py SHA-256 4ae338ab2f70c6af4bc447b53947316c4e859dadab24e14028dcab22b935b1f9 - windows of 10 consecutive v2.31-predicted genes, CxxC per 1000 aa,
+islands = windows with z >= 3 vs the genome's own windows, merged. Grading: annotated /product keywords (fixed regex in the script).
+Development (16 seen genomes, blind_14-17): enrichment 2.2-6.7x in genomes with keyword genes >= 0.8% of genes; lactic genomes have no keyword islands.
+Genomes: the 5 blind_18 genomes received (NC_013173, NC_008095, NC_009253, NC_006322, NC_009850) and NC_012115 if it arrives.
+Predictions:
+  I1 In every graded genome whose keyword genes are >= 0.8% of all genes, island genes are >= 2.0x enriched in keyword genes.
+  I2 Pooled over those genomes (sum of island keyword genes / sum of island genes, vs pooled genome fraction): enrichment >= 3.0x.
+  I3 In those genomes, >= 50% of islands contain at least one keyword gene.
