@@ -1,0 +1,11 @@
+DCF L3225 - [Helix-phase] cysteine step spectrum of metal-binding chemistry. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE computing.
+Data: the label-free predicted proteomes (gene finder v2.31) of the 28 chromosomes already graded (blind_14-18; pHG1 excluded).
+Groups fixed now from the hashed tool numbers: Fe-S-RICH = CxxC density >= 0.60; Fe-S-POOR = density <= 0.40.
+Measure: for every protein, all cysteine pairs at spacing d = 1..24 residues (C at i and i+d); observed / expected, expected from each protein's own cysteine count
+(pairs expected = n_C(n_C-1)/2 * (L-d)/(L(L-1)/2)), pooled per genome.
+Predictions:
+  Q1 Ferredoxin ladder (CxxCxxCxxxC gives pair steps 3, 6, 10): median O/E at d=6 and at d=10 is higher in Fe-S-RICH than Fe-S-POOR genomes (one-sided Mann-Whitney p < 0.05 for each).
+  Q2 Helical phase (Gary's hypothesis): after removing every ferredoxin-type motif C..C..C...C, the O/E spectrum over d=1..24 has more power at period 3.6 residues
+     in Fe-S-RICH than in Fe-S-POOR genomes (one-sided Mann-Whitney p < 0.05).
+  Q3 Control: the same period-3.6 power, computed for lysine pairs (K..K), does NOT differ between the groups (two-sided p >= 0.05).
+Context (exploratory, already seen, not graded): DNA AA/TT helical rhythm vs CxxC density across these 28 genomes: rho 0.00 (amplitude), 0.05 (period).
