@@ -27,6 +27,7 @@ Annotation is read only after the tool numbers are written and hashed. It is use
 | **L3213 (blind_16)** | **carbon fixation vs hydrogen** | green sulfur (rTCA) high; pHG1 plasmid high; **but the Calvin + H2 aerobe *Xanthobacter* read low (0.35) and a Calvin non-H2 aerobe read 0.51 — 3/5** |
 | **L3213 (blind_17)** | **H2-evolving vs lactic fermenters** | **4 H2 fermenters 0.56–0.77, 4 lactic 0.16–0.29; 16/16 pairs, p = 1/70 — 4/4 pass** |
 | L3221 (blind_18) | lineage-matched pairs | sulfate reducers above their phylum partners (0.96 vs 0.42; 0.89 vs 0.31); but aerotolerant *Arcobacter* read **0.57** (D2 failed); *Nautilia* pending |
+| **L3229/L3241 (blind_18–19)** | **six lineage-matched pairs, five phyla** | **ferredoxin-based member higher in 6 of 6** (blind_19: 1.08 vs 0.62, 1.09 vs 0.42, 0.45 vs 0.28); the 3-3-4 ladder separates every blind_19 pair more sharply than CxxC (4.7–8.4× vs 1.6–2.6×) |
 
 ## 3. The L3185 table (blind, 10 genomes)
 | group | genome | CxxC per 1,000 aa | Sec |

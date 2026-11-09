@@ -1,0 +1,8 @@
+L3241 tool numbers (blind_19, 6 genomes). Written before reading any annotation.
+acc code genes CxxC_per_1000 R GC ladder_per_1000
+NC_006396 11 3113 0.62 12.3 0.62 0.0190
+NC_007681 11 1483 1.08 8.2 0.28 0.1285
+NC_009441 11 5031 0.28 4.7 0.34 0.0080
+NC_009615 11 3552 0.45 3.6 0.45 0.0377
+NC_010175 11 4971 0.42 4.8 0.57 0.0157
+NC_014314 11 1625 1.09 9.8 0.55 0.1317
