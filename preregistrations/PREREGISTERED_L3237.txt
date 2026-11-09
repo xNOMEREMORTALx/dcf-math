@@ -1,0 +1,15 @@
+DCF L3237 - [Fe-lineage] + [Fe-ladder] + [Fe-island b], blind_19. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE download.
+Tools: gene finder v2.32 (fa30258b...297c); dcf_metals.py frozen a640abc9 (CxxC density); ladder script rounds/dcf_ladder_L3237.py SHA-256 68c51f7be3a3369f6ba6f26c869d141b44faaa61b785c57c1ca53f34fb0f7d91;
+island script rounds/dcf_islands_dev_L3221.py (4ae338ab...b1f9). Tool numbers hashed before any annotation is read.
+Accessions absent from seen_accessions.txt (138); names absent from seen_names.txt. Pairs (ferredoxin-based member FIRST, same phylum):
+  P1 Euryarchaeota: NC_007681 Methanosphaera stadtmanae DSM 3091 (H2/methanol methanogen) vs NC_006396 Haloarcula marismortui chr I (aerobic halophile)
+  P2 Chloroflexota: NC_014314 Dehalogenimonas lykanthroporepellens BL-DC-9 (anaerobic organohalide respirer) vs NC_010175 Chloroflexus aurantiacus J-10-fl (3-hydroxypropionate phototroph)
+  P3 Bacteroidota: NC_009615 Parabacteroides distasonis ATCC 8503 (anaerobic fermenter, ferredoxin-dependent PFOR) vs NC_009441 Flavobacterium johnsoniae UW101 (aerobe)
+Predictions:
+  L1 CxxC density: first member higher in 3 of 3 pairs.
+  L2 Ladder density: first member higher in 3 of 3 pairs.
+  L3 Sharper marker: the member/partner ratio is larger for the ladder than for CxxC in >= 2 of 3 pairs.
+  L4 [Fe-island b] In genomes with CxxC density >= 0.60 (tool-set eligibility), island keyword enrichment >= 3.0x in every eligible genome.
+  L5 [Fe-island b] In eligible genomes, >= 60% of islands (pooled) carry a keyword gene.
+  (Graded only if >= 2 genomes are eligible.)
+Risks: Methanosphaera has a reduced methanogenic pathway; Parabacteroides (Bacteroidales) may read low despite PFOR; Chloroflexus carries some Fe-S photosynthetic proteins.
