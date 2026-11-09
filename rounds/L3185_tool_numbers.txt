@@ -1,0 +1,4 @@
+L3185 tool numbers (blind_15 = the two files missing from blind_14). Written before reading Sec annotation.
+acc code genes CxxC_per_1000 R GC
+NC_013799 11 1810 0.86 8.9 0.44
+NC_006814 11 1764 0.22 7.9 0.35
