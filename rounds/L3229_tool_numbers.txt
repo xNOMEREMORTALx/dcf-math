@@ -1,0 +1,2 @@
+L3229 tool numbers (NC_012115 Nautilia, completes blind_18). Written before reading annotation.
+NC_012115 11 1678 0.75 11.6 0.34
