@@ -1,0 +1,16 @@
+DCF L3253 - [Metal-DNA] Gary: the proton, neutron and electron counts of the body's metals placed "at detectable intervals in DNA".
+Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE computing. Analyst's expectation: null.
+Metals and numbers (Z = protons = electrons of the neutral atom; N = neutrons and A = mass number of the most abundant isotope):
+  Na Z11 N12 A23 | Mg Z12 N12 A24 | K Z19 N20 A39 | Ca Z20 N20 A40 | Fe Z26 N30 A56 | Cu Z29 N34 A63 | Zn Z30 N34 A64
+  -> 15 distinct periods: 11 12 19 20 23 24 26 29 30 34 39 40 56 63 64 (nucleotides).
+Data: 35 chromosomes of blind_14-19 (pHG1 excluded); (a) whole genome, (b) predicted coding regions (sense strand).
+Method: Fourier power of the four base-indicator sequences, windows of W = p * round(4100/p) so period p sits exactly on bin k = W/p;
+  averaged over windows; compared with the mean of bins k-8..k-3 and k+3..k+8.
+Threshold (multiple testing, 15 periods x 2 datasets = 30 tests; Bonferroni 0.05/30 = 0.0017): a period "stands out" if it beats its neighbours in
+  >= 27 of 35 genomes (binomial p = 0.0009).
+Predictions:
+  MD1 Na, MD2 Mg, MD3 K, MD4 Ca, MD5 Fe, MD6 Cu, MD7 Zn: at least one of the metal's numbers stands out in (a) or (b).
+Positive control: period 3 in (b) stands out (as in L3249: 35 of 35).
+Declared confound: bacterial genomes carry a known ~10-11 bp helical rhythm, so period 11 (Na) may stand out for that reason alone;
+  a pass for Na at 11 only would not be counted as support for the metal hypothesis.
+Ionization energies are not tested: they are measured in eV or kJ/mol and are not whole numbers, so they have no unit-free nucleotide interval.
