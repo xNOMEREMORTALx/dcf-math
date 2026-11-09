@@ -26,6 +26,7 @@ Annotation is read only after the tool numbers are written and hashed. It is use
 | L3181/L3185 | hydrogen handlers vs fermenters and non-H2 aerobes | all 5 H2 handlers above all 5 others; p = 1/252 — **5/5 pass** |
 | **L3213 (blind_16)** | **carbon fixation vs hydrogen** | green sulfur (rTCA) high; pHG1 plasmid high; **but the Calvin + H2 aerobe *Xanthobacter* read low (0.35) and a Calvin non-H2 aerobe read 0.51 — 3/5** |
 | **L3213 (blind_17)** | **H2-evolving vs lactic fermenters** | **4 H2 fermenters 0.56–0.77, 4 lactic 0.16–0.29; 16/16 pairs, p = 1/70 — 4/4 pass** |
+| L3221 (blind_18) | lineage-matched pairs | sulfate reducers above their phylum partners (0.96 vs 0.42; 0.89 vs 0.31); but aerotolerant *Arcobacter* read **0.57** (D2 failed); *Nautilia* pending |
 
 ## 3. The L3185 table (blind, 10 genomes)
 | group | genome | CxxC per 1,000 aa | Sec |
@@ -104,6 +105,8 @@ Sec = annotated selenocysteine codons (`transl_except`), corrected in L3197; the
 - **Selenocysteine:** *Xanthobacter* carries one Sec codon, a second aerobe with Sec. Both such aerobes (*Hydrogenobacter*, *Xanthobacter*) are H2/formate users, consistent with Sec riding on formate dehydrogenase rather than on oxygen-free life as such [D].
 
 This reading is formed **after** L3213. It is [D] until tested blind (lead [Fe-Fd]).
+
+**L3221 update.** Within two phyla, the ferredoxin-based member read far above its relative (2 of 2 pairs so far). *Arcobacter*, labelled aerotolerant and oxidative, read 0.57. Campylobacterota, even microaerophiles, run ferredoxin-dependent 2-oxoacid oxidoreductases and several anaerobic respirations, so the label was too simple. That risk was declared in advance; the failure is kept.
 
 ## 5. Open confounds
 - **Phylogeny.** H2-evolving fermenters are Clostridia; lactic fermenters are Lactobacillales. Lineage and metabolism are not yet separated.
