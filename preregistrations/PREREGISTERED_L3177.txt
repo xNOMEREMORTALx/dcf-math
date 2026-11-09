@@ -1,0 +1,21 @@
+DCF L3177 - Fe-H2: hydrogen-handling lifestyles vs fermenters and non-H2 aerobes. Blind. Gary NOMEREMORTAL Mason. Frozen 2026-11-08 BEFORE download.
+Tools: gene finder v2.31 (SHA 215898dfd579...) -> dcf_metals.py (CxxC per 1000 aa, R). Frozen cut 0.50 (L3141).
+Annotation is read only after tool_numbers.txt is written and hashed, to count transl_except aa:Sec codons.
+Genomes (accessions checked against seen_accessions.txt; organism names searched in earlier reports on Drive;
+Lactobacillus plantarum and Methanospirillum were rejected for name reuse). Lifestyle labels from the literature:
+  H2-ANAEROBE: NC_016894 Acetobacterium woodii DSM 1030 (acetogen); NC_014328 Clostridium ljungdahlii DSM 13528 (acetogen);
+               NC_012108 Desulfobacterium autotrophicum HRM2 (sulfate reducer, chromosome)
+  H2-AEROBE:   NC_013799 Hydrogenobacter thermophilus TK-6 (aerobic H2 oxidiser); NC_008313 Cupriavidus necator H16 chromosome 1
+               (Knallgas bacterium; its main hydrogenase genes are on megaplasmid pHG1, which is NOT in this file)
+  FERMENTER:   NC_008531 Leuconostoc mesenteroides ATCC 8293; NC_004350 Streptococcus mutans UA159; NC_006814 Lactobacillus acidophilus NCFM
+  NON-H2 AEROBE: NC_004129 Pseudomonas fluorescens (protegens) Pf-5; NC_002927 Bordetella bronchiseptica RB50
+  Files whose LOCUS does not match are excluded and reported.
+Predictions:
+  F1 All 3 H2-anaerobes read CxxC density > 0.50.
+  F2 All 3 fermenters read < 0.50.
+  F3 Both aerobic H2 oxidisers read higher than both non-H2 aerobes (4 of 4 pairs).
+  F4 The 5 H2-handlers have a higher density than the 5 others: one-sided Mann-Whitney p < 0.05 (exact; min possible 1/252).
+  F5 >= 2 of 3 H2-anaerobes carry >= 1 annotated Sec codon, and all 3 fermenters carry 0. (Partly literature-informed; low novelty.)
+Risks: Hydrogenobacter may read high from its reductive TCA cycle rather than H2 itself; Cupriavidus chr1 lacks pHG1;
+lactic acid bacteria are aerotolerant; some "non-H2" aerobes may encode uptake hydrogenases.
+Descriptive only: R per genome, GC, genome size.
