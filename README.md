@@ -5,7 +5,7 @@
 Verified number-theory results from the Digital Cosmos Framework (DCF).
 - **Pre-registration.** Every prediction was hashed and frozen before its test was run.
 - **Honest grading.** Every result is graded honestly, failures included.
-- **Running record:** 261 of 338 pre-registered predictions passed, plus 3 split (L3185).
+- **Running record:** 261 of 341 pre-registered predictions passed, plus 3 split (L3193).
 
 ## Contents
 - **`notes/Note_Lambda_digit_agreement_draft_v0.5.md`:** a closed-form law for how often a number and its multiple share digits.
@@ -18,7 +18,7 @@ Verified number-theory results from the Digital Cosmos Framework (DCF).
   - Their Lehmer-sequence structure.
   - A mod-24 classification of the primes that divide them (density 1/3).
   - Star-number sides of hexagonal-number grids.
-- **`notes/Note_FeS_hydrogen_signature_draft_v0.1.md`:** Note H, an iron–sulfur signature of hydrogen metabolism in raw genomes (six pre-registered rounds, failures kept).
+- **`notes/Note_FeS_hydrogen_signature_draft_v0.2.md`:** Note H, an iron–sulfur signature of hydrogen metabolism in raw genomes (six pre-registered rounds, failures kept).
 - **`phone/`:** the DCF phone toolkit (`dcf_phone_6.05.py`, self-test 257/257), a DNA codec and an error-correcting code. Runs in Pydroid 3 on Android.
 - **`preregistrations/`:** 86 frozen prediction files from rounds L2746–L3189, with `LEDGER.md` listing their SHA-256 hashes.
 - **`rounds/`:** round reports and hashed tool numbers from L3181 on.

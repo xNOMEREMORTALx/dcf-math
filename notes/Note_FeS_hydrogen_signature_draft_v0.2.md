@@ -1,5 +1,5 @@
 # Note H: an iron–sulfur signature of hydrogen metabolism, visible in raw genomes
-### Draft v0.1 · Gary NOMEREMORTAL Mason · Digital Cosmos Framework · 8 November 2026
+### Draft v0.2 · Gary NOMEREMORTAL Mason · Digital Cosmos Framework · 8 November 2026
 
 **Status.** Draft. Every number is from the cited pre-registered round. The reports are in Drive (`11-3-2026 handoff`) and in `dcf-math/rounds/` from L3181 on. Failures are kept.
 
@@ -49,6 +49,21 @@ Annotation is read only after the tool numbers are written and hashed. It is use
 
 **Known biology this is consistent with.** Hydrogenases, ferredoxins and formate dehydrogenases are Fe–S proteins. The point here is only that the signal is visible **from raw DNA with a phone-sized pipeline**, and was tested blind.
 
+## 4b. Prior art (found in L3193) and a caveat on "fermenters"
+**Prior art.** Andreini, Rosato and Banci (PLoS ONE 2017, e0171279) predicted Fe–S proteins in 434 prokaryotic genomes from Pfam profiles.
+- **Their numbers:** aerobes 1.8 ± 0.6% of genes; high-content anaerobes 4.7 ± 1.0%. They also define low-content aerotolerant anaerobes (< 3%; mean 2.2 ± 0.4%, 36 genomes).
+- **Their explanation:** the extra Fe–S proteins are mostly in energy production and conversion.
+- **So the anaerobe-versus-aerobe contrast, and the existence of low-Fe–S anaerobes, are already known.**
+- **What this note adds is narrower:**
+  - the signal is recovered label-free from raw DNA with a phone-sized pipeline;
+  - it was tested blind;
+  - aerobic hydrogen oxidisers read like anaerobes (L3185). The paper does not discuss hydrogenases.
+
+**Caveat on "fermenters".** The fermenters in L3185 are lactic acid bacteria, which do not make H2.
+- **H2-evolving clostridial fermenters read above the cut** in L3165: *C. kluyveri* 0.72 and *L. phytofermentans* 0.64.
+- **The low readers of L3173** were *Fusobacterium* and *Treponema*.
+- **So "fermenters read low" holds for lactic fermenters; it is not general.** That fits the hydrogen reading, but it was noticed after the fact and is [D] until tested (lead [Fe-ferment H2]).
+
 ## 5. Open confounds
 - **Carbon fixation.** *Hydrogenobacter* also uses the Fe–S-rich reductive TCA cycle. L3189 (blind_16) separates the two:
   - green sulfur bacteria: reductive TCA cycle without being mainly H2-driven;
@@ -56,7 +71,7 @@ Annotation is read only after the tool numbers are written and hashed. It is use
   - Calvin-cycle aerobes without H2 metabolism.
 - **Plasmids.** *Cupriavidus*'s hydrogenases are on megaplasmid pHG1. L3189 reads it separately.
 - **Sample size.** Groups are 3–11 genomes, hand-chosen from the literature.
-- **Literature check needed** before any novelty claim. Genome-wide CxxC or Fe–S-domain counts by lifestyle may already be published.
+- **Literature:** see §4b. The anaerobe/aerobe contrast is published (Andreini et al. 2017); only the label-free, blind and hydrogen-specific parts may be new.
 
 ## Summary
 - **A phone-sized, label-free pipeline sees iron–sulfur energy chemistry in raw DNA.**
@@ -65,6 +80,7 @@ Annotation is read only after the tool numbers are written and hashed. It is use
 
 ## Potential leads for future research
 - **[Fe-rTCA]** Grade L3189 (blind_16): carbon fixation vs hydrogen.
-- **[Lit-FeS]** Literature search for genome-wide Fe–S or CxxC content by energy metabolism, before any submission.
+- **[Lit-FeS b]** Compare per-genome numbers with Andreini et al. 2017's table for any shared organisms (does CxxC density track their Fe–S percentage?).
+- **[Fe-ferment H2]** Pre-register: H2-evolving clostridial fermenters read > 0.50; lactic/non-H2 fermenters read < 0.50.
 - **[Fe-domain]** Replace the motif count with a small built-in Fe–S domain matcher (ferredoxin CxxCxxCxxxCP), to see if the signal sharpens.
 - **[Fe-H2 n]** A larger blind set (20+ genomes, chosen by a rule rather than by hand).
