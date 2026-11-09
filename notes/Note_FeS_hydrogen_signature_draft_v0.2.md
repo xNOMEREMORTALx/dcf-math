@@ -26,16 +26,18 @@ Annotation is read only after the tool numbers are written and hashed. It is use
 ## 3. The L3185 table (blind, 10 genomes)
 | group | genome | CxxC per 1,000 aa | Sec |
 |---|---|---|---|
-| H2, anaerobe | *Desulforapulum autotrophicum* | 0.93 | 27 |
-| H2, **aerobe** | ***Hydrogenobacter thermophilus*** | 0.86 | 2 |
-| H2, anaerobe | *Acetobacterium woodii* | 0.82 | 2 |
-| H2, anaerobe | *Clostridium ljungdahlii* | 0.77 | 12 |
+| H2, anaerobe | *Desulforapulum autotrophicum* | 0.93 | 26 |
+| H2, **aerobe** | ***Hydrogenobacter thermophilus*** | 0.86 | 1 |
+| H2, anaerobe | *Acetobacterium woodii* | 0.82 | 1 |
+| H2, anaerobe | *Clostridium ljungdahlii* | 0.77 | 9 |
 | H2, aerobe | *Cupriavidus necator* chr 1 | 0.40 | 0 |
 | aerobe | *Pseudomonas protegens* Pf-5 | 0.33 | 0 |
 | aerobe | *Bordetella bronchiseptica* | 0.32 | 0 |
 | fermenter | *Streptococcus mutans* | 0.25 | 0 |
 | fermenter | *Lactobacillus acidophilus* | 0.22 | 0 |
 | fermenter | *Leuconostoc mesenteroides* | 0.14 | 0 |
+
+Sec = annotated selenocysteine codons (`transl_except`), corrected in L3197; the first count also included tRNA-Sec anticodon lines.
 
 ## 4. Reading
 **The claim this supports.** The density measures how much of a proteome is built for **Fe–S-heavy energy chemistry**. Hydrogen metabolism is its clearest driver:

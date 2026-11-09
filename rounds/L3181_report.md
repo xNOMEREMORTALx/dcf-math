@@ -9,6 +9,9 @@
 
 **Tool numbers** were written and hashed **before** any annotation was read: `tool_numbers.txt`, SHA-256 `9a65c14e594561b545288541770d046d34a6a50f933683946676aa358a68ae4e`. All six tool hashes matched H3.
 
+
+> **Correction (L3197).** The Sec counts in this report were made with `grep -c 'aa:Sec'`, which also counts the tRNA-Sec anticodon lines (`/anticodon=(…,aa:Sec,…)`). The true selenocysteine codons (`transl_except`) are: *Desulforapulum* **26** (not 27), *C. ljungdahlii* **9** (not 12), *A. woodii* **1** (not 2), *Hydrogenobacter* **1** (not 2; in formate dehydrogenase-N alpha). Every genome reported with 0 stays 0. **No verdict changes:** F5 needed ≥ 1 Sec codon in ≥ 2 of 3 H2-anaerobes and 0 in the fermenters, which still holds (3 of 3; 0 of 3).
+
 ---
 
 ## 1. Iron–sulfur density, label-free
