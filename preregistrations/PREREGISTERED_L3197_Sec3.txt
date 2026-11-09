@@ -1,0 +1,7 @@
+DCF L3197 Sec-3 - blind test of the dcf_secflag coding filter. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE blind_16 and blind_17 are downloaded.
+Tool: dcf_secflag.py SHA-256 46891b351037739279e851cdfaeaa07383793a83b204f7687b9553fc49ec9388, run with and without --coding 0.05,
+on gene finder v2.31 predictions. Threshold 0.05 fixed from development (blind_14/15). Genomes: all of blind_16 and blind_17.
+Sites = annotated transl_except aa:Sec codons (NOT tRNA-Sec anticodon lines).
+Predictions:
+  S3a Of the annotated Sec sites caught by the unfiltered finder (pooled), the filter keeps >= 90%. Graded only if >= 5 such sites exist.
+  S3b In genomes with GC < 0.45, the median reduction in candidate count is >= 50%.
