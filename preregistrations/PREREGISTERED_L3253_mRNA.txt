@@ -1,0 +1,14 @@
+DCF L3253 - [IRE-wide] and [Metal-mRNA] on a large human RefSeq mRNA file. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE the file is downloaded.
+Script mrna/dcf_mrna_wide.py SHA-256 3e08ad6715d873dc735d08d27fb06010883e349149c4fa6ee2244228d2a24285, scanner mrna/dcf_ire.py 4499bd99... (unchanged). NM_ records only; UTRs from the longest ORF.
+Development note: a smoke test on the 15 seen mRNAs showed scanning UTRs separately clipped ACO2's IRE (it overlaps the CDS edge); fixed before freezing
+by scanning whole mRNAs and assigning hits by position. Shuffled control: dinucleotide-preserving shuffles of both UTRs (CDS kept), 10 replicates.
+Data: NCBI RefSeq human mRNA file human.1.rna.gbff.gz or human.1.rna.fna.gz (Gary downloads; the LOCUS/header lines decide which records are used).
+Predictions:
+  W1 IRE hits in real 5' UTRs >= 2.0x the shuffled mean (genuine IREs plus selection for structure, vs chance).
+  W2 Every known IRE gene present in the file among FTH1, FTL, TFRC, ALAS2, ACO2, SLC40A1 is hit (graded on those present; >= 2 needed).
+  W3 Metal numbers in mRNA: for each of Na, Mg, K, Ca, Fe, Cu, Zn, none of its periods (11 12 19 20 23 24 26 29 30 34 39 40 56 63 64) has a
+     window-bootstrap 99.83% CI (Bonferroni for 30 tests) lying entirely above 1.0, in coding regions or in UTRs. (This is the NULL, as the analyst expects;
+     Gary's hypothesis predicts the opposite. If any metal period's CI lies entirely above 1, W3 FAILS and that metal is reported as a positive.)
+Positive control: coding period 3 CI entirely above 1.
+Every hit outside the known IRE genes is reported as a CANDIDATE only; any discovery claim needs the follow-up checks (conservation across species, a
+second structure model) pre-registered separately.
