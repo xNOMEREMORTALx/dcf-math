@@ -1,0 +1,10 @@
+DCF L3193 - R5b: smallest q with period F_n, extended to F_17..F_20. Gary NOMEREMORTAL Mason. Frozen 2026-11-08 BEFORE computing.
+Method: scan every prime p < 10^8 (p != 2, 5) with 10^N = 1 mod p, include prime powers, find the smallest product q with lcm of orders = N.
+Exact if the answer is below 10^8 (every factor of q is below q); otherwise reported as "none below 10^8" and not graded.
+Targets: N = 1597 (prime), 2584 = 2^3*17*19, 4181 = 37*113, 6765 = 3*5*11*41.
+Predictions:
+  M1 N = 1597: the minimum is prime (forced: a prime order N leaves only factors of order 1 or N).
+  M2 N = 2584: the minimum is composite.
+  M3 N = 4181: the minimum is composite.
+  M4 N = 6765: the minimum is composite.
+Basis: composite minima so far at 144, 610, 987 (composite N with small-order factors); prime minima at composite 21, 34, 55, 377.
