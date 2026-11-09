@@ -1,0 +1,11 @@
+DCF L3209 - G-starts: blind test of gene finder v2.32 candidate vs v2.31. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE blind_16 and blind_17 are downloaded.
+Tools: v2.31 dcf_genefinder_mobile.py SHA-256 215898dfd5797589eb3cb0b16b7b104af4b8b1eab89f15fb1380fd9402ff36da;
+       v2.32 candidate dev/dcf_genefinder_v2.32_candidate.py SHA-256 e2e9c7936140b4159b1dd1568ac8c655a36c8b3307c2c933e7ffc442f64dd42a
+       (change: learned start re-pick uses coding weight 0.75 and fixed penalties GTG -4, TTG -5); both with --table auto.
+Grader: dcf_grade.py (761bd8a5...), exact start among same-stop genes. Genomes: every chromosome in blind_16 and blind_17 (the pHG1 plasmid excluded).
+Development basis: blind_14/15, leave-one-genome-out mean +2.44 points, worst -0.08; full-run check Bordetella 79.0 -> 84.7.
+Predictions:
+  T1 Mean exact-start gain (v2.32c minus v2.31) across the genomes >= +1.0 point.
+  T2 No genome loses more than 1.0 point of exact starts.
+  T3 Genes found and predictions correct each change by less than 0.5 point in every genome.
+Risk: genomes with many genuine GTG/TTG starts (some GC-rich lineages) could lose; none of that type was in development.
