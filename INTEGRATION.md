@@ -8,7 +8,7 @@
 - **[D]** description only (true, but chosen after looking, so not evidence);
 - **[✗]** tested and failed.
 
-**Record:** 256 of 333 pre-registered predictions passed, plus 3 split.
+**Record:** 257 of 334 pre-registered predictions passed, plus 3 split (L3181; 4 pending).
 
 ---
 

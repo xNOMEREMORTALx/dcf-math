@@ -1,0 +1,10 @@
+L3181 tool numbers (blind_14, 8 of 10 files received; NC_013799 and NC_006814 missing). Written before any annotation read.
+acc code genes CxxC_per_1000 R GC
+NC_002927 11 4876 0.32 3.7 0.68
+NC_004129 11 6058 0.33 3.1 0.63
+NC_004350 11 1779 0.25 8.6 0.37
+NC_008313 11 3567 0.40 4.7 0.66
+NC_008531 11 1868 0.14 32.2 0.38
+NC_012108 11 4445 0.93 5.6 0.49
+NC_014328 11 4009 0.77 4.1 0.31
+NC_016894 11 3463 0.82 5.3 0.39
