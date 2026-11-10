@@ -1,0 +1,17 @@
+DCF L3257 - [Redox-age] label-free three-way call (Fd / O2 / neither) from iron ladder + copper CuA. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE running
+on the held-out genomes. Script rounds/dcf_redoxage_L3257.py SHA-256 f2d171428d3883edee6c7f0b0db7846e60b6e8b5e8786f7ea67ededadd560417. Gene predictions: the existing v2.31/v2.32 runs.
+Development (12 genomes, used to choose motifs and the 0.06 cut): NC_004129 NC_002927 NC_008313 NC_009720 NC_008095 NC_009441 NC_007614 NC_013422
+NC_012108 NC_016894 NC_007681 NC_008531. CuA was never computed on the held-out genomes; ladder values of the 6 blind_19 genomes were seen in L3241
+(declared: Parabacteroides read 0.038, below 0.06, so it is expected to miss).
+Held-out 23 genomes and their labels (fixed from earlier pre-registrations / literature, by primary energy or carbon metabolism):
+  O2 (aerobic respiration, no ferredoxin-based core): NC_006322 B. licheniformis, NC_009850 Arcobacter, NC_006396 Haloarcula, NC_010175 Chloroflexus
+  Fd: NC_013799 Hydrogenobacter (rTCA), NC_014328 C. ljungdahlii, NC_002932 Chlorobaculum, NC_007514 Chlorobium, NC_009437 Caldicellulosiruptor,
+      NC_003869 Caldanaerobacter, NC_009617 C. beijerinckii, NC_014833 Ruminococcus, NC_013173 Desulfomicrobium, NC_009253 Desulfotomaculum,
+      NC_012115 Nautilia, NC_014314 Dehalogenimonas, NC_009615 Parabacteroides
+  neither (lactic fermenters): NC_004350 S. mutans, NC_006814 L. acidophilus, NC_008054 L. delbrueckii, NC_008525 Pediococcus, NC_008528 Oenococcus, NC_006448 S. thermophilus
+Predictions:
+  RA1 >= 19 of 23 called correctly (majority-class baseline 13 of 23).
+  RA2 >= 3 of 4 O2 genomes called O2.
+  RA3 >= 5 of 6 lactic fermenters called 'neither'.
+Declared risks: Arcobacter likely uses a cbb3 oxidase, which has no CuA; Bacillus also has quinol oxidases without CuA; anaerobes with N2O reductase carry CuA
+(the ladder rule takes precedence).
