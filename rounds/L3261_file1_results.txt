@@ -1,0 +1,57 @@
+NM_ mRNAs 2114 | 5'UTR 0.6 Mb, 3'UTR 3.1 Mb
+IRE hits: 5'UTR real 4 vs shuffled 6.2 | 3'UTR real 18 vs shuffled 22.6
+  HIT	NM_001365252.1	NM_001365252.1 Homo sapiens keratin-associated protein 4-7 (LOC100996750), mRNA	0	1
+  HIT	NM_033061.4	NM_033061.4 Homo sapiens keratin associated protein 4-7 (KRTAP4-7), mRNA	0	1
+  HIT	NM_001422112.1	NM_001422112.1 Homo sapiens olfactory receptor 2G6 (LOC128966580), mRNA	0	1
+  HIT	NM_001421699.1	NM_001421699.1 Homo sapiens pyruvate dehydrogenase phosphatase regulatory subuni	0	1
+  HIT	NM_001421751.1	NM_001421751.1 Homo sapiens pyruvate dehydrogenase phosphatase regulatory subuni	0	1
+  HIT	NM_001252507.3	NM_001252507.3 Homo sapiens chromosome 14 open reading frame 132 (C14orf132), tr	1	0
+  HIT	NM_001289139.2	NM_001289139.2 Homo sapiens chromosome 14 open reading frame 132 (C14orf132), tr	1	0
+  HIT	NM_001282463.2	NM_001282463.2 Homo sapiens chromosome 14 open reading frame 132 (C14orf132), tr	1	0
+  HIT	NM_001421698.1	NM_001421698.1 Homo sapiens pyruvate dehydrogenase phosphatase regulatory subuni	0	1
+  HIT	NM_006927.4	NM_006927.4 Homo sapiens ST3 beta-galactoside alpha-2,3-sialyltransferase 2 (ST3	0	1
+  HIT	NM_016353.5	NM_016353.5 Homo sapiens zDHHC palmitoyltransferase 2 (ZDHHC2), transcript varia	1	0
+  HIT	NM_001320643.3	NM_001320643.3 Homo sapiens salt inducible kinase 1B (putative) (LOC102724428), 	0	1
+  HIT	NM_001242644.1	NM_001242644.1 Homo sapiens RAB2A, member RAS oncogene family (RAB2A), transcrip	0	1
+  HIT	NM_001145161.3	NM_001145161.3 Homo sapiens ubiquitin conjugating enzyme E2 QL1 (UBE2QL1), trans	0	1
+  HIT	NM_001437658.1	NM_001437658.1 Homo sapiens nuclear receptor subfamily 3 group C member 2 (NR3C2	0	1
+  HIT	NM_007182.5	NM_007182.5 Homo sapiens Ras association domain family member 1 (RASSF1), transc	0	1
+  HIT	NM_170713.3	NM_170713.3 Homo sapiens Ras association domain family member 1 (RASSF1), transc	0	1
+  HIT	NM_001206957.2	NM_001206957.2 Homo sapiens Ras association domain family member 1 (RASSF1), tra	0	1
+  HIT	NM_170714.2	NM_170714.2 Homo sapiens Ras association domain family member 1 (RASSF1), transc	0	1
+  HIT	NM_170712.3	NM_170712.3 Homo sapiens Ras association domain family member 1 (RASSF1), transc	0	1
+  HIT	NM_001438412.1	NM_001438412.1 Homo sapiens KN motif and ankyrin repeat domains 1 (KANK1), trans	0	1
+  HIT	NM_001438411.1	NM_001438411.1 Homo sapiens KN motif and ankyrin repeat domains 1 (KANK1), trans	0	1
+coding period 3: ratio 22.483  99.83% CI 20.993-24.305  windows 917
+coding period 11: ratio 0.939  99.83% CI 0.876-1.005  windows 916
+coding period 12: ratio 1.040  99.83% CI 0.956-1.130  windows 916
+coding period 19: ratio 0.982  99.83% CI 0.918-1.053  windows 916
+coding period 20: ratio 0.918  99.83% CI 0.845-0.993  windows 917
+coding period 23: ratio 1.061  99.83% CI 0.985-1.140  windows 918
+coding period 24: ratio 1.021  99.83% CI 0.961-1.096  windows 916
+coding period 26: ratio 0.982  99.83% CI 0.917-1.063  windows 915
+coding period 29: ratio 1.000  99.83% CI 0.934-1.080  windows 919
+coding period 30: ratio 1.118  99.83% CI 1.034-1.208  windows 914
+coding period 34: ratio 0.946  99.83% CI 0.879-1.016  windows 914
+coding period 39: ratio 1.001  99.83% CI 0.917-1.108  windows 918
+coding period 40: ratio 0.976  99.83% CI 0.912-1.053  windows 921
+coding period 56: ratio 1.126  99.83% CI 1.037-1.219  windows 919
+coding period 63: ratio 1.068  99.83% CI 0.998-1.133  windows 918
+coding period 64: ratio 0.991  99.83% CI 0.924-1.062  windows 918
+UTR period 3: ratio 1.117  99.83% CI 1.034-1.199  windows 907
+UTR period 11: ratio 0.990  99.83% CI 0.907-1.097  windows 906
+UTR period 12: ratio 1.023  99.83% CI 0.958-1.093  windows 906
+UTR period 19: ratio 1.045  99.83% CI 0.971-1.112  windows 906
+UTR period 20: ratio 1.086  99.83% CI 1.014-1.165  windows 907
+UTR period 23: ratio 0.972  99.83% CI 0.901-1.045  windows 908
+UTR period 24: ratio 0.978  99.83% CI 0.915-1.041  windows 906
+UTR period 26: ratio 1.006  99.83% CI 0.941-1.073  windows 905
+UTR period 29: ratio 1.039  99.83% CI 0.972-1.108  windows 909
+UTR period 30: ratio 0.909  99.83% CI 0.854-0.968  windows 905
+UTR period 34: ratio 1.001  99.83% CI 0.927-1.077  windows 904
+UTR period 39: ratio 0.953  99.83% CI 0.894-1.016  windows 908
+UTR period 40: ratio 0.900  99.83% CI 0.843-0.963  windows 911
+UTR period 56: ratio 1.014  99.83% CI 0.959-1.074  windows 909
+UTR period 63: ratio 1.049  99.83% CI 0.982-1.120  windows 908
+UTR period 64: ratio 0.969  99.83% CI 0.898-1.039  windows 908
+EXIT 0

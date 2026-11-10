@@ -1,0 +1,205 @@
+NM_ mRNAs 9609 | 5'UTR 2.6 Mb, 3'UTR 18.4 Mb
+IRE hits: 5'UTR real 44 vs shuffled 23.2 | 3'UTR real 130 vs shuffled 110.4
+  HIT	NM_001438865.1	NM_001438865.1 Homo sapiens tensin 1 (TNS1), transcript variant 5, mRNA	0	1
+  HIT	NM_001438867.1	NM_001438867.1 Homo sapiens tensin 1 (TNS1), transcript variant 7, mRNA	1	1
+  HIT	NM_001438866.1	NM_001438866.1 Homo sapiens tensin 1 (TNS1), transcript variant 6, mRNA	0	1
+  HIT	NM_001438868.1	NM_001438868.1 Homo sapiens tensin 1 (TNS1), transcript variant 8, mRNA	0	1
+  HIT	NM_001438869.1	NM_001438869.1 Homo sapiens tensin 1 (TNS1), transcript variant 9, mRNA	0	1
+  HIT	NM_024769.5	NM_024769.5 Homo sapiens CXADR like cell adhesion molecule (CLMP), mRNA	0	1
+  HIT	NM_001130705.1	NM_001130705.1 Homo sapiens ADAM metallopeptidase domain 29 (ADAM29), transcript	1	0
+  HIT	NM_001130703.1	NM_001130703.1 Homo sapiens ADAM metallopeptidase domain 29 (ADAM29), transcript	1	0
+  HIT	NM_001079907.1	NM_001079907.1 Homo sapiens zinc finger protein 331 (ZNF331), transcript variant	1	0
+  HIT	NM_014269.4	NM_014269.4 Homo sapiens ADAM metallopeptidase domain 29 (ADAM29), transcript va	1	0
+  HIT	NM_001130704.1	NM_001130704.1 Homo sapiens ADAM metallopeptidase domain 29 (ADAM29), transcript	1	0
+  HIT	NM_014942.4	NM_014942.4 Homo sapiens ankyrin repeat domain 6 (ANKRD6), transcript variant 3,	1	0
+  HIT	NM_001242811.1	NM_001242811.1 Homo sapiens ankyrin repeat domain 6 (ANKRD6), transcript variant	1	0
+  HIT	NM_001317117.1	NM_001317117.1 Homo sapiens zinc finger protein 331 (ZNF331), transcript variant	1	0
+  HIT	NM_024787.3	NM_024787.3 Homo sapiens ring finger protein 122 (RNF122), mRNA	0	1
+  HIT	NM_001278126.1	NM_001278126.1 Homo sapiens ADAM metallopeptidase domain 29 (ADAM29), transcript	1	0
+  HIT	NM_001352584.1	NM_001352584.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352569.1	NM_001352569.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352588.1	NM_001352588.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352571.1	NM_001352571.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352585.1	NM_001352585.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352586.1	NM_001352586.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352572.1	NM_001352572.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001277140.1	NM_001277140.1 Homo sapiens actin related protein 3 (ACTR3), transcript variant 	0	1
+  HIT	NM_001352570.1	NM_001352570.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352573.1	NM_001352573.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352568.1	NM_001352568.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352581.1	NM_001352581.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352583.1	NM_001352583.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001352587.1	NM_001352587.1 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001242813.1	NM_001242813.1 Homo sapiens ankyrin repeat domain 6 (ANKRD6), transcript variant	1	0
+  HIT	NM_001271512.3	NM_001271512.3 Homo sapiens acyl-CoA binding domain containing 5 (ACBD5), transc	1	0
+  HIT	NM_001278125.1	NM_001278125.1 Homo sapiens ADAM metallopeptidase domain 29 (ADAM29), transcript	1	0
+  HIT	NM_001242814.1	NM_001242814.1 Homo sapiens ankyrin repeat domain 6 (ANKRD6), transcript variant	1	0
+  HIT	NM_001317118.1	NM_001317118.1 Homo sapiens zinc finger protein 331 (ZNF331), transcript variant	1	0
+  HIT	NM_018255.4	NM_018255.4 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2), t	0	1
+  HIT	NM_018013.4	NM_018013.4 Homo sapiens sine oculis binding protein homolog (SOBP), mRNA	0	1
+  HIT	NM_014700.4	NM_014700.4 Homo sapiens RAB11 family interacting protein 3 (RAB11FIP3), transcr	0	1
+  HIT	NM_005955.3	NM_005955.3 Homo sapiens metal regulatory transcription factor 1 (MTF1), mRNA	0	1
+  HIT	NM_001310.4	NM_001310.4 Homo sapiens cAMP responsive element binding protein like 2 (CREBL2)	0	1
+  HIT	NM_001112.4	NM_001112.4 Homo sapiens adenosine deaminase RNA specific B1 (ADARB1), transcrip	0	1
+  HIT	NM_032116.5	NM_032116.5 Homo sapiens katanin catalytic subunit A1 like 1 (KATNAL1), transcri	0	1
+  HIT	NM_138796.4	NM_138796.4 Homo sapiens spermatogenesis associated 17 (SPATA17), transcript var	0	1
+  HIT	NM_170736.3	NM_170736.3 Homo sapiens potassium inwardly rectifying channel subfamily J membe	0	1
+  HIT	NM_172225.2	NM_172225.2 Homo sapiens diencephalon/mesencephalon homeobox 1 (DMBX1), transcri	0	1
+  HIT	NM_001370402.1	NM_001370402.1 Homo sapiens bromodomain adjacent to zinc finger domain 1B (BAZ1B	0	1
+  HIT	NM_182485.3	NM_182485.3 Homo sapiens cytoplasmic polyadenylation element binding protein 2 (	0	1
+  HIT	NM_023112.4	NM_023112.4 Homo sapiens OTU deubiquitinase, ubiquitin aldehyde binding 2 (OTUB2	0	1
+  HIT	NM_152699.5	NM_152699.5 Homo sapiens SUMO specific peptidase 5 (SENP5), transcript variant 1	0	1
+  HIT	NM_001010917.3	NM_001010917.3 Homo sapiens golgin A7 family member B (GOLGA7B), mRNA	0	1
+  HIT	NM_002240.5	NM_002240.5 Homo sapiens potassium inwardly rectifying channel subfamily J membe	0	2
+  HIT	NM_022131.3	NM_022131.3 Homo sapiens calsyntenin 2 (CLSTN2), mRNA	0	1
+  HIT	NM_001704.3	NM_001704.3 Homo sapiens adhesion G protein-coupled receptor B3 (ADGRB3), mRNA	1	0
+  HIT	NM_005385.4	NM_005385.4 Homo sapiens natural killer cell triggering receptor (NKTR), transcr	0	1
+  HIT	NM_005435.4	NM_005435.4 Homo sapiens Rho guanine nucleotide exchange factor 5 (ARHGEF5), mRN	0	1
+  HIT	NM_001144990.2	NM_001144990.2 Homo sapiens NACHT and WD repeat domain containing 2 (NWD2), mRNA	1	0
+  HIT	NM_001008537.3	NM_001008537.3 Homo sapiens neurite extension and migration factor (NEXMIF), mRN	0	1
+  HIT	NM_014310.4	NM_014310.4 Homo sapiens RASD family member 2 (RASD2), transcript variant 1, mRN	1	0
+  HIT	NM_014350.4	NM_014350.4 Homo sapiens TNF alpha induced protein 8 (TNFAIP8), transcript varia	0	1
+  HIT	NM_002826.5	NM_002826.5 Homo sapiens quiescin sulfhydryl oxidase 1 (QSOX1), transcript varia	0	1
+  HIT	NM_001177381.2	NM_001177381.2 Homo sapiens cytoplasmic polyadenylation element binding protein 	0	1
+  HIT	NM_017758.4	NM_017758.4 Homo sapiens alkB homolog 5, RNA demethylase (ALKBH5), mRNA	0	1
+  HIT	NM_001366574.1	NM_001366574.1 Homo sapiens transmembrane O-mannosyltransferase targeting cadher	0	1
+  HIT	NM_001145720.2	NM_001145720.2 Homo sapiens zinc finger and BTB domain containing 8B (ZBTB8B), m	0	1
+  HIT	NM_001006605.5	NM_001006605.5 Homo sapiens divergent protein kinase domain 1A (DIPK1A), transcr	0	1
+  HIT	NM_031459.5	NM_031459.5 Homo sapiens sestrin 2 (SESN2), mRNA	0	1
+  HIT	NM_198484.5	NM_198484.5 Homo sapiens zinc finger protein 621 (ZNF621), transcript variant 1,	0	1
+  HIT	NM_007365.3	NM_007365.3 Homo sapiens peptidyl arginine deiminase 2 (PADI2), mRNA	0	1
+  HIT	NM_001366579.1	NM_001366579.1 Homo sapiens transmembrane O-mannosyltransferase targeting cadher	0	1
+  HIT	NM_005024.3	NM_005024.3 Homo sapiens serpin family B member 10 (SERPINB10), mRNA	1	0
+  HIT	NM_001010851.3	NM_001010851.3 Homo sapiens zinc finger protein 766 (ZNF766), mRNA	0	1
+  HIT	NM_020733.2	NM_020733.2 Homo sapiens heart development protein with EGF like domains 1 (HEG1	0	1
+  HIT	NM_001177383.2	NM_001177383.2 Homo sapiens cytoplasmic polyadenylation element binding protein 	0	1
+  HIT	NM_001322101.2	NM_001322101.2 Homo sapiens centromere protein O (CENPO), transcript variant 3, 	0	1
+  HIT	NM_014216.6	NM_014216.6 Homo sapiens inositol-tetrakisphosphate 1-kinase (ITPK1), transcript	0	1
+  HIT	NM_001177382.2	NM_001177382.2 Homo sapiens cytoplasmic polyadenylation element binding protein 	0	1
+  HIT	NM_002081.3	NM_002081.3 Homo sapiens glypican 1 (GPC1), mRNA	0	1
+  HIT	NM_001166271.3	NM_001166271.3 Homo sapiens spermatogenesis associated 13 (SPATA13), transcript 	0	1
+  HIT	NM_001177384.2	NM_001177384.2 Homo sapiens cytoplasmic polyadenylation element binding protein 	0	1
+  HIT	NM_001242809.2	NM_001242809.2 Homo sapiens ankyrin repeat domain 6 (ANKRD6), transcript variant	1	0
+  HIT	NM_018667.4	NM_018667.4 Homo sapiens sphingomyelin phosphodiesterase 3 (SMPD3), mRNA	0	1
+  HIT	NM_001076675.3	NM_001076675.3 Homo sapiens zinc finger protein 626 (ZNF626), transcript variant	0	1
+  HIT	NM_003417.5	NM_003417.5 Homo sapiens zinc finger protein 264 (ZNF264), mRNA	0	1
+  HIT	NM_014742.4	NM_014742.4 Homo sapiens transmembrane 9 superfamily member 4 (TM9SF4), transcri	0	1
+  HIT	NM_032408.4	NM_032408.4 Homo sapiens bromodomain adjacent to zinc finger domain 1B (BAZ1B), 	0	1
+  HIT	NM_005734.5	NM_005734.5 Homo sapiens homeodomain interacting protein kinase 3 (HIPK3), trans	0	1
+  HIT	NM_001366583.1	NM_001366583.1 Homo sapiens transmembrane O-mannosyltransferase targeting cadher	0	1
+  HIT	NM_182646.3	NM_182646.3 Homo sapiens cytoplasmic polyadenylation element binding protein 2 (	0	1
+  HIT	NM_173664.6	NM_173664.6 Homo sapiens ARF like GTPase 10 (ARL10), transcript variant 2, mRNA	0	1
+  HIT	NM_213590.3	NM_213590.3 Homo sapiens tripartite motif containing 13 (TRIM13), transcript var	1	0
+  HIT	NM_032303.5	NM_032303.5 Homo sapiens hydroxysteroid dehydrogenase like 2 (HSDL2), transcript	0	1
+  HIT	NM_001035254.3	NM_001035254.3 Homo sapiens estrogen-induced osteoclastogenesis regulator 1 (EEI	0	1
+  HIT	NM_015132.5	NM_015132.5 Homo sapiens sorting nexin 13 (SNX13), transcript variant 2, mRNA	0	1
+  HIT	NM_181783.4	NM_181783.4 Homo sapiens transmembrane O-mannosyltransferase targeting cadherins	0	1
+  HIT	NM_152326.4	NM_152326.4 Homo sapiens ankyrin repeat domain 9 (ANKRD9), transcript variant 2,	0	1
+  HIT	NM_001366580.1	NM_001366580.1 Homo sapiens transmembrane O-mannosyltransferase targeting cadher	0	1
+  HIT	NM_015693.4	NM_015693.4 Homo sapiens inturned planar cell polarity protein (INTU), mRNA	0	1
+  HIT	NM_178815.5	NM_178815.5 Homo sapiens ARF like GTPase 5B (ARL5B), mRNA	0	1
+  HIT	NM_001080392.2	NM_001080392.2 Homo sapiens DENN domain containing 11 (DENND11), mRNA	0	1
+  HIT	NM_012458.4	NM_012458.4 Homo sapiens translocase of inner mitochondrial membrane 13 (TIMM13)	0	1
+  HIT	NM_001063.4	NM_001063.4 Homo sapiens transferrin (TF), transcript variant 1, mRNA	0	1
+  HIT	NM_001005404.4	NM_001005404.4 Homo sapiens yippee like 2 (YPEL2), mRNA	0	1
+  HIT	NM_001370401.1	NM_001370401.1 Homo sapiens RAB11 family interacting protein 3 (RAB11FIP3), tran	0	1
+  HIT	NM_020703.4	NM_020703.4 Homo sapiens adhesion molecule with Ig like domain 1 (AMIGO1), mRNA	0	1
+  HIT	NM_001956.5	NM_001956.5 Homo sapiens endothelin 2 (EDN2), transcript variant 1, mRNA	0	1
+  HIT	NM_001242879.3	NM_001242879.3 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_001276437.2	NM_001276437.2 Homo sapiens potassium inwardly rectifying channel subfamily J me	0	1
+  HIT	NM_001077654.3	NM_001077654.3 Homo sapiens TNF alpha induced protein 8 (TNFAIP8), transcript va	0	1
+  HIT	NM_001286817.2	NM_001286817.2 Homo sapiens TNF alpha induced protein 8 (TNFAIP8), transcript va	0	1
+  HIT	NM_133464.5	NM_133464.5 Homo sapiens zinc finger protein 483 (ZNF483), transcript variant 1,	0	1
+  HIT	NM_001130524.2	NM_001130524.2 Homo sapiens adaptor related protein complex 1 subunit mu 1 (AP1M	0	1
+  HIT	NM_001354704.2	NM_001354704.2 Homo sapiens transferrin (TF), transcript variant 3, mRNA	0	1
+  HIT	NM_001042483.2	NM_001042483.2 Homo sapiens nuclear protein 1, transcriptional regulator (NUPR1)	1	0
+  HIT	NM_005721.5	NM_005721.5 Homo sapiens actin related protein 3 (ACTR3), transcript variant 1, 	0	1
+  HIT	NM_001349125.2	NM_001349125.2 Homo sapiens natural killer cell triggering receptor (NKTR), tran	0	1
+  HIT	NM_001317115.2	NM_001317115.2 Homo sapiens zinc finger protein 331 (ZNF331), transcript variant	1	0
+  HIT	NM_001282441.2	NM_001282441.2 Homo sapiens G protein subunit alpha 12 (GNA12), transcript varia	1	0
+  HIT	NM_001184939.3	NM_001184939.3 Homo sapiens erythrocyte membrane protein band 4.1 like 5 (EPB41L	0	1
+  HIT	NM_001350866.2	NM_001350866.2 Homo sapiens sorting nexin 13 (SNX13), transcript variant 6, mRNA	1	1
+  HIT	NM_001242875.3	NM_001242875.3 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_001286792.2	NM_001286792.2 Homo sapiens spermatogenesis associated 13 (SPATA13), transcript 	0	1
+  HIT	NM_001303128.2	NM_001303128.2 Homo sapiens DnaJ heat shock protein family (Hsp40) member C5 gam	0	1
+  HIT	NM_001303127.2	NM_001303127.2 Homo sapiens DnaJ heat shock protein family (Hsp40) member C5 gam	0	1
+  HIT	NM_001284292.2	NM_001284292.2 Homo sapiens NUT midline carcinoma family member 1 (NUTM1), trans	1	0
+  HIT	NM_001018069.2	NM_001018069.2 Homo sapiens SERPINE1 mRNA binding protein 1 (SERBP1), transcript	0	1
+  HIT	NM_001350867.2	NM_001350867.2 Homo sapiens sorting nexin 13 (SNX13), transcript variant 7, mRNA	1	1
+  HIT	NM_001302269.2	NM_001302269.2 Homo sapiens endothelin 2 (EDN2), transcript variant 2, mRNA	0	1
+  HIT	NM_001329779.2	NM_001329779.2 Homo sapiens zinc finger protein 875 (ZNF875), transcript variant	0	1
+  HIT	NM_001286795.2	NM_001286795.2 Homo sapiens spermatogenesis associated 13 (SPATA13), transcript 	0	1
+  HIT	NM_153023.4	NM_153023.4 Homo sapiens spermatogenesis associated 13 (SPATA13), transcript var	0	1
+  HIT	NM_001303236.2	NM_001303236.2 Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), t	1	0
+  HIT	NM_001017371.5	NM_001017371.5 Homo sapiens Sp3 transcription factor (SP3), transcript variant 2	0	1
+  HIT	NM_001018068.2	NM_001018068.2 Homo sapiens SERPINE1 mRNA binding protein 1 (SERBP1), transcript	0	1
+  HIT	NM_001322842.2	NM_001322842.2 Homo sapiens ABR activator of RhoGEF and GTPase (ABR), transcript	0	1
+  HIT	NM_002243.5	NM_002243.5 Homo sapiens potassium inwardly rectifying channel subfamily J membe	0	1
+  HIT	NM_001184938.4	NM_001184938.4 Homo sapiens erythrocyte membrane protein band 4.1 like 5 (EPB41L	0	1
+  HIT	NM_001354703.2	NM_001354703.2 Homo sapiens transferrin (TF), transcript variant 2, mRNA	0	1
+  HIT	NM_001286793.2	NM_001286793.2 Homo sapiens spermatogenesis associated 13 (SPATA13), transcript 	0	1
+  HIT	NM_173650.3	NM_173650.3 Homo sapiens DnaJ heat shock protein family (Hsp40) member C5 gamma 	0	1
+  HIT	NM_001018067.2	NM_001018067.2 Homo sapiens SERPINE1 mRNA binding protein 1 (SERBP1), transcript	0	1
+  HIT	NM_001048200.3	NM_001048200.3 Homo sapiens homeodomain interacting protein kinase 3 (HIPK3), tr	0	1
+  HIT	NM_001324467.2	NM_001324467.2 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_001199803.3	NM_001199803.3 Homo sapiens centromere protein O (CENPO), transcript variant 2, 	0	1
+  HIT	NM_001353388.2	NM_001353388.2 Homo sapiens testis expressed 26 (TEX26), transcript variant 2, m	1	0
+  HIT	NM_001242877.3	NM_001242877.3 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_015640.4	NM_015640.4 Homo sapiens SERPINE1 mRNA binding protein 1 (SERBP1), transcript va	0	1
+  HIT	NM_001286813.2	NM_001286813.2 Homo sapiens TNF alpha induced protein 8 (TNFAIP8), transcript va	0	1
+  HIT	NM_133476.5	NM_133476.5 Homo sapiens zinc finger protein 384 (ZNF384), transcript variant 2,	0	1
+  HIT	NM_001282661.3	NM_001282661.3 Homo sapiens myocardin related transcription factor A (MRTFA), tr	1	0
+  HIT	NM_001253798.2	NM_001253798.2 Homo sapiens zinc finger protein 331 (ZNF331), transcript variant	1	0
+  HIT	NM_032493.4	NM_032493.4 Homo sapiens adaptor related protein complex 1 subunit mu 1 (AP1M1),	0	1
+  HIT	NM_001324465.2	NM_001324465.2 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_001122841.3	NM_001122841.3 Homo sapiens FERM domain containing 1 (FRMD1), transcript variant	0	1
+  HIT	NM_001242878.3	NM_001242878.3 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_001098414.3	NM_001098414.3 Homo sapiens zinc finger protein 621 (ZNF621), transcript variant	0	1
+  HIT	NM_001276439.2	NM_001276439.2 Homo sapiens potassium inwardly rectifying channel subfamily J me	0	1
+  HIT	NM_001276438.2	NM_001276438.2 Homo sapiens potassium inwardly rectifying channel subfamily J me	0	1
+  HIT	NM_001324468.2	NM_001324468.2 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_001324466.2	NM_001324466.2 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_001350862.2	NM_001350862.2 Homo sapiens sorting nexin 13 (SNX13), transcript variant 1, mRNA	0	1
+  HIT	NM_001286815.2	NM_001286815.2 Homo sapiens TNF alpha induced protein 8 (TNFAIP8), transcript va	0	1
+  HIT	NM_001242876.3	NM_001242876.3 Homo sapiens elongator acetyltransferase complex subunit 2 (ELP2)	0	1
+  HIT	NM_001003716.4	NM_001003716.4 Homo sapiens RecQ like helicase 5 (RECQL5), transcript variant 3,	0	1
+  HIT	NM_001350863.2	NM_001350863.2 Homo sapiens sorting nexin 13 (SNX13), transcript variant 3, mRNA	0	1
+  HIT	NM_001330307.2	NM_001330307.2 Homo sapiens erythrocyte membrane protein band 4.1 like 5 (EPB41L	0	1
+  HIT	NM_138706.5	NM_138706.5 Homo sapiens UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransfe	0	1
+  HIT	NM_001349126.2	NM_001349126.2 Homo sapiens natural killer cell triggering receptor (NKTR), tran	0	1
+  HIT	NM_019894.4	NM_019894.4 Homo sapiens transmembrane serine protease 4 (TMPRSS4), transcript v	0	1
+  HIT	NM_001350985.2	NM_001350985.2 Homo sapiens zinc finger and SCAN domain containing 25 (ZSCAN25),	0	1
+  HIT	NM_001350864.2	NM_001350864.2 Homo sapiens sorting nexin 13 (SNX13), transcript variant 4, mRNA	0	1
+coding period 3: ratio 17.648  99.83% CI 17.062-18.315  windows 3735
+coding period 11: ratio 1.019  99.83% CI 0.985-1.056  windows 3733
+coding period 12: ratio 1.249  99.83% CI 1.176-1.321  windows 3732
+coding period 19: ratio 1.010  99.83% CI 0.979-1.041  windows 3732
+coding period 20: ratio 0.982  99.83% CI 0.953-1.013  windows 3736
+coding period 23: ratio 0.982  99.83% CI 0.949-1.019  windows 3741
+coding period 24: ratio 1.138  99.83% CI 1.026-1.308  windows 3732
+coding period 26: ratio 1.025  99.83% CI 0.995-1.058  windows 3728
+coding period 29: ratio 0.938  99.83% CI 0.906-0.973  windows 3746
+coding period 30: ratio 1.007  99.83% CI 0.959-1.073  windows 3727
+coding period 34: ratio 0.988  99.83% CI 0.952-1.025  windows 3723
+coding period 39: ratio 0.958  99.83% CI 0.924-0.992  windows 3740
+coding period 40: ratio 0.946  99.83% CI 0.917-0.977  windows 3754
+coding period 56: ratio 1.006  99.83% CI 0.973-1.041  windows 3747
+coding period 63: ratio 0.998  99.83% CI 0.964-1.029  windows 3740
+coding period 64: ratio 1.016  99.83% CI 0.986-1.052  windows 3739
+UTR period 3: ratio 1.065  99.83% CI 1.031-1.103  windows 5127
+UTR period 11: ratio 1.007  99.83% CI 0.983-1.032  windows 5125
+UTR period 12: ratio 1.013  99.83% CI 0.989-1.042  windows 5124
+UTR period 19: ratio 0.975  99.83% CI 0.948-1.002  windows 5124
+UTR period 20: ratio 1.022  99.83% CI 0.994-1.050  windows 5129
+UTR period 23: ratio 1.011  99.83% CI 0.981-1.038  windows 5136
+UTR period 24: ratio 1.016  99.83% CI 0.987-1.044  windows 5124
+UTR period 26: ratio 1.006  99.83% CI 0.977-1.033  windows 5119
+UTR period 29: ratio 0.969  99.83% CI 0.942-0.997  windows 5142
+UTR period 30: ratio 1.011  99.83% CI 0.986-1.039  windows 5116
+UTR period 34: ratio 0.994  99.83% CI 0.967-1.022  windows 5111
+UTR period 39: ratio 0.980  99.83% CI 0.955-1.007  windows 5135
+UTR period 40: ratio 0.989  99.83% CI 0.963-1.018  windows 5154
+UTR period 56: ratio 0.977  99.83% CI 0.951-1.002  windows 5144
+UTR period 63: ratio 0.985  99.83% CI 0.958-1.011  windows 5135
+UTR period 64: ratio 0.992  99.83% CI 0.966-1.017  windows 5134
+EXIT 0
