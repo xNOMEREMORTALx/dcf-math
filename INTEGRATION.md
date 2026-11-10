@@ -98,3 +98,9 @@
 - **Fe-O blind (L3173), 2 of 4:** facultatives fall between (barely) and carry selenocysteine; but two host-associated fermenting obligate anaerobes
   (*Fusobacterium* 0.34, *Treponema* 0.49) read below the 0.50 cut [✗]. The Fe-S profile marks Fe-S-heavy anaerobic *energy metabolism*
   (methanogens, sulfate reducers, acetogens, syntrophs), not oxygen intolerance as such.
+
+## Method lessons (L3261–L3265)
+- **Count one transcript per gene.** Transcript variants share sequence, so counting all of them is pseudo-replication: the IRE excess read 1.90× over all variants but 0.84× per gene (L3261).
+- **Window-bootstrap intervals were miscalibrated** for Fourier periods: 11 of 78 non-metal periods fell outside their 95% CI (expected about 4). Compare a test period against an empirical null of many control periods instead (L3261 amendment, frozen before file 2 was opened).
+- **Shufflers must not give up silently.** The dinucleotide shuffler stopped after 50 tries and crashed; fixed to retry, tested on 20,000 sequences and logged in the ledger before rerunning.
+- **Literature checks at the point of a candidate novelty** (L3265): the 84-nt zinc-finger rhythm is absent from Howe & Song 2012; motif-based redox classification is absent from the 2024 annotation-free O2 predictor. Neither is proof of novelty.

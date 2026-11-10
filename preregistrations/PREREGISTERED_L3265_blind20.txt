@@ -1,0 +1,21 @@
+DCF L3265 - [Redox-age b] blind_20: four-tier ferredoxin-ladder scale on 16 fresh genomes. Gary NOMEREMORTAL Mason. Frozen 2026-11-09 BEFORE download.
+Tool: rounds/dcf_ladder_L3237.py SHA-256 68c51f7be3a3369f6ba6f26c869d141b44faaa61b785c57c1ca53f34fb0f7d91 on gene calls from
+dcf_genefinder_mobile.py v2.32 (SHA-256 fa30258b...297c, dcf-genefinder). Chromosome 1 only for multi-replicon genomes.
+All 16 names and accessions checked absent from seen_names.txt and seen_accessions.txt (0 hits each). Files identified by LOCUS line;
+tool numbers written and hashed before any annotation is read.
+Scale (from 35 genomes seen in L3257): tier1 lactic 0-0.002; tier2 O2 respirers 0.007-0.025; tier3 H2 fermenters 0.021-0.058;
+tier4 Fd respirers/autotrophs 0.063-0.132. Frozen cuts: 0.0045 | 0.023 | 0.060.
+Genomes and tier labels (fixed now from literature metabolism):
+ tier1 lactic: NC_013198 Lacticaseibacillus rhamnosus GG; NC_004116 Streptococcus agalactiae 2603V/R; NC_007929 Ligilactobacillus salivarius UCC118; NC_008530 Lactobacillus gasseri ATCC 33323
+ tier2 O2:     NC_012560 Azotobacter vinelandii DJ; NC_008686 Paracoccus denitrificans PD1222 chr1; NC_014532 Halomonas elongata DSM 2581; NC_007651 Burkholderia thailandensis E264 chr1
+ tier3 H2 ferm: NC_009495 Clostridium botulinum A ATCC 3502; NC_009012 (Acetivibrio/Clostridium) thermocellum ATCC 27405; NC_009718 Fervidobacterium nodosum Rt17-B1; NC_011898 (Ruminiclostridium) cellulolyticum H10
+ tier4 Fd:     NC_009515 Methanobrevibacter smithii ATCC 35061; NC_011296 Thermodesulfovibrio yellowstonii DSM 11347; NC_012438 Sulfurihydrogenibium azorense Az-Fu1 (rTCA); NC_008554 Syntrophobacter fumaroxidans MPOB
+Predictions:
+ T1 group medians strictly increase tier1 < tier2 < tier3 < tier4.
+ T2 >= 11 of 16 assigned to the correct tier by the frozen cuts (chance about 4 of 16).
+ T3 Spearman rho(tier label, ladder) >= 0.75.
+ T4 all 4 lactic genomes < 0.0045.
+ T5 >= 3 of 4 tier-4 genomes > 0.060.
+Declared risks: Azotobacter (nitrogenase, many ferredoxins/flavodoxins) and Paracoccus (denitrifier) may read high in tier 2;
+Sulfurihydrogenibium is microaerophilic (rTCA but O2-respiring); Syntrophobacter is a syntroph/sulfate reducer; tier 2/3 overlap 0.021-0.025.
+Accessions taken from recall; if a LOCUS line shows a different organism, that genome is dropped and reported, not replaced.
