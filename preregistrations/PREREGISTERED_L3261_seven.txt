@@ -1,0 +1,12 @@
+DCF L3261 - [Seven-ZNF] the 7-nt family of rhythms (7, 12, 14, 21, 28, 42 = divisors of 84) is the 84-nt (28-aa) C2H2 zinc-finger repeat. Gary NOMEREMORTAL Mason.
+Frozen 2026-11-09 BEFORE human.3/4 RNA files are downloaded. Script mrna/dcf_seven_znf.py SHA-256 abe1430e9d9584f502e28d9a866cf0ca20d03744fb806caf9bfc690138a660ae
+(one transcript per gene, longest-ORF CDS; ZNF genes = proteins with >= 3 C2H2 motifs C.{2,4}C.{12}H.{3,5}H; ratios vs neighbouring frequencies;
+"others" = periods 8-62 not divisible by 7).
+Development (files 1+2, seen): all genes 7/14/21/28/42 in the top 5 of 56; ZNF genes (n=436) ratios 3-6 and period 84 = 5.6; other genes ~1.0.
+Fresh data: human.3.rna.fna.gz; if it holds < 10 ZNF genes, human.4.rna.fna.gz is used instead (decided by the count alone, before any ratio is read).
+Predictions:
+  Z1 ALL genes: >= 3 of the periods 14, 21, 28, 42 exceed the 'others' 95th percentile.
+  Z2 ZNF genes: period 84 ratio >= 2.0, AND the six highest periods in 7..100 are all divisors of 84 (7, 12, 14, 21, 28, 42, 84).
+  Z3 Non-ZNF genes: periods 14, 42 and 84 each do NOT exceed the 'others' 95th percentile.
+Interpretation fixed in advance: if Z1-Z3 pass, the rhythm is the zinc-finger domain's structural length (28 aa), a chemical/structural signal of zinc binding,
+not a nuclear number of zinc (Z 30, N 34, A 64 were null in L3253/L3261).
