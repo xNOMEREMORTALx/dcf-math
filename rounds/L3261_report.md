@@ -83,3 +83,24 @@ Among the **non-metal** periods, human coding sequence shows the same peaks in b
 - **[IRE-conserve]** For any future IRE candidate: require the hairpin in the mouse orthologue's mRNA (pre-registered).
 - **[Redox-age b]**, **[Fe-ladder note]**, **[Lit-redox]** carried.
 - **[Method note]** Add the two lessons (variant pseudo-replication; window-bootstrap miscalibration) to `methodology` in INTEGRATION.md.
+
+---
+
+## Addendum (same round): the 7-family rhythm is the zinc-finger repeat [development; test frozen]
+**The clue.** Every peak (7, 12, 14, 21, 28, 42) divides **84 nt = 28 amino acids**, the unit of tandem C2H2 zinc fingers (finger plus linker).
+
+**The split** (files 1 + 2, development; one transcript per gene):
+
+| set | genes | 7 | 12 | 14 | 21 | 28 | 42 | 84 |
+|---|---|---|---|---|---|---|---|---|
+| zinc-finger genes (≥ 3 C2H2) | 436 | 3.98 | 3.21 | 5.97 | 5.57 | 3.47 | 3.58 | **5.59** |
+| all other genes | 5,064 | 1.02 | 1.01 | 0.99 | 1.04 | 1.00 | 1.00 | — |
+
+**Reading.** The whole "7-family" rhythm comes from the **zinc-finger arrays**. This is a real zinc signal written into RNA, but it is **chemical and structural**: the 28-residue length of the domain that holds one zinc ion. It is **not** zinc's atomic numbers (30, 34, 64), which were null in DNA and RNA.
+
+**Frozen test.** `PREREGISTERED_L3261_seven.txt` (`352cb89d…8a48`), script `mrna/dcf_seven_znf.py` (`abe1430e…60ae`), on a fresh file:
+- **Z1:** the pattern replicates in all genes.
+- **Z2:** zinc-finger genes peak at 84 nt, with the top six periods all divisors of 84.
+- **Z3:** other genes show nothing.
+
+**Action for Gary.** From the same NCBI folder, please download **`human.3.rna.fna.gz`** (6.3 MB) and **`human.4.rna.fna.gz`** (11 MB) and send them zipped together. File 3 is used unless it holds fewer than 10 zinc-finger genes, decided by the count alone; then file 4 is used.
