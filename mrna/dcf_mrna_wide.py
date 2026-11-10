@@ -1,4 +1,4 @@
-"""dcf_mrna_wide.py (frozen L3253) - whole mRNAs are scanned and hits assigned to the 5'/3' UTR by position (a hairpin may overlap the CDS edge); IRE-wide scan and metal-number periodicity on a large human mRNA file (FASTA or GenBank, .gz allowed).
+"""dcf_mrna_wide.py v1.1 (L3261 bug fix in dishuffle only; scan, statistics and thresholds unchanged from frozen v1.0 of L3253) - whole mRNAs are scanned and hits assigned to the 5'/3' UTR by position (a hairpin may overlap the CDS edge); IRE-wide scan and metal-number periodicity on a large human mRNA file (FASTA or GenBank, .gz allowed).
 Uses dcf_ire.scan and longest-ORF UTRs; NM_ records only. Shuffled control = dinucleotide-preserving shuffle (Altschul-Erickson style via random
 Eulerian walk) of each 5' and 3' UTR, 10 replicates. Gary NOMEREMORTAL Mason (Digital Cosmos Framework).
 Usage: python3 -I dcf_mrna_wide.py human.1.rna.fna.gz /path/to/dcf_ire.py"""
@@ -20,7 +20,7 @@ def dishuffle(s,rng):
     edges={}
     for a,b in zip(s,s[1:]): edges.setdefault(a,[]).append(b)
     last=s[-1]
-    for _ in range(50):
+    for _ in range(1000000):   # v1.1 (L3261): retry until a valid random arborescence is found (v1.0 gave up after 50 tries and crashed)
         # choose last-edge for each vertex (except final) forming a tree toward 'last'
         lastE={}; ok=True
         for v in edges:

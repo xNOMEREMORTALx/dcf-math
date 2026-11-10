@@ -106,3 +106,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3253_mRNA.txt | `54fa43b04a53cd5f839daeddee2ddb50d62dd8665e80c8810b5328cbd8264b6b` |
 | PREREGISTERED_L3257_redoxage.txt | `c71de4c95513cee6aecbac567db758438dd31b835dc74316883c66661806711d` |
 | PREREGISTERED_L3261_rep.txt | `ca8257b64e98d24bb5b2f561715d7ca2db86a2ff71b2061319603fe908125a6e` |
+| mrna/dcf_mrna_wide.py v1.1 (L3261 bug fix: dishuffle retries until valid; v1.0 crashed on file 1 in the shuffled control before any result was printed; scan/statistics/thresholds unchanged) | `05c1b0615c8491503514a1a73c7b6d804ed5afab49a9d7a6d20724cfc60ad5cd` |
