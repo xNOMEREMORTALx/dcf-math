@@ -105,3 +105,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3253_metalDNA.txt | `4c1b4cf8f82b3be60903c6de43907e21a6873da8bc32368171d21726b3251cf0` |
 | PREREGISTERED_L3253_mRNA.txt | `54fa43b04a53cd5f839daeddee2ddb50d62dd8665e80c8810b5328cbd8264b6b` |
 | PREREGISTERED_L3257_redoxage.txt | `c71de4c95513cee6aecbac567db758438dd31b835dc74316883c66661806711d` |
+| PREREGISTERED_L3261_rep.txt | `ca8257b64e98d24bb5b2f561715d7ca2db86a2ff71b2061319603fe908125a6e` |

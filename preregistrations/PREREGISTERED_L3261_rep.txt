@@ -1,0 +1,10 @@
+DCF L3261 - replication rule for human.2.rna.fna.gz, frozen BEFORE file 1's results are seen. Gary NOMEREMORTAL Mason. 2026-11-09.
+File 1: human.1.rna.fna.gz SHA-256 a9ce8e633f10d6d818812e1380863ec10732b90477c2293b9ab4082429c38410 (2,114 NM_ mRNAs; 15,389 NR_ excluded by the frozen rule).
+File 2: human.2.rna.fna.gz SHA-256 452ea6a05ec615893ce2338dff38f77965cd042b283c4067fbb4d2ca9d967cb0 - sealed (read-only, unopened) until file 1 is graded.
+Same frozen scripts: mrna/dcf_mrna_wide.py (3e08ad67...) and mrna/dcf_ire.py (4499bd99...). NM_ records only.
+Replication predictions on file 2 (RefSeq splits genes across files, so file 2 holds different mRNAs; these test the effect, not single genes):
+  RW1 IRE hits in real 5' UTRs >= 2.0x the shuffled mean (as W1).
+  RW2 Real 3' UTR hits / shuffled is reported; no prediction.
+  RW3 No metal period (11 ... 64) has a 99.83% CI entirely above 1, in coding regions or UTRs (as W3).
+Candidate rule: an mRNA hit outside the known IRE genes is a CANDIDATE. A candidate counts as "supported" only if a separately pre-registered check passes
+(e.g. the hairpin is conserved in the mouse orthologue's mRNA). Nothing is called a discovery from a single scan.
