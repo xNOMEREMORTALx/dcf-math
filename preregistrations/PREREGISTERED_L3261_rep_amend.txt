@@ -1,0 +1,9 @@
+DCF L3261 - AMENDMENT to the file-2 replication rule, frozen BEFORE file 2 is unsealed. Gary NOMEREMORTAL Mason. 2026-11-09.
+Reason (from file 1, now graded): the window-bootstrap 99.83% CI is miscalibrated - 11 of 78 NON-metal periods fell outside it (expected ~0.13),
+so RW3 as frozen cannot separate signal from noise. RW1 and the candidate rule are unchanged.
+New RW3 (empirical null, same file): compute the power ratio for the 15 metal periods AND the 39 non-metal periods
+(13-18, 21, 22, 25, 27, 28, 31-33, 35-38, 41-55 except 56, 57-62), in coding regions and UTRs of file 2.
+  RW3a The three periods that exceeded their CI in file 1 (coding 30, coding 56, UTR 20) replicate only if each is above the 95th percentile
+       of the 39 non-metal ratios of the same region in file 2. Prediction (analyst): none of the three replicate.
+  RW3b Over all 30 metal tests, the number above the non-metal 95th percentile is <= 4 (chance expectation 1.5; >= 5 would suggest a metal signal).
+Exploratory, not graded: coding period 21 (7 codons, the coiled-coil heptad) read 1.32 in file 1; its file-2 ratio is reported.
