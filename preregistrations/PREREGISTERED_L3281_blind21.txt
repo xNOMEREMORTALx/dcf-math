@@ -1,0 +1,24 @@
+DCF L3281 - blind_21: [Microaerophile tier] and [Fe-Zn rubredoxin]. Gary NOMEREMORTAL Mason. Frozen 2026-11-10 BEFORE download.
+Script rounds/dcf_rubredoxin_L3281.py SHA-256 40c7742968181e1620cf93947ef5b9290b725377eec73655742865e5fa69bf66 (ladder = frozen L3237 motif,
+ribbon = frozen L3273 motif, rubredoxin = C-x2-C-G-x(24..32)-C-x2-C-G), on gene calls from dcf_genefinder_mobile.py v2.32 (fa30258b...297c).
+Development (seen genomes only, rounds/L3281_rub_dev.py): on the 16 blind_20 genomes the rubredoxin knuckle tier medians were
+0.0006 / 0.0009 / 0.0023 / 0.0126 (tier 4 / tier 1 = 21x); the L3273 ribbon split by knuckle type climbed ~2x in both halves, so the
+L3273 rubredoxin explanation for Zn2 is NOT supported. Smoke test on seen NC_009515: rubredoxin 0.0713.
+All 9 names and accessions absent from seen_names.txt and seen_accessions.txt (H. pylori NC_000915, Aquifex NC_000918, C. jejuni NC_002163
+were rejected as already seen). Files identified by LOCUS/DEFINITION; tool numbers hashed before annotation; a wrong organism is dropped, not replaced.
+Genomes and labels (fixed now, from literature):
+ microaerophiles with ferredoxin 2-oxoacid oxidoreductases (Campylobacterota / Aquificae):
+   NC_008599 Campylobacter fetus subsp. fetus 82-40; NC_004917 Helicobacter hepaticus ATCC 51449;
+   NC_013894 Thermocrinis albus DSM 14484; NC_012440 Persephonella marina EX-H1
+ microaerophile control without a ferredoxin-based core: NC_007626 Magnetospirillum magneticum AMB-1
+ lactic controls: NC_005362 Lactobacillus johnsonii NCC 533; NC_009785 Streptococcus gordonii Challis
+ tier-4 controls: NC_003551 Methanopyrus kandleri AV19; NC_013223 Desulfohalobium retbaense DSM 5692
+Predictions:
+ M1 >= 3 of the 4 ferredoxin microaerophiles read ladder in 0.023-0.060 (tier-3 band).
+ M2 Magnetospirillum reads ladder < 0.023.
+ M3 the four controls are called correctly by the frozen tier cuts (lactic < 0.0045, tier-4 > 0.060): >= 3 of 4.
+ RB1 rubredoxin: both tier-4 controls exceed both lactic controls.
+ RB2 Spearman rho(ladder, rubredoxin) over all 9 genomes >= 0.50.
+ ZR1 zinc ribbon climbs less than the ladder: (mean ribbon tier-4 controls + 0.001)/(mean ribbon lactic + 0.001) <= one fifth of the same ratio for the ladder.
+Declared risks: Aquificae aerobes have read both tier 3 (Sulfurihydrogenibium 0.047) and tier 4 (Hydrogenobacter 0.070); Helicobacter is
+host-adapted with a reduced genome; Magnetospirillum fixes N2 (ferredoxins). Methanopyrus uses a variant genetic code? No - table 11 expected.
