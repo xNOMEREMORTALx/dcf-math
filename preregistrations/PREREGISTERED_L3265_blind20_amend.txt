@@ -1,0 +1,4 @@
+DCF L3269 amendment to PREREGISTERED_L3265_blind20.txt (d898a166). Gary NOMEREMORTAL Mason. Frozen 2026-11-10 BEFORE any gene calling or ladder count.
+blind_20.zip arrived with 16 files: NC_014532 (Halomonas) twice (byte-identical) and NC_008530 (L. gasseri) missing. 15 genomes, all LOCUS and DEFINITION lines match the pre-registered organisms.
+Grading on 15: T1 unchanged (tier-1 median from 3 genomes); T2 bar kept at >= 11 correct, now of 15 (stricter); T3 unchanged; T4 = all 3 available lactic genomes < 0.0045; T5 unchanged.
+If NC_008530 arrives later it is run with the same frozen tools and T1-T4 are re-reported on 16; the 15-genome grade stands as the first grade.
