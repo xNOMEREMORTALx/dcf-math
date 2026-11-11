@@ -43,6 +43,7 @@ Nothing changes. These are not counted as new predictions.
 
 **Reading.**
 - **Iron's site follows the energy tiers about 28 times more steeply than zinc's.** The zinc site does not separate the bottom two tiers at all (lactic 0.038 vs oxygen breathers 0.034). Iron separates them about 7-fold.
+- **Correction (L3281):** the rubredoxin explanation below is **not supported**. Ribbon matches split by knuckle type climb about 2× in both halves, and the 9–20 spacing cannot match a classic rubredoxin (~29 residues). The ribbon's rise is smaller than the background C-x-x-C rise (about 4×). The classic rubredoxin spacing climbs 21× (development) and is now under blind test.
 - **Zn2 failed for the reason declared in advance.** The ribbon still climbs in tiers 3–4, led by *Methanobrevibacter* (0.20), and iron rubredoxins share the same CxxC…CxxC knuckle. In those anaerobes, some "zinc" knuckles probably hold iron. **This is a real point of iron–zinc interplay at the protein level: one fold, either metal.**
 
 ## 3. Why: one ladder of electrode potentials explains both the rust and the biology [literature values, textbook]
