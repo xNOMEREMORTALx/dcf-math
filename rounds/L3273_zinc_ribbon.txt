@@ -1,0 +1,16 @@
+NC_004116 ribbon per 1000 aa 0.0279 | ladder per 1000 aa 0.0016 | aa 610307
+NC_007651 ribbon per 1000 aa 0.0266 | ladder per 1000 aa 0.0158 | aa 1015396
+NC_007929 ribbon per 1000 aa 0.0622 | ladder per 1000 aa 0.0039 | aa 514507
+NC_008554 ribbon per 1000 aa 0.0728 | ladder per 1000 aa 0.1464 | aa 1331730
+NC_008686 ribbon per 1000 aa 0.0355 | ladder per 1000 aa 0.0110 | aa 817370
+NC_009012 ribbon per 1000 aa 0.0592 | ladder per 1000 aa 0.0441 | aa 1064719
+NC_009495 ribbon per 1000 aa 0.0582 | ladder per 1000 aa 0.0601 | aa 1031445
+NC_009515 ribbon per 1000 aa 0.2031 | ladder per 1000 aa 0.2177 | aa 546642
+NC_009718 ribbon per 1000 aa 0.0426 | ladder per 1000 aa 0.0426 | aa 586251
+NC_011296 ribbon per 1000 aa 0.1044 | ladder per 1000 aa 0.1093 | aa 613115
+NC_011898 ribbon per 1000 aa 0.0619 | ladder per 1000 aa 0.0352 | aa 1163143
+NC_012438 ribbon per 1000 aa 0.0712 | ladder per 1000 aa 0.0474 | aa 505884
+NC_012560 ribbon per 1000 aa 0.0343 | ladder per 1000 aa 0.0226 | aa 1457108
+NC_013198 ribbon per 1000 aa 0.0342 | ladder per 1000 aa 0.0024 | aa 818154
+NC_014532 ribbon per 1000 aa 0.0338 | ladder per 1000 aa 0.0139 | aa 1153923
+NC_008530 ribbon per 1000 aa 0.0420 | ladder per 1000 aa 0.0000 | aa 547431
