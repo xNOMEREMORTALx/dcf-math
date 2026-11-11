@@ -1,17 +1,18 @@
+DCF phone bundle 6.07, round L3285 (6.07 = 6.06 with menu 30 listing only genome files)
 DCF phone bundle 6.06, round L3277 (Gary NOMEREMORTAL Mason), 10 Nov 2026.
-Copy ALL FIVE .py files into ONE folder on the phone. Pydroid 3: install numpy and mpmath (menu -> Pip). Open dcf_phone_6.06.py and press Run. Self-test: 261/261.
+Copy ALL FIVE .py files into ONE folder on the phone. Pydroid 3: install numpy and mpmath (menu -> Pip). Open dcf_phone_6.07.py and press Run. Self-test: 261/261.
   NEW 30  energy-metal tier of a genome: runs the gene finder if needed, then iron ferredoxin ladder, copper CuA, zinc ribbon -> tier 1-4
           (blind record 14 of 16 fresh genomes, L3269/L3273). Not for medical use.
   NEW 31  number checks: first 1/n containing one or more digit strings (with the base rate: median first n = 71 for 3-digit strings),
           supersingular (Monster) primes, Euler lucky numbers.
   Gene finder updated to v2.32 (was v2.30 in 6.05).
 SHA-256:
-7df4098f3a8208dede404d9d18e86d71efdbdb1a4ed801940e3125b292bd6474  dcf_phone_6.06.py
+cc31c5a7f100cde63fdc9baf70e0a61afaed20e0cd255bfb5b563459e89d1217  dcf_phone_6.07.py
 4aecee5c25d09f1f3d634e274037643174af1c419f561c1c4e49c86f50d1a7d1  dcf_redox.py
 fa30258bd3e19c1a186f225ebb8b50f4993530948f4ffa50644d37d92930297c  dcf_genefinder_mobile.py
 dca12b53e5358f6dcf99c8f261e27f8ffff0c563878bc8eefb81dee486fc4e49  dcf_dna_codec.py
 dd583cfb386dc71f847db8bb137fb41903ce109b3f6e18730ef85d4a220e95ed  dcf_dna_ecc.py
-dcf_phone_6.05.py is kept for reference.
+dcf_phone_6.05.py and 6.06.py are kept for reference.
 
 DCF phone bundle, round L3013 (Gary NOMEREMORTAL Mason, Digital Cosmos Framework), 5 Nov 2026.
 Copy ALL four .py files into ONE folder on the phone. Pydroid 3: install numpy and mpmath (menu -> Pip).
