@@ -111,3 +111,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3261_seven.txt | `352cb89dba09bd61104b0f5cd218ffec131cc4969632b3e2739b70c4f5846a48` |
 | PREREGISTERED_L3265_blind20.txt | `d898a16678d9b7fb5e88627b63f40bc6990af52d6639673a966043181a0214fb` |
 | PREREGISTERED_L3265_blind20_amend.txt | `8027650a863915d5ca362ea96ce3836f53c01c1805b0162d9676d0ce59456834` |
+| PREREGISTERED_L3273_zinc.txt | `2ebab881d56f3f2c853f9c0e6e9d1e808b3f1639e91ec1835d8d29b4f12bfe5c` |
+| rounds/dcf_zinc_ribbon_L3273.py | `7f59da646e16a08c52609a41384194255f605c648b5a15df74c8b3189b7d26c8` |

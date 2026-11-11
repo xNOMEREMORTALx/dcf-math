@@ -1,0 +1,10 @@
+DCF L3273 - [Fe-Zn] does zinc's structural Cys4 site track ferredoxin energy metabolism the way iron's ladder does? Gary NOMEREMORTAL Mason.
+Frozen 2026-11-10 BEFORE the zinc-ribbon count is run on any blind_20 genome (it was run once on seen genome NC_006396 as a smoke test: 0.108).
+Script rounds/dcf_zinc_ribbon_L3273.py SHA-256 7f59da646e16a08c52609a41384194255f605c648b5a15df74c8b3189b7d26c8
+(C-x2-C-x(9..20)-C-x2-C, ladder cysteines masked). Genomes: the 16 blind_20 genomes, tier labels from PREREGISTERED_L3265_blind20.txt.
+Chemistry behind the hypothesis: Zn2+ is redox-inert in biology (structural/catalytic only); Fe-S clusters carry electrons near the H+/H2 potential.
+So the zinc site should NOT scale with the energy tiers nearly as steeply as the iron ladder.
+Predictions:
+  Zn1 tier-4 / tier-1 median ratio of ribbon density <= one fifth of the same ratio for the ladder.
+  Zn2 Spearman rho(tier, ribbon) < 0.60.
+Declared risk: Fe rubredoxins share the CxxC...CxxC knuckle fold and are commoner in anaerobes; they will be counted as ribbons and push Zn2 up.
