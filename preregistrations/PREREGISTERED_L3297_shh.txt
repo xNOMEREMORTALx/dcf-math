@@ -1,0 +1,15 @@
+DCF L3297 - [SHH] hedgehog motif and Gary's SHH coordinates. Gary NOMEREMORTAL Mason. Frozen 2026-11-11 BEFORE any SHH, DHH or chromosome file is downloaded.
+Tools: dcf-genefinder/dcf_motif_scan.py and dcf-genefinder/dcf_exonmap.py (SHA-256 listed in the ledger rows below this file's).
+Hedgehog motif H[YF]EGRA[VI]D.{40,80}GCF designed on IHH (NM_002181, human file 2): IHH zinc site at aa 145, G-C-F at aa 202;
+it hit only IHH among 26,088 human NM_ transcripts and 0 proteins in 70 microbial genomes (development).
+External claim under test (from Gary's source, untrusted until checked): human SHH at GRCh38 chr7:155,799,980-155,812,463 (7q36.3);
+mouse Shh at chr5 ~28,661,813-28,672,254.
+Files Gary will download (NCBI efetch FASTA): NM_000193 (human SHH mRNA); NM_021044 (human DHH mRNA); NM_009170 (mouse Shh mRNA);
+NC_000007.14 slice 155,794,980-155,817,463 (claimed span +-5 kb); NC_000071.7 slice 28,656,813-28,677,254 (claimed span +-5 kb).
+Predictions:
+ S1 the hedgehog motif hits all three mRNAs (SHH, DHH, mouse Shh): 3 of 3.
+ S2 in human SHH the G-C-F self-cutting site is at aa 197 (G197-C198, from the literature: SHH-N ends at Gly197).
+ S3 every placed exon of SHH lies inside the claimed span chr7:155,799,980-155,812,463, and >= 95% of the mRNA (excluding poly-A) is placed.
+ S4 SHH has 3 exons on the minus strand of chr7.
+ S5 every placed exon of mouse Shh lies inside the claimed span chr5:28,661,813-28,672,254 (assembly as fetched: NC_000071.7 = GRCm39).
+Declared risks: the mouse coordinates may refer to another assembly (GRCm38); exon boundaries can shift by a few bases at ambiguous junctions.
