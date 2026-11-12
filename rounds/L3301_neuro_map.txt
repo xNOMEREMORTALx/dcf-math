@@ -1,0 +1,13 @@
+genes scanned 9632
+
+Na/Ca 4-domain: 9 genes | by name afterwards: {'Ca': 6, 'Na': 3}
+  CACNA1B(2339 aa, S4 x2), CACNA1D(2181 aa, S4 x1), CACNA1E(2270 aa, S4 x3), CACNA1G(2377 aa, S4 x3), CACNA1H(2353 aa, S4 x3), CACNA1I(2223 aa, S4 x3), SCN11A(1791 aa, S4 x5), SCN2A(2005 aa, S4 x5), SCN7A(1682 aa, S4 x1)
+
+K-type: 9 genes | by name afterwards: {'K': 9}
+  KCNB2(911 aa, S4 x1), KCNF1(494 aa, S4 x1), KCNH1(962 aa, S4 x1), KCNH5(988 aa, S4 x1), KCNH6(994 aa, S4 x1), KCNH7(1196 aa, S4 x1), KCNS1(526 aa, S4 x1), KCNS2(477 aa, S4 x1), KCNS3(491 aa, S4 x1)
+
+HCN-type (CIGYG): 1 genes | by name afterwards: {'HCN': 1}
+  HCN3(774 aa, S4 x1)
+
+other: 5 genes | by name afterwards: {'-': 2, 'K': 3}
+  DDX47(455 aa, S4 x1), KCNC2(638 aa, S4 x2), KCNC4(635 aa, S4 x2), KCND1(647 aa, S4 x1), ZNF670(389 aa, S4 x1)
