@@ -177,7 +177,11 @@ This reading is formed **after** L3213. It is [D] until tested blind (lead [Fe-F
   1. a **motif density over the whole predicted proteome**, which includes the ferredoxin-like domains inside large enzymes (hydrogenases, CODH, PFOR, Hdr), computed **label-free from raw DNA** with our own gene calls;
   2. **energy-metabolism tiers, not oxygen classes:** the ladder separates lactic fermenters from H₂-making fermenters, both anaerobes, about 20-fold, which an oxygen-tolerance classification cannot;
   3. **blind, pre-registered tests** (blind_20: 14 of 16 tiers, ρ = 0.96; photosynthesis 2 of 2; six lineage pairs).
-- **Not yet read:** "Diversification of Ferredoxins across Living Organisms" (*Curr. Issues Mol. Biol.* 2021, 43(3):98); the page could not be opened this round.
+- **Nzuza *et al.* 2021** ("Diversification of Ferredoxins across Living Organisms", *Curr. Issues Mol. Biol.* 43(3):1374–1390), read in L3321:
+  - they mined 468 genomes (241 Alphaproteobacteria, 227 Firmicutes) **chosen for carrying P450s**, and classified ferredoxins by cluster type with variable cysteine-spacing motifs (e.g. 4Fe-4S C-x₂₋₅-C-x₂₋₃-C-x₃₀₋₄₅-C-P);
+  - **they do not classify genomes by energy metabolism or measure oxygen use.** Their anaerobe/aerobe statements cite Campbell 2019.
+  - Not overlapping prior art for the tier scale.
+- **Development (L3321):** about three quarters of ladders sit in proteins over 200 aa. Large-protein ladders separate oxygen respirers from H₂ fermenters 2.9-fold; Campbell-style small-ferredoxin counts only 1.25-fold. Blind test pre-registered (blind_23).
 - **Andreini *et al.* 2017** (above) remains the closest prior art for the Fe–S contrast.
 - **An annotation-free oxygen-use predictor** (bioRxiv 10.1101/2024.01.16.575888) classifies ~3,300 genomes three ways (aerobe / anaerobe / facultative) at ~70% from amino-acid 3-mers, nucleotide 5-mers and protein-language embeddings. It does not use or mention Fe–S motifs, ferredoxin, CxxC, copper or CuA. Its classes are oxygen classes, which this note found the ladder does **not** track (L3173).
 - **No paper was found** that sorts raw genomes by ferredoxin-based metabolism from one iron motif and one copper motif. Absence of a search hit is not proof of novelty; a specialist check (e.g. ferredoxin-family surveys, Fd-dependent metabolism reviews) is still needed before submission.
