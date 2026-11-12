@@ -1,0 +1,7 @@
+DCF L3353 amendment to PREREGISTERED_L3345_eukaryotes.txt (2e40f492). Gary NOMEREMORTAL Mason. Frozen 2026-11-12 BEFORE any protist file is scanned.
+protist.zip holds 6 of 7 files: Trichomonas vaginalis is missing. Entamoeba histolytica is strain HM-1:IMSS-A (GCA_000365475, EHA_CA_v1),
+a laboratory subline of the pre-registered HM-1:IMSS; kept as the same strain lineage (declared here before scanning).
+Grading on 2 anaerobes (Giardia, Entamoeba) and 4 aerobes, rules otherwise unchanged:
+ EU1 both anaerobes above all four aerobes; EU2 anaerobe median >= 3x aerobe median; EU3 both anaerobes >= 0.023 and all aerobes < 0.023.
+If Trichomonas arrives later it is scanned with the same tool and EU1-EU3 are re-reported on 7; this 6-file grade stands as the first grade.
+Development warning already on record before scanning (L3349): human proteins read 0.0042 with cysteine-rich false ladders.
