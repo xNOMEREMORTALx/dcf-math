@@ -1,0 +1,8 @@
+genes: 5410
+K   hits   26 | family genes present  13 | recall  11/13  | precision  11/26  | false: ADH4 CLDN18 FLRT1 GRIN3A HNRNPF LEMD3 NUP98 SCPEP1 SLC35B1 SLC47A1 SVOPL VCPIP1 VIPR1 VPREB3 VWA8
+     missed: KCNC2 KCNC4
+S4  hits   11 | family genes present  13 | recall  11/13  | precision  11/11  | false: 
+     missed: KCNQ5 TPCN1
+CL  hits    0 | family genes present   8 | recall   0/8   | precision   0/0   | false: 
+     missed: CHRNA5 GABRD GABRE GABRG1 GABRG3 GABRP GABRR2 HTR3D
+K+S4 combined (voltage-gated K pore): hits 1, true 1, precision 1/1, recall 1/4 | false: 
