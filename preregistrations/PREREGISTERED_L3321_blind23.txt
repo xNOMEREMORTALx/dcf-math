@@ -1,0 +1,17 @@
+DCF L3321 - blind_23: [Campbell comparison] whole-proteome / large-protein ladders vs small-ferredoxin gene counts. Gary NOMEREMORTAL Mason.
+Frozen 2026-11-12 BEFORE download. Script rounds/dcf_campbell_L3321.py SHA-256 ae13f1964e45876e24c394b5be5e1f39196807d7d6e8bbd925cab92321ec28b3 (imports dcf_redox.py 4aecee5c...a7d1), gene calls v2.32.
+Prior art: Campbell, Bennett & Silberg 2019 (Front. Energy Res. 7:79): small (<=200 aa) [4Fe-4S] ferredoxins dominate in anaerobes.
+Development (blind_20 genomes, now seen; rounds/L3321_campbell_dev.py): rho(tier) whole ladder 0.958, large-protein ladders 0.958,
+small Fd genes 0.843; tier-3/tier-2 medians: large-protein ladders 2.9x, small Fd genes 1.25x.
+All 12 names and accessions absent from seen_names.txt and seen_accessions.txt. Files identified by LOCUS/DEFINITION; tool numbers hashed
+before annotation; wrong organism dropped, not replaced. Chromosome 1 only for multi-replicon genomes.
+Genomes and tiers (fixed now from literature metabolism):
+ tier1 lactic: NC_010080 Lactobacillus helveticus DPC 4571; NC_013853 Streptococcus mitis B6; NC_015759 Weissella koreensis KACC 15510
+ tier2 O2:     NC_003295 Ralstonia solanacearum GMI1000 chr; NC_007761 Rhizobium etli CFN 42 chr; NC_009848 Bacillus pumilus SAFR-032
+ tier3 H2 ferm: NC_008593 Clostridium novyi NT; NC_009616 Thermosipho melanesiensis BI429; NC_014393 Clostridium cellulovorans 743B
+ tier4 Fd:     NC_013665 Methanocella paludicola SANAE; NC_015388 Desulfobacca acetoxidans DSM 11109; NC_014378 Acetohalobium arabaticum DSM 5501
+Predictions:
+ C1 Spearman rho(tier, large-protein ladders) > rho(tier, small Fd genes).
+ C2 tier-3/tier-2 median ratio >= 2.0 for large-protein ladders AND < 2.0 for small Fd genes.
+ C3 whole ladder with the frozen cuts (0.0045 | 0.023 | 0.060) puts >= 9 of 12 in the right tier.
+Declared risks: Rhizobium etli fixes N2 in symbiosis (ferredoxins); Bacillus pumilus is facultative; Thermosipho is a Thermotogota fermenter.

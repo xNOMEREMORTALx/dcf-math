@@ -123,3 +123,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | dcf-genefinder/dcf_motif_scan.py | `21d6ecc0ae2bea8154140968fe57f266d4200fac2d7ab351a4f72e6339fd1f03` |
 | PREREGISTERED_L3309_orfstart.txt | `290b44cd13dcf54c1e639b6ffeebc600b2da8f0af8eb1f15a8695841068ec2e2` |
 | rounds/dcf_orfstart_L3309.py | `63ad96c1c653144c6e0fdb22c532ef266628ae33942456575acd0219ca234809` |
+| PREREGISTERED_L3321_blind23.txt | `2e986e01bfdd207f8505a497ce50cc75c17f777dcfdc2768ffd5e2552c8b4cf8` |
+| rounds/dcf_campbell_L3321.py | `ae13f1964e45876e24c394b5be5e1f39196807d7d6e8bbd925cab92321ec28b3` |
