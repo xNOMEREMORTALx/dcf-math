@@ -1,0 +1,10 @@
+DCF L3309 - [ORF start] Kozak -3 start-codon rule vs longest-ORF first-ATG rule. Gary NOMEREMORTAL Mason. Frozen 2026-11-12 BEFORE any RefSeq protein file is downloaded.
+Script rounds/dcf_orfstart_L3309.py SHA-256 63ad96c1c653144c6e0fdb22c532ef266628ae33942456575acd0219ca234809 (orf_A = longest frame from its first ATG; orf_K = first in-frame ATG within 100 codons with A/G at -3).
+Development (4 known proteins): SHH true 462: A 465, K 462; DHH 396, mouse Shh 437, IHH 411: A and K both exact.
+Test data: human RNA files 1-4 already held (one transcript per gene, lowest NM_), answer key = RefSeq proteins in human.1.protein.faa.gz and
+human.2.protein.faa.gz (Gary downloads). A transcript is graded only if some RefSeq protein P is a suffix of its orf_A protein (same frame, same stop)
+with length >= 50 aa; if several, the longest such P. 'exact' = predicted protein == P.
+Predictions:
+ K1 exact accuracy of rule K > exact accuracy of rule A.
+ K2 among transcripts where A is too long (overshoot), K is exact in >= 50%.
+ K3 'breaks' (A exact, K not) <= one half of 'fixes' (K exact, A not).
