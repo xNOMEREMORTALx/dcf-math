@@ -1,0 +1,1 @@
+Trichomonas_vaginalis_G3_UniProt_UP000001542 fd_ladder      45 proteins, 0.0040 per 1000 aa
