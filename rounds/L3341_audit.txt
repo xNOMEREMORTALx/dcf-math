@@ -1,0 +1,7 @@
+AUDIT blind_20: 14 of 16 correct
+AUDIT blind_21: 4 of 4 correct
+AUDIT blind_22: 5 of 5 correct
+AUDIT blind_23: 12 of 12 correct
+AUDIT total 35 of 37; misses [('blind_20', 'NC_009495', 0.0601, 3), ('blind_20', 'NC_012438', 0.0474, 4)]
+AUDIT rho blind_20 0.958, blind_23 0.978, all 37 0.962
+AUDIT blind_23 O2->H2: large 5.32x, small 0.99x
