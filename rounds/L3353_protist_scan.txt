@@ -1,0 +1,6 @@
+Dictyostelium_discoideum fd_ladder       4 proteins, 0.0009 per 1000 aa
+Entamoeba_histolytica_hm_1_imss_a_gca_000365475 fd_ladder      18 proteins, 0.0094 per 1000 aa
+Giardia_intestinalis_gca000002435v2 fd_ladder      20 proteins, 0.0089 per 1000 aa
+Phytophthora_infestans fd_ladder      14 proteins, 0.0021 per 1000 aa
+Tetrahymena_thermophila fd_ladder      38 proteins, 0.0029 per 1000 aa
+Thalassiosira_pseudonana fd_ladder       8 proteins, 0.0021 per 1000 aa
