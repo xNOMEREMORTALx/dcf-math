@@ -1,0 +1,5 @@
+graded transcripts 5083 | rule A exact 4972 (97.8%) | rule K exact 4294 (84.5%)
+A overshoots 111 K exact among them 29 (26%) | A undershoots 0
+fixes 29 breaks 707
+K1 FAIL | K2 FAIL | K3 FAIL
+break examples (gene, true len, K len): [('PRR22', 422, 380), ('DTHD1', 616, 527), ('ABHD14A-ACY1', 498, 408), ('LY6G6F-LY6G6D', 382, 363), ('CNPY3-GNMT', 229, 222), ('NUTM2D', 557, 507), ('SLFNL1', 407, 332), ('FAM178B', 119, 37), ('LOC100288966', 584, 561), ('EFCAB8', 1288, 1229), ('LOC102723502', 581, 558), ('PRH1-TAS2R14', 176, 148)]
