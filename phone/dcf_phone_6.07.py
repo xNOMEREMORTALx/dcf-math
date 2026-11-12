@@ -5201,6 +5201,17 @@ def anyon_energy_denominator(N):
 
 def anyon_energy_norm_float(N):
     """L2399: N_{Q(zeta_N)^+/Q}(e(N)) as a float (product of Galois conjugates, odd N; fine for small N)."""
+    try:                                    # L3289: 60-digit mpmath (float error reached 1e-3 on an ARM phone at N = 27)
+        import mpmath as _mp
+        with _mp.workdps(60):
+            w = _mp.expjpi(_mp.mpf(2)/N); prod = _mp.mpf(1)
+            for a in range(1, (N + 1)//2):
+                if math.gcd(a, N) != 1: continue
+                wa = w**a; z = -w**(a*(N + 1)//2)
+                prod *= _mp.re((1/z)*_mp.fsum((-1)**j*(wa - 1)/(wa**j - 1) for j in range(1, N)))
+            return float(prod) if abs(prod) < 1e15 else prod
+    except ImportError:
+        pass
     import cmath
     w = cmath.exp(2j*math.pi/N); prod = 1.0
     for a in range(1, (N + 1)//2):

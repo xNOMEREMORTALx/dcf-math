@@ -1,0 +1,23 @@
+DCF L3289 - blind_22: [Photosynthesis] oxygenic phototrophs vs the ferredoxin ladder; [Microaerophile band b]. Gary NOMEREMORTAL Mason.
+Frozen 2026-11-11 BEFORE download. Tool: dcf_redox.py SHA-256 4aecee5c25d09f1f3d634e274037643174af1c419f561c1c4e49c86f50d1a7d1 (ladder identical
+to frozen L3237) on gene calls from dcf_genefinder_mobile.py v2.32 (fa30258b...297c).
+Development evidence (seen genomes only): Gary's phone run of Prochlorococcus marinus MED4 (NC_005072, seen) read ladder 0.0148 = tier 2;
+low-oxygen respirers so far read 0.046-0.065 (Arcobacter, Sulfurihydrogenibium, Persephonella, H. hepaticus, Thermocrinis, C. fetus) and
+Magnetospirillum 0.050. Plant-type [2Fe-2S] motif C-x4-C-x2-C-x(27..31)-C reads 0-0.0073 in 25 seen non-phototrophs (rounds/L3289_fd2_dev.py),
+so it is reported descriptively only, no prediction.
+Reasoning: oxygenic photosynthesis passes electrons through plant-type [2Fe-2S] ferredoxin, not the bacterial 4Fe-4S ladder; so cyanobacteria
+should read like oxygen respirers despite depending on ferredoxin. Heliobacteria (anoxygenic, type-I reaction centre with 4Fe-4S clusters,
+pyruvate:ferredoxin oxidoreductase, N2 fixation) should read tier 4.
+All 9 names and accessions absent from seen_names.txt and seen_accessions.txt (one false name hit: Leuconostoc).
+Genomes (labels fixed now from literature; files identified by LOCUS/DEFINITION; wrong organism dropped, not replaced):
+ oxygenic phototrophs: NC_007604 Synechococcus elongatus PCC 7942; NC_003272 Nostoc (Anabaena) sp. PCC 7120 chromosome;
+   NC_004113 Thermosynechococcus elongatus BP-1; NC_005125 Gloeobacter violaceus PCC 7421
+ anoxygenic phototroph: NC_010337 Heliobacterium modesticaldum Ice1
+ low-oxygen Campylobacterota respirers with 2-oxoacid:ferredoxin oxidoreductases: NC_013512 Sulfurospirillum deleyianum DSM 6946;
+   NC_009662 Nitratiruptor sp. SB155-2; NC_009663 Sulfurovum sp. NBC37-1; NC_005090 Wolinella succinogenes DSM 1740
+Predictions:
+ P1 >= 3 of 4 oxygenic phototrophs read ladder < 0.023 (tier 2), and their median is < 0.023.
+ P2 Heliobacterium reads ladder > 0.060 (tier 4).
+ E1 >= 3 of 4 Campylobacterota respirers read ladder in 0.040-0.070.
+ E2 the median of those 4 lies in 0.040-0.070.
+Declared risks: Nostoc fixes N2 in heterocysts (ferredoxins, nif); Wolinella is mostly anaerobic (fumarate respiration); Gloeobacter lacks thylakoids.
