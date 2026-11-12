@@ -1,0 +1,16 @@
+DCF L3345 - [Eukaryote check] the 3-3-4 ferredoxin ladder in anaerobic vs aerobic single-celled eukaryotes. Gary NOMEREMORTAL Mason.
+Frozen 2026-11-12 BEFORE any eukaryote protein file is downloaded.
+Tool: dcf-genefinder/dcf_motif_scan.py SHA-256 7f8dd78550c903fef8cbafb65380248273ea72df04480b5d2dc5e0e677cb4d2a, preset fd_ladder (C..C..C...C), on protein FASTA; density = ladders per 1000 aa
+over all proteins in the file. Files: Ensembl Protists, current release, fasta/<species>/pep/*.pep.all.fa.gz for the reference strain.
+If a file contains several isoforms per gene, all are counted as given (declared; not corrected after seeing results).
+Groups (fixed now from literature):
+ anaerobic/microaerophilic, PFOR + ferredoxin-based energy metabolism, mitochondria reduced to hydrogenosomes or mitosomes:
+   Giardia intestinalis (Assemblage A, WB); Trichomonas vaginalis G3; Entamoeba histolytica HM-1:IMSS
+ aerobic controls with full oxygen-respiring mitochondria:
+   Dictyostelium discoideum AX4; Phytophthora infestans T30-4; Thalassiosira pseudonana CCMP1335; Tetrahymena thermophila SB210
+Predictions:
+ EU1 every anaerobic protist has a higher ladder density than every aerobic control.
+ EU2 the anaerobes' median is >= 3x the aerobes' median.
+ EU3 (scale transfer, risky) with the bacterial cuts, all 3 anaerobes read >= 0.023 and all 4 aerobes read < 0.023.
+Declared risks: large eukaryotic proteomes dilute the density; Trichomonas has a huge, expanded proteome; Giardia has few hydrogenase-like genes;
+Thalassiosira (oxygenic, plastid) carries plant-type [2Fe-2S] ferredoxins, which the ladder does not count.
