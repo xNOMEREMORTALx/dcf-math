@@ -1,0 +1,16 @@
+DCF L3361 - [Eukaryote scale] a eukaryote-specific ladder cut tested on fresh protists. Gary NOMEREMORTAL Mason. Frozen 2026-11-12 BEFORE download.
+Tool: dcf-genefinder/dcf_motif_scan.py SHA-256 7f8dd78550c903fef8cbafb65380248273ea72df04480b5d2dc5e0e677cb4d2a, preset fd_ladder, ladders per
+1000 aa over all proteins in the file. Files: UniProt reference proteomes, stream?format=fasta&compressed=true&query=proteome:<UPID>.
+Identity of every proteome checked in UniProt before freezing (organism, strain, protein count, 'Reference proteome').
+Cut: 0.0035, fixed from the L3353/L3357 data (lowest anaerobe Trichomonas 0.0040, highest aerobe Tetrahymena 0.0029). None of these 7 species was used before.
+Groups (literature):
+ anaerobic/microaerophilic with PFOR-type enzymes and reduced mitochondria: UP000018208 Spironucleus salmonicida ATCC 50377;
+   UP000008312 Blastocystis hominis (Singapore isolate B, ST7); UP000006726 Cryptosporidium parvum Iowa II
+ aerobic: UP000000542 Leishmania major Friedlin; UP000008524 Trypanosoma brucei brucei 927/4; UP000006906 Chlamydomonas reinhardtii CC-503
+ enzyme-labelled special case: UP000006671 Naegleria gruberi NEG-M (aerobic, but its genome encodes [FeFe]-hydrogenase and PFOR)
+Predictions:
+ ES1 the cut classifies >= 5 of the 6 anaerobe/aerobe genomes correctly (anaerobe >= 0.0035, aerobe < 0.0035).
+ ES2 every anaerobe reads higher than every aerobe (6 genomes).
+ ES3 Naegleria reads >= 0.0035 (label from enzymes, not lifestyle).
+Declared risks: Cryptosporidium's PNO is a single PFOR-NADPH fusion and its proteome is small; Chlamydomonas has two [FeFe]-hydrogenases and PFR1
+but many plant-type [2Fe-2S] ferredoxins; trypanosomatid proteomes are large and cysteine-poor.

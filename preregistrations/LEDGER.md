@@ -128,3 +128,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3345_eukaryotes.txt | `2e40f492ffb2d97e7389f06f2492718001b69b4f5b0adea00f1d2aa66e84b279` |
 | dcf-genefinder/dcf_motif_scan.py (L3345 state) | `7f8dd78550c903fef8cbafb65380248273ea72df04480b5d2dc5e0e677cb4d2a` |
 | PREREGISTERED_L3345_eukaryotes_amend.txt | `8893c79a10364e3d9942fb8871f24726d0db20f38e17602dd1f28aeefa865e5f` |
+| PREREGISTERED_L3361_eukscale.txt | `f0282f90049424e7358dd6268843f292f4359caf6a65456be5e25281b970ffe4` |
