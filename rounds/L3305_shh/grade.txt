@@ -1,0 +1,22 @@
+frozen hedgehog motif: H[YF]EGRA[VI]D.{40,80}GCF
+NM_000193_SHH.fa         ORF 465 aa | hedgehog hit: True | zinc site at aa 143 | GCF at aa [200]
+NM_021044_DHH.fa         ORF 396 aa | hedgehog hit: False | zinc site at aa - | GCF at aa [198]
+NM_009170_mouse_Shh.fa   ORF 437 aa | hedgehog hit: True | zinc site at aa 141 | GCF at aa [198]
+DCF exon map: NM_000193.4 Homo sapiens sonic hedgehog signaling molecule (SHH), tran  ->  NC_000007.14:155794980-155817463 Homo sapiens chromosome 7, GRCh38.p14
+  region 22484 bp starting at chromosome position 155794980; mRNA 4650 nt; strand -
+  exon 1: mRNA 1-641 (641 nt) -> chromosome 155811823-155812463
+     intron 1: 5265 bp, starts GT ... ends AG  (GT..AG splice signals)
+  exon 2: mRNA 642-903 (262 nt) -> chromosome 155806296-155806557
+     intron 2: 2569 bp, starts GT ... ends AG  (GT..AG splice signals)
+  exon 3: mRNA 904-4650 (3747 nt) -> chromosome 155799980-155803726
+  gene span on the chromosome: 155799980-155812463 (12484 bp), 3 exons; 100.0% of the mRNA placed
+  claimed span 155799980-155812463; placed span (155799980, 155812463); inside claimed: True
+DCF exon map: NM_009170.4 Mus musculus sonic hedgehog signaling molecule (Shh), tran  ->  NC_000071.7:28656813-28677254 Mus musculus strain C57BL/6J chromosome 
+  region 20442 bp starting at chromosome position 28656813; mRNA 2667 nt; strand -
+  exon 1: mRNA 1-641 (641 nt) -> chromosome 28671459-28672099
+     intron 1: 4877 bp, starts GT ... ends AG  (GT..AG splice signals)
+  exon 2: mRNA 642-903 (262 nt) -> chromosome 28666320-28666581
+     intron 2: 2718 bp, starts GT ... ends AG  (GT..AG splice signals)
+  exon 3: mRNA 904-2667 (1764 nt) -> chromosome 28661838-28663601
+  gene span on the chromosome: 28661838-28672099 (10262 bp), 3 exons; 100.0% of the mRNA placed
+  claimed span 28661813-28672254; placed span (28661838, 28672099); inside claimed: True
