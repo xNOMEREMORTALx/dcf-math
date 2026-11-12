@@ -116,3 +116,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3281_blind21.txt | `6ba34f75fb29e292c4c4b16322806824247f4eedefa29a3ee8d4643b10b2f9e7` |
 | rounds/dcf_rubredoxin_L3281.py | `40c7742968181e1620cf93947ef5b9290b725377eec73655742865e5fa69bf66` |
 | PREREGISTERED_L3289_blind22.txt | `2028d9bd678ad5cd06fcde2c596342e58a47f9808f8de332586a75c0de92be04` |
+| PREREGISTERED_L3293_neuro.txt | `058324cff98a742648683966d3cb9b283386f9876c1d73d34557f403a6a3cf93` |
+| rounds/dcf_neuro_motifs_L3293.py | `af1b2b6bf55e27f3efe6fdbab876428779a5384d77832a4ba0c4ad6cd886c15f` |

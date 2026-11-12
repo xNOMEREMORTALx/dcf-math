@@ -1,0 +1,10 @@
+DCF L3293 - [Neuro] label-free nervous-system channel motifs in human mRNA. Gary NOMEREMORTAL Mason. Frozen 2026-11-11 BEFORE running on files 3-4.
+Script rounds/dcf_neuro_motifs_L3293.py SHA-256 af1b2b6bf55e27f3efe6fdbab876428779a5384d77832a4ba0c4ad6cd886c15f.
+Development on human.1 + human.2 only (5454 genes): K filter recall 27/30 precision 27/45; S4 recall 12/17 precision 12/15 (before adding KCNF to the
+true list: Kv5.1 is a voltage-gated subunit); Cys-loop recall 5/7 precision 5/5; K+S4 combined precision 10/10, recall 10/16.
+Test set: human.3.rna.fna.gz + human.4.rna.fna.gz (opened before only for the zinc-finger test; these motifs never run on them). One transcript per gene.
+Predictions (true sets = gene-symbol regexes in the script; a motif with fewer than 4 family genes present is reported as ungradable):
+ N1 K filter: recall >= 0.70 and precision >= 0.45.
+ N2 voltage sensor S4: recall >= 0.55 and precision >= 0.65.
+ N3 Cys-loop: recall >= 0.50 and precision >= 0.75.
+ N4 K+S4 combined: precision >= 0.90 (needs >= 3 hits).
