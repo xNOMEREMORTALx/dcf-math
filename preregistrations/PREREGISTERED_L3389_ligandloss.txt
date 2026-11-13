@@ -1,0 +1,16 @@
+DCF L3389 - [Ligand-loss blind] iron-cluster loss in endonuclease III and MutY of lactic bacteria. Gary NOMEREMORTAL Mason.
+Frozen 2026-11-13 BEFORE download. Script rounds/dcf_ligandloss_L3389.py SHA-256 b5e5fe14e944234c08083f213cba24c07d5f386319c11d06cd5ee8b26dca0f18.
+Development (L3385, graded genomes): lactic EndoIII with FCL 1 of 9 (Lactobacillus 0-1 cysteines), lactic MutY with FCL 0 of 8 (median 0
+cysteines); other genomes EndoIII 57 of 64, MutY 32 of 38 with FCL (median 6 cysteines).
+Literature (L3389 search): clusterless MutY in Lactobacillales known (Trasvina-Arenas 2016; MutYX 2025); cluster loss in Lactobacillus
+endonuclease III not found.
+All 8 genomes absent from seen lists (species level; Listeria and Staphylococcus genera seen, checked by hand).
+Genomes: lactic (Lactobacillales): NC_009513 Lactobacillus reuteri DSM 20016; NC_007576 Lactobacillus sakei 23K; NC_010610 Lactobacillus fermentum
+IFO 3956; NC_014106 Lactobacillus crispatus ST1; NC_012925 Streptococcus suis P1/7.
+Iron-using Firmicutes controls (Bacillales): NC_007168 Staphylococcus haemolyticus JCSC1435; NC_010556 Exiguobacterium sibiricum 255-15;
+NC_008555 Listeria welshimeri SLCC5334.
+Predictions (genomes with no annotated EndoIII or MutY are ungradable for LL1/LL2 and reported):
+ LL1 in >= 4 of the gradable lactic genomes, no annotated EndoIII or MutY carries the FCL loop.
+ LL2 in every gradable control genome, at least one annotated EndoIII or MutY carries the FCL loop.
+ LL3 median cysteines over all lactic EndoIII+MutY proteins <= 2, and over all control EndoIII+MutY proteins >= 4.
+Declared risks: Streptococcus kept 2 of 4 loop cysteines in development; Listeria and Staphylococcus have lower iron needs than other Bacillales.

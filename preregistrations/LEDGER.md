@@ -133,3 +133,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_ach_L3373.py | `6598203bf46bcd2ef24a06fec1953a95d80174e5bee35d3ba654cd7b5c2655fb` |
 | PREREGISTERED_L3377_blind24.txt | `4fefb609d188a075a6a966c35038970bdb0d5cd9a946c9e0ba4eae8dd92edb95` |
 | rounds/dcf_infoiron_L3377.py | `5ac9a64c2bd0e165e09b2d22e8e9c93641f1cb7db467e682de6a8db52d7831cb` |
+| PREREGISTERED_L3389_ligandloss.txt | `fac8514b1e3c847c60434106e0ec99e72cff2b55b798242e593605625a9cae16` |
+| rounds/dcf_ligandloss_L3389.py | `b5e5fe14e944234c08083f213cba24c07d5f386319c11d06cd5ee8b26dca0f18` |
