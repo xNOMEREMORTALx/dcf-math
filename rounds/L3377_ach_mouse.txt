@@ -1,0 +1,3 @@
+genes 15858
+CYSLOOP hits 18 family 23 found 18 precision 1.000 recall 0.783 | hits: Chrna2 Chrna3 Chrna4 Chrna5 Chrna6 Chrnb1 Chrnb4 Gabra1 Gabra3 Gabra4 Gabrg1 Gabrg3 Gabrp Gabrq Glra1 Glra3 Glra4 Glrb | missed: Gabrb1 Gabrb2 Gabrb3 Gabrr1 Gabrr3
+CHE hits 11 family 2 found 2 precision 0.182 recall 1.000 | hits: Ache Bche Cel Ces1a Ces1d Ces1e Ces1f Ces1g Ces2b Ces2e Ces2g | missed: 

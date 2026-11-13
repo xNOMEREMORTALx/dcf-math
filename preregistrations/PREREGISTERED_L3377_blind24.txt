@@ -1,0 +1,18 @@
+DCF L3377 - blind_24: [Information iron] DNA-repair Fe-S (EndoIII/MutY FCL loop) is a switch, energy iron (ladder) is a dial. Gary NOMEREMORTAL Mason.
+Frozen 2026-11-12 BEFORE download. Script rounds/dcf_infoiron_L3377.py SHA-256 5ac9a64c2bd0e165e09b2d22e8e9c93641f1cb7db467e682de6a8db52d7831cb (imports dcf_redox.py 4aecee5c...), gene calls v2.32.
+Development (37 graded genomes, rounds/L3377_infoiron_dev.py): FCL proteins in 8 of 9 lactic genomes = 0; in 28 of 28 iron-using genomes >= 1;
+FCL hits annotated mostly endonuclease III (22+6) and MutY (11), also CRISPR Cas6 (5). Tier medians per 1000 genes: FCL 0/0.48/0.56/1.08;
+ladder 0/4.5/14.6/40.8.
+All 8 genomes absent from seen_accessions.txt; names absent from seen_names.txt (one false substring hit 'casei' in Lacticaseibacillus).
+Files identified by LOCUS/DEFINITION; tool numbers hashed before annotation; wrong organism dropped, not replaced.
+Genomes:
+ lactic fermenters: NC_008497 Lactobacillus brevis ATCC 367; NC_010471 Leuconostoc citreum KM20; NC_008526 Lactobacillus casei ATCC 334;
+   NC_009009 Streptococcus sanguinis SK36
+ iron users: NC_006510 Geobacillus kaustophilus HTA426 (O2); NC_009664 Kineococcus radiotolerans SRS30216 (O2);
+   NC_008553 Methanosaeta thermophila PT (Fd-based); NC_011768 Desulfatibacillum alkenivorans AK-01 (Fd-based)
+Predictions:
+ IF1 >= 3 of 4 lactic genomes have 0 FCL proteins.
+ IF2 all 4 iron-users have >= 1 FCL protein.
+ IF3 among the 4 iron-users, max/min of ladder per 1000 genes > max/min of FCL per 1000 genes (energy iron is the dial).
+Declared risks: Streptococcus sanguinis uses manganese/iron differently; Kineococcus is a radiation-resistant aerobe with extra DNA repair;
+Leuconostoc citreum is heterofermentative.
