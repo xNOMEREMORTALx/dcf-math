@@ -31,7 +31,7 @@ The genetic code was correct in 8 of 8; the code record is now **194 of 197**.
 - **Confirmed blind: cells use iron for information and for energy in two different ways.**
   - **Information iron** (the 4Fe-4S cluster of DNA-repair glycosylases, endonuclease III and MutY) is a **switch**. It is present at nearly the same level (0.46–0.66 per 1,000 genes) in every iron user, from a radiation-resistant aerobe to a methanogen.
   - **Energy iron** (the ferredoxin ladder) is a **dial**. It spans 41-fold across the same four genomes, following their energy metabolism.
-- **Lactic bacteria, which live almost without iron, have neither.** They don't use iron to repair DNA either. They rely on iron-free repair enzymes instead.
+- **Lactic bacteria, which live almost without iron, have neither.** They lack the iron-cluster repair glycosylases too; which iron-free enzymes take over is not yet checked (lead [Iron-free repair]).
 - **Combined with development (37 genomes), information iron is present in all 32 iron users and absent from 12 of 13 lactic genomes.**
 
 ## Record
