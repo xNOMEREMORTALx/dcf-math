@@ -1,0 +1,10 @@
+DCF L3373 - [Acetylcholine] label-free receptor and cholinesterase motifs, tested on fresh MOUSE mRNA. Gary NOMEREMORTAL Mason.
+Frozen 2026-11-12 BEFORE any mouse file is downloaded. Script rounds/dcf_ach_L3373.py SHA-256 6598203bf46bcd2ef24a06fec1953a95d80174e5bee35d3ba654cd7b5c2655fb (imports dcf_motif_scan.py 7f8dd785...).
+Development (human files 1-4, used before): corrected Cys-loop 10 hits, 10 true of 14 family genes (precision 1.00, recall 0.71);
+FGESAG 5 hits: ACHE, BCHE, CES1, CES5A, FAM177A1 (both cholinesterases found).
+Test data: RefSeq Mus musculus mRNA, mouse.1.rna.fna.gz + mouse.2.rna.fna.gz (NCBI refseq/M_musculus/mRNA_Prot), never used before.
+Predictions (graded only if the family has >= 4 Cys-loop genes / >= 1 cholinesterase gene present; otherwise ungradable):
+ AC1 Cys-loop precision >= 0.75 and recall >= 0.60.
+ AC2 FGESAG finds every Ache/Bche gene present, with <= 5 other hits.
+Also frozen for the [Proline] lead (development figures, no new test here): residue after the 4th ladder cysteine is P in 68-85% of ladders in
+37 graded prokaryotes (tiers 2-4), 50% in anaerobic and 35% in aerobic protists, 0 of 12 in human look-alikes.
