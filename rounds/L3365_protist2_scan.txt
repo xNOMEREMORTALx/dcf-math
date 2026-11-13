@@ -1,0 +1,7 @@
+Blastocystis_hominis fd_ladder      25 proteins, 0.0171 per 1000 aa
+Chlamydomonas_reinhardtii fd_ladder      19 proteins, 0.0016 per 1000 aa
+Cryptosporidium_parvum fd_ladder       3 proteins, 0.0036 per 1000 aa
+Leishmania_major fd_ladder       7 proteins, 0.0014 per 1000 aa
+Naegleria_gruberi fd_ladder      11 proteins, 0.0017 per 1000 aa
+Spironucleus_salmonicida fd_ladder      28 proteins, 0.0151 per 1000 aa
+Trypanosoma_brucei fd_ladder      13 proteins, 0.0030 per 1000 aa
