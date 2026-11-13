@@ -1,0 +1,13 @@
+DCF L3397 - [Ladder-P blind] stricter ladder C-x2-C-x2-C-x3-C-P for eukaryotes, on fresh protists. Gary NOMEREMORTAL Mason.
+Frozen 2026-11-13 BEFORE download. Script rounds/dcf_ladderp_L3397.py SHA-256 9fa53ce3eb2cc129688a652a2d10d6c1903e952618cf4a5ef86a63f2bb3c473d (overlapping counts, per 1000 aa, all proteins in file).
+Development (L3369, 13 graded protists, overlapping counts): Ladder-P anaerobes 0.0020-0.0114, aerobes 0.0004-0.0014 (clean gap);
+plain overlapping anaerobes 0.0036-0.0186, aerobes 0.0009-0.0039 (overlap); human look-alikes plain 12, Ladder-P 0.
+Cut for Ladder-P fixed now: 0.0017 (between 0.0014 and 0.0020).
+Proteomes (UniProt reference, identity checked before freezing; none used before at species level):
+ anaerobes: UP000014680 Entamoeba invadens IP1 (9,857); UP000008076 Entamoeba dispar SAW760 (8,606)
+ aerobes:   UP000001529 Toxoplasma gondii ME49 (8,307); UP000001450 Plasmodium falciparum 3D7 (5,361); UP000000600 Paramecium tetraurelia (39,349)
+Declared limitations: both anaerobes are Entamoeba (genus seen via E. histolytica); Plasmodium blood stages are largely glycolytic but keep a
+respiring mitochondrion (labelled aerobe); Toxoplasma and Plasmodium apicoplasts carry plant-type [2Fe-2S] ferredoxin.
+Predictions:
+ LP1 the Ladder-P cut 0.0017 classifies all 5 correctly (anaerobes >= 0.0017, aerobes < 0.0017).
+ LP2 the separation ratio (lowest anaerobe / highest aerobe) is larger for Ladder-P than for the plain overlapping ladder.

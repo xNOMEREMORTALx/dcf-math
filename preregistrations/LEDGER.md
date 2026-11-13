@@ -135,3 +135,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_infoiron_L3377.py | `5ac9a64c2bd0e165e09b2d22e8e9c93641f1cb7db467e682de6a8db52d7831cb` |
 | PREREGISTERED_L3389_ligandloss.txt | `fac8514b1e3c847c60434106e0ec99e72cff2b55b798242e593605625a9cae16` |
 | rounds/dcf_ligandloss_L3389.py | `b5e5fe14e944234c08083f213cba24c07d5f386319c11d06cd5ee8b26dca0f18` |
+| PREREGISTERED_L3397_ladderp.txt | `e73ea5f4f2e1237916b9604c1bce79c5edde646a71730aa18376dde330a7b6ea` |
+| rounds/dcf_ladderp_L3397.py | `9fa53ce3eb2cc129688a652a2d10d6c1903e952618cf4a5ef86a63f2bb3c473d` |
