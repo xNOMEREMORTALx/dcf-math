@@ -1,0 +1,5 @@
+Paramecium tetraurelia | aa 17921966 | plain_ov 0.0025 | ladderP 0.0008
+Entamoeba invadens IP1 | aa 4270709 | plain_ov 0.0094 | ladderP 0.0030
+Entamoeba dispar (strain ATCC PRA-260 / SAW760) | aa 3527881 | plain_ov 0.0074 | ladderP 0.0028
+Toxoplasma gondii (strain ATCC 50611 / Me49) | aa 6658148 | plain_ov 0.0033 | ladderP 0.0006
+Plasmodium falciparum (isolate 3D7) | aa 4021655 | plain_ov 0.0027 | ladderP 0.0005
