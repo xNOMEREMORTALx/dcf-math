@@ -1,0 +1,13 @@
+DCF L3413 - [More anaerobes] Ladder-P on oxygen-free protists outside Entamoeba. Gary NOMEREMORTAL Mason. Frozen 2026-11-13 BEFORE download.
+Script: rounds/dcf_ladderp_L3397.py, unchanged (SHA-256 9fa53ce3... in the ledger). Cut fixed in L3397: Ladder-P >= 0.0017 = anaerobe.
+Proteomes found by UniProt proteome search on 2026-11-13 (IDs, organisms and protein counts read from UniProt before freezing):
+ oxygen-free: UP000315496 Giardia muris (4,560; diplomonad; new species, genus seen); UP000179807 Tritrichomonas foetus (24,634; parabasalid;
+   new genus); UP001141327 Paratrimastix pyriformis (10,665; free-living preaxostylan with a hydrogenosome-like organelle; new genus)
+ oxygen-breathing: UP000011083 Acanthamoeba castellanii Neff (14,936); UP000444721 Naegleria fowleri (13,596; relative N. gruberi carried a token
+   anaerobic toolkit and read aerobic, L3365)
+Development values for context (L3369, Ladder-P): Trichomonas vaginalis 0.0020 (near the cut, large proteome), Naegleria gruberi 0.0003.
+Predictions:
+ LB1 >= 4 of the 5 are classified correctly by the 0.0017 cut.
+ LB2 every oxygen-free protist reads higher than every oxygen-breathing one.
+Declared risks: Tritrichomonas has a large proteome (dilution, as Trichomonas); the Paratrimastix proteome may not be a UniProt reference set;
+Giardia muris is a close relative of the seen G. intestinalis.
