@@ -1,0 +1,28 @@
+== NC_009513
+EndoIII len 213 cysteines 5 FCL True
+SUMMARY proteins 1 with_FCL 1 cysteines 5
+== NC_007576
+EndoIII len 216 cysteines 6 FCL True
+MutY len 367 cysteines 2 FCL False
+SUMMARY proteins 2 with_FCL 1 cysteines 6,2
+== NC_010610
+SUMMARY proteins 0 with_FCL 0 cysteines 
+== NC_014106
+EndoIII len 209 cysteines 1 FCL False
+SUMMARY proteins 1 with_FCL 0 cysteines 1
+== NC_012925
+EndoIII len 207 cysteines 5 FCL False
+MutY len 386 cysteines 0 FCL False
+SUMMARY proteins 2 with_FCL 0 cysteines 5,0
+== NC_007168
+MutY len 348 cysteines 4 FCL True
+EndoIII len 219 cysteines 8 FCL True
+SUMMARY proteins 2 with_FCL 2 cysteines 4,8
+== NC_010556
+MutY len 338 cysteines 4 FCL True
+EndoIII len 222 cysteines 6 FCL True
+SUMMARY proteins 2 with_FCL 2 cysteines 4,6
+== NC_008555
+MutY len 362 cysteines 4 FCL True
+EndoIII len 219 cysteines 8 FCL True
+SUMMARY proteins 2 with_FCL 2 cysteines 4,8
