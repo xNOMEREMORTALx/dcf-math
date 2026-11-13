@@ -1,3 +1,4 @@
+Bundle 6.09d (L3405): motif scanner adds 'fd_ladder_ov' (prokaryote tiers, cuts 0.0045 | 0.023 | 0.060) and 'ladder_p' (eukaryotes, cut 0.0017; blind 5/5). Menu 32, motif name ladder_p.
 DCF phone bundle 6.09, round L3297: NEW menu 32 motif scan (hedgehog, voltage sensor, ladder, zinc ...), menu 33 exon map (mRNA -> chromosome). Copy ALL SEVEN .py files into one folder. Self-test 263/263.
 DCF phone bundle 6.08, round L3289 (6.08 = 6.07 + the Theorem D self-test row computed with 60-digit mpmath; on Gary's ARM phone the float version missed by > 0.001 and showed 260/261)
 DCF phone bundle 6.07, round L3285 (6.07 = 6.06 with menu 30 listing only genome files)
@@ -11,7 +12,7 @@ Copy ALL SEVEN .py files into ONE folder on the phone. Pydroid 3: install numpy 
 SHA-256:
 1a727437155b14e46c8ca51c84da01519225f180539098a17c25bbb954465ae3  dcf_phone_6.09.py
 02fe1bb11c322ce0a9b3033cd66cb159b21803c93ee0bd8baa07838388d15ee1  dcf_exonmap.py
-7f8dd78550c903fef8cbafb65380248273ea72df04480b5d2dc5e0e677cb4d2a  dcf_motif_scan.py (L3305: + k_filter2, hedgehog2 presets)
+5be0a3296477c529bbc01cff6df09c71264db3db7d19db68900fcacdcab891c1  dcf_motif_scan.py (L3405: + fd_ladder_ov, ladder_p validated presets)
 4aecee5c25d09f1f3d634e274037643174af1c419f561c1c4e49c86f50d1a7d1  dcf_redox.py
 fa30258bd3e19c1a186f225ebb8b50f4993530948f4ffa50644d37d92930297c  dcf_genefinder_mobile.py
 dca12b53e5358f6dcf99c8f261e27f8ffff0c563878bc8eefb81dee486fc4e49  dcf_dna_codec.py
