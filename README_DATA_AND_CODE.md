@@ -1,7 +1,7 @@
 # Data and code: iron-ladder manuscript (v0.11)
 ### Gary NOMEREMORTAL Mason · Digital Cosmos Framework
 
-This file maps every table and figure in `notes/Manuscript_FeS_ladder_draft_v0.9.md` to the script that produced it, the frozen pre-registration, and the committed raw output. SHA-256 hashes of every frozen script are in `preregistrations/LEDGER.md`.
+This file maps every table and figure in `notes/Manuscript_FeS_ladder_draft_v0.11.md` to the script that produced it, the frozen pre-registration, and the committed raw output. SHA-256 hashes of every frozen script are in `preregistrations/LEDGER.md`.
 
 ## Tools (repository `dcf-genefinder`)
 | file | role |
