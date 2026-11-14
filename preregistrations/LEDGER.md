@@ -146,3 +146,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_k2p_L3425.py | `28956eb1605465be295e4189d81811c008b0b39ae1c449143ed84bb2d0344782` |
 | PREREGISTERED_L3433_zebrafish.txt | `67ffb927efc39608102956eb3d70c90236ec85da7cf2018e92851b305406e35a` |
 | rounds/dcf_neurometal_L3433.py | `6133b4b8fbf0aea6d1e73ee2f57b6c0b5a57dd6fbd834f8ded622064972e18ec` |
+| PREREGISTERED_L3433_zebrafish_A1.txt | `6185a0f21d6537f9071970cb8131e1b85e60f368df4ba883ad0d2ea8fbf33f2d` |
+| rounds/dcf_neurochem_L3437.py | `641ba39baa5967813c96a603b1d90751c56fe1b0d9a1378f8ef2860d5b06f031` |
