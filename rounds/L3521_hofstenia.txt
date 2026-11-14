@@ -1,0 +1,8 @@
+Hofstenia miamia predicted proteome: 22454 genes (longest protein per gene)
+calls: {'iGluR': 15, 'other': 11, 'pump_other': 10, 'pump_Ca': 5, 'K': 16, 'pump_NaK': 2, 'K2P': 14, 'Ca': 2, 'FeHyd': 3, 'HCN': 3}
+
+4-domain-size proteins (>=1400 aa) with a voltage sensor, and their A-T-F-x-G-W loops:
+  HMIM003197 1939 aa | calls ['Ca'] | loops [] | ring ['TMEGW', 'TGEDW', 'TFEGW', 'TGEAW']
+  HMIM021651 2277 aa | calls ['Ca'] | loops [] | ring ['SLEGW', 'TGEDW', 'TQEAW', 'SKDGW', 'TGDNW']
+  HMIM019623 1429 aa | calls ['other'] | loops [('E', 'LALFQVATFEGWIEVMAD')] | ring ['TLDFW', 'TFEGW']
+  HMIM006045 1628 aa | calls ['other'] | loops [('E', 'LALFQVATFEGWMEVMES')] | ring ['TLDHW', 'TFEGW']
