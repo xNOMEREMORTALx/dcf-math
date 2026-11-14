@@ -1,0 +1,19 @@
+PRE-REGISTRATION L3449: nerve chemistry by metal ion in a BIRD (chicken, Gallus gallus), NM_ + XM_ records.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 13 November 2026. Frozen before any chicken file is downloaded.
+Scripts (SHA-256 in LEDGER): rounds/dcf_neurochem2_L3449.py (runs frozen v4 channels, iGluR, K2P unchanged; NMDA7 'ASYTANL';
+ FeHyd2 '[CV]HE[LI]LGH'; pumps via rounds/dcf_pump_L3449.py), truth rule rounds/dcf_truth2_L3449.py (symbol OR description).
+Development: human 1-4, mouse 1-3, zebrafish 1-2 (rounds/L3449_dev_*.txt). Pump rule tuned there (fish Na/K paralogs end PEGLP).
+Data: NCBI RefSeq G_gallus/mRNA_Prot chicken.1.rna.fna.gz and chicken.2.rna.fna.gz. Identify by 'Gallus gallus' headers.
+ Missing/wrong file dropped, not replaced. Tool output (no names) committed before 'grade' output is produced.
+Grading: a call is correct if its class is in classes(symbol, description) (HCN calls also accepted as K-family? NO: exact class;
+ a K call on an HCN gene is wrong). Genes with classes() empty that are called count as WRONG.
+ Precision predictions graded only if >= 2 calls; recall predictions only if >= 2 truth genes present.
+ Recall truth set for channels = genes whose classes() include Ca, Na, HCN or K AND whose symbol matches the SYM pattern
+ (description-only K matches such as calcium-activated or inward-rectifier channels are NOT in the recall denominator).
+ C1 Ca-channel precision >= 90%      C2 Na-channel precision 100%     C3 K/HCN precision >= 90%
+ C4 channel recall (Ca/Na/K/HCN, symbol-defined) >= 80%
+ C5 K2P precision >= 90%             C6 K2P recall >= 70%
+ C7 iGluR precision >= 90%           C8 iGluR recall >= 75%
+ C9 NMDA7 precision >= 90%           C10 NMDA7 recall (GRIN1/GRIN2*) >= 75%
+ C11 FeHyd2 precision >= 90%         C12 FeHyd2 recall (TH/TPH/PAH) >= 75%
+ C13 pump precision, NaK+Ca+Cu pooled, >= 90%   C14 pump recall (ATP1A/2A/2B/2C/4A/12A/7A/7B symbols) >= 75%

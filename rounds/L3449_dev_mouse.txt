@@ -1,0 +1,148 @@
+genes: 22513
+Ca         NM_001081023.3    1852 aa  Cacna1s  | Mus musculus calcium channel, voltage-dependent, L type, alpha 1S subunit (Cacna1s), transcript variant 2, mRN
+Ca         NM_019582.2       1984 aa  Cacna1f  | Mus musculus calcium channel, voltage-dependent, alpha 1F subunit (Cacna1f), mRNA
+Ca         XM_006497626.3    2351 aa  Cacna1b  | PREDICTED: Mus musculus calcium channel, voltage-dependent, N type, alpha 1B subunit (Cacna1b), transcript var
+Ca         XM_006518475.3    2207 aa  Cacna1d  | PREDICTED: Mus musculus calcium channel, voltage-dependent, L type, alpha 1D subunit (Cacna1d), transcript var
+Ca         XM_006520949.2    2226 aa  Cacna1i  | PREDICTED: Mus musculus calcium channel, voltage-dependent, alpha 1I subunit (Cacna1i), transcript variant X1,
+Ca         XM_006524733.4    2367 aa  Cacna1h  | PREDICTED: Mus musculus calcium channel, voltage-dependent, T type, alpha 1H subunit (Cacna1h), transcript var
+Ca         XM_006530587.5    2464 aa  Cacna1a  | PREDICTED: Mus musculus calcium channel, voltage-dependent, P/Q type, alpha 1A subunit (Cacna1a), transcript v
+Ca         XM_011248686.3    2392 aa  Cacna1g  | PREDICTED: Mus musculus calcium channel, voltage-dependent, T type, alpha 1G subunit (Cacna1g), transcript var
+Ca         XM_017312578.3    2466 aa  Cacna1e  | PREDICTED: Mus musculus calcium channel, voltage-dependent, R type, alpha 1E subunit (Cacna1e), transcript var
+Ca         XM_036165769.1    2245 aa  Cacna1c  | PREDICTED: Mus musculus calcium channel, voltage-dependent, L type, alpha 1C subunit (Cacna1c), transcript var
+FeHyd      NM_008777.3        453 aa  Pah  | Mus musculus phenylalanine hydroxylase (Pah), mRNA
+FeHyd      NM_009377.2        498 aa  Th  | Mus musculus tyrosine hydroxylase (Th), mRNA
+FeHyd      NM_173391.3        488 aa  Tph2  | Mus musculus tryptophan hydroxylase 2 (Tph2), mRNA
+FeHyd      XM_036152912.1     447 aa  Tph1  | PREDICTED: Mus musculus tryptophan hydroxylase 1 (Tph1), transcript variant X1, mRNA
+HCN        NM_001081192.3    1201 aa  Hcn4  | Mus musculus hyperpolarization-activated, cyclic nucleotide-gated K+ 4 (Hcn4), mRNA
+HCN        NM_008226.2        863 aa  Hcn2  | Mus musculus hyperpolarization-activated, cyclic nucleotide-gated K+ 2 (Hcn2), mRNA
+HCN        NM_008227.2        779 aa  Hcn3  | Mus musculus hyperpolarization-activated, cyclic nucleotide-gated K+ 3 (Hcn3), transcript variant 1, mRNA
+HCN        NM_010408.3        910 aa  Hcn1  | Mus musculus hyperpolarization activated cyclic nucleotide gated potassium channel 1 (Hcn1), mRNA
+K          NM_001037712.2     950 aa  Kcnh6  | Mus musculus potassium voltage-gated channel, subfamily H (eag-related), member 6 (Kcnh6), mRNA
+K          NM_001081140.1     511 aa  Kcna10  | Mus musculus potassium voltage-gated channel, shaker-related subfamily, member 10 (Kcna10), mRNA
+K          NM_001081142.3     696 aa  Kcnq4  | Mus musculus potassium voltage-gated channel, subfamily Q, member 4 (Kcnq4), transcript variant 1, mRNA
+K          NM_001081194.2    1018 aa  Kcnh4  | Mus musculus potassium voltage-gated channel, subfamily H (eag-related), member 4 (Kcnh4), mRNA
+K          NM_001098528.3     907 aa  Kcnb2  | Mus musculus potassium voltage gated channel, Shab-related subfamily, member 2 (Kcnb2), mRNA
+K          NM_001160139.1     952 aa  Kcnq5  | Mus musculus potassium voltage-gated channel, subfamily Q, member 5 (Kcnq5), transcript variant 1, mRNA
+K          NM_001379458.1     514 aa  Kcng1  | Mus musculus potassium voltage-gated channel, subfamily G, member 1 (Kcng1), transcript variant 2, mRNA
+K          NM_001410072.1     529 aa  Kcna6  | Mus musculus potassium voltage-gated channel, shaker-related, subfamily, member 6 (Kcna6), transcript variant 
+K          NM_008418.3        528 aa  Kcna3  | Mus musculus potassium voltage-gated channel, shaker-related subfamily, member 3 (Kcna3), mRNA
+K          NM_010595.3        495 aa  Kcna1  | Mus musculus potassium voltage-gated channel, shaker-related subfamily, member 1 (Kcna1), mRNA
+K          NM_010596.2        489 aa  Kcna7  | Mus musculus potassium voltage-gated channel, shaker-related subfamily, member 7 (Kcna7), mRNA
+K          NM_010600.4        989 aa  Kcnh1  | Mus musculus potassium voltage-gated channel, subfamily H (eag-related), member 1 (Kcnh1), transcript variant 
+K          NM_013569.2       1162 aa  Kcnh2  | Mus musculus potassium voltage-gated channel, subfamily H (eag-related), member 2 (Kcnh2), transcript variant 
+K          NM_019697.4        630 aa  Kcnd2  | Mus musculus potassium voltage-gated channel, Shal-related family, member 2 (Kcnd2), mRNA
+K          NM_145983.2        602 aa  Kcna5  | Mus musculus potassium voltage-gated channel, shaker-related subfamily, member 5 (Kcna5), mRNA
+K          NM_152923.3        873 aa  Kcnq3  | Mus musculus potassium voltage-gated channel, subfamily Q, member 3 (Kcnq3), mRNA
+K          NM_172805.3        988 aa  Kcnh5  | Mus musculus potassium voltage-gated channel, subfamily H (eag-related), member 5 (Kcnh5), mRNA
+K          NM_181317.4        477 aa  Kcns2  | Mus musculus K+ voltage-gated channel, subfamily S, 2 (Kcns2), transcript variant 1, mRNA
+K          NM_183179.1        562 aa  Kcnv2  | Mus musculus potassium channel, subfamily V, member 2 (Kcnv2), mRNA
+K          NM_201531.5        505 aa  Kcnf1  | Mus musculus potassium voltage-gated channel, subfamily F, member 1 (Kcnf1), mRNA
+K          XM_006498812.3     654 aa  Kcna4  | PREDICTED: Mus musculus potassium voltage-gated channel, shaker-related subfamily, member 4 (Kcna4), transcrip
+K          XM_006501049.5     499 aa  Kcna2  | PREDICTED: Mus musculus potassium voltage-gated channel, shaker-related subfamily, member 2 (Kcna2), transcrip
+K          XM_006502475.5     666 aa  Kcnc4  | PREDICTED: Mus musculus potassium voltage gated channel, Shaw-related subfamily, member 4 (Kcnc4), transcript 
+K          XM_006508488.4     688 aa  Kcnq1  | PREDICTED: Mus musculus potassium voltage-gated channel, subfamily Q, member 1 (Kcnq1), transcript variant X1,
+K          XM_006520483.5    1101 aa  Kcnh3  | PREDICTED: Mus musculus potassium voltage-gated channel, subfamily H (eag-related), member 3 (Kcnh3), transcri
+K          XM_006521297.5     503 aa  Kcnv1  | PREDICTED: Mus musculus potassium channel, subfamily V, member 1 (Kcnv1), transcript variant X1, mRNA
+K          XM_006540646.2     594 aa  Kcnc1  | PREDICTED: Mus musculus potassium voltage gated channel, Shaw-related subfamily, member 1 (Kcnc1), transcript 
+K          XM_011239313.4    1203 aa  Kcnh7  | PREDICTED: Mus musculus potassium voltage-gated channel, subfamily H (eag-related), member 7 (Kcnh7), transcri
+K          XM_011243866.3     491 aa  Kcns3  | PREDICTED: Mus musculus potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3 (Kcns3), tra
+K          XM_017315732.3     857 aa  Kcnb1  | PREDICTED: Mus musculus potassium voltage gated channel, Shab-related subfamily, member 1 (Kcnb1), transcript 
+K          XM_017315735.3     937 aa  Kcnq2  | PREDICTED: Mus musculus potassium voltage-gated channel, subfamily Q, member 2 (Kcnq2), transcript variant X1,
+K          XM_017317904.3     480 aa  Kcng2  | PREDICTED: Mus musculus potassium voltage-gated channel, subfamily G, member 2 (Kcng2), transcript variant X2,
+K          XM_030245096.1     642 aa  Kcnc2  | PREDICTED: Mus musculus potassium voltage gated channel, Shaw-related subfamily, member 2 (Kcnc2), transcript 
+K          XM_030252699.2     655 aa  Kcnd3  | PREDICTED: Mus musculus potassium voltage-gated channel, Shal-related family, member 3 (Kcnd3), transcript var
+K          XM_036152701.1     807 aa  Kcnc3  | PREDICTED: Mus musculus potassium voltage gated channel, Shaw-related subfamily, member 3 (Kcnc3), transcript 
+K          XM_036158792.1     497 aa  Kcns1  | PREDICTED: Mus musculus K+ voltage-gated channel, subfamily S, 1 (Kcns1), transcript variant X1, mRNA
+K          XM_036160442.1    1103 aa  Kcnh8  | PREDICTED: Mus musculus potassium voltage-gated channel, subfamily H (eag-related), member 8 (Kcnh8), transcri
+K          XM_036161827.1     651 aa  Kcnd1  | PREDICTED: Mus musculus potassium voltage-gated channel, Shal-related family, member 1 (Kcnd1), transcript var
+K2P        NM_001030292.1     343 aa  Kcnk15  | Mus musculus potassium channel, subfamily K, member 15 (Kcnk15), mRNA
+K2P        NM_001033525.3     313 aa  Kcnk6  | Mus musculus potassium inwardly-rectifying channel, subfamily K, member 6 (Kcnk6), mRNA
+K2P        NM_001159850.2     426 aa  Kcnk2  | Mus musculus potassium channel, subfamily K, member 2 (Kcnk2), transcript variant 1, mRNA
+K2P        NM_001316665.1     538 aa  Kcnk10  | Mus musculus potassium channel, subfamily K, member 10 (Kcnk10), transcript variant 3, mRNA
+K2P        NM_001403913.1     444 aa  Kcnk4  | Mus musculus potassium channel, subfamily K, member 4 (Kcnk4), transcript variant 3, mRNA
+K2P        NM_008430.2        336 aa  Kcnk1  | Mus musculus potassium channel, subfamily K, member 1 (Kcnk1), mRNA
+K2P        NM_010608.3        409 aa  Kcnk3  | Mus musculus potassium channel, subfamily K, member 3 (Kcnk3), mRNA
+K2P        NM_010609.4        343 aa  Kcnk7  | Mus musculus potassium channel, subfamily K, member 7 (Kcnk7), mRNA
+K2P        NM_021542.4        502 aa  Kcnk5  | Mus musculus potassium channel, subfamily K, member 5 (Kcnk5), mRNA
+K2P        NM_029006.2        292 aa  Kcnk16  | Mus musculus potassium channel, subfamily K, member 16 (Kcnk16), mRNA
+K2P        NM_199251.1        430 aa  Kcnk12  | Mus musculus potassium channel, subfamily K, member 12 (Kcnk12), mRNA
+K2P        NM_207261.3        394 aa  Kcnk18  | Mus musculus potassium channel, subfamily K, member 18 (Kcnk18), mRNA
+K2P        XM_030246665.2     405 aa  Kcnk13  | PREDICTED: Mus musculus potassium channel, subfamily K, member 13 (Kcnk13), transcript variant X1, mRNA
+K2P        XM_036159328.1     604 aa  Kcnk9  | PREDICTED: Mus musculus potassium channel, subfamily K, member 9 (Kcnk9), transcript variant X1, mRNA
+NMDA       NM_001372558.1     959 aa  Grin1  | Mus musculus glutamate receptor, ionotropic, NMDA1 (zeta 1) (Grin1), transcript variant 4, mRNA
+NMDA       NM_008170.4       1464 aa  Grin2a  | Mus musculus glutamate receptor, ionotropic, NMDA2A (epsilon 1) (Grin2a), mRNA
+NMDA       XM_011241221.4    1482 aa  Grin2b  | PREDICTED: Mus musculus glutamate receptor, ionotropic, NMDA2B (epsilon 2) (Grin2b), transcript variant X1, mR
+NMDA       XM_017314276.3    1307 aa  Grin2c  | PREDICTED: Mus musculus glutamate receptor, ionotropic, NMDA2C (epsilon 3) (Grin2c), transcript variant X1, mR
+NMDA       XM_036152687.1    1345 aa  Grin2d  | PREDICTED: Mus musculus glutamate receptor, ionotropic, NMDA2D (epsilon 4) (Grin2d), transcript variant X1, mR
+Na         NM_001346679.2    2006 aa  Scn2a  | Mus musculus sodium channel, voltage-gated, type II, alpha (Scn2a), transcript variant 2, mRNA
+Na         NM_001403641.1    1841 aa  Scn4a  | Mus musculus sodium channel, voltage-gated, type IV, alpha (Scn4a), transcript variant 2, mRNA
+Na         XM_006499027.4    2009 aa  Scn1a  | PREDICTED: Mus musculus sodium channel, voltage-gated, type I, alpha (Scn1a), transcript variant X1, mRNA
+Na         XM_006499033.5    1984 aa  Scn9a  | PREDICTED: Mus musculus sodium channel, voltage-gated, type IX, alpha (Scn9a), transcript variant X1, mRNA
+Na         XM_006511993.1    2085 aa  Scn5a  | PREDICTED: Mus musculus sodium channel, voltage-gated, type V, alpha (Scn5a), transcript variant X1, mRNA
+Na         XM_011239391.2    1996 aa  Scn3a  | PREDICTED: Mus musculus sodium channel, voltage-gated, type III, alpha (Scn3a), transcript variant X1, mRNA
+Na         XM_017313223.1    1958 aa  Scn10a  | PREDICTED: Mus musculus sodium channel, voltage-gated, type X, alpha (Scn10a), transcript variant X4, mRNA
+Na         XM_017313362.3    1782 aa  Scn11a  | PREDICTED: Mus musculus sodium channel, voltage-gated, type XI, alpha (Scn11a), transcript variant X1, mRNA
+Na         XM_017316512.3    1988 aa  Scn8a  | PREDICTED: Mus musculus sodium channel, voltage-gated, type VIII, alpha (Scn8a), transcript variant X1, mRNA
+iGluR      NM_001081097.3     919 aa  Grik3  | Mus musculus glutamate receptor, ionotropic, kainate 3 (Grik3), mRNA
+iGluR      NM_001276355.1    1135 aa  Grin3a  | Mus musculus glutamate receptor ionotropic, NMDA3A (Grin3a), transcript variant 1, mRNA
+iGluR      NM_001357927.2     901 aa  Gria2  | Mus musculus glutamate receptor, ionotropic, AMPA2 (alpha 2) (Gria2), transcript variant 5, mRNA
+iGluR      NM_001372558.1     959 aa  Grin1  | Mus musculus glutamate receptor, ionotropic, NMDA1 (zeta 1) (Grin1), transcript variant 4, mRNA
+iGluR      NM_001405028.1     949 aa  Grik1  | Mus musculus glutamate receptor, ionotropic, kainate 1 (Grik1), transcript variant 4, mRNA
+iGluR      NM_008165.4        907 aa  Gria1  | Mus musculus glutamate receptor, ionotropic, AMPA1 (alpha 1) (Gria1), transcript variant 2, mRNA
+iGluR      NM_008166.2       1009 aa  Grid1  | Mus musculus glutamate receptor, ionotropic, delta 1 (Grid1), mRNA
+iGluR      NM_008167.3       1007 aa  Grid2  | Mus musculus glutamate receptor, ionotropic, delta 2 (Grid2), transcript variant 1, mRNA
+iGluR      NM_008170.4       1464 aa  Grin2a  | Mus musculus glutamate receptor, ionotropic, NMDA2A (epsilon 1) (Grin2a), mRNA
+iGluR      XM_006509841.4     912 aa  Gria4  | PREDICTED: Mus musculus glutamate receptor, ionotropic, AMPA4 (alpha 4) (Gria4), transcript variant X1, mRNA
+iGluR      XM_006513287.5    1138 aa  Grin3b  | PREDICTED: Mus musculus glutamate receptor, ionotropic, NMDA3B (Grin3b), transcript variant X1, mRNA
+iGluR      XM_011241221.4    1482 aa  Grin2b  | PREDICTED: Mus musculus glutamate receptor, ionotropic, NMDA2B (epsilon 2) (Grin2b), transcript variant X1, mR
+iGluR      XM_011242383.4     956 aa  Grik4  | PREDICTED: Mus musculus glutamate receptor, ionotropic, kainate 4 (Grik4), transcript variant X1, mRNA
+iGluR      XM_011243120.4     943 aa  Grik2  | PREDICTED: Mus musculus glutamate receptor, ionotropic, kainate 2 (beta 2) (Grik2), transcript variant X1, mRN
+iGluR      XM_017314276.3    1307 aa  Grin2c  | PREDICTED: Mus musculus glutamate receptor, ionotropic, NMDA2C (epsilon 3) (Grin2c), transcript variant X1, mR
+iGluR      XM_017318545.3     888 aa  Gria3  | PREDICTED: Mus musculus glutamate receptor, ionotropic, AMPA3 (alpha 3) (Gria3), transcript variant X1, mRNA
+iGluR      XM_030242143.2    1003 aa  Grik5  | PREDICTED: Mus musculus glutamate receptor, ionotropic, kainate 5 (gamma 2) (Grik5), transcript variant X2, mR
+iGluR      XM_036152687.1    1345 aa  Grin2d  | PREDICTED: Mus musculus glutamate receptor, ionotropic, NMDA2D (epsilon 4) (Grin2d), transcript variant X1, mR
+other      NM_025519.2        232 aa  Chmp4c  | Mus musculus charged multivesicular body protein 4C (Chmp4c), mRNA
+other      NM_026360.3        455 aa  Ddx47  | Mus musculus DEAD box helicase 47 (Ddx47), mRNA
+other      NM_133747.2        515 aa  Fam98a  | Mus musculus family with sequence similarity 98, member A (Fam98a), transcript variant 1, mRNA
+other      NM_139301.3        686 aa  Catsper1  | Mus musculus cation channel, sperm associated 1 (Catsper1), mRNA
+other      NM_153065.3        760 aa  Ddx27  | Mus musculus DEAD box helicase 27 (Ddx27), mRNA
+other      XM_006533050.4     831 aa  Cdc27  | PREDICTED: Mus musculus cell division cycle 27 (Cdc27), transcript variant X1, mRNA
+pump_Ca    NM_001110140.3    1044 aa  Atp2a2  | Mus musculus ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 (Atp2a2), transcript variant 1, mRNA
+pump_Ca    NM_001253831.1     952 aa  Atp2c1  | Mus musculus ATPase, Ca++-sequestering (Atp2c1), transcript variant 1, mRNA
+pump_Ca    NM_007504.2        994 aa  Atp2a1  | Mus musculus ATPase, Ca++ transporting, cardiac muscle, fast twitch 1 (Atp2a1), mRNA
+pump_Ca    NM_016745.3       1038 aa  Atp2a3  | Mus musculus ATPase, Ca++ transporting, ubiquitous (Atp2a3), transcript variant 2, mRNA
+pump_Ca    NM_026922.1        944 aa  Atp2c2  | Mus musculus ATPase, Ca++ transporting, type 2C, member 2 (Atp2c2), mRNA
+pump_Ca    NM_213616.5       1205 aa  Atp2b4  | Mus musculus ATPase, Ca++ transporting, plasma membrane 4 (Atp2b4), transcript variant b, mRNA
+pump_Ca    XM_006528081.3    1249 aa  Atp2b3  | PREDICTED: Mus musculus ATPase, Ca++ transporting, plasma membrane 3 (Atp2b3), transcript variant X1, mRNA
+pump_Ca    XM_011243548.4    1249 aa  Atp2b1  | PREDICTED: Mus musculus ATPase, Ca++ transporting, plasma membrane 1 (Atp2b1), transcript variant X1, mRNA
+pump_Ca    XM_030255122.2    1272 aa  Atp2b2  | PREDICTED: Mus musculus ATPase, Ca++ transporting, plasma membrane 2 (Atp2b2), transcript variant X19, mRNA
+pump_Cu    NM_001109757.2    1492 aa  Atp7a  | Mus musculus ATPase, copper transporting, alpha polypeptide (Atp7a), transcript variant 1, mRNA
+pump_Cu    NM_001403709.1    1511 aa  Atp7b  | Mus musculus ATPase, copper transporting, beta polypeptide (Atp7b), transcript variant 1, mRNA
+pump_NaK   NM_001290627.1    1034 aa  Atp4a  | Mus musculus ATPase, H+/K+ exchanging, gastric, alpha polypeptide (Atp4a), transcript variant 1, mRNA
+pump_NaK   NM_001420792.1    1066 aa  Atp1a3  | Mus musculus ATPase, Na+/K+ transporting, alpha 3 polypeptide (Atp1a3), transcript variant 3, mRNA
+pump_NaK   NM_013734.1       1032 aa  Atp1a4  | Mus musculus ATPase, Na+/K+ transporting, alpha 4 polypeptide (Atp1a4), mRNA
+pump_NaK   NM_138652.2       1035 aa  Atp12a  | Mus musculus ATPase, H+/K+ transporting, nongastric, alpha polypeptide (Atp12a), mRNA
+pump_NaK   NM_144900.2       1023 aa  Atp1a1  | Mus musculus ATPase, Na+/K+ transporting, alpha 1 polypeptide (Atp1a1), mRNA
+pump_NaK   NM_178405.4       1020 aa  Atp1a2  | Mus musculus ATPase, Na+/K+ transporting, alpha 2 polypeptide (Atp1a2), mRNA
+pump_other NM_001001488.3    1251 aa  Atp8b1  | Mus musculus ATPase, class I, type 8B, member 1 (Atp8b1), mRNA
+pump_other NM_001164612.1    1193 aa  Atp13a4  | Mus musculus ATPase type 13A4 (Atp13a4), transcript variant 1, mRNA
+pump_other NM_001368650.2    1209 aa  Atp8b2  | Mus musculus ATPase, class I, type 8B, member 2 (Atp8b2), transcript variant 1, mRNA
+pump_other NM_001428744.1    1474 aa  Atp10b  | Mus musculus ATPase, class V, type 10B (Atp10b), transcript variant 1, mRNA
+pump_other NM_015731.3       1047 aa  Atp9a  | Mus musculus ATPase, class II, type 9A (Atp9a), transcript variant 1, mRNA
+pump_other NM_015803.3       1148 aa  Atp8a2  | Mus musculus ATPase, aminophospholipid transporter-like, class I, type 8A, member 2 (Atp8a2), mRNA
+pump_other NM_015804.3       1187 aa  Atp11a  | Mus musculus ATPase, class VI, type 11A (Atp11a), transcript variant 1, mRNA
+pump_other NM_026094.3       1335 aa  Atp8b3  | Mus musculus ATPase, class I, type 8B, member 3 (Atp8b3), mRNA
+pump_other NM_029570.4       1175 aa  Atp11b  | Mus musculus ATPase, class VI, type 11B (Atp11b), transcript variant 1, mRNA
+pump_other NM_153389.4       1469 aa  Atp10d  | Mus musculus ATPase, class V, type 10D (Atp10d), transcript variant 1, coding, mRNA
+pump_other NM_175650.4       1216 aa  Atp13a5  | Mus musculus ATPase type 13A5 (Atp13a5), transcript variant 1, mRNA
+pump_other XM_006499495.1    1194 aa  Atp8b4  | PREDICTED: Mus musculus ATPase, class I, type 8B, member 4 (Atp8b4), transcript variant X1, mRNA
+pump_other XM_006509564.4    1223 aa  Atp13a1  | PREDICTED: Mus musculus ATPase type 13A1 (Atp13a1), transcript variant X1, mRNA
+pump_other XM_006526506.4    1167 aa  Atp9b  | PREDICTED: Mus musculus ATPase, class II, type 9B (Atp9b), transcript variant X1, mRNA
+pump_other XM_006528090.5    1129 aa  Atp11c  | PREDICTED: Mus musculus ATPase, class VI, type 11C (Atp11c), transcript variant X1, mRNA
+pump_other XM_006537995.5    1195 aa  Atp8b5  | PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X1, mRNA
+pump_other XM_006539236.3    1252 aa  Atp13a2  | PREDICTED: Mus musculus ATPase type 13A2 (Atp13a2), transcript variant X1, mRNA
+pump_other XM_006540580.4    1508 aa  Atp10a  | PREDICTED: Mus musculus ATPase, class V, type 10A (Atp10a), transcript variant X1, mRNA
+pump_other XM_017320623.3    1177 aa  Atp8a1  | PREDICTED: Mus musculus ATPase phospholipid transporting 8A1 (Atp8a1), transcript variant X1, mRNA
+pump_other XM_036159892.1    1249 aa  Atp13a3  | PREDICTED: Mus musculus ATPase type 13A3 (Atp13a3), transcript variant X1, mRNA
+undecided  NM_001081477.2    1799 aa  Brwd3  | Mus musculus bromodomain and WD repeat domain containing 3 (Brwd3), mRNA
+undecided  NM_001271338.1    5869 aa  Efcab3  | Mus musculus EF-hand calcium binding domain 3 (Efcab3), transcript variant 1, mRNA

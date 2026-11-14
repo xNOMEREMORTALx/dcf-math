@@ -1,0 +1,190 @@
+genes: 28093
+Ca         NM_001324496.1    2065 aa  cacna1fb  | Danio rerio calcium voltage-gated channel subunit alpha1 Fb (cacna1fb), mRNA
+Ca         NM_214726.1       1847 aa  cacna1sb  | Danio rerio calcium voltage-gated channel subunit alpha1 Sb (cacna1sb), mRNA
+Ca         XM_005168275.7    1778 aa  cacna1sa  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Sa (cacna1sa), transcript variant X1, mRNA
+Ca         XM_017351211.5    2164 aa  cacna1eb  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Eb (cacna1eb), transcript variant X1, mRNA
+Ca         XM_017352993.4    2447 aa  cacna1bb  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Bb (cacna1bb), transcript variant X3, mRNA
+Ca         XM_068219494.3    2230 aa  cacna1c  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 C (cacna1c), transcript variant X34, mRNA
+Ca         XM_073916059.2    2463 aa  cacna1ab  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Ab (cacna1ab), transcript variant X37, mRN
+Ca         XM_073944536.1    2191 aa  cacna1ia  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Ia (cacna1ia), transcript variant X1, mRNA
+Ca         XM_073944883.1    2301 aa  cacna1ha  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Ha (cacna1ha), transcript variant X6, mRNA
+Ca         XM_073949345.2    2102 aa  cacna1hb  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Hb (cacna1hb), transcript variant X1, mRNA
+Ca         XM_087219772.1    2444 aa  cacna1ea  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Ea (cacna1ea), transcript variant X1, mRNA
+Ca         XM_087219993.1    2115 aa  cacna1fa  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Fa (cacna1fa), mRNA
+Ca         XM_087220099.1    2126 aa  cacna1db  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Db (cacna1db), transcript variant X1, mRNA
+Ca         XM_087221929.1    2113 aa  cacna1da  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Da (cacna1da), transcript variant X1, mRNA
+Ca         XM_087223555.1    2481 aa  cacna1g  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 G (cacna1g), transcript variant X4, mRNA
+Ca         XM_087238453.1    2489 aa  cacna1aa  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Aa (cacna1aa), transcript variant X1, mRNA
+Ca         XM_087313264.1    2377 aa  cacna1ba  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Ba (cacna1ba), transcript variant X1, mRNA
+Ca         XM_087314577.1    2105 aa  cacna1ib  | PREDICTED: Danio rerio calcium voltage-gated channel subunit alpha1 Ib (cacna1ib), transcript variant X1, mRNA
+FeHyd      NM_001001843.2     480 aa  tph1b  | Danio rerio tryptophan hydroxylase 1b (tph1b), mRNA
+FeHyd      NM_001310068.1     546 aa  tph2  | Danio rerio tryptophan hydroxylase 2 (tryptophan 5-monooxygenase) (tph2), transcript variant 1, mRNA
+FeHyd      NM_178306.3        483 aa  tph1a  | Danio rerio tryptophan hydroxylase 1 (tryptophan 5-monooxygenase) a (tph1a), mRNA
+FeHyd      NM_200551.1        449 aa  pah  | Danio rerio phenylalanine hydroxylase (pah), mRNA
+FeHyd      XM_005164734.7     473 aa  th2  | PREDICTED: Danio rerio tyrosine hydroxylase 2 (th2), transcript variant X1, mRNA
+FeHyd      XM_087234050.1     513 aa  th  | PREDICTED: Danio rerio tyrosine hydroxylase (th), transcript variant X2, mRNA
+HCN        XM_017352974.5     908 aa  hcn1  | PREDICTED: Danio rerio hyperpolarization activated cyclic nucleotide-gated potassium channel 1 (hcn1), transcr
+HCN        XM_021468298.4    1076 aa  LOC101885373  | PREDICTED: Danio rerio potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 (LOC1018
+HCN        XM_073925628.1    1351 aa  LOC101882339  | PREDICTED: Danio rerio uncharacterized LOC101882339 (LOC101882339), transcript variant X1, mRNA
+HCN        XM_679638.10      1188 aa  hcn4l  | PREDICTED: Danio rerio hyperpolarization activated cyclic nucleotide-gated potassium channel 4l (hcn4l), trans
+HCN        XM_680322.10       979 aa  hcn2b  | PREDICTED: Danio rerio hyperpolarization activated cyclic nucleotide-gated potassium channel 2b (hcn2b), mRNA
+HCN        XM_680986.10      1140 aa  hcn4  | PREDICTED: Danio rerio hyperpolarization activated cyclic nucleotide-gated potassium channel 4 (hcn4), transcr
+HCN        XM_684105.8        639 aa  hcn3  | PREDICTED: Danio rerio hyperpolarization activated cyclic nucleotide-gated potassium channel 3 (hcn3), transcr
+K          NM_001082811.1     494 aa  kcnf1a  | Danio rerio potassium voltage-gated channel, subfamily F, member 1a (kcnf1a), mRNA
+K          NM_001442358.1     430 aa  si:ch73-334d15.4  | Danio rerio si:ch73-334d15.4 (si:ch73-334d15.4), mRNA
+K          NM_001446944.1    1135 aa  kcnh7b  | Danio rerio potassium channel, voltage gated eag related subfamily H, member 7b (kcnh7b), mRNA
+K          XM_001919401.8    1192 aa  kcnh3  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 3 (kcnh3), transcrip
+K          XM_002664207.8    1005 aa  kcnh5b  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 5b (kcnh5b), transcr
+K          XM_002667273.7     568 aa  kcna10a  | PREDICTED: Danio rerio potassium voltage-gated channel, shaker-related subfamily, member 10a (kcna10a), transc
+K          XM_003198829.9     493 aa  LOC100537815  | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A member 2 (LOC100537815), transcript variant
+K          XM_005156868.7     499 aa  kcns3a  | PREDICTED: Danio rerio potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3a (kcns3a), tr
+K          XM_005156957.6     484 aa  kcnf1b  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily F, member 1b (kcnf1b), mRNA
+K          XM_005163024.7     475 aa  kcna6a  | PREDICTED: Danio rerio potassium voltage-gated channel, shaker-related, subfamily, member 6 a (kcna6a), transc
+K          XM_005163044.6     492 aa  kcna1a  | PREDICTED: Danio rerio potassium voltage-gated channel, shaker-related subfamily, member 1a (kcna1a), mRNA
+K          XM_005163446.7     824 aa  kcnb2a  | PREDICTED: Danio rerio potassium voltage-gated channel subfamily B member 2a (kcnb2a), transcript variant X1, 
+K          XM_005164007.6    1185 aa  kcnh6a  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 6a (kcnh6a), transcr
+K          XM_005164662.7     630 aa  kcnd2  | PREDICTED: Danio rerio potassium voltage-gated channel, Shal-related subfamily, member 2 (kcnd2), transcript v
+K          XM_005166469.7     643 aa  kcnq1.1  | PREDICTED: Danio rerio potassium voltage-gated channel, KQT-like subfamily, member 1.1 (kcnq1.1), transcript v
+K          XM_005166707.7     632 aa  kcnd1  | PREDICTED: Danio rerio potassium voltage-gated channel, Shal-related subfamily, member 1 (kcnd1), transcript v
+K          XM_005167002.7     650 aa  kcnd3  | PREDICTED: Danio rerio potassium voltage-gated channel, Shal-related subfamily, member 3 (kcnd3), transcript v
+K          XM_005168893.6     609 aa  kcnc1a  | PREDICTED: Danio rerio potassium voltage-gated channel, Shaw-related subfamily, member 1a (kcnc1a), transcript
+K          XM_005168948.7     667 aa  kcna4  | PREDICTED: Danio rerio potassium voltage-gated channel, shaker-related subfamily, member 4 (kcna4), transcript
+K          XM_005171236.6     893 aa  kcnn1a  | PREDICTED: Danio rerio potassium intermediate/small conductance calcium-activated channel, subfamily N, member
+K          XM_005171241.5     539 aa  si:rp71-39b20.4  | PREDICTED: Danio rerio si:rp71-39b20.4 (si:rp71-39b20.4), mRNA
+K          XM_005174098.6     495 aa  kcna2b  | PREDICTED: Danio rerio potassium voltage-gated channel, shaker-related subfamily, member 2b (kcna2b), transcri
+K          XM_005174262.6     594 aa  kcnc1b  | PREDICTED: Danio rerio potassium voltage-gated channel, Shaw-related subfamily, member 1b (kcnc1b), transcript
+K          XM_009293096.6     977 aa  kcnh1a  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 1a (kcnh1a), transcr
+K          XM_021467847.4     795 aa  kcnq3  | PREDICTED: Danio rerio potassium voltage-gated channel, KQT-like subfamily, member 3 (kcnq3), transcript varia
+K          XM_021470205.3     647 aa  kcnc3b  | PREDICTED: Danio rerio potassium voltage-gated channel, Shaw-related subfamily, member 3b (kcnc3b), transcript
+K          XM_021472507.4     893 aa  kcnh6b  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 6b (kcnh6b), transcr
+K          XM_021475309.4     545 aa  LOC100004160  | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A member 5 (LOC100004160), mRNA
+K          XM_021477082.3     487 aa  si:dkey-43k4.5  | PREDICTED: Danio rerio si:dkey-43k4.5 (si:dkey-43k4.5), transcript variant X1, mRNA
+K          XM_021477284.3     515 aa  kcna3a  | PREDICTED: Danio rerio potassium voltage-gated channel, shaker-related subfamily, member 3a (kcna3a), mRNA
+K          XM_021477287.4     561 aa  LOC567521  | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A member 10 (LOC567521), mRNA
+K          XM_073909014.2     859 aa  kcnq2a  | PREDICTED: Danio rerio potassium voltage-gated channel, KQT-like subfamily, member 2a (kcnq2a), transcript var
+K          XM_073909917.1     603 aa  kcnc4  | PREDICTED: Danio rerio potassium voltage-gated channel, Shaw-related subfamily, member 4 (kcnc4), transcript v
+K          XM_073919476.2    1254 aa  kcnh2a  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 2a (kcnh2a), transcr
+K          XM_073925658.2     464 aa  kcns2  | PREDICTED: Danio rerio potassium voltage-gated channel modifier subfamily S member 2 (kcns2), mRNA
+K          XM_073931653.2    1021 aa  kcnh8  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 8 (kcnh8), transcrip
+K          XM_073931918.1     680 aa  kcnq4  | PREDICTED: Danio rerio potassium voltage-gated channel, KQT-like subfamily, member 4 (kcnq4), transcript varia
+K          XM_073941219.2    1177 aa  kcnh2b  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 2b (kcnh2b), transcr
+K          XM_073942524.2     704 aa  kcnq1.2  | PREDICTED: Danio rerio potassium voltage-gated channel, KQT-like subfamily, member 1.2 (kcnq1.2), transcript v
+K          XM_073944551.2     534 aa  kcna7  | PREDICTED: Danio rerio potassium voltage-gated channel, shaker-related subfamily, member 7 (kcna7), mRNA
+K          XM_073949111.2     476 aa  LOC100536252  | PREDICTED: Danio rerio shaker-related potassium channel tsha2 (LOC100536252), mRNA
+K          XM_073953686.2    1213 aa  kcnh7a  | PREDICTED: Danio rerio potassium channel, voltage gated eag related subfamily H, member 7a (kcnh7a), transcrip
+K          XM_087217707.1    1107 aa  kcnq2b  | PREDICTED: Danio rerio potassium voltage-gated channel, KQT-like subfamily, member 2b (kcnq2b), transcript var
+K          XM_087223310.1    1193 aa  kcnh4b  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 4b (kcnh4b), transcr
+K          XM_087224271.1    1024 aa  kcnq5a  | PREDICTED: Danio rerio potassium voltage-gated channel, KQT-like subfamily, member 5a (kcnq5a), transcript var
+K          XM_087229897.1    1062 aa  kcnh5a  | PREDICTED: Danio rerio potassium voltage-gated channel, subfamily H (eag-related), member 5a (kcnh5a), transcr
+K          XM_087233387.1     515 aa  LOC100330283  | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A member 3 (LOC100330283), mRNA
+K          XM_087237380.1     666 aa  kcnc3a  | PREDICTED: Danio rerio potassium voltage-gated channel, Shaw-related subfamily, member 3a (kcnc3a), transcript
+K          XM_087259465.2     570 aa  kcnc2  | PREDICTED: Danio rerio potassium voltage-gated channel, Shaw-related subfamily, member 2 (kcnc2), transcript v
+K          XM_677756.9        834 aa  kcnb1  | PREDICTED: Danio rerio potassium voltage-gated channel, Shab-related subfamily, member 1 (kcnb1), mRNA
+K          XM_683312.7        485 aa  kcnv1  | PREDICTED: Danio rerio potassium voltage-gated channel modifier subfamily V member 1 (kcnv1), transcript varia
+K          XM_690167.9        831 aa  kcnb2b  | PREDICTED: Danio rerio potassium voltage-gated channel subfamily B member 2b (kcnb2b), transcript variant X2, 
+K          XM_691989.12       974 aa  kcnq5b  | PREDICTED: Danio rerio potassium voltage-gated channel, KQT-like subfamily, member 5b (kcnq5b), transcript var
+K          XM_694777.8        493 aa  kcna1b  | PREDICTED: Danio rerio potassium voltage-gated channel, shaker-related subfamily, member 1b (kcna1b), mRNA
+K2P        NM_001111231.2     357 aa  kcnk15  | Danio rerio potassium channel, subfamily K, member 15 (kcnk15), mRNA
+K2P        XM_021467447.3     426 aa  kcnk2a  | PREDICTED: Danio rerio potassium channel, subfamily K, member 2a (kcnk2a), transcript variant X1, mRNA
+K2P        XM_021469073.4     470 aa  kcnk12l  | PREDICTED: Danio rerio potassium channel, subfamily K, member 12 like (kcnk12l), mRNA
+K2P        XM_068215540.3     425 aa  kcnk2b  | PREDICTED: Danio rerio potassium channel, subfamily K, member 2b (kcnk2b), transcript variant X1, mRNA
+K2P        XM_073920346.1     410 aa  kcnk12  | PREDICTED: Danio rerio potassium channel, subfamily K, member 12 (kcnk12), transcript variant X1, mRNA
+K2P        XM_087228395.1     262 aa  kcnk6  | PREDICTED: Danio rerio potassium channel, subfamily K, member 6 (kcnk6), transcript variant X9, mRNA
+K2P        XM_087231415.1     492 aa  kcnk4b  | PREDICTED: Danio rerio potassium channel, subfamily K, member 4b (kcnk4b), transcript variant X1, mRNA
+K2P        XM_694909.11       383 aa  kcnk3b  | PREDICTED: Danio rerio potassium channel, subfamily K, member 3b (kcnk3b), transcript variant X1, mRNA
+NMDA       NM_001365787.1    1400 aa  grin2ca  | Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2Ca (grin2ca), mRNA
+NMDA       XM_005171776.5     916 aa  grin1b  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 1b (grin1b), transcript variant X1
+NMDA       XM_009306796.6    1328 aa  grin2cb  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2Cb (grin2cb), transcript variant 
+NMDA       XM_021473854.2    1460 aa  grin2aa  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2A, a (grin2aa), transcript varian
+NMDA       XM_068219735.2    1770 aa  grin2bb  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2B, genome duplicate b (grin2bb), 
+NMDA       XM_073925934.2    1984 aa  grin2db  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2D, b (grin2db), transcript varian
+NMDA       XM_073931493.2    1918 aa  grin2da  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2D, a (grin2da), transcript varian
+NMDA       XM_073943687.2    1606 aa  grin2ba  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2B, genome duplicate a (grin2ba), 
+NMDA       XM_073949347.1    1445 aa  grin2ab  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2A, b (grin2ab), transcript varian
+NMDA       XM_087230958.1     970 aa  grin1a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 1a (grin1a), transcript variant X1
+Na         NM_001044895.2    1996 aa  scn1lab  | Danio rerio sodium channel, voltage-gated, type I like, alpha b (scn1lab), mRNA
+Na         NM_001045183.2    1958 aa  scn8ab  | Danio rerio sodium channel, voltage gated, type VIII, alpha subunit b (scn8ab), mRNA
+Na         NM_131628.1       1949 aa  scn8aa  | Danio rerio sodium channel, voltage gated, type VIII, alpha subunit a (scn8aa), mRNA
+Na         NM_200132.2       1955 aa  scn1laa  | Danio rerio sodium channel, voltage-gated, type I-like, alpha (scn1laa), mRNA
+Na         XM_009298901.6    1940 aa  scn12aa  | PREDICTED: Danio rerio sodium channel, voltage gated, type XII, alpha a (scn12aa), transcript variant X3, mRNA
+Na         XM_073942569.1    1836 aa  scn4ab  | PREDICTED: Danio rerio sodium channel, voltage-gated, type IV, alpha, b (scn4ab), transcript variant X1, mRNA
+Na         XM_087233642.1    1995 aa  scn5lab  | PREDICTED: Danio rerio sodium channel, voltage gated, type V-like, alpha b (scn5lab), transcript variant X5, m
+iGluR      NM_001365787.1    1400 aa  grin2ca  | Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2Ca (grin2ca), mRNA
+iGluR      XM_005157133.6     883 aa  gria3b  | PREDICTED: Danio rerio glutamate receptor, ionotropic, AMPA 3b (gria3b), transcript variant X1, mRNA
+iGluR      XM_005161339.6     917 aa  gria1b  | PREDICTED: Danio rerio glutamate receptor, ionotropic, AMPA 1b (gria1b), transcript variant X1, mRNA
+iGluR      XM_005171776.5     916 aa  grin1b  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 1b (grin1b), transcript variant X1
+iGluR      XM_009292105.5    1067 aa  grik5  | PREDICTED: Danio rerio glutamate receptor, ionotropic, kainate 5 (grik5), transcript variant X1, mRNA
+iGluR      XM_009305317.5     919 aa  grik1a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, kainate 1a (grik1a), transcript variant X1, mRNA
+iGluR      XM_009306536.6    1048 aa  grid1b  | PREDICTED: Danio rerio glutamate receptor, ionotropic, delta 1b (grid1b), transcript variant X1, mRNA
+iGluR      XM_009306796.6    1328 aa  grin2cb  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2Cb (grin2cb), transcript variant 
+iGluR      XM_017351450.5     991 aa  grik3  | PREDICTED: Danio rerio glutamate ionotropic receptor kainate type subunit 3 (grik3), transcript variant X1, mR
+iGluR      XM_017352396.4    1063 aa  si:ch211-264f5.8  | PREDICTED: Danio rerio si:ch211-264f5.8 (si:ch211-264f5.8), transcript variant X1, mRNA
+iGluR      XM_017359227.3     898 aa  gria4a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, AMPA 4a (gria4a), transcript variant X1, mRNA
+iGluR      XM_021467383.4    1118 aa  grin3ba  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl-D-aspartate 3Ba (grin3ba), transcript variant 
+iGluR      XM_021467422.3    1044 aa  grid1a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, delta 1a (grid1a), transcript variant X1, mRNA
+iGluR      XM_021473854.2    1460 aa  grin2aa  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2A, a (grin2aa), transcript varian
+iGluR      XM_068213152.3     944 aa  gria2b  | PREDICTED: Danio rerio glutamate receptor, ionotropic, AMPA 2b (gria2b), transcript variant X8, mRNA
+iGluR      XM_068219735.2    1770 aa  grin2bb  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2B, genome duplicate b (grin2bb), 
+iGluR      XM_073909341.1     964 aa  grid2  | PREDICTED: Danio rerio glutamate receptor, ionotropic, delta 2 (grid2), transcript variant X1, mRNA
+iGluR      XM_073914370.2    1117 aa  grin3a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl-D-aspartate 3A (grin3a), transcript variant X1
+iGluR      XM_073921697.1     914 aa  gria1a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, AMPA 1a (gria1a), transcript variant X1, mRNA
+iGluR      XM_073923681.1     965 aa  grik4  | PREDICTED: Danio rerio glutamate receptor, ionotropic, kainate 4 (grik4), transcript variant X1, mRNA
+iGluR      XM_073925934.2    1984 aa  grin2db  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2D, b (grin2db), transcript varian
+iGluR      XM_073931493.2    1918 aa  grin2da  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2D, a (grin2da), transcript varian
+iGluR      XM_073943687.2    1606 aa  grin2ba  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2B, genome duplicate a (grin2ba), 
+iGluR      XM_073946818.2     919 aa  LOC101885658  | PREDICTED: Danio rerio glutamate receptor ionotropic, kainate 2-like (LOC101885658), transcript variant X1, mR
+iGluR      XM_073949347.1    1445 aa  grin2ab  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 2A, b (grin2ab), transcript varian
+iGluR      XM_073949739.1     940 aa  gria3a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, AMPA 3a (gria3a), transcript variant X1, mRNA
+iGluR      XM_087219052.1     935 aa  gria2a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, AMPA 2a (gria2a), transcript variant X4, mRNA
+iGluR      XM_087222680.1    1114 aa  grin3bb  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl-D-aspartate 3Bb (grin3bb), transcript variant 
+iGluR      XM_087225988.1     906 aa  grik1b  | PREDICTED: Danio rerio glutamate receptor, ionotropic, kainate 1b (grik1b), transcript variant X1, mRNA
+iGluR      XM_087226619.1     981 aa  grik2  | PREDICTED: Danio rerio glutamate receptor, ionotropic, kainate 2 (grik2), transcript variant X1, mRNA
+iGluR      XM_087230683.1     951 aa  gria4b  | PREDICTED: Danio rerio glutamate receptor, ionotropic, AMPA 4b (gria4b), transcript variant X10, mRNA
+iGluR      XM_087230958.1     970 aa  grin1a  | PREDICTED: Danio rerio glutamate receptor, ionotropic, N-methyl D-aspartate 1a (grin1a), transcript variant X1
+other      NM_001044754.2     198 aa  si:ch211-51e12.7  | Danio rerio si:ch211-51e12.7 (si:ch211-51e12.7), mRNA
+other      NM_001099741.1     489 aa  otol1a  | Danio rerio otolin 1a (otol1a), mRNA
+other      XM_073936288.2     856 aa  ftsj3  | PREDICTED: Danio rerio FtsJ RNA 2'-O-methyltransferase 3 (ftsj3), transcript variant X1, mRNA
+other      XM_073948420.1     568 aa  si:cabz01054396.2  | PREDICTED: Danio rerio si:cabz01054396.2 (si:cabz01054396.2), transcript variant X1, mRNA
+other      XM_087314251.1     558 aa  ddx27  | PREDICTED: Danio rerio DEAD (Asp-Glu-Ala-Asp) box polypeptide 27 (ddx27), transcript variant X1, mRNA
+pump_Ca    XM_005156072.5     993 aa  atp2a1l  | PREDICTED: Danio rerio ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1, like (atp2a1l), transcri
+pump_Ca    XM_005161196.6    1041 aa  atp2a2b  | PREDICTED: Danio rerio ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2b (atp2a2b), transcript va
+pump_Ca    XM_005166818.7    1299 aa  atp2b3a  | PREDICTED: Danio rerio ATPase plasma membrane Ca2+ transporting 3a (atp2b3a), transcript variant X1, mRNA
+pump_Ca    XM_021474964.3    1257 aa  atp2b1a  | PREDICTED: Danio rerio ATPase plasma membrane Ca2+ transporting 1a (atp2b1a), transcript variant X1, mRNA
+pump_Ca    XM_073915917.1    1256 aa  atp2b2  | PREDICTED: Danio rerio ATPase plasma membrane Ca2+ transporting 2 (atp2b2), transcript variant X1, mRNA
+pump_Ca    XM_073926529.2     925 aa  atp2c1  | PREDICTED: Danio rerio ATPase secretory pathway Ca2+ transporting 1 (atp2c1), transcript variant X1, mRNA
+pump_Ca    XM_087219275.1    1042 aa  atp2a2a  | PREDICTED: Danio rerio ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2a (atp2a2a), transcript va
+pump_Ca    XM_087232870.1    1002 aa  atp2a1  | PREDICTED: Danio rerio ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 (atp2a1), transcript vari
+pump_Ca    XM_087232881.1    1306 aa  atp2b3b  | PREDICTED: Danio rerio ATPase plasma membrane Ca2+ transporting 3b (atp2b3b), transcript variant X8, mRNA
+pump_Ca    XM_087234215.1    1251 aa  atp2b1b  | PREDICTED: Danio rerio ATPase plasma membrane Ca2+ transporting 1b (atp2b1b), transcript variant X1, mRNA
+pump_Ca    XM_679135.10      1056 aa  si:dkey-28b4.8  | PREDICTED: Danio rerio si:dkey-28b4.8 (si:dkey-28b4.8), transcript variant X1, mRNA
+pump_Ca    XM_692016.12      1005 aa  atp2a3  | PREDICTED: Danio rerio ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 (atp2a3), transcript vari
+pump_Cu    XM_087224914.1    1483 aa  atp7a  | PREDICTED: Danio rerio ATPase copper transporting alpha (atp7a), transcript variant X1, mRNA
+pump_Cu    XM_679323.11      1364 aa  atp7b  | PREDICTED: Danio rerio ATPase copper transporting beta (atp7b), transcript variant X1, mRNA
+pump_NaK   NM_131684.2       1023 aa  atp1a3a  | Danio rerio ATPase Na+/K+ transporting subunit alpha 3a (atp1a3a), mRNA
+pump_NaK   NM_131686.1       1028 aa  atp1a1a.1  | Danio rerio ATPase Na+/K+ transporting subunit alpha 1a, tandem duplicate 1 (atp1a1a.1), mRNA
+pump_NaK   NM_131687.1       1023 aa  atp1a1a.2  | Danio rerio ATPase Na+/K+ transporting subunit alpha 1a, tandem duplicate 2 (atp1a1a.2), mRNA
+pump_NaK   NM_131688.1       1024 aa  atp1a1a.3  | Danio rerio ATPase Na+/K+ transporting subunit alpha 1a, tandem duplicate 3 (atp1a1a.3), mRNA
+pump_NaK   NM_131689.1       1024 aa  atp1a1a.4  | Danio rerio ATPase Na+/K+ transporting subunit alpha 1a, tandem duplicate 4 (atp1a1a.4), mRNA
+pump_NaK   NM_131690.1       1025 aa  atp1a1b  | Danio rerio ATPase Na+/K+ transporting subunit alpha 1b (atp1a1b), mRNA
+pump_NaK   NM_178099.2       1023 aa  atp1a1a.5  | Danio rerio ATPase Na+/K+ transporting subunit alpha 1a, tandem duplicate 5 (atp1a1a.5), mRNA
+pump_NaK   XM_073920896.1     710 aa  atp1a2a  | PREDICTED: Danio rerio ATPase Na+/K+ transporting subunit alpha 2a (atp1a2a), transcript variant X2, mRNA
+pump_other NM_001001403.2    1186 aa  atp13a1  | Danio rerio ATPase 13A1 (atp13a1), mRNA
+pump_other NM_001080037.2    1170 aa  atp13a2  | Danio rerio ATPase cation transporting 13A2 (atp13a2), transcript variant 1, mRNA
+pump_other XM_001920475.9    1249 aa  atp8b1  | PREDICTED: Danio rerio ATPase phospholipid transporting 8B1 (atp8b1), transcript variant X1, mRNA
+pump_other XM_005156574.6    1365 aa  atp10d  | PREDICTED: Danio rerio ATPase phospholipid transporting 10D (atp10d), transcript variant X1, mRNA
+pump_other XM_005170057.6    1136 aa  atp9b  | PREDICTED: Danio rerio ATPase phospholipid transporting 9B (atp9b), transcript variant X1, mRNA
+pump_other XM_009296348.6    1154 aa  atp8b3  | PREDICTED: Danio rerio ATPase phospholipid transporting 8B3 (atp8b3), transcript variant X1, mRNA
+pump_other XM_017359117.4    1294 aa  atp10b  | PREDICTED: Danio rerio ATPase phospholipid transporting 10B (atp10b), mRNA
+pump_other XM_021466904.3    1359 aa  atp8b2  | PREDICTED: Danio rerio ATPase phospholipid transporting 8B2 (atp8b2), transcript variant X1, mRNA
+pump_other XM_021477083.4    1212 aa  atp11a  | PREDICTED: Danio rerio ATPase phospholipid transporting 11A (atp11a), transcript variant X1, mRNA
+pump_other XM_068219080.3    1223 aa  atp8a2  | PREDICTED: Danio rerio ATPase phospholipid transporting 8A2 (atp8a2), transcript variant X1, mRNA
+pump_other XM_073916927.1    1256 aa  atp13a3  | PREDICTED: Danio rerio ATPase 13A3 (atp13a3), transcript variant X1, mRNA
+pump_other XM_073922210.1    1173 aa  atp8a1  | PREDICTED: Danio rerio ATPase phospholipid transporting 8A1 (atp8a1), transcript variant X1, mRNA
+pump_other XM_073937639.2    1166 aa  atp11b  | PREDICTED: Danio rerio ATPase phospholipid transporting 11B (atp11b), transcript variant X3, mRNA
+pump_other XM_073939324.2    1046 aa  atp9a  | PREDICTED: Danio rerio ATPase phospholipid transporting 9A (atp9a), transcript variant X1, mRNA
+pump_other XM_087225129.1    1195 aa  atp11c  | PREDICTED: Danio rerio ATPase phospholipid transporting 11C (ATP11C blood group) (atp11c), transcript variant 
+pump_other XM_087234728.1    1272 aa  atp8b4  | PREDICTED: Danio rerio ATPase phospholipid transporting 8B4 (atp8b4), transcript variant X2, mRNA
+pump_other XM_087313647.1    1205 aa  atp8b5a  | PREDICTED: Danio rerio ATPase phospholipid transporting 8B5a (atp8b5a), transcript variant X4, mRNA
+pump_other XM_686811.9       1189 aa  atp8b5b  | PREDICTED: Danio rerio ATPase phospholipid transporting 8B5b (atp8b5b), transcript variant X1, mRNA
+pump_other XM_690464.8       1524 aa  atp10a  | PREDICTED: Danio rerio ATPase phospholipid transporting 10A (atp10a), transcript variant X1, mRNA
+undecided  XM_073944912.1    4207 aa  myo15aa  | PREDICTED: Danio rerio myosin XVAa (myo15aa), transcript variant X1, mRNA

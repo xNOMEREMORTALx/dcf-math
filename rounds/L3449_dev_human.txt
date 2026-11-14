@@ -1,0 +1,52 @@
+genes: 9718
+Ca         NM_000718.4       2339 aa  CACNA1B  | Homo sapiens calcium voltage-gated channel subunit alpha1 B (CACNA1B), transcript variant 1, mRNA
+Ca         NM_000720.4       2181 aa  CACNA1D  | Homo sapiens calcium voltage-gated channel subunit alpha1 D (CACNA1D), transcript variant 1, mRNA
+Ca         NM_001205293.3    2313 aa  CACNA1E  | Homo sapiens calcium voltage-gated channel subunit alpha1 E (CACNA1E), transcript variant 1, mRNA
+Ca         NM_018896.5       2377 aa  CACNA1G  | Homo sapiens calcium voltage-gated channel subunit alpha1 G (CACNA1G), transcript variant 1, mRNA
+Ca         NM_021096.4       2223 aa  CACNA1I  | Homo sapiens calcium voltage-gated channel subunit alpha1 I (CACNA1I), transcript variant 1, mRNA
+Ca         NM_021098.3       2353 aa  CACNA1H  | Homo sapiens calcium voltage-gated channel subunit alpha1 H (CACNA1H), transcript variant 1, mRNA
+FeHyd      NM_004179.3        444 aa  TPH1  | Homo sapiens tryptophan hydroxylase 1 (TPH1), mRNA
+FeHyd      NM_173353.4        490 aa  TPH2  | Homo sapiens tryptophan hydroxylase 2 (TPH2), mRNA
+HCN        NM_020897.3        774 aa  HCN3  | Homo sapiens hyperpolarization activated cyclic nucleotide gated potassium channel 3 (HCN3), transcript varian
+K          NM_001160133.2     951 aa  KCNQ5  | Homo sapiens potassium voltage-gated channel subfamily Q member 5 (KCNQ5), transcript variant 4, mRNA
+K          NM_001322799.2     526 aa  KCNS1  | Homo sapiens potassium voltage-gated channel modifier subfamily S member 1 (KCNS1), transcript variant 2, mRNA
+K          NM_002236.5        494 aa  KCNF1  | Homo sapiens potassium voltage-gated channel modifier subfamily F member 1 (KCNF1), mRNA
+K          NM_002237.4        513 aa  KCNG1  | Homo sapiens potassium voltage-gated channel modifier subfamily G member 1 (KCNG1), mRNA
+K          NM_002252.5        491 aa  KCNS3  | Homo sapiens potassium voltage-gated channel modifier subfamily S member 3 (KCNS3), transcript variant 1, mRNA
+K          NM_004770.3        911 aa  KCNB2  | Homo sapiens potassium voltage-gated channel subfamily B member 2 (KCNB2), mRNA
+K          NM_004978.6        635 aa  KCNC4  | Homo sapiens potassium voltage-gated channel subfamily C member 4 (KCNC4), transcript variant 1, mRNA
+K          NM_004979.6        647 aa  KCND1  | Homo sapiens potassium voltage-gated channel subfamily D member 1 (KCND1), mRNA
+K          NM_012284.3       1083 aa  KCNH3  | Homo sapiens potassium voltage-gated channel subfamily H member 3 (KCNH3), transcript variant 1, mRNA
+K          NM_012285.3       1017 aa  KCNH4  | Homo sapiens potassium voltage-gated channel subfamily H member 4 (KCNH4), mRNA
+K          NM_020697.4        477 aa  KCNS2  | Homo sapiens potassium voltage-gated channel modifier subfamily S member 2 (KCNS2), mRNA
+K          NM_030779.4        994 aa  KCNH6  | Homo sapiens potassium voltage-gated channel subfamily H member 6 (KCNH6), transcript variant 1, mRNA
+K          NM_033272.4       1196 aa  KCNH7  | Homo sapiens potassium voltage-gated channel subfamily H member 7 (KCNH7), transcript variant 1, mRNA
+K          NM_139137.4        638 aa  KCNC2  | Homo sapiens potassium voltage-gated channel subfamily C member 2 (KCNC2), transcript variant 2, mRNA
+K          NM_139318.5        988 aa  KCNH5  | Homo sapiens potassium voltage-gated channel subfamily H member 5 (KCNH5), transcript variant 1, mRNA
+K          NM_172362.3        989 aa  KCNH1  | Homo sapiens potassium voltage-gated channel subfamily H member 1 (KCNH1), transcript variant 1, mRNA
+K2P        NM_001017424.3     422 aa  KCNK2  | Homo sapiens potassium two pore domain channel subfamily K member 2 (KCNK2), transcript variant 1, mRNA
+K2P        NM_002245.4        336 aa  KCNK1  | Homo sapiens potassium two pore domain channel subfamily K member 1 (KCNK1), mRNA
+K2P        NM_003740.4        499 aa  KCNK5  | Homo sapiens potassium two pore domain channel subfamily K member 5 (KCNK5), mRNA
+K2P        NM_022055.2        430 aa  KCNK12  | Homo sapiens potassium two pore domain channel subfamily K member 12 (KCNK12), mRNA
+K2P        NM_031460.4        332 aa  KCNK17  | Homo sapiens potassium two pore domain channel subfamily K member 17 (KCNK17), transcript variant 1, mRNA
+K2P        NM_032115.4        309 aa  KCNK16  | Homo sapiens potassium two pore domain channel subfamily K member 16 (KCNK16), transcript variant 2, mRNA
+K2P        NM_138317.3        543 aa  KCNK10  | Homo sapiens potassium two pore domain channel subfamily K member 10 (KCNK10), transcript variant 2, mRNA
+Na         NM_014139.3       1791 aa  SCN11A  | Homo sapiens sodium voltage-gated channel alpha subunit 11 (SCN11A), transcript variant 1, mRNA
+Na         NM_021007.3       2005 aa  SCN2A  | Homo sapiens sodium voltage-gated channel alpha subunit 2 (SCN2A), transcript variant 1, mRNA
+iGluR      NM_000827.4        906 aa  GRIA1  | Homo sapiens glutamate ionotropic receptor AMPA type subunit 1 (GRIA1), transcript variant 1, mRNA
+iGluR      NM_000829.4        902 aa  GRIA4  | Homo sapiens glutamate ionotropic receptor AMPA type subunit 4 (GRIA4), transcript variant 1, mRNA
+iGluR      NM_133445.3       1115 aa  GRIN3A  | Homo sapiens glutamate ionotropic receptor NMDA type subunit 3A (GRIN3A), mRNA
+iGluR      NM_138690.3       1043 aa  GRIN3B  | Homo sapiens glutamate ionotropic receptor NMDA type subunit 3B (GRIN3B), mRNA
+other      NM_016355.4        455 aa  DDX47  | Homo sapiens DEAD-box helicase 47 (DDX47), transcript variant 1, mRNA
+other      NM_033213.5        389 aa  ZNF670  | Homo sapiens zinc finger protein 670 (ZNF670), transcript variant 1, mRNA
+pump_Ca    NM_001001331.4    1243 aa  ATP2B2  | Homo sapiens ATPase plasma membrane Ca2+ transporting 2 (ATP2B2), transcript variant 1, mRNA
+pump_Ca    NM_001378511.1     983 aa  ATP2C1  | Homo sapiens ATPase secretory pathway Ca2+ transporting 1 (ATP2C1), transcript variant 12, mRNA
+pump_Ca    NM_004320.6        994 aa  ATP2A1  | Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 (ATP2A1), transcript variant a, mRN
+pump_Ca    NM_014861.4        946 aa  ATP2C2  | Homo sapiens ATPase secretory pathway Ca2+ transporting 2 (ATP2C2), transcript variant 2, mRNA
+pump_Ca    NM_174953.3       1052 aa  ATP2A3  | Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 (ATP2A3), transcript variant 5, mRN
+pump_NaK   NM_000704.3       1035 aa  ATP4A  | Homo sapiens ATPase H+/K+ transporting subunit alpha (ATP4A), mRNA
+pump_other NM_014616.3       1177 aa  ATP11B  | Homo sapiens ATPase phospholipid transporting 11B (putative) (ATP11B), mRNA
+pump_other NM_024837.4       1192 aa  ATP8B4  | Homo sapiens ATPase phospholipid transporting 8B4 (putative) (ATP8B4), transcript variant 1, mRNA
+pump_other NM_173694.5       1132 aa  ATP11C  | Homo sapiens ATPase phospholipid transporting 11C (ATP11C blood group) (ATP11C), transcript variant 1, mRNA
+pump_other NM_198505.4       1218 aa  ATP13A5  | Homo sapiens ATPase 13A5 (ATP13A5), mRNA
+undecided  NM_002976.4       1682 aa  SCN7A  | Homo sapiens sodium voltage-gated channel alpha subunit 7 (SCN7A), transcript variant 1, mRNA
