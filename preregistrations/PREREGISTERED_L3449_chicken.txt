@@ -20,3 +20,9 @@ Grading: a call is correct if its class is in classes(symbol, description) (HCN 
 AMENDMENT (same evening, before any chicken file exists here): truth SYM for K reverted to kcn[abcdfghqsv]<digit> so the C4
 recall denominator holds only voltage-gated K genes (the broader kcn[a-z]+ would have added inward-rectifier and
 calcium-activated K genes the rule is not built to find). K precision still accepts any 'potassium ... channel' description.
+AMENDMENT 2 (13 Nov 2026, 23:5x, before any chicken file exists here): the refseq/G_gallus/mRNA_Prot links return
+'object not found'. Data source replaced by the RefSeq genome-annotation RNA file of the same organism, assembly
+GCF_016699485.2 (bGalGal1.mat.broiler.GRCg7b): GCF_016699485.2_bGalGal1.mat.broiler.GRCg7b_rna.fna(.gz), from the
+NCBI FTP or from the NCBI Datasets zip (data/GCF_016699485.2/rna.fna). Same NM_/XM_ records and header format; all
+predictions, scripts and thresholds unchanged. If both forms arrive, the FTP .gz is used. Datasets zip: the rna.fna
+inside is gzipped here before running (the script reads .gz).
