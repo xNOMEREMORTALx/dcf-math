@@ -1,0 +1,12 @@
+L3497 development: Nax (sodium sensor) DIII loop T-F-N-G-W (DENA ring)
+TrEMBL set: by name class, proteins >=1500 aa carrying [TS]F[NQ]GW
+  {'Nax-named': 66, 'generic Na-name': 94}
+  Nax-named total >=1500: 67
+  generic-named missed (v7 not Na): 693  with T-F-N-G-W: 94
+seen proteomes, >=1500 aa with [TS]F[NQ]GW :
+   human ['SCN7A']
+   mouse ['Scn7a']
+   zebrafish []
+   chicken []
+   fly []
+   worm []
