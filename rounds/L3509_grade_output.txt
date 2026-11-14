@@ -1,0 +1,78 @@
+T1 Na calls: 0 PASS []
+T2 ATF-x-GW loops in >=1400 aa voltage-sensor proteins:
+    ('A0A8K1YCC4', 'E', 'LTLFTVATFEGWPDVMTN', 'Mnemiopsis leidyi (Sea walnut)', 'Calcium-channel protein CCH1')
+    ('A0ACF8Y6N4', 'E', 'IALYQVATFEGWMEVMDD', 'Mnemiopsis leidyi (Sea walnut)', 'Sodium channel protein')
+    ('A0ACF8Y996', 'E', 'FALYQVATFEGWMEVMED', 'Mnemiopsis leidyi (Sea walnut)', 'Sodium channel protein')
+    ('A0ACF8YBX3', 'E', 'FALYQVATFEGWMEVMED', 'Mnemiopsis leidyi (Sea walnut)', 'Sodium channel protein')
+    ('A0ACF8Z0T8', 'E', 'LTLFTVATFEGWPDVMTN', 'Mnemiopsis leidyi (Sea walnut)', 'Calcium-channel protein CCH1')
+    ('A0ACF8Z2N9', 'E', 'LTLFTVATFEGWPDVMTN', 'Mnemiopsis leidyi (Sea walnut)', 'Calcium-channel protein CCH1')
+    ('F6MZB7', 'E', 'LTLFTVATFEGWPDVMTN', 'Mnemiopsis leidyi (Sea walnut)', 'Calcium-channel protein CCH1')
+    ('F6MZB8', 'E', 'IALYQVATFEGWMEVMDD', 'Mnemiopsis leidyi (Sea walnut)', 'Sodium channel protein')
+T3 K calls 123
+
+Descriptive: counts by class {'Ca': 4, 'K': 123, 'K2P': 19, 'iGluR': 29, 'other': 32, 'pump_Ca': 6, 'pump_Cu': 2, 'pump_NaK': 3, 'pump_other': 14, 'Na': 0}
+  Ca        A0A8K1YCC4 Mnemiopsis leidyi (Sea wa | Calcium-channel protein CCH1
+  Ca        A0ACF8Z0T8 Mnemiopsis leidyi (Sea wa | Calcium-channel protein CCH1
+  Ca        A0ACF8Z2N9 Mnemiopsis leidyi (Sea wa | Calcium-channel protein CCH1
+  Ca        F6MZB7 Mnemiopsis leidyi (Sea wa | Calcium-channel protein CCH1
+  K2P       A0ACF8XLL6 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8XN66 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8XPZ4 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8XR48 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8XSJ9 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8XSR2 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8XSY2 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8XX07 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8YC38 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8YLD6 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8YPL0 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8ZAQ2 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8ZCC4 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8ZCL6 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8ZCQ1 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8ZD72 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8ZD81 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8ZDJ3 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  K2P       A0ACF8ZDJ4 Mnemiopsis leidyi (Sea wa | Potassium channel domain-containing protein
+  iGluR     A0A1S6WN67 Euplokamis dunlapae | Ionotropic glutamate receptor
+  iGluR     A0A1S6WN84 Hormiphora californensis  | Ionotropic glutamate receptor
+  iGluR     A0ACF8XTK6 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8XTL6 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8XVE1 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8Y792 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8Y8F7 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8YA59 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8YEZ5 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8YF58 Mnemiopsis leidyi (Sea wa | Sigma-54 factor interaction domain-containing protein
+  iGluR     A0ACF8YF60 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8Z8Y8 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     A0ACF8ZEZ5 Mnemiopsis leidyi (Sea wa | Uncharacterized protein
+  iGluR     V9PP54 Bathyctena chuni (Comb je | Lig_chan domain-containing protein
+  iGluR     V9PP73 Bathyctena chuni (Comb je | Lig_chan domain-containing protein
+  iGluR     V9PPD2 Charistephane fugiens | Lig_chan domain-containing protein
+  iGluR     V9PPG0 Bathyctena chuni (Comb je | Lig_chan domain-containing protein
+  iGluR     V9PPH8 Bathyctena chuni (Comb je | Lig_chan domain-containing protein
+  iGluR     V9PPK1 Charistephane fugiens | Lig_chan domain-containing protein
+  iGluR     V9PPK3 Hormiphora californensis  | SBP_bac_3 domain-containing protein
+  iGluR     V9PPP3 Charistephane fugiens | Lig_chan domain-containing protein
+  iGluR     V9PPQ1 Bathyctena chuni (Comb je | Lig_chan domain-containing protein
+  iGluR     V9PPR9 Hormiphora californensis  | Putative ionotropic glutamate receptor
+  iGluR     V9PPS5 Euplokamis dunlapae | ANF_receptor domain-containing protein (Ionotropic glut
+  iGluR     V9PPT9 Hormiphora californensis  | ANF_receptor domain-containing protein (Ionotropic glut
+  iGluR     V9PPV3 Lampea lactea | Glutamate receptor
+  iGluR     V9PPX5 Euplokamis dunlapae | Putative ionotropic glutamate receptor
+  iGluR     V9PPY3 Hormiphora californensis  | Putative ionotropic glutamate receptor
+  iGluR     V9PPZ4 Thalassocalyce inconstans | Lig_chan domain-containing protein
+  pump_NaK  A0ACF8ZEC4 Mnemiopsis leidyi (Sea wa | Sodium/potassium-transporting ATPase subunit alpha
+  pump_NaK  A0ACF8ZEE2 Mnemiopsis leidyi (Sea wa | Sodium/potassium-transporting ATPase subunit alpha
+  pump_NaK  A0ACF8ZFY3 Mnemiopsis leidyi (Sea wa | Sodium/potassium-transporting ATPase subunit alpha
+  pump_Ca   A0ACF8YCA5 Mnemiopsis leidyi (Sea wa | Calcium-transporting ATPase (EC 7.2.2.10)
+  pump_Ca   A0ACF8YCA6 Mnemiopsis leidyi (Sea wa | Calcium-transporting ATPase (EC 7.2.2.10)
+  pump_Ca   A0ACF8YE77 Mnemiopsis leidyi (Sea wa | Calcium-transporting ATPase (EC 7.2.2.10)
+  pump_Ca   A0ACF8YQH2 Mnemiopsis leidyi (Sea wa | Calcium-transporting ATPase (EC 7.2.2.10)
+  pump_Ca   A0ACF8YT67 Mnemiopsis leidyi (Sea wa | Calcium-transporting ATPase (EC 7.2.2.10)
+  pump_Ca   A0ACF8YTB9 Mnemiopsis leidyi (Sea wa | Calcium-transporting ATPase (EC 7.2.2.10)
+  pump_Cu   A0ACF8ZCW5 Mnemiopsis leidyi (Sea wa | P-type Cu(+) transporter (EC 7.2.2.8)
+  pump_Cu   A0ACF8ZE28 Mnemiopsis leidyi (Sea wa | P-type Cu(+) transporter (EC 7.2.2.8)
+RESULT [('T1', 'PASS'), ('T2', 'PASS'), ('T3', 'PASS')]
+passed 3 of 3 gradeable
