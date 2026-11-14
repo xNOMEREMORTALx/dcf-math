@@ -1,0 +1,9 @@
+AMENDMENT A1 to PREREGISTERED_L3425_neurometal.txt. Frozen before mouse.3 / mouse.4 are downloaded.
+Reason: the frozen check on mouse 1-2 (part A, not counted; rounds/L3425_mouse12_grade.txt) showed
+ (1) a false Na call (Brwd3, 1799 aa, chance S4, ring 0): v1 called every large S4 protein with ring <=1 Na;
+ (2) a header-parsing bug: the gene key was the FIRST parenthesis, so all mouse Kcnh genes merged under '(eag-related)'.
+Script v2: rounds/dcf_neurometal_L3425_A1.py (SHA-256 in LEDGER). Na now also needs the sodium lysine loop [TS][FY][KR][GA]W
+(the K of the DEKA ring); gene key = LAST parenthesis. Tuned on human 1-4 and mouse 1-2 (rounds/L3425_A1_dev_*.txt).
+On set B (mouse.3 + mouse.4) BOTH v1 (as originally frozen) and v2 are run and graded on N1-N4 unchanged.
+v1 and v2 are reported side by side; each prediction counted once per version (8 predictions).
+The truth set for N4 is built with the v2 (last-parenthesis) key for both versions.

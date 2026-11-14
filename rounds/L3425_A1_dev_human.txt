@@ -1,0 +1,25 @@
+genes: 9718
+Ca        NM_000718.4     2339 aa  S4 x2  ring 4  CACNA1B
+Ca        NM_000720.4     2181 aa  S4 x1  ring 4  CACNA1D
+Ca        NM_000721.4     2270 aa  S4 x3  ring 4  CACNA1E
+Ca        NM_018896.5     2377 aa  S4 x3  ring 4  CACNA1G
+Ca        NM_021096.4     2223 aa  S4 x3  ring 4  CACNA1I
+Ca        NM_021098.3     2353 aa  S4 x3  ring 5  CACNA1H
+HCN       NM_020897.3      774 aa  S4 x1  ring 0  HCN3
+K         NM_002236.5      494 aa  S4 x1  ring 0  KCNF1
+K         NM_002238.4      962 aa  S4 x1  ring 0  KCNH1
+K         NM_002251.5      526 aa  S4 x1  ring 0  KCNS1
+K         NM_002252.5      491 aa  S4 x1  ring 0  KCNS3
+K         NM_004770.3      911 aa  S4 x1  ring 0  KCNB2
+K         NM_004978.6      635 aa  S4 x2  ring 0  KCNC4
+K         NM_004979.6      647 aa  S4 x1  ring 0  KCND1
+K         NM_020697.4      477 aa  S4 x1  ring 0  KCNS2
+K         NM_030779.4      994 aa  S4 x1  ring 0  KCNH6
+K         NM_033272.4     1196 aa  S4 x1  ring 0  KCNH7
+K         NM_139137.4      638 aa  S4 x2  ring 0  KCNC2
+K         NM_139318.5      988 aa  S4 x1  ring 0  KCNH5
+Na        NM_014139.3     1791 aa  S4 x5  ring 1  SCN11A
+Na        NM_021007.3     2005 aa  S4 x5  ring 1  SCN2A
+other     NM_016355.4      455 aa  S4 x1  ring 0  DDX47
+other     NM_033213.5      389 aa  S4 x1  ring 1  ZNF670
+undecided NM_002976.4     1682 aa  S4 x1  ring 0  SCN7A
