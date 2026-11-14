@@ -1,0 +1,17 @@
+F1     3/3   PASS        wrong: []
+F2     1/1   PASS        wrong: []
+F3     7/8   FAIL        wrong: [('Shawl', 'Drosophila melanogaster Shaw-like (Shawl), transcript varian')]
+F4    11/13  PASS        missed: ['Ih', 'Shab']
+F5     1/3   FAIL        wrong: [('CG42340', 'Drosophila melanogaster uncharacterized protein, transcript '), ('CG43155', 'Drosophila melanogaster uncharacterized protein (CG43155), m')]
+F6     1/5   FAIL        missed: ['Ork1', 'sand', 'galene', 'Task7']
+F7    11/14  FAIL        wrong: [('Ekar', 'Drosophila melanogaster Eye-enriched kainate receptor (Ekar)'), ('Ir25a', 'Drosophila melanogaster ionotropic receptor 25a, transcript '), ('CG11155', 'Drosophila melanogaster uncharacterized protein, transcript ')]
+F8    11/12  PASS        missed: ['GluRIIB']
+F9     1/3   FAIL        wrong: [('Ekar', 'Drosophila melanogaster Eye-enriched kainate receptor (Ekar)'), ('Ir25a', 'Drosophila melanogaster ionotropic receptor 25a, transcript ')]
+F10    1/2   FAIL        missed: ['Nmdar2']
+F11    1/1   ungradeable wrong: []
+F12    0/3   FAIL        missed: ['Hn', 'trh', 'ple']
+F13    5/6   FAIL        wrong: [('JYalpha', 'Drosophila melanogaster JYalpha (JYalpha), mRNA')]
+F14    5/5   PASS        missed: []
+
+RESULT [('F1', 'PASS'), ('F2', 'PASS'), ('F3', 'FAIL'), ('F4', 'PASS'), ('F5', 'FAIL'), ('F6', 'FAIL'), ('F7', 'FAIL'), ('F8', 'PASS'), ('F9', 'FAIL'), ('F10', 'FAIL'), ('F11', 'ungradeable'), ('F12', 'FAIL'), ('F13', 'FAIL'), ('F14', 'PASS')]
+passed 5 of 13 gradeable; 1 ungradeable

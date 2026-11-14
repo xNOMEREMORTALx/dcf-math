@@ -1,0 +1,59 @@
+genes: 13864
+Ca         NM_001258709.2    1954 aa  cac  | Drosophila melanogaster cacophony (cac), transcript variant N, mRNA
+Ca         NM_001272338.1    3218 aa  Ca-alpha1T  | Drosophila melanogaster Ca[2+]-channel protein alpha[[1]] subunit T (Ca-alpha1T), transcript variant F, mRNA
+Ca         NM_165146.2       2705 aa  Ca-alpha1D  | Drosophila melanogaster Ca[2+]-channel protein alpha[[1]] subunit D (Ca-alpha1D), transcript variant M, mRNA
+FeHyd      NM_138236.2        555 aa  Trhn  | Drosophila melanogaster tryptophan hydroxylase neuronal (Trhn), mRNA
+K          NM_001042810.3    1270 aa  eag  | Drosophila melanogaster ether a go-go (eag), transcript variant B, mRNA
+K          NM_001103661.3     937 aa  Shawl  | Drosophila melanogaster Shaw-like (Shawl), transcript variant C, mRNA
+K          NM_001104176.2     571 aa  Shal  | Drosophila melanogaster shaker cognate l, transcript variant B (Shal), mRNA
+K          NM_001144310.1     619 aa  Shaw  | Drosophila melanogaster shaker cognate w, transcript variant C (Shaw), partial mRNA
+K          NM_001299885.1     855 aa  sei  | Drosophila melanogaster seizure (sei), transcript variant C, mRNA
+K          NM_001316640.1     655 aa  Sh  | Drosophila melanogaster shaker, transcript variant T (Sh), mRNA
+K          NM_057661.3       1284 aa  Elk  | Drosophila melanogaster Eag-like K[+] channel (Elk), transcript variant A, mRNA
+K          NM_176120.5        993 aa  KCNQ  | Drosophila melanogaster KCNQ potassium channel (KCNQ), transcript variant F, mRNA
+K2P        NM_001144693.2     484 aa  CG42340  | Drosophila melanogaster uncharacterized protein, transcript variant C (CG42340), mRNA
+K2P        NM_001275612.1     408 aa  Task6  | Drosophila melanogaster TWIK-related acid-sensitive K[+] channel 6 (Task6), transcript variant F, mRNA
+K2P        NM_132492.3        411 aa  CG43155  | Drosophila melanogaster uncharacterized protein (CG43155), mRNA
+NMDA       NM_001042785.2     899 aa  Ekar  | Drosophila melanogaster Eye-enriched kainate receptor (Ekar), transcript variant B, mRNA
+NMDA       NM_001273120.1     947 aa  Ir25a  | Drosophila melanogaster ionotropic receptor 25a, transcript variant C (Ir25a), mRNA
+NMDA       NM_169059.2        997 aa  Nmdar1  | Drosophila melanogaster NMDA receptor 1 (Nmdar1), mRNA
+Na         NM_001201706.1    2143 aa  para  | Drosophila melanogaster paralytic (para), transcript variant AN, mRNA
+iGluR      NM_001014714.2    1083 aa  Nmdar2  | Drosophila melanogaster NMDA receptor 2 (Nmdar2), transcript variant C, mRNA
+iGluR      NM_001042785.2     899 aa  Ekar  | Drosophila melanogaster Eye-enriched kainate receptor (Ekar), transcript variant B, mRNA
+iGluR      NM_001042908.2    1002 aa  clumsy  | Drosophila melanogaster clumsy, transcript variant B (clumsy), mRNA
+iGluR      NM_001043268.2     897 aa  GluRIIE  | Drosophila melanogaster glutamate receptor IIE (GluRIIE), mRNA
+iGluR      NM_001273120.1     947 aa  Ir25a  | Drosophila melanogaster ionotropic receptor 25a, transcript variant C (Ir25a), mRNA
+iGluR      NM_001274692.1    1095 aa  GluRIB  | Drosophila melanogaster glutamate receptor IB, transcript variant B (GluRIB), mRNA
+iGluR      NM_001275859.1     907 aa  Grik  | Drosophila melanogaster grik, transcript variant C (Grik), mRNA
+iGluR      NM_057507.4        991 aa  GluRIA  | Drosophila melanogaster glutamate receptor IA (GluRIA), mRNA
+iGluR      NM_078760.3        907 aa  GluRIIA  | Drosophila melanogaster glutamate receptor IIA (GluRIIA), mRNA
+iGluR      NM_134713.4        965 aa  GluRIIC  | Drosophila melanogaster glutamate receptor IIC (GluRIIC), mRNA
+iGluR      NM_142668.3        853 aa  KaiR1D  | Drosophila melanogaster Kainate-type ionotropic glutamate receptor subunit 1D (KaiR1D), mRNA
+iGluR      NM_143684.3        910 aa  CG11155  | Drosophila melanogaster uncharacterized protein, transcript variant A (CG11155), mRNA
+iGluR      NM_143725.3        902 aa  GluRIID  | Drosophila melanogaster glutamate receptor IID (GluRIID), mRNA
+iGluR      NM_169059.2        997 aa  Nmdar1  | Drosophila melanogaster NMDA receptor 1 (Nmdar1), mRNA
+other      NM_001144692.2     282 aa  CG42240  | Drosophila melanogaster uncharacterized protein, transcript variant A (CG42240), mRNA
+other      NM_001298327.1     392 aa  CG32591  | Drosophila melanogaster uncharacterized protein, transcript variant B (CG32591), mRNA
+other      NM_080111.4       1061 aa  lds  | Drosophila melanogaster lodestar (lds), mRNA
+other      NM_132917.2        134 aa  CG13010  | Drosophila melanogaster uncharacterized protein (CG13010), mRNA
+other      NM_136246.3        507 aa  pths  | Drosophila melanogaster porthos (pths), mRNA
+other      NM_140715.3       1324 aa  CG7692  | Drosophila melanogaster uncharacterized protein, transcript variant A (CG7692), mRNA
+other      NM_142649.4        263 aa  CG4000  | Drosophila melanogaster uncharacterized protein (CG4000), mRNA
+other      NM_143301.3        288 aa  CG3330  | Drosophila melanogaster uncharacterized protein (CG3330), mRNA
+pump_Ca    NM_001014689.5    1255 aa  PMCA  | Drosophila melanogaster plasma membrane calcium ATPase (PMCA), transcript variant M, mRNA
+pump_Ca    NM_001275291.1    1062 aa  SPoCk  | Drosophila melanogaster secretory pathway calcium atpase, transcript variant G (SPoCk), partial mRNA
+pump_Ca    NM_166633.2       1020 aa  SERCA  | Drosophila melanogaster Sarco/endoplasmic reticulum Ca(2+)-ATPase (SERCA), transcript variant B, mRNA
+pump_Cu    NM_001272537.2    1254 aa  ATP7  | Drosophila melanogaster ATP7, transcript variant C (ATP7), mRNA
+pump_NaK   NM_001110622.3    1009 aa  JYalpha  | Drosophila melanogaster JYalpha (JYalpha), mRNA
+pump_NaK   NM_169936.3       1041 aa  Atpalpha  | Drosophila melanogaster Na pump alpha subunit (Atpalpha), transcript variant A, mRNA
+pump_other NM_001103379.2    1451 aa  anne  | Drosophila melanogaster anne boleyn (anne), transcript variant H, mRNA
+pump_other NM_001144179.3    1350 aa  ATP8A  | Drosophila melanogaster ATPase 8A (ATP8A), transcript variant H, mRNA
+pump_other NM_001272681.1    1060 aa  CG9981  | Drosophila melanogaster uncharacterized protein, transcript variant B (CG9981), mRNA
+pump_other NM_132897.3       1342 aa  CG4301  | Drosophila melanogaster uncharacterized protein, transcript variant A (CG4301), mRNA
+pump_other NM_135646.3       1225 aa  CG6230  | Drosophila melanogaster uncharacterized protein (CG6230), mRNA
+pump_other NM_135790.4       1256 aa  CG31729  | Drosophila melanogaster uncharacterized protein, transcript variant B (CG31729), mRNA
+pump_other NM_169450.4       1726 aa  ATP8B  | Drosophila melanogaster ATPase 8B (ATP8B), transcript variant B, mRNA
+pump_other NM_205944.3       1517 aa  CG33298  | Drosophila melanogaster uncharacterized protein, transcript variant B (CG33298), mRNA
+undecided  NM_001202078.3    2844 aa  NaCP60E  | Drosophila melanogaster Na channel protein 60E (NaCP60E), transcript variant H, mRNA
+undecided  NM_001202108.2    1607 aa  Shab  | Drosophila melanogaster shaker cognate b, transcript variant M (Shab), mRNA
+undecided  NM_001258762.3    1970 aa  Cngl  | Drosophila melanogaster cyclic nucleotide-gated ion channel-like, transcript variant E (Cngl), mRNA

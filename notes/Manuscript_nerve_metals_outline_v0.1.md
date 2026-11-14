@@ -14,7 +14,7 @@
 
 **How we tested them.** Every rule was frozen and hashed before blind testing. Tool output was committed before gene names were read.
 
-**Results.** Across four blind data sets (mouse, zebrafish curated, zebrafish predicted, chicken), **40 of 45 pre-registered predictions passed.**
+**Results.** Across four blind data sets (mouse, zebrafish curated, zebrafish predicted, chicken), **40 of 45 pre-registered predictions passed in vertebrates; in the fruit fly, 5 of 13** (the core metal loops held, finer vertebrate-tuned motifs failed).
 - **Four of the five failures** were calls on genes that are channels or receptors by their own NCBI description or nearest relative, but that the frozen naming rule did not credit.
 - **One failure** was a chance 6-residue match. It was corrected (7 residues) and clean in the next blind test.
 
@@ -57,7 +57,7 @@
 | 3.4 | chicken (13/14; 103/104 calls correct); pumps by metal 11/11 | L3457 |
 | 3.5 | failures, every one explained | table |
 | 3.6 | the 9-nt rhythm: an illustration only, local to S4 (flank test 0.93 / 1.95 / 1.00) | L3449, L3453 |
-| 3.7 | (if run) insect blind test | L3461 |
+| 3.7 | insect blind test (5/13): the core loops hold, while the vertebrate-tuned NMDA, iron-flank, K2P and length rules break | L3465 |
 
 ## 4. Discussion
 - **Conservation in kind:** the same ring and filter types appear across all four lineages, and both copies of duplicated fish genes kept their metal.
