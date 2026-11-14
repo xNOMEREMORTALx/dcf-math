@@ -1,0 +1,15 @@
+PRE-REGISTRATION L3493: metal gates BEFORE and AT THE ORIGIN of nervous systems.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the file is downloaded.
+Tool: rounds/dcf_neurochem5_L3481.py (v7), unchanged. Truth: pre-stated biological expectation from the literature on
+ sodium-channel evolution (the DEKA ring with the domain-III lysine is a bilaterian feature; cnidarian and placozoan
+ sodium-channel homologues carry DEEA or DKEA rings), not names.
+Data: UniProt reference proteomes, one TSV (Entry, Organism, Protein names, Sequence):
+ Amphimedon queenslandica (sponge, no nervous system) UP000007879; Trichoplax adhaerens (placozoan, no neurons) UP000009022;
+ Nematostella vectensis (sea anemone, nerve net) UP000001593; Monosiga brevicollis (choanoflagellate, single-celled) UP000001357.
+ If a proteome is missing it is dropped. Tool reads only Entry and Sequence; organism attached after the output is committed.
+Predictions:
+ S1 Monosiga: 0 Na calls.   S2 Amphimedon: 0 Na calls.   S3 Trichoplax: 0 Na calls.   S4 Nematostella: 0 Na calls.
+   (rationale: no DEKA lysine outside Bilateria; a Na call here would be a false positive of the lysine rule)
+ S5 Nematostella: >= 1 Ca call.   S6 Trichoplax: >= 1 Ca call.   (Cav channels predate nerves)
+ S7 Nematostella: >= 3 K calls (cnidarians have Shaker/Shab/Shaw/Shal and EAG families).
+Descriptive (not graded): every call per species, with the pore loops printed; pump classes per species.

@@ -1,0 +1,31 @@
+L3493 descriptive (after grading; not counted)
+1. The four v7 swaps
+  A0A4W3JYE7 Callorhinchus milii (Ghost s | sodium channel protein | called Ca | len 1547 | lysine loop [] | ring hits ['TDEEW', 'TLDYW', 'TFEGW']
+  A0A4W3JZX3 Callorhinchus milii (Ghost s | sodium channel protein | called Ca | len 1549 | lysine loop [] | ring hits ['TDEEW', 'TLDYW', 'TFEGW']
+  A0A8B9VYB7 Anas zonorhyncha (Eastern sp | voltage-dependent t-type calcium channel subunit a | called Na | len 1773 | lysine loop ['SFKGW'] | ring hits ['TLEGW', 'TQEDW', 'SKDGW', 'TGDNW']
+  A0A8C0A0L2 Anas zonorhyncha (Eastern sp | voltage-dependent t-type calcium channel subunit a | called Na | len 1806 | lysine loop ['SFKGW'] | ring hits ['TLEGW', 'TQEDW', 'SKDGW', 'TGDNW']
+2. Why 657 Na-named proteins were not called Na
+  S4/nolys/other            574
+  noS4/nolys/none           64
+  noS4/lys/none             17
+  S4/nolys/Ca               2
+3. Names of the 657 missed sodium entries (top):
+   572  Sodium channel protein
+    65  Sodium channel protein type 7 subunit alpha (Nax channel)
+     4  Sodium channel protein type 4 subunit alpha B-like
+     3  Sodium channel protein type 2 subunit alpha
+     2  Sodium channel protein type 4 subunit alpha B Voltage-gated sodium cha
+     2  Sodium channel protein type 7 subunit alpha
+     1  Sodium channel protein type 2 subunit alpha-like isoform X2
+     1  Sodium channel protein type 4 subunit alpha B isoform X2
+     1  Sodium channel protein type 4 subunit alpha B isoform X3
+     1  Sodium channel protein type 4 subunit alpha B isoform X4
+  with the Nax/SCN7A DIII loop G-K-I-W or any K-x-W at DIII position not tested; with "ATFKGW": 17
+4. Development for v8: proteins WITH the lysine loop, by name class and calcium-ring count (TrEMBL set, now seen)
+  name Ca ring 4: 2
+  name Na ring 0: 82
+  name Na ring 1: 8895
+  name Na ring 2: 227
+  name Na ring 3: 31
+  name Na ring 4: 10
+  name Na ring 5: 1
