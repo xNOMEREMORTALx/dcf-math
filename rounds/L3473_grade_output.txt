@@ -1,0 +1,16 @@
+W1   Na calls: 0 PASS []
+W2     0/0   ungradeable wrong: []
+W3     3/3   PASS        wrong: []
+W4     3/4   PASS        missed: [('egl-36', 'Potassium channel family, C (Shaw) (TC 1.A.1.')]
+W5     5/5   PASS        wrong: []
+W6     5/6   PASS        missed: [('unc-58', 'Two pore domain potassium channel (TC 1.A.1.8')]
+W7     3/3   PASS        wrong: []
+W8     3/3   PASS        missed: []
+W9     2/2   PASS        wrong: []
+W10    2/2   PASS        missed: []
+W11    0/0   ungradeable wrong: []
+W12    0/1   ungradeable missed: [('mca-1', 'Cation transport ATPase (P-type) (TC 3.A.3) f')]
+
+class sizes in reference: {'Ca': 0, 'Na': 0, 'K': 7, 'HCN': 0, 'K2P': 6, 'iGluR': 3, 'FeHyd': 2, 'pump_NaK': 0, 'pump_Ca': 1, 'pump_Cu': 0}
+RESULT [('W1', 'PASS'), ('W2', 'ungradeable'), ('W3', 'PASS'), ('W4', 'PASS'), ('W5', 'PASS'), ('W6', 'PASS'), ('W7', 'PASS'), ('W8', 'PASS'), ('W9', 'PASS'), ('W10', 'PASS'), ('W11', 'ungradeable'), ('W12', 'ungradeable')]
+passed 9 of 9 gradeable; 3 ungradeable
