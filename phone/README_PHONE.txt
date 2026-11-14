@@ -1,3 +1,14 @@
+Bundle 6.11 (L3457): menu 34 now also lists P-type PUMPS by metal (Na/K, Ca, Cu), glutamate and NMDA receptors, and the iron hydroxylases that make dopamine and serotonin; reads NM_ and XM_ records (longest transcript per gene). Blind: chicken 13/14 (L3457). Copy ALL EIGHT .py files into one folder; open dcf_phone_6.11.py. Self-test 265/265.
+SHA-256:
+d769cf0a79ddf9b53e9127b77d82989683a404cf0f5d5c530f0c396ec5976c52  dcf_phone_6.11.py
+bb42f2665fb2808e913efbd4de32f2097477c8e76b591c695f77d910cb143986  dcf_nerve.py
+02fe1bb11c322ce0a9b3033cd66cb159b21803c93ee0bd8baa07838388d15ee1  dcf_exonmap.py
+5be0a3296477c529bbc01cff6df09c71264db3db7d19db68900fcacdcab891c1  dcf_motif_scan.py
+4aecee5c25d09f1f3d634e274037643174af1c419f561c1c4e49c86f50d1a7d1  dcf_redox.py
+fa30258bd3e19c1a186f225ebb8b50f4993530948f4ffa50644d37d92930297c  dcf_genefinder_mobile.py
+dca12b53e5358f6dcf99c8f261e27f8ffff0c563878bc8eefb81dee486fc4e49  dcf_dna_codec.py
+dd583cfb386dc71f847db8bb137fb41903ce109b3f6e18730ef85d4a220e95ed  dcf_dna_ecc.py
+
 Bundle 6.10 (L3433): NEW menu 34 nerve channels by metal ion (sodium, potassium, calcium, HCN pacemaker, K2P leak) from an mRNA file; needs dcf_nerve.py. Blind record mouse.3: 30 calls, 0 wrong; K2P 7/7. Copy ALL EIGHT .py files into one folder. Open dcf_phone_6.10.py. Self-test 264/264.
 SHA-256:
 edcb6d80610d6ede696e6cb93f9a63f16a5024e2a20f19c26e924714dc4c671a  dcf_phone_6.10.py

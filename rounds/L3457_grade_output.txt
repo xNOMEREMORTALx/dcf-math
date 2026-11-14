@@ -1,0 +1,17 @@
+C1     9/9   PASS        wrong: []
+C2     8/9   FAIL        wrong: [('LOC395944', 'PREDICTED: Gallus gallus voltage-gated sodium channel SNS (L')]
+C3    38/38  PASS        wrong: []
+C4    52/56  PASS        missed: ['KCNG1', 'KCNG2', 'KCNG3', 'KCNG4']
+C5    12/12  PASS        wrong: []
+C6    12/13  PASS        missed: ['KCNK18']
+C7    16/16  PASS        wrong: []
+C8    16/17  PASS        missed: ['GRID2IP']
+C9     4/4   PASS        wrong: []
+C10    4/4   PASS        missed: []
+C11    5/5   PASS        wrong: []
+C12    4/4   PASS        missed: []
+C13   11/11  PASS        wrong: []
+C14   11/11  PASS        missed: []
+
+RESULT [('C1', 'PASS'), ('C2', 'FAIL'), ('C3', 'PASS'), ('C4', 'PASS'), ('C5', 'PASS'), ('C6', 'PASS'), ('C7', 'PASS'), ('C8', 'PASS'), ('C9', 'PASS'), ('C10', 'PASS'), ('C11', 'PASS'), ('C12', 'PASS'), ('C13', 'PASS'), ('C14', 'PASS')]
+passed 13 of 14 gradeable; 0 ungradeable

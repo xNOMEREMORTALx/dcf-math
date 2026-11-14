@@ -1,0 +1,132 @@
+genes: 18011
+Ca         NM_001396677.1    2211 aa  CACNA1C  | Gallus gallus calcium voltage-gated channel subunit alpha1 C (CACNA1C), mRNA
+Ca         NM_001397699.1    1836 aa  CACNA1S  | Gallus gallus calcium voltage-gated channel subunit alpha1 S (CACNA1S), transcript variant 2, mRNA
+Ca         XM_015279261.4    2370 aa  CACNA1B  | PREDICTED: Gallus gallus calcium voltage-gated channel subunit alpha1 B (CACNA1B), transcript variant X1, mRNA
+Ca         XM_015290478.4    2425 aa  CACNA1E  | PREDICTED: Gallus gallus calcium voltage-gated channel subunit alpha1 E (CACNA1E), transcript variant X2, mRNA
+Ca         XM_015294424.4    2412 aa  CACNA1H  | PREDICTED: Gallus gallus calcium voltage-gated channel subunit alpha1 H (CACNA1H), transcript variant X1, mRNA
+Ca         XM_040646099.2    2192 aa  CACNA1D  | PREDICTED: Gallus gallus calcium voltage-gated channel subunit alpha1 D (CACNA1D), transcript variant X1, mRNA
+Ca         XM_040649884.2    2380 aa  CACNA1G  | PREDICTED: Gallus gallus calcium voltage-gated channel subunit alpha1 G (CACNA1G), transcript variant X1, mRNA
+Ca         XM_040657288.2    1991 aa  LOC101752139  | PREDICTED: Gallus gallus voltage-dependent L-type calcium channel subunit alpha-1F-like (LOC101752139), transc
+Ca         XM_046907892.1    2217 aa  CACNA1I  | PREDICTED: Gallus gallus calcium voltage-gated channel subunit alpha1 I (CACNA1I), transcript variant X1, mRNA
+FeHyd      NM_001001298.2     446 aa  PAH  | Gallus gallus phenylalanine hydroxylase (PAH), mRNA
+FeHyd      NM_204805.2        491 aa  TH  | Gallus gallus tyrosine hydroxylase (TH), mRNA
+FeHyd      XM_001235000.5     458 aa  THL  | PREDICTED: Gallus gallus tyrosine hydroxylase (THL), transcript variant X1, mRNA
+FeHyd      XM_040674469.2     500 aa  TPH2  | PREDICTED: Gallus gallus tryptophan hydroxylase 2 (TPH2), transcript variant X1, mRNA
+FeHyd      XM_040700695.1     515 aa  TPH1  | PREDICTED: Gallus gallus tryptophan hydroxylase 1 (TPH1), transcript variant X1, mRNA
+HCN        XM_003642867.5     975 aa  HCN2  | PREDICTED: Gallus gallus hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2 (H
+HCN        XM_015298646.4     956 aa  HCN3  | PREDICTED: Gallus gallus hyperpolarization activated cyclic nucleotide gated potassium channel 3 (HCN3), mRNA
+HCN        XM_425050.8       1208 aa  HCN4  | PREDICTED: Gallus gallus hyperpolarization activated cyclic nucleotide gated potassium channel 4 (HCN4), trans
+HCN        XM_429145.8        846 aa  HCN1  | PREDICTED: Gallus gallus hyperpolarization activated cyclic nucleotide gated potassium channel 1 (HCN1), mRNA
+K          NM_001030378.2     580 aa  KCNA3  | Gallus gallus potassium voltage-gated channel subfamily A member 3 (KCNA3), transcript variant 1, mRNA
+K          NM_001396277.1     516 aa  KCNA10  | Gallus gallus potassium voltage-gated channel subfamily A member 10 (KCNA10), transcript variant 2, mRNA
+K          NM_204279.2        632 aa  KCND2  | Gallus gallus potassium voltage-gated channel subfamily D member 2 (KCND2), mRNA
+K          NM_204326.2        658 aa  KCND3  | Gallus gallus potassium voltage-gated channel subfamily D member 3 (KCND3), mRNA
+K          NM_204463.1        499 aa  KCNA2  | Gallus gallus potassium voltage-gated channel subfamily A member 2 (KCNA2), mRNA
+K          NM_204899.3        662 aa  KCNA4  | Gallus gallus potassium voltage-gated channel subfamily A member 4 (KCNA4), mRNA
+K          XM_001232666.7     469 aa  KCNS1  | PREDICTED: Gallus gallus potassium voltage-gated channel modifier subfamily S member 1 (KCNS1), transcript var
+K          XM_003640825.6     913 aa  KCNB2  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily B member 2 (KCNB2), transcript variant X1, 
+K          XM_003643151.6     513 aa  KCNA6  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily A member 6 (KCNA6), mRNA
+K          XM_004934869.5     630 aa  KCNC4  | PREDICTED: Gallus gallus potassium voltage-gated channel, Shaw-related subfamily, member 4 (KCNC4), transcript
+K          XM_004938073.5     575 aa  KCNA1  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily A member 1 (KCNA1), transcript variant X1, 
+K          XM_004941425.5     609 aa  KCNC1  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily C member 1 (KCNC1), transcript variant X1, 
+K          XM_015280134.3     570 aa  KCNV2  | PREDICTED: Gallus gallus potassium voltage-gated channel modifier subfamily V member 2 (KCNV2), mRNA
+K          XM_015281150.4    1163 aa  KCNH2  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily H member 2 (KCNH2), mRNA
+K          XM_015283117.3     869 aa  KCNQ3  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily Q member 3 (KCNQ3), transcript variant X1, 
+K          XM_015284764.4     931 aa  KCNQ5  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily Q member 5 (KCNQ5), transcript variant X1, 
+K          XM_015285072.4     494 aa  KCNS3  | PREDICTED: Gallus gallus potassium voltage-gated channel modifier subfamily S member 3 (KCNS3), transcript var
+K          XM_015292326.3     631 aa  KCNA5  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily A member 5 (KCNA5), mRNA
+K          XM_015299309.4    1209 aa  KCNH6  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily H member 6 (KCNH6), transcript variant X1, 
+K          XM_015300089.4     635 aa  KCNN1  | PREDICTED: Gallus gallus potassium calcium-activated channel subfamily N member 1 (KCNN1), transcript variant 
+K          XM_025143060.2     698 aa  KCNQ4  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily Q member 4 (KCNQ4), transcript variant X1, 
+K          XM_040650946.2     863 aa  KCNB1  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily B member 1 (KCNB1), transcript variant X1, 
+K          XM_040650955.1     887 aa  KCNQ2  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily Q member 2 (KCNQ2), transcript variant X10,
+K          XM_040651138.2     623 aa  KCNC2  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily C member 2 (KCNC2), transcript variant X1, 
+K          XM_040653359.2    1046 aa  KCNH4  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily H member 4 (KCNH4), transcript variant X1, 
+K          XM_040653619.2     506 aa  LOC107055327  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily V member 2-like (LOC107055327), mRNA
+K          XM_040695914.2     516 aa  KCNS2  | PREDICTED: Gallus gallus potassium voltage-gated channel modifier subfamily S member 2 (KCNS2), transcript var
+K          XM_040697358.2     957 aa  KCNH1  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily H member 1 (KCNH1), transcript variant X11,
+K          XM_046942042.1     794 aa  KCNQ1  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily Q member 1 (KCNQ1), transcript variant X1, 
+K          XM_046943827.1    1232 aa  KCNH7  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily H member 7 (KCNH7), transcript variant X1, 
+K          XM_418390.8        506 aa  KCNV1  | PREDICTED: Gallus gallus potassium voltage-gated channel modifier subfamily V member 1 (KCNV1), mRNA
+K          XM_418747.7       1108 aa  KCNH8  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily H member 8 (KCNH8), transcript variant X1, 
+K          XM_421414.7        989 aa  KCNH5  | PREDICTED: Gallus gallus potassium voltage-gated channel subfamily H member 5 (KCNH5), mRNA
+K          XM_426210.7        487 aa  KCNF1  | PREDICTED: Gallus gallus potassium voltage-gated channel modifier subfamily F member 1 (KCNF1), transcript var
+K2P        XM_001235223.5     294 aa  KCNK16  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 16 (KCNK16), mRNA
+K2P        XM_001235375.6     407 aa  KCNK13  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 13 (KCNK13), mRNA
+K2P        XM_003640857.6     468 aa  KCNK9  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 9 (KCNK9), mRNA
+K2P        XM_004935320.5     422 aa  KCNK2  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 2 (KCNK2), transcript variant X1
+K2P        XM_004941854.5     537 aa  KCNK10  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 10 (KCNK10), transcript variant 
+K2P        XM_015287919.4     330 aa  KCNK4  | PREDICTED: Gallus gallus potassium channel, subfamily K, member 4 (KCNK4), transcript variant X1, mRNA
+K2P        XM_025149273.2     389 aa  KCNK3  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 3 (KCNK3), transcript variant X1
+K2P        XM_025149362.3     426 aa  KCNK12  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 12 (KCNK12), transcript variant 
+K2P        XM_046939077.1     413 aa  KCNK17  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 17 (KCNK17), transcript variant 
+K2P        XM_417369.8        398 aa  KCNK15  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 15 (KCNK15), transcript variant 
+K2P        XM_419478.8        484 aa  KCNK5  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 5 (KCNK5), transcript variant X1
+K2P        XM_419561.8        336 aa  KCNK7  | PREDICTED: Gallus gallus potassium two pore domain channel subfamily K member 7 (KCNK7), mRNA
+NMDA       XM_015295464.4    1313 aa  GRIN2C  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 2C (GRIN2C), transcript variant X1, m
+NMDA       XM_025155258.3    1470 aa  GRIN2A  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 2A (GRIN2A), transcript variant X1, m
+NMDA       XM_040668418.2    1504 aa  GRIN2B  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 2B (GRIN2B), transcript variant X1, m
+NMDA       XM_046901675.1    1025 aa  GRIN1  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 1 (GRIN1), transcript variant X1, mRN
+Na         NM_001293282.2    1991 aa  SCN9A  | Gallus gallus sodium voltage-gated channel alpha subunit 9 (SCN9A), mRNA
+Na         NM_001389406.2    1836 aa  SCN4A  | Gallus gallus sodium voltage-gated channel alpha subunit 4 (SCN4A), mRNA
+Na         XM_003641586.6    2013 aa  SCN1A  | PREDICTED: Gallus gallus sodium voltage-gated channel alpha subunit 1 (SCN1A), transcript variant X1, mRNA
+Na         XM_003641602.6    2011 aa  SCN3A  | PREDICTED: Gallus gallus sodium voltage-gated channel alpha subunit 3 (SCN3A), transcript variant X3, mRNA
+Na         XM_003643112.6    1978 aa  SCN8A  | PREDICTED: Gallus gallus sodium voltage-gated channel alpha subunit 8 (SCN8A), transcript variant X2, mRNA
+Na         XM_004942787.4    2017 aa  SCN2A  | PREDICTED: Gallus gallus sodium voltage-gated channel alpha subunit 2 (SCN2A), transcript variant X3, mRNA
+Na         XM_040675923.2    2031 aa  SCN5A  | PREDICTED: Gallus gallus sodium voltage-gated channel alpha subunit 5 (SCN5A), transcript variant X1, mRNA
+Na         XM_040695659.1    1957 aa  LOC395944  | PREDICTED: Gallus gallus voltage-gated sodium channel SNS (LOC395944), mRNA
+Na         XM_046925820.1    1810 aa  SCN11A  | PREDICTED: Gallus gallus sodium voltage-gated channel alpha subunit 11 (SCN11A), transcript variant X2, mRNA
+iGluR      NM_001001774.2     902 aa  GRIA1  | Gallus gallus glutamate ionotropic receptor AMPA type subunit 1 (GRIA1), mRNA
+iGluR      NM_001112799.2     888 aa  GRIA3  | Gallus gallus glutamate ionotropic receptor AMPA type subunit 3 (GRIA3), transcript variant 1, mRNA
+iGluR      XM_001232181.7    1126 aa  GRIN3A  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 3A (GRIN3A), mRNA
+iGluR      XM_015276600.4    1017 aa  GRID2  | PREDICTED: Gallus gallus glutamate ionotropic receptor delta type subunit 2 (GRID2), transcript variant X1, mR
+iGluR      XM_015285277.4     948 aa  GRIA2  | PREDICTED: Gallus gallus glutamate ionotropic receptor AMPA type subunit 2 (GRIA2), transcript variant X5, mRN
+iGluR      XM_015295464.4    1313 aa  GRIN2C  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 2C (GRIN2C), transcript variant X1, m
+iGluR      XM_015298177.4     959 aa  GRIK4  | PREDICTED: Gallus gallus glutamate ionotropic receptor kainate type subunit 4 (GRIK4), mRNA
+iGluR      XM_015299614.4     927 aa  GRIK1  | PREDICTED: Gallus gallus glutamate ionotropic receptor kainate type subunit 1 (GRIK1), transcript variant X1, 
+iGluR      XM_015299988.4    1002 aa  GRIN3B  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 3B (GRIN3B), mRNA
+iGluR      XM_025151671.3    1039 aa  GRID1  | PREDICTED: Gallus gallus glutamate ionotropic receptor delta type subunit 1 (GRID1), transcript variant X1, mR
+iGluR      XM_025155258.3    1470 aa  GRIN2A  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 2A (GRIN2A), transcript variant X1, m
+iGluR      XM_040660512.2     949 aa  GRIA4  | PREDICTED: Gallus gallus glutamate ionotropic receptor AMPA type subunit 4 (GRIA4), transcript variant X1, mRN
+iGluR      XM_040668418.2    1504 aa  GRIN2B  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 2B (GRIN2B), transcript variant X1, m
+iGluR      XM_040697877.2     920 aa  GRIK2  | PREDICTED: Gallus gallus glutamate ionotropic receptor kainate type subunit 2 (GRIK2), transcript variant X1, 
+iGluR      XM_046901675.1    1025 aa  GRIN1  | PREDICTED: Gallus gallus glutamate ionotropic receptor NMDA type subunit 1 (GRIN1), transcript variant X1, mRN
+iGluR      XM_417766.7        919 aa  GRIK3  | PREDICTED: Gallus gallus glutamate ionotropic receptor kainate type subunit 3 (GRIK3), transcript variant X1, 
+other      NM_001007853.2     453 aa  DDX47  | Gallus gallus DEAD-box helicase 47 (DDX47), mRNA
+other      XM_015299326.4     840 aa  CDC27  | PREDICTED: Gallus gallus cell division cycle 27 (CDC27), transcript variant X1, mRNA
+other      XM_025142255.3     784 aa  DDX27  | PREDICTED: Gallus gallus DEAD-box helicase 27 (DDX27), transcript variant X1, mRNA
+other      XM_040655274.1     838 aa  LOC121108224  | PREDICTED: Gallus gallus transcription factor 4-like (LOC121108224), mRNA
+other      XM_040655666.2     477 aa  LOC121108246  | PREDICTED: Gallus gallus proline-rich receptor-like protein kinase PERK10 (LOC121108246), transcript variant X
+other      XM_046940968.1     483 aa  TRMT2B  | PREDICTED: Gallus gallus tRNA methyltransferase 2 homolog B (TRMT2B), transcript variant X1, mRNA
+other      XM_426195.8        641 aa  DDX43  | PREDICTED: Gallus gallus DEAD-box helicase 43 (DDX43), mRNA
+pump_Ca    NM_001271974.2    1042 aa  ATP2A2  | Gallus gallus ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 (ATP2A2), transcript variant 2, mR
+pump_Ca    NM_204891.2       1042 aa  ATP2A3  | Gallus gallus ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 (ATP2A3), mRNA
+pump_Ca    XM_015276730.4    1247 aa  ATP2B1  | PREDICTED: Gallus gallus ATPase plasma membrane Ca2+ transporting 1 (ATP2B1), transcript variant X1, mRNA
+pump_Ca    XM_015281756.4     954 aa  ATP2C1  | PREDICTED: Gallus gallus ATPase secretory pathway Ca2+ transporting 1 (ATP2C1), transcript variant X1, mRNA
+pump_Ca    XM_040646614.2    1257 aa  ATP2B2  | PREDICTED: Gallus gallus ATPase plasma membrane Ca2+ transporting 2 (ATP2B2), transcript variant X1, mRNA
+pump_Ca    XM_040653044.2    1238 aa  ATP2B4  | PREDICTED: Gallus gallus ATPase plasma membrane Ca2+ transporting 4 (ATP2B4), transcript variant X1, mRNA
+pump_Ca    XM_040707236.2     944 aa  ATP2C2  | PREDICTED: Gallus gallus ATPase secretory pathway Ca2+ transporting 2 (ATP2C2), transcript variant X1, mRNA
+pump_Cu    NM_001389516.2    1494 aa  ATP7A  | Gallus gallus ATPase, Cu++ transporting, alpha polypeptide (ATP7A), mRNA
+pump_Cu    XM_040705481.2    1561 aa  ATP7B  | PREDICTED: Gallus gallus ATPase copper transporting beta (ATP7B), transcript variant X1, mRNA
+pump_NaK   NM_001030909.2    1033 aa  ATP12A  | Gallus gallus ATPase H+/K+ transporting non-gastric alpha2 subunit (ATP12A), mRNA
+pump_NaK   NM_205521.2       1021 aa  ATP1A1  | Gallus gallus ATPase Na+/K+ transporting subunit alpha 1 (ATP1A1), mRNA
+pump_other NM_001031314.2    1205 aa  ATP13A4  | Gallus gallus ATPase 13A4 (ATP13A4), mRNA
+pump_other XM_003640746.6    1139 aa  ATP9B  | PREDICTED: Gallus gallus ATPase phospholipid transporting 9B (putative) (ATP9B), transcript variant X1, mRNA
+pump_other XM_004937129.5    1177 aa  ATP8B4  | PREDICTED: Gallus gallus ATPase phospholipid transporting 8B4 (putative) (ATP8B4), transcript variant X3, mRNA
+pump_other XM_004944808.5    1476 aa  ATP10B  | PREDICTED: Gallus gallus ATPase phospholipid transporting 10B (putative) (ATP10B), transcript variant X1, mRNA
+pump_other XM_004950824.5    1266 aa  ATP13A1  | PREDICTED: Gallus gallus ATPase 13A1 (ATP13A1), transcript variant X1, mRNA
+pump_other XM_015285487.4    1410 aa  ATP10D  | PREDICTED: Gallus gallus ATPase phospholipid transporting 10D (putative) (ATP10D), transcript variant X2, mRNA
+pump_other XM_015296518.4    1047 aa  ATP9A  | PREDICTED: Gallus gallus ATPase phospholipid transporting 9A (putative) (ATP9A), transcript variant X1, mRNA
+pump_other XM_025146849.3    1220 aa  ATP8A2  | PREDICTED: Gallus gallus ATPase phospholipid transporting 8A2 (ATP8A2), transcript variant X1, mRNA
+pump_other XM_025149882.3    1177 aa  ATP11C  | PREDICTED: Gallus gallus ATPase phospholipid transporting 11C (ATP11C), transcript variant X1, mRNA
+pump_other XM_025149963.3    1164 aa  ATP8A1  | PREDICTED: Gallus gallus ATPase phospholipid transporting 8A1 (ATP8A1), transcript variant X1, mRNA
+pump_other XM_040651180.2    1226 aa  ATP13A2  | PREDICTED: Gallus gallus ATPase 13A2 (ATP13A2), transcript variant X10, mRNA
+pump_other XM_040652605.2    1196 aa  ATP8B2  | PREDICTED: Gallus gallus ATPase phospholipid transporting 8B2 (ATP8B2), transcript variant X1, mRNA
+pump_other XM_040653683.2    1284 aa  ATP8B3  | PREDICTED: Gallus gallus ATPase phospholipid transporting 8B3 (ATP8B3), transcript variant X1, mRNA
+pump_other XM_040662539.2    1224 aa  ATP11A  | PREDICTED: Gallus gallus ATPase phospholipid transporting 11A (ATP11A), transcript variant X1, mRNA
+pump_other XM_046898495.1    1283 aa  ATP13A3  | PREDICTED: Gallus gallus ATPase 13A3 (ATP13A3), transcript variant X1, mRNA
+pump_other XM_046898851.1    1177 aa  ATP11B  | PREDICTED: Gallus gallus ATPase phospholipid transporting 11B (putative) (ATP11B), transcript variant X5, mRNA
+pump_other XM_046905312.1    1287 aa  ATP8B1  | PREDICTED: Gallus gallus ATPase phospholipid transporting 8B1 (ATP8B1), transcript variant X1, mRNA
+pump_other XM_416881.8       1518 aa  ATP10A  | PREDICTED: Gallus gallus ATPase phospholipid transporting 10A (putative) (ATP10A), mRNA
+pump_other XM_422713.7       1193 aa  ATP13A5  | PREDICTED: Gallus gallus ATPase 13A5 (ATP13A5), transcript variant X1, mRNA
+undecided  XM_015278524.4    1829 aa  BRWD3  | PREDICTED: Gallus gallus bromodomain and WD repeat domain containing 3 (BRWD3), transcript variant X1, mRNA
