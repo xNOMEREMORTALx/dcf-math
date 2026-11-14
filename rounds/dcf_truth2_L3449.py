@@ -1,7 +1,7 @@
 """Truth rule v2 (L3449): a gene belongs to a class if its SYMBOL or its RefSeq DESCRIPTION says so (case-insensitive).
 Used to grade dcf_neurochem2_L3449 output. Description patterns accept '-like'. Unnamed genes (LOC/si:) are judged by description."""
 import re
-SYM = {'Ca': r'cacna1', 'Na': r'scn\d+l?a[ab]?$', 'K': r'kcn[a-z]+\d', 'HCN': r'hcn\d', 'K2P': r'kcnk\d',
+SYM = {'Ca': r'cacna1', 'Na': r'scn\d+l?a[ab]?$', 'K': r'kcn[abcdfghqsv]\d', 'HCN': r'hcn\d', 'K2P': r'kcnk\d',
        'iGluR': r'gri[akdn]\d', 'NMDA': r'grin[12]', 'FeHyd': r'(th|th2|tph1\w*|tph2\w*|pah\w*)$',
        'pump_NaK': r'atp(1a|4a|12a)', 'pump_Ca': r'atp2[abc]', 'pump_Cu': r'atp7[ab]'}
 DESC = {'Ca': r'calcium (voltage-gated )?channel.{0,40}alpha ?1|voltage-dependent [lnpqrt/-]*-?type calcium channel subunit alpha',

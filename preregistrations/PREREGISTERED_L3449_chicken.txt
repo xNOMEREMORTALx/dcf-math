@@ -17,3 +17,6 @@ Grading: a call is correct if its class is in classes(symbol, description) (HCN 
  C9 NMDA7 precision >= 90%           C10 NMDA7 recall (GRIN1/GRIN2*) >= 75%
  C11 FeHyd2 precision >= 90%         C12 FeHyd2 recall (TH/TPH/PAH) >= 75%
  C13 pump precision, NaK+Ca+Cu pooled, >= 90%   C14 pump recall (ATP1A/2A/2B/2C/4A/12A/7A/7B symbols) >= 75%
+AMENDMENT (same evening, before any chicken file exists here): truth SYM for K reverted to kcn[abcdfghqsv]<digit> so the C4
+recall denominator holds only voltage-gated K genes (the broader kcn[a-z]+ would have added inward-rectifier and
+calcium-activated K genes the rule is not built to find). K precision still accepts any 'potassium ... channel' description.
