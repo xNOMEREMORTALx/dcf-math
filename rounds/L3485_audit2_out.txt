@@ -1,0 +1,8 @@
+mouse                  10 / 10 gradeable  (0 ungradeable)
+zebrafish curated      10 / 11 gradeable  (3 ungradeable)
+zebrafish predicted     7 / 10 gradeable  (2 ungradeable)
+chicken                13 / 14 gradeable  (0 ungradeable)
+fruit fly               5 / 13 gradeable  (1 ungradeable)
+nematode                9 / 9  gradeable  (3 ungradeable)
+all other animals      13 / 14 gradeable  (0 ungradeable)
+TOTAL                  67 / 81
