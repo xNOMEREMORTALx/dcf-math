@@ -167,3 +167,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_pump_L3477.py | `2a5ab75d34c1b02c488309a2716d1161551dca7f070e803fb108cc86612dc3f8` |
 | rounds/dcf_neurochem5_L3481.py (v7, development; for the next test) | `28c207859acef38641161888e5a30143b611ee3629aecac555f0baa927257e0e` |
 | PREREGISTERED_L3485_navcav.txt | `acf25f5dae67c291f4275c4ac74d5450d552943d8968c1372d85380d8cf7aa7a` |
+| PREREGISTERED_L3485_navcav.txt (amend 1) | `1a2605303ae26ae0b6b158c82f6e0ddc7770c91275de28f0b95e840b5b0d3a89` |

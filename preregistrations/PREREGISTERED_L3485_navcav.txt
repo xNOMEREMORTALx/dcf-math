@@ -12,3 +12,7 @@ Predictions (v7):
  V2 Na recall: >= 90% of Na-named proteins called Na.
  V3 Ca recall: >= 90% of Ca-named proteins called Ca.
  V4 v7 makes FEWER swaps than v6 on the same file, OR both make zero (graded only if v6 makes >= 1 swap; else reported).
+AMENDMENT 1 (before any data): the first link gave HTTP 400 (probably the length range / NOT clauses). New query, simpler:
+ reviewed:false AND taxonomy_id:7742 AND (protein_name:"sodium channel protein" OR protein_name:"calcium channel subunit alpha").
+ Length 1500-3500 aa and exclusion of Homo sapiens, Mus musculus, Danio rerio, Gallus gallus (by the Organism column) are
+ applied by a filter step BEFORE the tool runs; the filter reads only Organism and sequence length. Predictions unchanged.
