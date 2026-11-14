@@ -1,0 +1,6 @@
+AMENDMENT A2 to PREREGISTERED_L3425_neurometal.txt. Frozen before mouse.3 / mouse.4 are downloaded and before mouse 1-2 are run with it.
+New script rounds/dcf_k2p_L3425.py (SHA-256 in LEDGER): K2P leak channels = < 700 aa, no S4, >= 2 filters T[VIT]G[YFL]G.
+Development: human files 1-4: 7 calls, 7 KCNK (precision 7/7), recall 7/9 (KCNK7, KCNK15 missed). No other data used.
+Frozen check (not counted): mouse 1-2. Blind (counted): mouse.3 + mouse.4 pooled. Truth: symbol Kcnk<digit>.
+ N5 precision: of K2P calls, >= 90% are Kcnk genes (graded only if >= 2 calls).
+ N6 recall: of Kcnk genes present, >= 70% are called.
