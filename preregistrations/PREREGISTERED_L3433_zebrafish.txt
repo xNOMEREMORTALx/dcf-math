@@ -1,0 +1,16 @@
+PRE-REGISTRATION L3433: metal-ion sorting of nerve channels and K2P leak channels in a FISH (zebrafish, Danio rerio).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 13 November 2026. Frozen before any zebrafish file is downloaded.
+
+Scripts (SHA-256 in LEDGER.md):
+ rounds/dcf_neurometal_L3433.py (v3 = v2 + Kv7 sensor route + Na allowed ring <= 2; developed on human 1-4 and mouse 1-3,
+   rounds/L3433_v3_dev_*.txt: 78 channel calls, 0 wrong; recall human 22/27, mouse 56/64)
+ rounds/dcf_k2p_L3425.py (unchanged; passed blind L3429)
+Data (BLIND): NCBI RefSeq D_rerio/mRNA_Prot zebrafish.1.rna.fna.gz and zebrafish.2.rna.fna.gz (NM_ records only, as scripted).
+ Identify by header 'Danio rerio'. A missing or wrong file is dropped, not replaced. Tool output (no names) committed before names.
+Truth by symbol, case-insensitive (zebrafish paralog suffixes a/b allowed):
+ Ca = cacna1*;  Na = scn<digits>[l]a[a|b]?  (e.g. scn8aa, scn4ab, scn1lab; beta subunits scn<d>b* excluded);
+ K = kcn[abcdfghqsv]<digit>*;  HCN = hcn<digit>*;  K2P = kcnk<digit>*.
+Predictions (same thresholds as L3425):
+ Z1 Ca precision >= 90% (graded if >= 2 calls)    Z2 Na precision = 100% (graded if >= 1 call)
+ Z3 K/HCN precision >= 90%                         Z4 recall of Ca/Na/K/HCN family genes >= 75% (undecided = wrong)
+ Z5 K2P precision >= 90% (graded if >= 2 calls)   Z6 K2P recall >= 70%
