@@ -172,3 +172,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_neurochem6_L3497.py (v8, development; for a future test) | `86469cf8d8a3519f57d61d547ffd9c8e18fc8db6a89129fe97d43242dc90d61a` |
 | PREREGISTERED_L3505_ctenophore.txt | `33e0cb7d304a751ac609b3a1d6f90b1ccb8cb9e659ecb42a4de4c1edc0733d63` |
 | PREREGISTERED_L3513_xenacoelomorpha.txt (exploratory) | `c68af76f055cd9810de60a496eee7fe278b858f0b9ab1dabd44075d044c4aa30` |
+| PREREGISTERED_L3513_xenacoelomorpha.txt (note L3521) | `640f26c774eb1ce566a577d1ea249af3168730a7f6d91c78f9f0f7d050651b9f` |

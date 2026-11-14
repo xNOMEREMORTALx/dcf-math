@@ -7,3 +7,6 @@ Data: UniProt TSV, organism_name Hofstenia / Xenoturbella / Symsagittifera / Pra
 Question (no pass/fail, because the placement of Xenacoelomorpha and the literature on their channels are not settled
  enough for a confident prediction): which letter (E, K or other) sits at the domain-III ring position?
 Stated leaning, recorded only so the result can be compared with it: K (DEKA thought to arise at the base of Bilateria).
+NOTE (L3521, before the Hofstenia file is scanned): UniProt held no channel (L3517). Gary supplied the Ensembl-format predicted
+ proteome Hofstenia_miamia.HmiaM1.pep.all.fa.gz (22,454 proteins). Same frozen tool functions (calls() of v7) applied to each
+ protein via a 6-line FASTA wrapper; same extraction regex. Still exploratory, not counted. Leaning stays K.
