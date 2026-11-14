@@ -10,15 +10,15 @@
 4. **Less suitable: *ISME Communications*** (Brief Communications exist, fully OA, APC not stated on the page read). Its scope is microbial **ecology**, and it excludes single-organism studies without an ecological context. Our work is genome-centred, so the fit is weaker.
 
 ## What every route needs (checklist)
-- [ ] **Permanent data and code identifiers.** Git URLs are not accepted as permanent. Make a **Zenodo** release of `dcf-genefinder` and `dcf-math`, which gives a DOI, and cite those DOIs.
-- [ ] **README for data and scripts:** which script produced which table or figure, with versions and SHA-256 (the ledger already has the hashes).
-- [ ] **Genome list:** every accession used (the seen lists plus the pre-registration files) as a supplementary table.
-- [ ] **Pre-registration ledger** as supplementary data: dates, hashes, predictions and verdicts, including every failure.
-- [ ] **Figures 1–3** at publication resolution, with source scripts.
+- [x] **Permanent data and code identifiers** (done 14 Nov 2026: dcf-math 10.5281/zenodo.24234795, dcf-genefinder 10.5281/zenodo.24234986; ORCID 0009-0008-9235-4493). Git URLs are not accepted as permanent. Make a **Zenodo** release of `dcf-genefinder` and `dcf-math`, which gives a DOI, and cite those DOIs.
+- [x] **README for data and scripts:** which script produced which table or figure, with versions and SHA-256 (the ledger already has the hashes). (done: `README_DATA_AND_CODE.md`)
+- [x] **Genome list** (done: `supplementary/Table_S1_genome_accessions.tsv`): every accession used (the seen lists plus the pre-registration files) as a supplementary table.
+- [x] **Pre-registration ledger** (done: `supplementary/Table_S2_preregistration_ledger.tsv`; verdicts in the round reports) as supplementary data: dates, hashes, predictions and verdicts, including every failure.
+- [x] **Figures** at publication resolution (done: `figures/publication/`, 600 dpi + PDF, both manuscripts), with source scripts.
 - [ ] **Methods detail:** gene finder version; motif regexes; overlapping vs non-overlapping counting (already noted in v0.6+); the cuts and how they were fixed.
-- [ ] **Competing interests:** none. **AI-assistance statement:** analysis, code and drafting assistance from Claude (Anthropic); check each venue's policy on AI tools and disclose accordingly.
+- [x] **Competing interests** (done: Declarations section in both drafts): none. **AI-assistance statement:** analysis, code and drafting assistance from Claude (Anthropic); check each venue's policy on AI tools and disclose accordingly.
 - [ ] **Independent read-through** by someone who hasn't seen the work, for clarity and overclaims.
-- [ ] **Author name and ORCID.** An ORCID iD is free and usually required.
+- [x] **Author name and ORCID** (ORCID 0009-0008-9235-4493). An ORCID iD is free and usually required.
 
 ## Manuscript items still open
 - Separate the eukaryote section's two motifs clearly: non-overlapping `fd_ladder` (cut 0.0035) and Ladder-P (cut 0.0017, blind 5/5).

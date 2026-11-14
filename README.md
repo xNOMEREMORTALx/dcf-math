@@ -1,5 +1,8 @@
 # Digital Cosmos Framework: verified mathematics and phone toolkit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24234795.svg)](https://doi.org/10.5281/zenodo.24234795)
+
+
 **Author:** Gary NOMEREMORTAL Mason.
 
 Verified number-theory results from the Digital Cosmos Framework (DCF).

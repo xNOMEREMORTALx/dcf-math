@@ -1,7 +1,7 @@
 # Data and code: iron-ladder manuscript (v0.11)
 ### Gary NOMEREMORTAL Mason · Digital Cosmos Framework
 
-This file maps every table and figure in `notes/Manuscript_FeS_ladder_draft_v0.11.md` to the script that produced it, the frozen pre-registration, and the committed raw output. SHA-256 hashes of every frozen script are in `preregistrations/LEDGER.md`.
+This file maps every table and figure in `notes/Manuscript_FeS_ladder_draft_v0.12.md` to the script that produced it, the frozen pre-registration, and the committed raw output. SHA-256 hashes of every frozen script are in `preregistrations/LEDGER.md`.
 
 ## Tools (repository `dcf-genefinder`)
 | file | role |
@@ -50,6 +50,8 @@ python3 -I dcf_redox.py genome.gb genome.gff3
 5. Compare with the committed output file.
 
 ## Permanent identifiers
-Before submission, both repositories should be released on Zenodo. The DOIs replace Git URLs in the manuscript.
+- **dcf-math** v1.0.0: DOI [10.5281/zenodo.24234795](https://doi.org/10.5281/zenodo.24234795)
+- **dcf-genefinder** v1.0.0: DOI [10.5281/zenodo.24234986](https://doi.org/10.5281/zenodo.24234986)
+- Author ORCID: [0009-0008-9235-4493](https://orcid.org/0009-0008-9235-4493)
 
 Not for medical use.
