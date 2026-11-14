@@ -1,0 +1,14 @@
+PRE-REGISTRATION L3485: the sodium/calcium decision (v7 'lysine first') on UNSEEN vertebrate channel sequences (UniProt TrEMBL).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the file is downloaded.
+Tool: rounds/dcf_neurochem5_L3481.py (v7; SHA-256 in LEDGER). Also run, for comparison only: v6 rounds/dcf_neurochem4_L3477.py.
+Data: UniProt TSV, UNREVIEWED vertebrate entries 1500-3500 aa whose UniProt protein name contains 'sodium channel protein' or
+ 'calcium channel subunit alpha', excluding the 7 seen organisms (human, mouse, zebrafish, chicken, fly, worm, rat is NOT
+ excluded as rat Swiss-Prot entries were seen but its TrEMBL entries were not). Fields: accession, organism_name,
+ protein_name, sequence. Tool reads only Entry and Sequence; output committed before names are read.
+Truth (independent; UniProt automatic names): Na = name contains 'sodium channel protein' (and not 'calcium');
+ Ca = name contains 'calcium channel subunit alpha'.
+Predictions (v7):
+ V1 Na/Ca SWAP rate among called Na/Ca proteins <= 1%.
+ V2 Na recall: >= 90% of Na-named proteins called Na.
+ V3 Ca recall: >= 90% of Ca-named proteins called Ca.
+ V4 v7 makes FEWER swaps than v6 on the same file, OR both make zero (graded only if v6 makes >= 1 swap; else reported).
