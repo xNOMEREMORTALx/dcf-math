@@ -1,0 +1,15 @@
+PRE-REGISTRATION L3445: frozen nerve-chemistry rules on zebrafish PREDICTED (XM_) transcripts.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 13 November 2026.
+Data: zebrafish.2.rna.fna.gz received in L3441. DISCLOSURE: the file is in hand. It was opened only to read its FIRST header
+line (XM_087232414.1, tle2b) and to count records; no tool has scanned it and no other gene names were read.
+Script rounds/dcf_neurochem_xm_L3445.py (SHA-256 in LEDGER), which executes the frozen dcf_neurochem_L3437.py rules unchanged
+(v4 channels, iGluR, NMDA, FeHyd) and the K2P rule of dcf_k2p_L3425.py, plus FeHyd2 = [CV]HE[LI]LGH (new; built from zebrafish th, L3441).
+Genes already present as NM_ in zebrafish.1 are excluded. One variant per gene: longest ORF.
+Truth (case-insensitive, last parenthesis): as PREREGISTERED_L3433_zebrafish(+A1). Unnamed genes (si:, zgc:, LOC, im:) count as WRONG.
+ X1 Ca precision >= 90% (if >= 2)   X2 Na precision 100% (if >= 1)   X3 K/HCN precision >= 90% (if >= 2)
+ X4 recall of Ca/Na/K/HCN family genes >= 75%
+ X5 K2P precision >= 90% (if >= 2)  X6 K2P recall >= 70% (if >= 2 present)
+ X7 iGluR precision >= 90% (if >= 2) X8 iGluR recall >= 75% (if >= 2 present)
+ X9 NMDA precision >= 90% (if >= 2)  X10 NMDA recall of grin1/grin2 >= 75% (if >= 2 present)
+ X11 FeHyd2 precision >= 90% (if >= 2) X12 FeHyd2 recall >= 75% (if >= 2 present)
+Descriptive, not counted: every unnamed gene called, with its closest mouse protein by shared 5-mers.
