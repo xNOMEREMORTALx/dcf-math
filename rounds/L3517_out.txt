@@ -1,0 +1,3 @@
+proteins 249 | >=1400 aa: 4 | with S4: 0
+>=1400 aa with S4: []
+names mentioning channel: [('A0A068CJS8', 'Transient receptor potential channel-1', 1088), ('A0A7G7LK87', 'Transient receptor potential ion channel melastati', 1228)]
