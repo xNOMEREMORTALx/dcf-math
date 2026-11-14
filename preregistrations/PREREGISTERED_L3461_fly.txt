@@ -1,0 +1,19 @@
+PRE-REGISTRATION L3461: nerve chemistry by metal ion in an INSECT (fruit fly, Drosophila melanogaster; ~600 My from mammals).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before any fly file is downloaded.
+Tool: rounds/dcf_neurochem2_L3449.py UNCHANGED (frozen, passed 13/14 in chicken). Truth: rounds/dcf_truth3_L3461.py (new:
+ any-word-order descriptions + fixed fly symbol list; DSC1/NaCP60E assigned to no class). Calibration: truth v3 credits all
+ 104 chicken calls (it was built after seeing the chicken C2 failure, which stays a failure).
+Data: RefSeq annotation RNA file of assembly GCF_000001215.4 (Release 6 plus ISO1 MT):
+ GCF_000001215.4_Release_6_plus_ISO1_MT_rna.fna.gz (or the NCBI Datasets zip, data/GCF_000001215.4/rna.fna, gzipped here).
+ Identify by 'Drosophila melanogaster' headers. Tool output (no names) committed before 'grade'.
+Grading as L3449: call correct if its class is in classes(symbol, description); precision graded if >= 2 calls;
+ recall graded if >= 2 truth genes; recall truth = genes whose SYMBOL matches SYM of that class.
+ Channel recall pool = Ca + Na + K + HCN symbols. Pumps pooled (NaK, Ca, Cu).
+ F1 Ca precision >= 90%  F2 Na precision 100% (graded if >= 1 call)  F3 K/HCN precision >= 90%  F4 channel recall >= 75%
+ F5 K2P precision >= 90%  F6 K2P recall >= 50% (fly K2P are divergent; lower bar set in advance)
+ F7 iGluR precision >= 90%  F8 iGluR recall >= 75%
+ F9 NMDA precision >= 90% (graded if >= 2)  F10 NMDA recall (Nmdar1, Nmdar2) = 100%
+ F11 FeHyd precision >= 90%  F12 FeHyd recall (ple, Hn, Trh) >= 2 of 3
+ F13 pump precision >= 90%   F14 pump recall (Atpalpha, SERCA, PMCA, SPoCk, ATP7) >= 4 of 5
+Expectation stated in advance (not graded): fly has ONE Na channel (para), three Ca channels (cac, Ca-alpha1D, Ca-alpha1T),
+ Shaker-family K channels; the metal gates are expected to be the same kinds as in vertebrates.
