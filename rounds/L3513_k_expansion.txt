@@ -1,0 +1,11 @@
+L3513 [K expansion], descriptive: potassium-channel calls sorted by filter and voltage-sensor type
+
+comb jelly: 123 K calls
+  filters: [('TVGYGD', 102), ('TIGYGD', 6), ('SVGYGD', 4), ('TVGYGE', 4), ('TVGFGN', 2), ('TLGYGD', 2), ('SIGYGD', 1), ('TVGYGN', 1)]
+  length: {'600-1000': 3, '<600': 116, '>=1000': 4}
+  types: {'other': 21, 'Shaker-type (K-filter TVGYGD)': 102}
+
+sea anemone + early: 55 K calls
+  filters: [('TVGYGD', 32), ('TVGFGN', 5), ('TLGYGD', 4), ('SVGYGD', 3), ('TTGYGD', 3), ('TIGYGD', 2), ('SVGFGN', 2), ('SLGYGD', 1)]
+  length: {'>=1000': 7, '<600': 44, '600-1000': 4}
+  types: {'Shaker-type (K-filter TVGYGD)': 33, 'other': 20, 'eag/erg/elk (KCNH)': 2}

@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3513 (EXPLORATORY, not counted in the record): the domain-III ring letter in Xenacoelomorpha
+(acoel flatworms, Xenoturbella), candidate earliest-branching bilaterians.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the file is downloaded.
+Tool: rounds/dcf_neurochem5_L3481.py (v7) unchanged; extraction regex [AS]T[FY]([A-Z])GW in proteins >= 1400 aa with S4.
+Data: UniProt TSV, organism_name Hofstenia / Xenoturbella / Symsagittifera / Praesagittifera; fields Entry, Organism,
+ Protein names, Sequence. If no 4-domain voltage-sensor protein is present, the question is unanswered (not a failure).
+Question (no pass/fail, because the placement of Xenacoelomorpha and the literature on their channels are not settled
+ enough for a confident prediction): which letter (E, K or other) sits at the domain-III ring position?
+Stated leaning, recorded only so the result can be compared with it: K (DEKA thought to arise at the base of Bilateria).
