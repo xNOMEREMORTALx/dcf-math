@@ -170,3 +170,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3485_navcav.txt (amend 1) | `1a2605303ae26ae0b6b158c82f6e0ddc7770c91275de28f0b95e840b5b0d3a89` |
 | PREREGISTERED_L3493_before_nerves.txt | `289da4eeef72877e373eacde7e48328a9d8a3853d143e61eb407bb59522dbe26` |
 | rounds/dcf_neurochem6_L3497.py (v8, development; for a future test) | `86469cf8d8a3519f57d61d547ffd9c8e18fc8db6a89129fe97d43242dc90d61a` |
+| PREREGISTERED_L3505_ctenophore.txt | `33e0cb7d304a751ac609b3a1d6f90b1ccb8cb9e659ecb42a4de4c1edc0733d63` |

@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3505: comb jellies (Ctenophora), a lineage that may have evolved nerves independently.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the file is downloaded.
+Tool: rounds/dcf_neurochem5_L3481.py (v7), unchanged. Truth: pre-stated expectation (literature on sodium-channel evolution:
+ ctenophore sodium-channel homologues are of the non-DEKA type).
+Data: UniProt TSV for taxonomy Ctenophora (taxonomy_id:10197), fields Entry, Organism, Protein names, Sequence (all entries).
+ If the file holds no ctenophore proteins, the test is void. Tool reads only Entry and Sequence; output committed first.
+Predictions:
+ T1 0 Na calls (no DEKA lysine loop in comb-jelly 4-domain channels).
+ T2 Every comb-jelly protein >= 1400 aa with a voltage sensor and an A-T-F-x-G-W loop (the domain-III position) has
+    x != K (graded only if >= 1 such protein; extracted by a fixed regex [AS]T[FY]([A-Z])GW after the tool output is committed).
+ T3 >= 3 K calls in total (graded only if the file holds >= 5,000 proteins).

@@ -117,6 +117,7 @@ We wrote transparent, label-free rules that read these loops from protein or mRN
 1. **Figure 1** (`figures/L3493_motif_panel.png`): the metal-selecting loops read from real sequences in six animals.
 2. **Figure 2** (`figures/L3489_blind_tests.png`): all eight blind tests, coloured by who graded them.
 3. **Figure 3** (`figures/L3493_battery.png`): the nerve battery, chargers against dischargers.
+4. **Figure 4** (`figures/L3505_EtoK.png`): the domain-III pore loop across the tree. A-T-F-**E**-G-W in choanoflagellate, placozoan and sea anemone; A-T-F-**K**-G-W in fly, fish, bird and human; A-T-F-**N**-G-W in the Naₓ sensor.
 
 ## 5. Data and code availability
 - **dcf-math:** pre-registrations, ledger, rounds, grade outputs, and `rounds/L3485_audit2.py`.
