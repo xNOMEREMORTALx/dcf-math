@@ -1,0 +1,19 @@
+family genes present: 28 [('Cacna1a', 'Ca'), ('Cacna1c', 'Ca'), ('Cacna1d', 'Ca'), ('Cacna1h', 'Ca'), ('Hcn1', 'HCN'), ('Hcn2', 'HCN'), ('Hcn4', 'HCN'), ('Kcna4', 'K'), ('Kcna5', 'K'), ('Kcna7', 'K'), ('Kcnb1', 'K'), ('Kcnb2', 'K'), ('Kcnc3', 'K'), ('Kcnc4', 'K'), ('Kcnd3', 'K'), ('Kcng3', 'K'), ('Kcng4', 'K'), ('Kcnh2', 'K'), ('Kcnq2', 'K'), ('Kcnq4', 'K'), ('Kcnv1', 'K'), ('Kcnv2', 'K'), ('Scn10a', 'Na'), ('Scn1a', 'Na'), ('Scn2a', 'Na'), ('Scn4a', 'Na'), ('Scn5a', 'Na'), ('Scn8a', 'Na')]
+Kcnk present: ['Kcnk1', 'Kcnk13', 'Kcnk2', 'Kcnk3', 'Kcnk5', 'Kcnk6', 'Kcnk9']
+
+== v1 [('Cacna1a', 'Ca'), ('Cacna1c', 'Ca'), ('Cacna1d', 'Ca'), ('Cacna1h', 'Ca'), ('Hcn1', 'HCN'), ('Hcn2', 'HCN'), ('Hcn4', 'HCN'), ('Kcna4', 'K'), ('Kcna5', 'K'), ('Kcna7', 'K'), ('Kcnb1', 'K'), ('Kcnb2', 'K'), ('Kcnc3', 'K'), ('Kcnc4', 'K'), ('Kcnd3', 'K'), ('Kcnh2', 'K'), ('Kcnv1', 'K'), ('Kcnv2', 'K'), ('Scn10a', 'Na'), ('Scn1a', 'Na'), ('Scn2a', 'Na'), ('Scn4a', 'undecided'), ('Scn5a', 'Na'), ('Scn8a', 'Na')]
+N1 Ca precision 4/4 PASS []
+N2 Na precision 5/5 PASS []
+N3 K/HCN precision 14/14 PASS []
+N4 recall 23/28 = 82% PASS; missed [('Kcng3', None), ('Kcng4', None), ('Kcnq2', None), ('Kcnq4', None), ('Scn4a', 'undecided')]
+
+== v2 [('Cacna1a', 'Ca'), ('Cacna1c', 'Ca'), ('Cacna1d', 'Ca'), ('Cacna1h', 'Ca'), ('Hcn1', 'HCN'), ('Hcn2', 'HCN'), ('Hcn4', 'HCN'), ('Kcna4', 'K'), ('Kcna5', 'K'), ('Kcna7', 'K'), ('Kcnb1', 'K'), ('Kcnb2', 'K'), ('Kcnc3', 'K'), ('Kcnc4', 'K'), ('Kcnd3', 'K'), ('Kcnh2', 'K'), ('Kcnv1', 'K'), ('Kcnv2', 'K'), ('Scn10a', 'Na'), ('Scn1a', 'Na'), ('Scn2a', 'Na'), ('Scn4a', 'undecided'), ('Scn5a', 'Na'), ('Scn8a', 'Na')]
+N1 Ca precision 4/4 PASS []
+N2 Na precision 5/5 PASS []
+N3 K/HCN precision 14/14 PASS []
+N4 recall 23/28 = 82% PASS; missed [('Kcng3', None), ('Kcng4', None), ('Kcnq2', None), ('Kcnq4', None), ('Scn4a', 'undecided')]
+
+N5 K2P precision 7/7 PASS []
+N6 K2P recall 7/7 = 100% PASS; missed []
+
+TOTAL: ['PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS', 'PASS'] passed 10 of 10
