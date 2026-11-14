@@ -1,0 +1,21 @@
+PRE-REGISTRATION L3425: sorting nerve channels by the metal ion they pass (K, Na, Ca), label-free
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 13 November 2026. Frozen before any mouse file is run.
+
+Script: rounds/dcf_neurometal_L3425.py (SHA-256 in LEDGER.md). Rule set in its docstring:
+ voltage sensor S4 (frozen L3293) -> 4-domain (>=1500 aa): calcium ring [TS]x[ED]xW count >=3 = Ca, <=1 = Na, 2 = undecided;
+ 1-domain: CIGYG = HCN, [TSC][VITL]G[YF]G = K, else other.
+Development: human RefSeq mRNA files 1-4 only (rounds/L3425_human_dev.txt; 22 of 22 channels in the right metal class; tuned there).
+
+A. Frozen check (NOT counted; files opened before in L3373 for other motifs, rule never applied):
+   mouse.1.rna.fna.gz, mouse.2.rna.fna.gz (from L3373).
+B. BLIND (counted): mouse.3.rna.fna.gz and mouse.4.rna.fna.gz, NCBI RefSeq M_musculus/mRNA_Prot.
+   Identify by headers (Mus musculus, NM_). A missing or wrong file is dropped, not replaced.
+   Tool output (mode 'tool', no gene names) is committed and hashed BEFORE mode 'grade' is run.
+
+Truth by gene symbol (case-insensitive): Ca = Cacna1*; Na = Scn<digit>+a; K = Kcn[abcdfghqsv]<digit>; HCN = Hcn<digit>.
+Predictions on set B (pooled):
+ N1 Ca precision: of proteins called Ca, >= 90% are Cacna1* (graded only if >= 2 calls).
+ N2 Na precision: every protein called Na is Scn*a (graded only if >= 1 call).
+ N3 K/HCN precision: of proteins called K or HCN, >= 90% are K or HCN family genes.
+ N4 recall: of the Na, Ca, K, HCN family genes present, >= 75% get the class of their own metal (undecided = wrong).
+Each prediction pass/fail; an ungradeable one is reported, not counted.

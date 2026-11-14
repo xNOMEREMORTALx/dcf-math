@@ -138,3 +138,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3397_ladderp.txt | `e73ea5f4f2e1237916b9604c1bce79c5edde646a71730aa18376dde330a7b6ea` |
 | rounds/dcf_ladderp_L3397.py | `9fa53ce3eb2cc129688a652a2d10d6c1903e952618cf4a5ef86a63f2bb3c473d` |
 | PREREGISTERED_L3413_ladderp_b.txt | `bbe56b2e30f5ec673813ecb71036ebd5d778ca8d099ad98a7937d764ee2c7923` |
+| PREREGISTERED_L3425_neurometal.txt | `c8f3223eccdc2f3a92ab3b4a10632f068787584c400f809ed6a56dc8264a42c1` |
+| rounds/dcf_neurometal_L3425.py | `ca04afbbbb21c79d774e8328e87387c2d94860f46910bea473d82c69abd89550` |
