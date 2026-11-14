@@ -1,0 +1,21 @@
+{
+  "title": "Digital Cosmos Framework (DCF): pre-registered tests of iron-sulfur energy tiers and of nerve metal chemistry read from sequence",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Mason, Gary NOMEREMORTAL"
+    }
+  ],
+  "license": "MIT",
+  "description": "Research repository of the Digital Cosmos Framework. Pre-registrations with a SHA-256 ledger, frozen analysis scripts, committed tool outputs and grade outputs for: (1) the 3-3-4 ferredoxin ladder as a label-free energy-tier marker (Manuscript 1); (2) reading the metal chemistry of nervous systems (K, Na, Ca channels; Na/K, Ca, Cu pumps; iron hydroxylases) from mRNA or protein sequence, tested blind across animals (Manuscript 2). Not for medical use.",
+  "keywords": [
+    "pre-registration",
+    "bioinformatics",
+    "ion channels",
+    "selectivity filter",
+    "ferredoxin",
+    "iron-sulfur",
+    "label-free annotation",
+    "evolution"
+  ]
+}
