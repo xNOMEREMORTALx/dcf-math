@@ -1,0 +1,4 @@
+proteins: 249
+FeHyd      A0A7G7LK84         526 aa
+FeHyd      A0A7G7LK85         422 aa
+FeHyd      A0A7G7LK86         435 aa
