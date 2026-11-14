@@ -56,6 +56,15 @@ All predictions, including failures, are reported (§5).
 | rubredoxin | C-x₂-C-G-x₂₄₋₃₂-C-x₂-C-G | Fe(Cys)₄ knuckle pair (L3281) |
 | Ladder-P | C-x₂-C-x₂-C-x₃-C-P | stricter eukaryote motif (L3369, blind L3401) |
 
+*Exact patterns (Python `re`, as in the frozen scripts):*
+- ladder `(?=C..C..C...C)` (overlapping) or `C..C..C...C` (scanner `fd_ladder`, non-overlapping);
+- Ladder-P `(?=C..C..C...CP)`;
+- CuA `C.E.C...H..M`;
+- zinc ribbon `C..C.{9,20}C..C` (ladder cysteines masked first);
+- rubredoxin `C..CG.{24,32}C..CG`.
+
+Gene finder: `dcf_genefinder_mobile.py` v2.32 (archived in dcf-genefinder v1.0.0).
+
 *Counting note (found L3369):* prokaryote results count ladders **overlapping** (`dcf_redox.py`, frozen L3237 script). The protist tests (§3.7) used the motif scanner's `fd_ladder` preset, which counts **non-overlapping** matches; the eukaryote cut (0.0035) was set and tested with that same scanner, so those grades are internally consistent. With overlapping counts, *Trypanosoma* (0.0039) would read just above *Cryptosporidium* (0.0036).
 
 ### 2.3 The four-tier scale
