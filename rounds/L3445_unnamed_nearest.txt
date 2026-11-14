@@ -1,0 +1,11 @@
+Descriptive (not counted): nearest mouse protein by shared 5-mers
+LOC100004160        545 aa | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A mem | nearest: Kcna5 (217), Kcna3 (171), Kcna6 (160)
+LOC100330283        515 aa | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A mem | nearest: Kcna3 (325), Kcna2 (267), Kcna1 (251)
+LOC100536252        476 aa | PREDICTED: Danio rerio shaker-related potassium channel tsha2 (LOC1005 | nearest: Kcna1 (237), Kcna2 (224), Kcna3 (223)
+LOC100537815        493 aa | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A mem | nearest: Kcna2 (325), Kcna1 (235), Kcna3 (227)
+LOC101882339       1351 aa | PREDICTED: Danio rerio uncharacterized LOC101882339 (LOC101882339), tr | nearest: Hcn4 (304), Hcn2 (268), Hcn3 (255)
+LOC101885658        919 aa | PREDICTED: Danio rerio glutamate receptor ionotropic, kainate 2-like ( | nearest: Grik2 (517), Grik1 (344), Grik3 (272)
+LOC567521           561 aa | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A mem | nearest: Kcna10 (159), Kcna3 (125), Kcna5 (118)
+cars2               566 aa | PREDICTED: Danio rerio cysteinyl-tRNA synthetase 2, mitochondrial (car | nearest: Cars2 (84), Cars1 (28), Ttn (13)
+si:dkey-43k4.5      487 aa | PREDICTED: Danio rerio si:dkey-43k4.5 (si:dkey-43k4.5), transcript var | nearest: Kcns1 (91), Kcns2 (63), Kcns3 (41)
+cars2 ASYTAN context: ['IKDFLASYTANEFRLFC']
