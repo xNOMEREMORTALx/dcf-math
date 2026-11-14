@@ -1,0 +1,8 @@
+Battery balance (descriptive; v6 calls). Complete gene sets: zebrafish, chicken, fly. Partial: human (files 1-4), mouse (files 1-3), worm (Swiss-Prot reviewed only).
+species     genes |   Na   Ca    K  HCN  K2P |  pNaK   pCa   pCu | channels:pumps
+human        9718 |    2    6   16    1    8 |     1     5     0 | 33:6 = 5.5
+mouse       21298 |    9   10   38    4   14 |     6     9     2 | 75:17 = 4.4
+zebrafish   48099 |    7   18   55    7   11 |     9    12     2 | 98:23 = 4.3
+chicken     18011 |    9    9   34    4   13 |     2     7     2 | 69:11 = 6.3
+fly         13864 |    1    3    9    1    7 |     2     3     1 | 21:6 = 3.5
+worm         4487 |    0    0    3    0    5 |     0     1     0 | 8:1 = 8.0

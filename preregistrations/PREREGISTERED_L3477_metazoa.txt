@@ -1,0 +1,18 @@
+PRE-REGISTRATION L3477: nerve chemistry by metal across ALL OTHER ANIMALS in Swiss-Prot, graded against UniProt families.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the file is downloaded.
+Tool: rounds/dcf_neurochem4_L3477.py (v6 = v5 + pump loop [AS][IV]PEGL from worm mca-1; dev on human, mouse, zebrafish,
+ chicken, fly, worm). Truth: rounds/dcf_truth4_L3469.py (UniProt 'Protein families'), unchanged.
+Data: UniProt TSV of reviewed Metazoa entries EXCLUDING the six seen species (9606, 10090, 7955, 9031, 7227, 6239), fields
+ accession, organism_name, lineage, gene_primary, protein_families, sequence. Tool reads only Entry and Sequence; tool
+ output committed before grading reads any other column. Many entries are orthologs of seen proteins (e.g. rat, cow): disclosed.
+Predictions (call correct iff class in classes(family); entries with no family text count WRONG; precision graded if >= 2 calls,
+ recall if >= 2 reference members):
+ M1 Ca precision >= 90%   M2 Na precision >= 90%   M3 K/HCN precision >= 90%   M4 recall voltage-gated K + Ca + Na >= 75%
+ M5 K2P precision >= 90%  M6 K2P recall >= 60%
+ M7 iGluR precision >= 90%  M8 iGluR recall >= 75%
+ M9 FeHyd precision >= 90%  M10 FeHyd recall >= 75%
+ M11 pump precision (NaK, Ca, Cu) >= 90%  M12 pump recall >= 75%
+ M13 NEGATIVE CONTROL: 0 Na calls on entries whose lineage contains 'Nematoda' (if >= 50 nematode entries present).
+ M14 Na/Ca SEPARATION: among proteins whose family is 'Sodium channel (TC 1.A.1.10)' or 'Calcium channel alpha-1', the tool
+     never assigns the other ion (0 Na<->Ca swaps), graded if >= 5 such proteins are called.
+Descriptive (not graded): per-phylum counts of calls.

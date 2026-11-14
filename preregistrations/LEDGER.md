@@ -162,3 +162,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3469_worm.txt | `5d2bc4a5ab7a1de1c90cb3e28dc7aec1c9c9641d1e0f58e5584d9e0377591be8` |
 | rounds/dcf_neurochem3_L3469.py | `908d7039104580894ad1dd39550fc3d0b480c11fa74c632764438192110e3fd7` |
 | rounds/dcf_truth4_L3469.py | `7992eca4706cd850931d89ceac8a8a01e4f432ff898a57f63c81ccee4ef39bcd` |
+| PREREGISTERED_L3477_metazoa.txt | `d7561375dd144cf27c76b4f0efbbaff6c5012a209f087e89b825185da4c33d4f` |
+| rounds/dcf_neurochem4_L3477.py | `f34a39879d1a172ad2596c5c4a90dd237f6a8b8e94bd9e0058cfc89f0caeda9e` |
+| rounds/dcf_pump_L3477.py | `2a5ab75d34c1b02c488309a2716d1161551dca7f070e803fb108cc86612dc3f8` |
