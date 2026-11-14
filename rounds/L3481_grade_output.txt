@@ -1,0 +1,25 @@
+M1     22/24   PASS        wrong: [('Ca', 'Scn4a', 'Rattus norvegicus (Rat)', 'Sodium channel (TC 1.A.1.10) family, Nav1.4/S'), ('Ca', 'SCN4A', 'Equus caballus (Horse)', 'Sodium channel (TC 1.A.1.10) family, Nav1.4/S')]
+M2     17/17   PASS        wrong: []
+M3     86/86   PASS        wrong: []
+M4    119/125  PASS        missed (6): [('Scn7a', 'Rattus norvegicus (R'), ('Scn4a', 'Rattus norvegicus (R'), ('SCN4A', 'Equus caballus (Hors'), ('Tpcn1', 'Rattus norvegicus (R'), ('Kcng3', 'Rattus norvegicus (R'), ('', 'Heterololigo bleeker')]
+M5     18/18   PASS        wrong: []
+M6     18/19   PASS        missed (1): [('unc-58', 'Caenorhabditis brigg')]
+M7     47/47   PASS        wrong: []
+M8     47/55   PASS        missed (8): [('IR75a', 'Drosophila sechellia'), ('Ir8a', 'Aedes aegypti (Yello'), ('Ir76b', 'Aedes aegypti (Yello'), ('Ir21a', 'Anopheles gambiae (A'), ('kbp', 'Xenopus laevis (Afri'), ('Ir76b', 'Anopheles coluzzii ('), ('', 'Lithobates berlandie'), ('KBP', 'Anas platyrhynchos (')]
+M9     15/15   PASS        wrong: []
+M10    15/16   PASS        missed (1): [('TH', 'Schistosoma mansoni ')]
+M11    60/64   PASS        wrong: [('pump_Ca', '', 'Artemia franciscana (Brin', 'Cation transport ATPase (P-type) (TC 3.A.3) f'), ('pump_Ca', 'SERCA', 'Drosophila pseudoobscura ', 'Cation transport ATPase (P-type) (TC 3.A.3) f'), ('pump_Ca', 'SERCA', 'Anopheles gambiae (Africa', 'Cation transport ATPase (P-type) (TC 3.A.3) f'), ('pump_Cu', 'ATP7A', 'Cricetulus griseus (Chine', 'Cation transport ATPase (P-type) (TC 3.A.3) f')]
+M12    60/62   PASS        missed (2): [('', 'Artemia franciscana '), ('', 'Chionoecetes opilio ')]
+M13  nematode entries 919, Na calls on them 0: PASS
+M14  true Na/Ca channels called 41, swaps 2: FAIL [('Scn4a', 'Rattus norvegicus (R', ['Ca']), ('SCN4A', 'Equus caballus (Hors', ['Ca'])]
+
+Descriptive: calls by phylum-level lineage term
+  Arthropoda {'Ca': 2, 'Na': 1, 'iGluR': 12, 'pump_Ca': 3, 'pump_NaK': 1, 'pump_other': 1}
+  Chordata {'Ca': 22, 'FeHyd': 14, 'HCN': 6, 'K': 80, 'K2P': 17, 'Na': 16, 'iGluR': 34, 'other': 7, 'pump_Ca': 24, 'pump_Cu': 4, 'pump_NaK': 30, 'pump_other': 8}
+  Cnidaria {'pump_NaK': 1}
+  Echinodermata {'other': 1}
+  Mollusca {'iGluR': 1, 'other': 1}
+  Nematoda {'FeHyd': 1, 'K2P': 1}
+  Platyhelminthes {'pump_NaK': 1}
+RESULT [('M1', 'PASS'), ('M2', 'PASS'), ('M3', 'PASS'), ('M4', 'PASS'), ('M5', 'PASS'), ('M6', 'PASS'), ('M7', 'PASS'), ('M8', 'PASS'), ('M9', 'PASS'), ('M10', 'PASS'), ('M11', 'PASS'), ('M12', 'PASS'), ('M13', 'PASS'), ('M14', 'FAIL')]
+passed 13 of 14 gradeable; 0 ungradeable

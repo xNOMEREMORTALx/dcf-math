@@ -165,3 +165,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3477_metazoa.txt | `d7561375dd144cf27c76b4f0efbbaff6c5012a209f087e89b825185da4c33d4f` |
 | rounds/dcf_neurochem4_L3477.py | `f34a39879d1a172ad2596c5c4a90dd237f6a8b8e94bd9e0058cfc89f0caeda9e` |
 | rounds/dcf_pump_L3477.py | `2a5ab75d34c1b02c488309a2716d1161551dca7f070e803fb108cc86612dc3f8` |
+| rounds/dcf_neurochem5_L3481.py (v7, development; for the next test) | `28c207859acef38641161888e5a30143b611ee3629aecac555f0baa927257e0e` |

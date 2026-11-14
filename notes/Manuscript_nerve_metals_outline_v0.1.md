@@ -57,6 +57,7 @@
 | 3.4 | chicken (13/14; 103/104 calls correct); pumps by metal 11/11 | L3457 |
 | 3.5 | failures, every one explained | table |
 | 3.6 | the 9-nt rhythm: an illustration only, local to S4 (flank test 0.93 / 1.95 / 1.00) | L3449, L3453 |
+| 3.8 | **all other animals in Swiss-Prot (58,949 proteins), graded by UniProt families: 13/14; 345/351 calls agree; 0 sodium calls in 919 nematode proteins** | L3481 |
 | 3.7 | insect blind test (5/13): the core loops hold, while the vertebrate-tuned NMDA, iron-flank, K2P and length rules break | L3465 |
 
 ## 4. Discussion
