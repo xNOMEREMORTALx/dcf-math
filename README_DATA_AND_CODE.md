@@ -1,4 +1,4 @@
-# Data and code: iron-ladder manuscript (v0.9)
+# Data and code: iron-ladder manuscript (v0.11)
 ### Gary NOMEREMORTAL Mason · Digital Cosmos Framework
 
 This file maps every table and figure in `notes/Manuscript_FeS_ladder_draft_v0.9.md` to the script that produced it, the frozen pre-registration, and the committed raw output. SHA-256 hashes of every frozen script are in `preregistrations/LEDGER.md`.
@@ -31,6 +31,7 @@ python3 -I dcf_redox.py genome.gb genome.gff3
 | §3.7 protists (first set) | `PREREGISTERED_L3345_eukaryotes.txt` (+ amendment) | `dcf_motif_scan.py` (`fd_ladder`) | `rounds/L3353_protist_scan.txt`, `rounds/L3357_trichomonas_scan.txt` |
 | §3.7 eukaryote cut | `PREREGISTERED_L3361_eukscale.txt` | `dcf_motif_scan.py` (`fd_ladder`) | `rounds/L3365_protist2_scan.txt` |
 | §3.7 Ladder-P | `PREREGISTERED_L3397_ladderp.txt` | `rounds/dcf_ladderp_L3397.py` | `rounds/L3401_ladderp_output.txt` |
+| §3.7 all 24 protists, Figure 4 | L3397, L3413 (blind part) | `rounds/dcf_ladderp_L3397.py`, `figures/L3421_protists_ladderp.py` | `rounds/L3421_all24_ladderp.txt` |
 | §3.7 proline fingerprint (development) | — | `rounds/L3373_proline_dev.py` | `rounds/L3373_report.md` |
 | §5 failures | as listed in §5 | as listed | round reports L3213, L3241, L3257, L3273, L3285, L3293, L3353, L3365 |
 

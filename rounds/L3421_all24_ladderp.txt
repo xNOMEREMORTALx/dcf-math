@@ -1,0 +1,24 @@
+dev|EAL60371 pep supercontig:dicty_2.7:CH709 | aa 6997473 | plain_ov 0.0009 | ladderP 0.0007
+dev|ENY66069 pep supercontig:EHA_CA_v1:KB823 | aa 2753925 | plain_ov 0.0094 | ladderP 0.0040
+dev|KAE8302772.1 pep primary_assembly:GCA000 | aa 3155839 | plain_ov 0.0095 | ladderP 0.0041
+dev|PITG_06710T0 pep supercontig:ASM14294v1: | aa 7474423 | plain_ov 0.0021 | ladderP 0.0008
+dev|EAR81369 pep supercontig:JCVI-TTA1-2.2:G | aa 16039851 | plain_ov 0.0029 | ladderP 0.0004
+dev|EED86244 pep supercontig:ASM14940v2:DS99 | aa 5820580 | plain_ov 0.0021 | ladderP 0.0014
+dev|Trichomonas vaginalis (strain ATCC PRA-98 / G3) | aa 17055200 | plain_ov 0.0048 | ladderP 0.0020
+dev|Chlamydomonas reinhardtii | aa 14031392 | plain_ov 0.0016 | ladderP 0.0011
+dev|Trypanosoma brucei brucei (strain 927/4 GUTat10.1) | aa 4345684 | plain_ov 0.0039 | ladderP 0.0005
+dev|Blastocystis hominis | aa 2100011 | plain_ov 0.0186 | ladderP 0.0114
+dev|Cryptosporidium parvum (strain Iowa II) | aa 2252498 | plain_ov 0.0036 | ladderP 0.0027
+dev|Naegleria gruberi | aa 7848850 | plain_ov 0.0017 | ladderP 0.0003
+dev|Spironucleus salmonicida | aa 3187202 | plain_ov 0.0151 | ladderP 0.0088
+dev|Leishmania major | aa 5077370 | plain_ov 0.0014 | ladderP 0.0004
+blind|Paramecium tetraurelia | aa 17921966 | plain_ov 0.0025 | ladderP 0.0008
+blind|Plasmodium falciparum (isolate 3D7) | aa 4021655 | plain_ov 0.0027 | ladderP 0.0005
+blind|Toxoplasma gondii (strain ATCC 50611 / Me49) | aa 6658148 | plain_ov 0.0033 | ladderP 0.0006
+blind|Entamoeba invadens IP1 | aa 4270709 | plain_ov 0.0094 | ladderP 0.0030
+blind|Entamoeba dispar (strain ATCC PRA-260 / SAW760) | aa 3527881 | plain_ov 0.0074 | ladderP 0.0028
+blind|Naegleria fowleri | aa 7262538 | plain_ov 0.0019 | ladderP 0.0004
+blind|Giardia muris | aa 2636066 | plain_ov 0.0068 | ladderP 0.0042
+blind|Acanthamoeba castellanii (strain ATCC 30010 / Neff) | aa 6559382 | plain_ov 0.0029 | ladderP 0.0012
+blind|Tritrichomonas foetus | aa 13073236 | plain_ov 0.0060 | ladderP 0.0025
+blind|Paratrimastix pyriformis | aa 6289279 | plain_ov 0.0108 | ladderP 0.0070
