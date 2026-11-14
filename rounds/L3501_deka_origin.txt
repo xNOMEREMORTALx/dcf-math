@@ -1,0 +1,6 @@
+L3501 [DEKA origin], descriptive: proteins >=1400 aa with a voltage sensor and >=3 pore-loop-like [x]-[DEKAN]-x-W sites, not called Na/Ca
+  Amphimedon queenslandica A0A1X7VH98 2442 aa  S4x2 | Nucleoprotein TPR | 
+  Nematostella vectensis   A7SKR1 1534 aa  S4x2 | Sodium channel protein | LRDKWNW IRVAWNI ATFEGWM TQRNWMN MTSAGWN
+  Monosiga brevicollis     A9USM1 1498 aa  S4x4 | EF-hand domain-containing protein | LSDAAWD SDAAWDS ATFEGWM STGAGWN
+  Trichoplax adhaerens     B3RSS4 1557 aa  S4x2 | Ion transport domain-containing protein | TLDNWED IQSKWNV LCQAWMT STSAGWN
+  Amphimedon queenslandica A0AAN0K5B6 2726 aa  S4x3 | Fibrillar collagen NC1 domain-containing prot | 

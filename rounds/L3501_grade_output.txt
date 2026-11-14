@@ -1,0 +1,14 @@
+species                          Na       Caundecided        K      HCN      K2P    iGluR    FeHyd pump_NaK  pump_Ca  pump_Cupump_othe    other
+Monosiga brevicollis              0        0        0        2        0        3        0        1        1        3        1       10       12
+Amphimedon queenslandica          0        0        0        2        2        1        0        2        2        3        1        8        8
+Trichoplax adhaerens              0        2        0        5        0        1        8        0        1        3        1       11       10
+Nematostella vectensis            0        2        0       46        2       18        9        0        2        3        1        9       21
+
+Descriptive: every 4-domain call (Ca/Na/undecided) with its calcium-ring hits and lysine/Nax loops, and UniProt name
+  Trichoplax adhaerens   Ca        B3RN16 1556 aa | ring ['SLEGW', 'SGEDW', 'TGENW'] | K-loop [] | N-loop [] | Voltage-dependent calcium channel alpha-1 subunit 
+  Trichoplax adhaerens   Ca        B3RPW0 1510 aa | ring ['TLEAW', 'TQEDW', 'SKDGW', 'TGDNW'] | K-loop [] | N-loop [] | Ion transport domain-containing protein
+  Nematostella vectensis Ca        A7RNU9 1819 aa | ring ['TLEGW', 'TGEDW', 'TFEGW', 'TGENW'] | K-loop [] | N-loop [] | Voltage-dependent L-type calcium channel subunit a
+  Nematostella vectensis Ca        A7SHI0 1794 aa | ring ['TLEGW', 'TQEDW', 'TKDGW', 'TGDNW'] | K-loop [] | N-loop [] | Ion transport domain-containing protein
+
+RESULT [('S1', 'PASS'), ('S2', 'PASS'), ('S3', 'PASS'), ('S4', 'PASS'), ('S5', 'PASS'), ('S6', 'PASS'), ('S7', 'PASS')]
+passed 7 of 7
