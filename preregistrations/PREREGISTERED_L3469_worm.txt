@@ -1,0 +1,17 @@
+PRE-REGISTRATION L3469: nerve chemistry by metal in a NEMATODE (Caenorhabditis elegans), graded against an INDEPENDENT reference.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before any worm file is downloaded.
+Tool: rounds/dcf_neurochem3_L3469.py (v5; developed on human, mouse, zebrafish, chicken, fly: rounds/L3469_dev.txt).
+Truth: rounds/dcf_truth4_L3469.py = UniProtKB/Swiss-Prot 'Protein families' text (curated by UniProt, not by the DCF).
+Data: UniProt TSV, reviewed C. elegans entries, columns Entry, Gene Names (primary), Protein families, Sequence:
+ https://rest.uniprot.org/uniprotkb/stream?format=tsv&fields=accession,gene_primary,protein_families,sequence&query=organism_id%3A6239%20AND%20reviewed%3Atrue&compressed=true
+ The tool reads only Entry and Sequence. Tool output (accessions + classes) committed before grading reads the family column.
+Prior DCF exposure: the family texts of ~80 reviewed worm channel entries were seen while designing the truth rule (WebFetch,
+ L3469); no worm sequence has been scanned. Disclosed.
+Predictions (call correct iff its class is in classes(family); calls on entries with no family text count WRONG):
+ W1 NEGATIVE CONTROL: nematodes have no voltage-gated sodium channel (no Sodium channel TC 1.A.1.10 member): 0 Na calls.
+ W2 Ca precision >= 90% (if >= 2 calls)      W3 K/HCN precision >= 90% (if >= 2)
+ W4 recall of voltage-gated K + Ca (recall_class) >= 75% (if >= 2 present)
+ W5 K2P precision >= 90% (if >= 2)           W6 K2P recall >= 50%
+ W7 iGluR precision >= 90% (if >= 2)         W8 iGluR recall >= 75%
+ W9 FeHyd precision >= 90% (if >= 2)         W10 FeHyd recall >= 75% (if >= 2 present)
+ W11 pump precision (NaK, Ca, Cu) >= 90% (if >= 2)   W12 pump recall >= 75% (if >= 2 present)
