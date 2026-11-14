@@ -2,7 +2,7 @@
 import re, ast
 F = [('mouse', 'L3429_grade_output.txt'), ('zebrafish curated', 'L3441_grade_output.txt'), ('zebrafish predicted', 'L3445_grade_output.txt'),
      ('chicken', 'L3457_grade_output.txt'), ('fruit fly', 'L3465_grade_output.txt'), ('nematode', 'L3473_grade_output.txt'),
-     ('all other animals', 'L3481_grade_output.txt')]
+     ('all other animals', 'L3481_grade_output.txt'), ('Na/Ca decision (TrEMBL)', 'L3489_grade_output.txt')]
 tp = tg = 0
 for name, f in F:
     t = open('rounds/' + f).read()

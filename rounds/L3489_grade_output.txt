@@ -1,0 +1,8 @@
+v7: truth Na 9886, Ca 14910 | called 23994 | swaps 4 (0.02%) | Na recall 9229/9886 = 93.4% | Ca recall 14761/14910 = 99.0%
+    swap x2  truth Na -> called Ca  | sodium channel protein
+    swap x2  truth Ca -> called Na  | voltage-dependent t-type calcium channel subunit alpha
+v6: truth Na 9886, Ca 14910 | called 23994 | swaps 44 (0.18%) | Na recall 9187/9886 = 92.9% | Ca recall 14763/14910 = 99.0%
+    swap x42  truth Na -> called Ca  | sodium channel protein
+    swap x2  truth Na -> called Ca  | sodium channel protein type 4 subunit alpha
+RESULT [('V1', 'PASS'), ('V2', 'PASS'), ('V3', 'PASS'), ('V4', 'PASS')]
+passed 4 of 4 gradeable
