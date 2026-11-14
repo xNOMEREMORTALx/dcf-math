@@ -1,0 +1,5 @@
+Tritrichomonas foetus | aa 13073236 | plain_ov 0.0060 | ladderP 0.0025
+Giardia muris | aa 2636066 | plain_ov 0.0068 | ladderP 0.0042
+Paratrimastix pyriformis | aa 6289279 | plain_ov 0.0108 | ladderP 0.0070
+Acanthamoeba castellanii (strain ATCC 30010 / Neff) | aa 6559382 | plain_ov 0.0029 | ladderP 0.0012
+Naegleria fowleri | aa 7262538 | plain_ov 0.0019 | ladderP 0.0004
