@@ -1,0 +1,25 @@
+genes: 14457
+Ca        NM_001146150.1  1777 aa  S4 x1  ring 3
+Ca        NM_001324496.1  2065 aa  S4 x1  ring 4
+Ca        NM_001328708.1  2280 aa  S4 x2  ring 4
+Ca        NM_001443049.1  2483 aa  S4 x2  ring 4
+Ca        NM_203484.1     2082 aa  S4 x1  ring 4
+Ca        NM_214726.1     1847 aa  S4 x1  ring 4
+FeHyd     NM_001001829.1   471 aa  S4 x0  ring 0
+FeHyd     NM_001001843.2   480 aa  S4 x0  ring 0
+FeHyd     NM_178306.3      483 aa  S4 x0  ring 0
+FeHyd     NM_200551.1      449 aa  S4 x0  ring 0
+FeHyd     NM_214795.2      473 aa  S4 x0  ring 0
+K         NM_001082811.1   494 aa  S4 x1  ring 0
+K         NM_001442358.1   430 aa  S4 x0  ring 0
+K         NM_001446944.1  1135 aa  S4 x1  ring 0
+NMDA      NM_001365787.1  1400 aa  S4 x0  ring 0
+Na        NM_001044895.2  1996 aa  S4 x5  ring 1
+Na        NM_001044922.1  1932 aa  S4 x5  ring 1
+Na        NM_001045123.1  1954 aa  S4 x5  ring 1
+Na        NM_001045183.2  1958 aa  S4 x5  ring 1
+Na        NM_131628.1     1949 aa  S4 x5  ring 1
+Na        NM_200132.2     1955 aa  S4 x4  ring 1
+iGluR     NM_001365787.1  1400 aa  S4 x0  ring 0
+other     NM_001044754.2   198 aa  S4 x1  ring 0
+other     NM_001099741.1   489 aa  S4 x3  ring 0
