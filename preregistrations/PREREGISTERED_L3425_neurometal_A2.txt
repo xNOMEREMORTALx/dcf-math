@@ -4,3 +4,7 @@ Development: human files 1-4: 7 calls, 7 KCNK (precision 7/7), recall 7/9 (KCNK7
 Frozen check (not counted): mouse 1-2. Blind (counted): mouse.3 + mouse.4 pooled. Truth: symbol Kcnk<digit>.
  N5 precision: of K2P calls, >= 90% are Kcnk genes (graded only if >= 2 calls).
  N6 recall: of Kcnk genes present, >= 70% are called.
+
+NOTE (13 Nov 2026, 22:01, before any blind file was received): Gary reports the mouse.4 link does not work.
+Per part B, mouse.4 is DROPPED, not replaced. Set B = mouse.3 alone. Predictions and thresholds unchanged;
+the 'graded only if' minimums apply.
