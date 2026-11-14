@@ -17,7 +17,7 @@
 - **The comb-jelly expansion is almost entirely one kind of channel:** short Shaker-type voltage-gated K⁺ subunits with the classic T-V-G-Y-G-D filter.
 - **There is no EAG/ERG/ELK-type channel** among its calls, while the anemone has several.
 - **This fits a lineage that built its excitability from many copies of a single fast potassium "reset" channel,** not from diverse channel families.
-- **Caution:** the UniProt file may hold some duplicate gene models (two *Mnemiopsis* entry series, A0ACF8… and F6M…). The 123 is an upper bound.
+- **Duplicate check (done):** only 1 of the 123 is an exact duplicate sequence, so **122 are distinct.** Near-identical gene models from the two *Mnemiopsis* entry series (A0ACF8… and F6M…) may still inflate the count slightly.
 
 ## 2. [Earliest bilaterians] Exploratory (`PREREGISTERED_L3513_xenacoelomorpha.txt`)
 **The question:** acoel flatworms and *Xenoturbella* (Xenacoelomorpha) may be the earliest-branching bilaterians. Do they already carry **K** at the ring position, or still **E**?
@@ -48,5 +48,4 @@ No predictions graded. **406 of 558 passed, plus 3 split.**
 
 ## Potential leads for future research
 - **[Earliest bilaterians]** Read the ring letter when the file arrives.
-- **[Duplicate check]** Remove duplicate comb-jelly gene models (identical sequences) and recount the K expansion.
 - **[Submission]** ORCID, Zenodo, outside reader.
