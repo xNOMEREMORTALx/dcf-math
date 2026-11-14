@@ -1,0 +1,25 @@
+genes: 14457
+Ca        NM_001146150.1  1777 aa  S4 x1  ring 3  cacna1sa
+Ca        NM_001324496.1  2065 aa  S4 x1  ring 4  cacna1fb
+Ca        NM_001328708.1  2280 aa  S4 x2  ring 4  cacna1ab
+Ca        NM_001443049.1  2483 aa  S4 x2  ring 4  cacna1aa
+Ca        NM_203484.1     2082 aa  S4 x1  ring 4  cacna1da
+Ca        NM_214726.1     1847 aa  S4 x1  ring 4  cacna1sb
+FeHyd     NM_001001829.1   471 aa  S4 x0  ring 0  th2
+FeHyd     NM_001001843.2   480 aa  S4 x0  ring 0  tph1b
+FeHyd     NM_178306.3      483 aa  S4 x0  ring 0  tph1a
+FeHyd     NM_200551.1      449 aa  S4 x0  ring 0  pah
+FeHyd     NM_214795.2      473 aa  S4 x0  ring 0  tph2
+K         NM_001082811.1   494 aa  S4 x1  ring 0  kcnf1a
+K         NM_001442358.1   430 aa  S4 x0  ring 0  NM_001442358.1
+K         NM_001446944.1  1135 aa  S4 x1  ring 0  kcnh7b
+NMDA      NM_001365787.1  1400 aa  S4 x0  ring 0  grin2ca
+Na        NM_001044895.2  1996 aa  S4 x5  ring 1  scn1lab
+Na        NM_001044922.1  1932 aa  S4 x5  ring 1  scn12aa
+Na        NM_001045123.1  1954 aa  S4 x5  ring 1  scn5lab
+Na        NM_001045183.2  1958 aa  S4 x5  ring 1  scn8ab
+Na        NM_131628.1     1949 aa  S4 x5  ring 1  scn8aa
+Na        NM_200132.2     1955 aa  S4 x4  ring 1  scn1laa
+iGluR     NM_001365787.1  1400 aa  S4 x0  ring 0  grin2ca
+other     NM_001044754.2   198 aa  S4 x1  ring 0  NM_001044754.2
+other     NM_001099741.1   489 aa  S4 x3  ring 0  otol1a

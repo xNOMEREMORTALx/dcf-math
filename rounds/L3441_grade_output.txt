@@ -1,0 +1,30 @@
+present Ca 6 ['cacna1aa', 'cacna1ab', 'cacna1da', 'cacna1fb', 'cacna1sa', 'cacna1sb']
+present Na 6 ['scn12aa', 'scn1laa', 'scn1lab', 'scn5lab', 'scn8aa', 'scn8ab']
+present K 2 ['kcnf1a', 'kcnh7b']
+present HCN 1 ['hcn5']
+present K2P 1 ['kcnk15']
+present iGluR 1 ['grin2ca']
+present NMDA 1 ['grin2ca']
+present FeHyd 6 ['pah', 'th', 'th2', 'tph1a', 'tph1b', 'tph2']
+
+== v3 [('cacna1aa', 'Ca'), ('cacna1ab', 'Ca'), ('cacna1da', 'Ca'), ('cacna1fb', 'Ca'), ('cacna1sa', 'Ca'), ('cacna1sb', 'Ca'), ('kcnf1a', 'K'), ('kcnh7b', 'K'), ('otol1a', 'other'), ('scn12aa', 'Na'), ('scn1laa', 'Na'), ('scn1lab', 'Na'), ('scn5lab', 'Na'), ('scn8aa', 'Na'), ('scn8ab', 'Na'), ('si:ch211-51e12.7', 'other')]
+Z1 ['Ca'] precision 6/6 PASS wrong: []
+Z2 ['Na'] precision 6/6 PASS wrong: []
+Z3 ['K', 'HCN'] precision 2/2 PASS wrong: []
+Z4 recall 14/15 PASS missed: [('hcn5', None)]
+
+== v4 [('cacna1aa', 'Ca'), ('cacna1ab', 'Ca'), ('cacna1da', 'Ca'), ('cacna1fb', 'Ca'), ('cacna1sa', 'Ca'), ('cacna1sb', 'Ca'), ('kcnf1a', 'K'), ('kcnh7b', 'K'), ('otol1a', 'other'), ('scn12aa', 'Na'), ('scn1laa', 'Na'), ('scn1lab', 'Na'), ('scn5lab', 'Na'), ('scn8aa', 'Na'), ('scn8ab', 'Na'), ('si:ch211-51e12.7', 'other'), ('si:ch73-334d15.4', 'K')]
+Z7 ['K', 'HCN'] precision 2/3 FAIL wrong: ['si:ch73-334d15.4']
+Z8 recall 14/15 PASS missed: [('hcn5', None)]
+
+Z5 K2P precision 1/1 ungradeable ['kcnk15']
+Z6 K2P recall 1/1 PASS
+Z9 iGluR precision 1/1 ungradeable wrong: []
+Z10 iGluR recall 1/1 PASS missed: []
+Z11 NMDA precision 1/1 ungradeable wrong: []
+Z12 NMDA recall 1/1 PASS missed: []
+Z13 FeHyd precision 5/5 PASS wrong: []
+Z14 FeHyd recall 5/6 PASS missed: ['th']
+
+RESULT: [('Z1', 'PASS'), ('Z2', 'PASS'), ('Z3', 'PASS'), ('Z4', 'PASS'), ('Z7', 'FAIL'), ('Z8', 'PASS'), ('Z5', 'ungradeable'), ('Z6', 'PASS'), ('Z9', 'ungradeable'), ('Z10', 'PASS'), ('Z11', 'ungradeable'), ('Z12', 'PASS'), ('Z13', 'PASS'), ('Z14', 'PASS')]
+passed 10 of 11 gradeable; 3 ungradeable
