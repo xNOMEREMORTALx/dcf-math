@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3529: dating the E->K step. Four bilaterians outside the seven lineages already used.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the file is downloaded.
+Tool: rounds/dcf_neurochem5_L3481.py (v7) unchanged. Extraction: [AS]T[FY]([A-Z])GW in proteins >= 1400 aa with S4.
+Data: UniProt TSV (Entry, Organism, Protein names, Sequence) for organism_id 7574 Lingula anatina (brachiopod, protostome),
+ 283909 Capitella teleta (annelid, protostome), 10224 Saccoglossus kowalevskii (acorn worm, deuterostome),
+ 7668 Strongylocentrotus purpuratus (sea urchin, deuterostome). A species with < 5,000 proteins in the file is dropped.
+ Tool reads only Entry and Sequence; organisms attached after the tool output is committed.
+Hypothesis (from L3501-L3521): K arose in the common ancestor of protostomes and deuterostomes (Nephrozoa).
+Predictions:
+ D1-D4: each species has >= 1 Na call (a 4-domain voltage-sensor protein with the DEKA lysine loop).
+ D5: in every species, at least one A-T-F-x-G-W loop in a >= 1400 aa voltage-sensor protein reads x = K.
+Not predicted (descriptive): E-type channels may coexist (e.g. NaV2/DEEA-type paralogs); they are reported, not graded.

@@ -1,0 +1,3 @@
+L3529 [Hofstenia copper pump], descriptive
+  HMIM002426 1091 aa | CPC True | GMxCxxC repeats 1 | loop []
+  (no full signature) HMIM010875 2070 aa | repeats 1 | phospho-site variants []
