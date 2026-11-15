@@ -1,0 +1,3 @@
+mouse refs 18 ['Gria1', 'Gria2', 'Gria3', 'Gria4', 'Grid1', 'Grid2', 'Grik1', 'Grik2', 'Grik3', 'Grik4', 'Grik5', 'Grin1', 'Grin2a', 'Grin2b', 'Grin2c', 'Grin2d', 'Grin3a', 'Grin3b']
+ORG Amphimedon queenslandica       proteins  22831 iGluR   0 NR1  0 classes {}
+ORG Aplysia californica            proteins  23632 iGluR  33 NR1  4 classes {'NMDA': 9, 'AMPA': 15, 'kainate': 9}
