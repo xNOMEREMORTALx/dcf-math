@@ -1,0 +1,4 @@
+first-n for neurotransmitter strings: {'dopamine': 65, 'acetylcholine': 109, 'norepinephrine': 59, 'serotonin': 17, 'glutamate': 61, 'GABA': 58, 'epinephrine': 49, 'cortisol': 69}
+median of the 8: 60.0 | 25th percentile of all 900: 53 | median of all 900: 86.0
+percentile of the 8 medians within all 900: 32.7%
+R1 PASS
