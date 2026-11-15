@@ -1,0 +1,37 @@
+N1a Capitella teleta PASS
+N1b Lingula anatina PASS
+N1c Strongylocentrotus purpuratus FAIL
+N1d Saccoglossus kowalevskii PASS
+N1e Branchiostoma floridae PASS
+N1f Ciona intestinalis FAIL
+N1g Hypsibius exemplaris PASS
+N1h Ramazzottius varieornatus PASS
+N1i Hofstenia miamia (FASTA) PASS
+N2a Nematostella PASS
+N2b Hydra PASS
+N3 Trichoplax FAIL
+N4 Mnemiopsis PASS
+N5 sponges PASS
+N6 non-animals PASS
+PASSED 12 of 15
+RESULT [('N1a', 'PASS'), ('N1b', 'PASS'), ('N1c', 'FAIL'), ('N1d', 'PASS'), ('N1e', 'PASS'), ('N1f', 'FAIL'), ('N1g', 'PASS'), ('N1h', 'PASS'), ('N1i', 'PASS'), ('N2a', 'PASS'), ('N2b', 'PASS'), ('N3', 'FAIL'), ('N4', 'PASS'), ('N5', 'PASS'), ('N6', 'PASS')]
+--- descriptive after grading: named glutamate receptors in selected organisms (any tag), nearest mouse receptor; only score >= 300 kept (name search also matched methyltransferases)
+Trichoplax adhaerens         B3RMA2   354 iGluR-call=True YTANLAA-like=['YTANLAA'] nearest Grik2   640 | Ionotropic glutamate receptor C-terminal domain-contain
+Trichoplax adhaerens         B3RXL3   412 iGluR-call=False YTANLAA-like=[] nearest Gria2   688 | Glutamate receptor
+Trichoplax adhaerens         B3SAV8   601 iGluR-call=False YTANLAA-like=[] nearest Gria2   345 | Ionotropic glutamate receptor C-terminal domain-contain
+Trichoplax adhaerens         B3S7V0   373 iGluR-call=True YTANLAA-like=['YTANLAA'] nearest Gria1   382 | Ionotropic glutamate receptor C-terminal domain-contain
+Strongylocentrotus purpuratu A0A7M7GJJ8   934 iGluR-call=False YTANLAA-like=[] nearest Gria1   436 | Ionotropic glutamate receptor C-terminal domain-contain
+Strongylocentrotus purpuratu A0A7M7N7H8   519 iGluR-call=False YTANLAA-like=[] nearest Gria1   416 | Ionotropic glutamate receptor C-terminal domain-contain
+Strongylocentrotus purpuratu A0A7M7PGF5   953 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Grik2  1852 | Glutamate receptor
+Strongylocentrotus purpuratu A0A7M7PIS8   838 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Grik1  1840 | Glutamate receptor
+Ciona intestinalis           A0A1Q2TSV5   915 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Gria1  1783 | Glutamate receptor variant2
+Ciona intestinalis           A0A1Q2TSX5   927 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Gria2  1783 | Glutamate receptor variant1
+Ciona intestinalis           F6TPD4   813 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Gria2  1751 | Glutamate receptor
+Ciona intestinalis           F6W4K8   835 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Grik2  1426 | Glutamate receptor
+Ciona intestinalis           H2Y062   417 iGluR-call=False YTANLAA-like=[] nearest Gria2   480 | Ionotropic glutamate receptor C-terminal domain-contain
+Ciona intestinalis           H2XLW2   304 iGluR-call=False YTANLAA-like=[] nearest Grid1   521 | Glutamate receptor
+Hydra vulgaris               A0ABM4D8J4   881 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Grin1  1766 | Glutamate receptor ionotropic, NMDA 1 isoform X2
+Hydra vulgaris               A0ABM4D8K0   731 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Grin1  1616 | Glutamate receptor ionotropic, NMDA 1 isoform X3
+Hydra vulgaris               T2ME34   575 iGluR-call=True YTANLAA-like=['SYTANLAA'] nearest Grin1  1113 | Glutamate [NMDA] receptor subunit zeta-1
+Hydra vulgaris               A0ABM4CIT5   803 iGluR-call=False YTANLAA-like=[] nearest Grin1   375 | Glutamate receptor ionotropic, NMDA 1
+Hydra vulgaris               A0ABM4D6E3   844 iGluR-call=False YTANLAA-like=[] nearest Grin2a  430 | Glutamate [NMDA] receptor subunit 1
