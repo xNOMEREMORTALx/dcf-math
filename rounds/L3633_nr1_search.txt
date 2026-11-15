@@ -1,0 +1,78 @@
+## Strongylocentrotus 10540
+  A0A7M7PI19    601 nearest Grid1      43 Grin1    37 | Gamma-glutamyltranspeptidase 1
+  A0A7M7N7U5    633 nearest Grid1      48 Grin1    40 | Uncharacterized protein
+  A0A7M7THC8    728 nearest Grin1      58 Grin1    58 | Ubiquitin-like domain-containing protein
+  A0A7M7NDV2    655 nearest Grid2      52 Grin1    47 | ABC transporter domain-containing protein
+  A0A7M7GL92    631 nearest Grin3a     50 Grin1    37 | Cationic amino acid transporter C-terminal domain-
+  A0A7M7NE16    631 nearest Grin2a     51 Grin1    37 | Cationic amino acid transporter C-terminal domain-
+  A0A7M7N3V9    658 nearest Grin2d     45 Grin1    45 | Armadillo repeat-containing protein 8
+  A0A7M7N358    655 nearest Grin2d     45 Grin1    45 | Armadillo repeat-containing protein 8
+  A0A7M7SZ73    607 nearest Grik5      48 Grin1    33 | Actin-interacting protein 1
+  A0A7M7MZ43    619 nearest Grin1      50 Grin1    50 | Uncharacterized protein
+  A0A7M7PSW8    630 nearest Grin2d     53 Grin1    35 | RHD domain-containing protein
+  A0A7M7PP80    604 nearest Grin2d     53 Grin1    35 | RHD domain-containing protein
+  A0A7M7G099    603 nearest Grin2a     51 Grin1    40 | Solute carrier organic anion transporter family me
+  A0A7M7NDU9    702 nearest Grin2b     53 Grin1    47 | ABC transporter domain-containing protein
+  A0A7M7T333    645 nearest Grik4      56 Grin1    41 | Uncharacterized protein
+  A0A7M7T5P8    684 nearest Gria1      48 Grin1    43 | Zinc transporter ZIP10
+  A0A7M7MZX9    609 nearest Grin2d     51 Grin1    40 | WSC domain-containing protein
+  A0A7M7P2T5    638 nearest Grin3b     48 Grin1    38 | RING-CH-type domain-containing protein
+  A0A7M7RCL4    616 nearest Grin2c     52 Grin1    44 | Mannosyltransferase (EC 2.4.1.-)
+  A0A7M7N3C3    688 nearest Gria1      49 Grin1    48 | Solute carrier organic anion transporter family me
+  A0A7M7NHJ3    650 nearest Grin2d     52 Grin1    39 | Cadherin domain-containing protein
+  A0A7M7NFM4    619 nearest Grik3      55 Grin1    34 | Uncharacterized protein
+  A0A7M7PW91    619 nearest Grin1      47 Grin1    47 | Uncharacterized protein
+  A0A7M6UQ98    703 nearest Grid2      52 Grin1    47 | ABC transporter domain-containing protein
+  I0DHI9        703 nearest Grid2      52 Grin1    47 | ATP-binding cassette transporter subfamily G membe
+## Ciona 2360
+  F6X753        660 nearest Grik4      53 Grin1    40 | ABC transporter domain-containing protein
+  F6Y1Z7        714 nearest Grin2a     56 Grin1    53 | Mitotic spindle assembly checkpoint protein MAD1
+  F7BM78        664 nearest Gria4      51 Grin1    41 | Uncharacterized protein
+  F7BBT3        711 nearest Grin2c     52 Grin1    51 | Tr-type G domain-containing protein
+  H2XNV1        659 nearest Gria1      49 Grin1    41 | Poly [ADP-ribose] polymerase (PARP) (EC 2.4.2.-)
+  F6V6X8        650 nearest Grid2      49 Grin1    47 | Serine/threonine-protein kinase DCLK2 (EC 2.7.11.1
+  F6WWM2        662 nearest Grin2c     50 Grin1    47 | TMC domain-containing protein
+  F6QG73        665 nearest Grin2a     71 Grin1    41 | SAM domain-containing protein
+  H2Y288        784 nearest Grin2a     52 Grin1    36 | Pre-rRNA-processing protein TSR1 homolog
+  H2XMD8        780 nearest Grin3a     59 Grin1    41 | G-protein coupled receptors family 1 profile domai
+  F6TWQ7        680 nearest Grik5      57 Grin1    39 | Methionine synthase reductase (EC 1.16.1.8)
+  F6TXJ2        640 nearest Grik4      49 Grin1    39 | Neural cell adhesion molecule homologue
+  Q9NDQ1        652 nearest Grin2c     52 Grin1    36 | Fibrinogen-like protein
+  F6ZFS8        675 nearest Grik2      53 Grin1    44 | Phosphate transporter
+  Q86SD2        641 nearest Grik4      49 Grin1    37 | Neural cell adhesion molecule homologue
+  H2XWZ0        607 nearest Grin1      52 Grin1    52 | Replication protein A subunit
+  H2XQB4        733 nearest Grin2d     49 Grin1    47 | Carboxylesterase type B domain-containing protein
+  Q1RPW3        693 nearest Grik4      53 Grin1    39 | RING-type E3 ubiquitin transferase (EC 2.3.2.27)
+  F6UC76        602 nearest Gria2      55 Grin1    36 | SRP54-type proteins GTP-binding domain-containing 
+  F6WCD3        625 nearest Grin2a     55 Grin1    51 | PNPLA domain-containing protein
+  F6YWN9        625 nearest Grin2b     52 Grin1    45 | DM domain-containing protein
+  F7AER5        690 nearest Grik1      60 Grin1    37 | N-alpha-acetyltransferase 35, NatC auxiliary subun
+  F6XCH5        627 nearest Grid1      45 Grin1    39 | Heat shock protein 70
+  P91874        627 nearest Grid1      45 Grin1    42 | Heat shock protein 70
+  E7FIZ6        604 nearest Grin2a     52 Grin1    46 | Nicotinic acetylcholine receptor subunit
+## Hydra 8669
+  A0ABM4D8K0    731 nearest Grin1    1616 Grin1  1616 | Glutamate receptor ionotropic, NMDA 1 isoform X3
+  A0ABM4D8J4    881 nearest Grin1    1766 Grin1  1766 | Glutamate receptor ionotropic, NMDA 1 isoform X2
+  A0ABM4C4W1    622 nearest Gria3      44 Grin1    40 | Uncharacterized protein LOC101238093 isoform X2
+  A0ABM4D3E2    688 nearest Grik2      50 Grin1    47 | Integrator complex subunit 13 isoform X2
+  T2M3C4        607 nearest Grik5      45 Grin1    41 | Protein MTO1 homolog,mitochondrial
+  A0ABM4B5H1    767 nearest Grik1      48 Grin1    39 | Intraflagellar transport protein 80 homolog isofor
+  A0ABM4BHJ4    615 nearest Gria1      46 Grin1    41 | Uncharacterized protein LOC136077967
+  A0ABM4BI24    615 nearest Grik1      48 Grin1    42 | Uncharacterized protein LOC136078013
+  A0ABM4CQ71    600 nearest Grin2b     50 Grin1    42 | Solute carrier family 13 member 2 isoform X3
+  T2MEY4        651 nearest Grin2b     56 Grin1    37 | Coronin
+  A0ABM4C4S0    647 nearest Gria4      47 Grin1    40 | Uncharacterized protein LOC136081983
+  A0ABM4C9X8    647 nearest Grid1      48 Grin1    41 | Uncharacterized protein LOC136082987
+  A0ABM4DE15    609 nearest Grin2a     48 Grin1    34 | RNA helicase (EC 3.6.4.13)
+  A0ABM4BUQ2    615 nearest Grin2d     46 Grin1    42 | Uncharacterized protein LOC136080206
+  A0ABM4C6M7    659 nearest Gria1      46 Grin1    43 | Uncharacterized protein LOC136082315
+  A0ABM4CC67    659 nearest Grik4      46 Grin1    41 | Uncharacterized protein LOC136083663
+  A0ABM4DEH2    601 nearest Grik2      53 Grin1    38 | Sodium-coupled monocarboxylate transporter 1 isofo
+  A0ABM4CN09    651 nearest Grin3b     46 Grin1    37 | Nucleolar protein 10
+  A0ABM4BK24    659 nearest Grin2a     47 Grin1    45 | Uncharacterized protein LOC136078181
+  A0ABM4CPP8    770 nearest Grin3b     49 Grin1    37 | Uncharacterized protein LOC101241118 isoform X2
+  A0ABM4CW58    770 nearest Grin3a     52 Grin1    43 | Cullin-1
+  A0ABM4BE84    626 nearest Grik4      48 Grin1    36 | Small ribosomal subunit protein mS39
+  T2MCM2        615 nearest Grin2a     49 Grin1    36 | RNA helicase (EC 3.6.4.13)
+  A0ABM4D4L3    665 nearest Grin2a     52 Grin1    44 | S1 RNA-binding domain-containing protein 1 isoform
+  A0ABM4CRC3    700 nearest Gria4      54 Grin1    44 | Zinc finger MYM-type protein 1-like

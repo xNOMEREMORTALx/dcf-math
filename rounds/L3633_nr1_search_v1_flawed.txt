@@ -1,0 +1,78 @@
+## Strongylocentrotus 35496
+  A0A7M7N314  24046 nearest Grin2b     72 Grin1    53 | non-specific serine/threonine protein kinase (EC 2
+  A0A7M7SY23  12941 nearest Grin2a     62 Grin1    55 | Uncharacterized protein
+  A0A7M7NZK7   9800 nearest Grin2b     60 Grin1    47 | protein-tyrosine-phosphatase (EC 3.1.3.48)
+  A0A7M7PWK2   8696 nearest Grin2a     63 Grin1    45 | Calponin-homology (CH) domain-containing protein
+  A0A7M7T5K9   8642 nearest Grin2a     63 Grin1    45 | Calponin-homology (CH) domain-containing protein
+  A0A7M7T5M2   8680 nearest Grin2a     63 Grin1    45 | Calponin-homology (CH) domain-containing protein
+  A0A7M7PSF1   8578 nearest Grin2a     63 Grin1    45 | Calponin-homology (CH) domain-containing protein
+  A0A7M7PU57   8608 nearest Grin2a     63 Grin1    45 | Calponin-homology (CH) domain-containing protein
+  A0A7M7P1B4   7949 nearest Grik1      58 Grin1    48 | protein-tyrosine-phosphatase (EC 3.1.3.48)
+  A0A7M7T146   8480 nearest Grik5      55 Grin1    46 | protein-tyrosine-phosphatase (EC 3.1.3.48)
+  A0A7M7ND38   5936 nearest Grin2c     60 Grin1    49 | Uncharacterized protein
+  A0A7M7N291   6799 nearest Grin2d     77 Grin1    52 | Ig-like domain-containing protein
+  A0A7M7N274   6790 nearest Grin2d     77 Grin1    52 | Ig-like domain-containing protein
+  A0A7M7SVC0   9934 nearest Grin2a     78 Grin1    45 | Chitin-binding type-2 domain-containing protein
+  A0A7M7N2M9   5329 nearest Grin2d     60 Grin1    43 | AAA+ ATPase domain-containing protein
+  A0A7M7P291   6971 nearest Grin2a     58 Grin1    57 | protein-tyrosine-phosphatase (EC 3.1.3.48)
+  A0A7M7PQZ5   5063 nearest Grik2      54 Grin1    51 | AAA+ ATPase domain-containing protein
+  A0A7M7N509   4676 nearest Grik4      58 Grin1    49 | Dynein axonemal heavy chain 5 (Axonemal beta dynei
+  A0A7M7NS86   5405 nearest Grin2b     55 Grin1    52 | Sacsin
+  A0A7M7PQ70   6274 nearest Grin2a     69 Grin1    56 | Kinesin-like protein KIF16B
+  A0A7M7PQE2   6271 nearest Grin2a     69 Grin1    56 | Kinesin-like protein KIF16B
+  A0A7M7PS31   6274 nearest Grin2a     69 Grin1    56 | Kinesin-like protein KIF16B
+  A0A7M7PSS2   6264 nearest Grin2a     69 Grin1    56 | Kinesin-like protein KIF16B
+  A0A7M7PTU7   6286 nearest Grin2a     69 Grin1    56 | Kinesin-like protein KIF16B
+  A0A7M7NCI2   8548 nearest Grin2d     79 Grin1    47 | Uncharacterized protein
+## Ciona 19006
+  I7HGJ1      26404 nearest Grin2d     59 Grin1    51 | Titin (EC 2.7.11.1)
+  F6TD21      21338 nearest Grin2d     59 Grin1    51 | Titin (EC 2.7.11.1)
+  H2XZ27       5108 nearest Grin3a     60 Grin1    51 | Hydin adenylate kinase-like domain-containing prot
+  A0A1J0CND0   6244 nearest Grin2a     63 Grin1    51 | Ankyrin giant isoform
+  H2XSF3       5075 nearest Grik3      59 Grin1    49 | Uncharacterized protein
+  F6V620       4603 nearest Grin3a     56 Grin1    47 | Dynein axonemal heavy chain 5 (Axonemal beta dynei
+  H2XPC8       4583 nearest Grik5      57 Grin1    54 | Dynein axonemal heavy chain 5 (Axonemal beta dynei
+  F7AU91       4471 nearest Grik1      55 Grin1    52 | AAA+ ATPase domain-containing protein
+  F7AUA7       4470 nearest Grik1      55 Grin1    52 | AAA+ ATPase domain-containing protein
+  F6RF18       5108 nearest Gria1      56 Grin1    40 | Usherin
+  F6ZIS0       5460 nearest Gria3      55 Grin1    52 | Hemicentin-1
+  F6ZZ40       4467 nearest Grik3      57 Grin1    52 | Dynein axonemal heavy chain 11 (Axonemal beta dyne
+  F6XN27       4296 nearest Grid1      60 Grin1    42 | HECT-type E3 ubiquitin transferase (EC 2.3.2.26)
+  F6PHB9       4239 nearest Gria4      60 Grin1    48 | Dynein axonemal heavy chain 5 (Axonemal beta dynei
+  F6XWC8       3955 nearest Grid1      61 Grin1    47 | Extracellular matrix protein FRAS1
+  F6ZIH2       4939 nearest Gria3      55 Grin1    52 | Hemicentin-1
+  F6XXA7       3853 nearest Grid1      61 Grin1    47 | Extracellular matrix protein FRAS1
+  F6R8M3       4153 nearest Grin2a     60 Grin1    43 | Uncharacterized protein
+  H2XP00       3384 nearest Grin3a     59 Grin1    47 | Chorein N-terminal domain-containing protein
+  F6ZJA8       3376 nearest Grin3a     59 Grin1    47 | Chorein N-terminal domain-containing protein
+  F6RNF5       3522 nearest Grin3b     60 Grin1    46 | AAA+ ATPase domain-containing protein
+  F6Q030       3516 nearest Grin3b     60 Grin1    46 | AAA+ ATPase domain-containing protein
+  F6V9J0       3241 nearest Grik5      55 Grin1    47 | Uncharacterized protein
+  F6ZKS0       3431 nearest Grin3a     56 Grin1    42 | Cytoplasmic dynein 2 heavy chain 1 (Cytoplasmic dy
+  A0A1C9I9L0   3698 nearest Grin2d     61 Grin1    48 | Fibronectin
+## Hydra 35504
+  A0ABM4BR17  14356 nearest Gria4      71 Grin1    56 | Uncharacterized protein LOC100214834 isoform X2
+  A0ABM4BR15  14347 nearest Gria4      71 Grin1    56 | Uncharacterized protein LOC100214834 isoform X3
+  A0ABM4BR19  14356 nearest Gria4      71 Grin1    56 | Uncharacterized protein LOC100214834 isoform X1
+  A0ABM4BR08  14276 nearest Gria4      71 Grin1    56 | Uncharacterized protein LOC100214834 isoform X4
+  A0ABM4BR12  13321 nearest Gria4      71 Grin1    56 | Uncharacterized protein LOC100214834 isoform X5
+  A0ABM4BR09  13241 nearest Gria4      71 Grin1    56 | Uncharacterized protein LOC100214834 isoform X6
+  A0ABM4BR10  12911 nearest Gria4      71 Grin1    56 | Uncharacterized protein LOC100214834 isoform X7
+  A0ABM4C0T6  12026 nearest Grik5      61 Grin1    49 | Uncharacterized protein LOC100208216 isoform X2
+  A0ABM4C0V3  12022 nearest Grik5      61 Grin1    49 | Uncharacterized protein LOC100208216 isoform X3
+  A0ABM4C0C8  10023 nearest Grin2a     70 Grin1    49 | Titin isoform X6
+  A0ABM4DIE8   8873 nearest Grin3a     62 Grin1    48 | Uncharacterized protein LOC100214450 isoform X4
+  A0ABM4C0D9   9764 nearest Grin2a     70 Grin1    49 | Titin isoform X7
+  T2M8K5       9172 nearest Grik4      56 Grin1    45 | Titin
+  A0ABM4DL88   8002 nearest Grin2a     62 Grin1    40 | Uncharacterized protein LOC100202739 isoform X2
+  A0ABM4DL85   7398 nearest Grin2a     62 Grin1    55 | Uncharacterized protein LOC100202739 isoform X3
+  A0ABM4B597   8320 nearest Grin3b     68 Grin1    47 | Uncharacterized protein LOC100200840 isoform X4
+  A0ABM4BBX4   8226 nearest Grin3b     59 Grin1    53 | Uncharacterized protein LOC100202892 isoform X3
+  A0ABM4BBX9   8227 nearest Grin3b     59 Grin1    53 | Uncharacterized protein LOC100202892 isoform X2
+  A0ABM4B585   8130 nearest Grin3b     68 Grin1    47 | Uncharacterized protein LOC100200840 isoform X5
+  A0ABM4D1W2  12606 nearest Grin2a     58 Grin1    54 | Muscle-specific protein 300 kDa-like
+  T2M397       9070 nearest Grin1      57 Grin1    57 | Microtubule-actin cross-linking factor 1, isoforms
+  A0ABM4B578   8365 nearest Grik2      63 Grin1    46 | Uncharacterized protein LOC100213567 isoform X3
+  A0ABM4DD22   5973 nearest Gria4      56 Grin1    49 | Adhesion G-protein coupled receptor V1 isoform X3
+  A0ABM4DD30   5961 nearest Gria4      56 Grin1    49 | Adhesion G-protein coupled receptor V1 isoform X4
+  A0ABM4B4V4   7979 nearest Grid2      69 Grin1    47 | Uncharacterized protein LOC100202447 isoform X4
