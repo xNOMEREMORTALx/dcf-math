@@ -1,0 +1,13 @@
+reference mouse channels: 42
+  LOC100004160           call K   nearest Kcna5    fam a   id 0.712 | description fam a    | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A mem
+  LOC100330283           call K   nearest Kcna2    fam a   id 0.833 | description fam a    | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A mem
+  LOC100536252           call K   nearest Kcna2    fam a   id 0.789 | description fam a    | PREDICTED: Danio rerio shaker-related potassium channel tsha2 (LOC1005
+  LOC100537815           call K   nearest Kcna2    fam a   id 0.895 | description fam a    | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A mem
+  LOC101882339           call HCN nearest Hcn3     fam HCN id 0.779 | description fam None | PREDICTED: Danio rerio uncharacterized LOC101882339 (LOC101882339), tr
+  LOC101885373           call HCN nearest Hcn2     fam HCN id 0.767 | description fam HCN  | PREDICTED: Danio rerio potassium/sodium hyperpolarization-activated cy
+  LOC567521              call K   nearest Kcna2    fam a   id 0.677 | description fam a    | PREDICTED: Danio rerio potassium voltage-gated channel subfamily A mem
+  si:ch73-334d15.4       call K   nearest Kcnc3    fam c   id 0.514 | description fam None | Danio rerio si:ch73-334d15.4 (si:ch73-334d15.4), mRNA
+  si:dkey-43k4.5         call K   nearest Kcns1    fam s   id 0.588 | description fam None | PREDICTED: Danio rerio si:dkey-43k4.5 (si:dkey-43k4.5), transcript var
+  si:rp71-39b20.4        call K   nearest Kcnv2    fam v   id 0.489 | description fam None | PREDICTED: Danio rerio si:rp71-39b20.4 (si:rp71-39b20.4), mRNA
+described unnamed calls 6, nearest-family agrees 6
+RESULT [('U1', 'PASS')]
