@@ -190,3 +190,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_navtree_L3569.py | `4610573e90d26eb24b69007a019c50a82d7cd393a1d4df0ab0b5691c3d218167` |
 | PREREGISTERED_L3577_nameunnamed.txt | `90afa975dec88fa27d4054d6adfc058049c15247d4b4b3e6d5b099c4b7d9a872` |
 | rounds/dcf_nameunnamed_L3577.py | `8e101a676b567ae2ee6ad4d0f446b1c1c17591f71c7ece3cfdc6f3241e79d266` |
+| PREREGISTERED_L3585_ctenonames.txt | `2252af12cae4ab2c1144b7f987366686766e6667a346487dd8f81cb9aef07700` |
+| rounds/dcf_localalign_L3585.py | `b9ad9bf61cce7e574c016e841dbf9299d6e2cdd7cf86ba04ec7c805cae0a499c` |
+| rounds/dcf_cteno_names_L3585.py | `51fade19d0536526e2230ea64e73ce128e95445d4af64dbf17d4ff29141a99a6` |

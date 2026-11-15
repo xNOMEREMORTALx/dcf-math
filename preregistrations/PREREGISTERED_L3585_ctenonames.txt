@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3585: naming the comb-jelly channel calls with a LOCAL aligner (rounds/dcf_localalign_L3585.py).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before the comb-jelly run.
+Validation (development, rounds/L3585_validate_out.txt): 39/40 named zebrafish channels get the right mouse family.
+Script: rounds/dcf_cteno_names_L3585.py (nearest mouse K/HCN/K2P channel by local score).
+ C1 (independent agreement): >= 80% of distinct comb-jelly sequences that the tool calls K2P are nearest a mouse K2P.
+ C2: >= 80% of distinct sequences called K are nearest a Kv1-Kv4 (Shaker/Shab/Shaw/Shal) channel
+     (the T-V-G-Y-G-D filter, L3513, suggests a Shaker-type expansion).
