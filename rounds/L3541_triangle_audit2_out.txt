@@ -1,0 +1,29 @@
+A. Neurotransmitters and hormones (neutral molecules)
+  dopamine                   C8H11NO2     153.18 claim 153 OK
+  acetylcholine (cation)     C7H16NO2     146.21 claim 146 OK
+  norepinephrine             C8H11NO3     169.18 claim 169 OK
+  serotonin                  C10H12N2O    176.22 claim 176 OK
+  glutamate (glutamic acid)  C5H9NO4      147.13 claim 147 OK
+  GABA                       C4H9NO2      103.12 claim 103 OK
+  epinephrine                C9H13NO3     183.21 claim 183 OK
+  cortisol                   C21H30O5     362.47 claim 362 OK
+
+B. Repetend digit sums S(1/n) (exact long division)
+  1/17   pre-period 0, period   16, S =   72  claim   72  OK (Midy: period even and n prime -> S = 9L/2 = 72)
+  1/43   pre-period 0, period   21, S =   90  claim   90  OK
+  1/89   pre-period 0, period   44, S =  198  claim  198  OK (Midy: period even and n prime -> S = 9L/2 = 198)
+  1/153  pre-period 0, period   16, S =   65  claim   65  OK
+  1/306  pre-period 1, period   16, S =   73  claim   73  OK
+  1/372  pre-period 2, period   15, S =   54  claim   54  OK
+  1/437  pre-period 0, period  198, S =  891  claim  891  OK
+
+C. Fibonacci halving and ratios
+  F(9)/2 = 17.0
+  F(12)/2 = 72.0
+  F(15)/2 = 305.0
+  11/7 = 1.5714 vs phi = 1.6180: 2.9% off (13/8 = 1.625 is 0.43% off; 11/7 is not a Fibonacci ratio)
+F(n+3)=4F(n)+F(n-3) holds n=3..55: True
+D. Small iron/copper protein lengths (UniProt, mature chains)
+  P00195 ferredoxin, Clostridium pasteurianum: chain 2..56 = 55 aa (claim 55 OK)
+  P00268 rubredoxin, Clostridium pasteurianum: chain 1..54 = 54 aa (claim 54 OK)
+  P00299 plastocyanin A, Populus nigra: chain 70..168 = 99 aa (claim 99 OK)
