@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3597: potassium channels in non-neural animals (blind replication of L3593).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before the file is downloaded.
+Data: UniProt TSV (Entry, Organism, Protein names, Sequence), Porifera (taxonomy 6040) excluding Amphimedon queenslandica (400682),
+ plus Placozoa (10226) excluding Trichoplax adhaerens (10228). Script rounds/dcf_nonneural_L3597.py.
+ B1: at least one Kv2 (Shab) channel named (local score > 300).   B2: at least one KCNH (eag/erg/elk) channel named.
+ B3: no DEKA sodium call (no bilaterian-type fast sodium channel without nerves).
+If the file holds < 2,000 proteins the test is void.
