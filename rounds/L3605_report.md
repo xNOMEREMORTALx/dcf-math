@@ -19,7 +19,7 @@
 
 **2 of 3 pass.**
 
-## Reading (follow-up after grading; `rounds/L3605_follow-up.txt`)
+## Reading (follow-up after grading; `rounds/L3605_followup.txt`)
 | | count across 111,584 sponge proteins |
 |---|---|
 | voltage-gated K calls | **2** |
