@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3633: blind test of dcf_nerve v3 (sodium loop + [TS]WK[GA]W) and of "size does not predict sodium loss", in three spiralians.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before any of the three files is downloaded.
+v3 development (rounds/L3633_dev_sodium.txt): on every protein set seen, v3 changes exactly one call (priapulid A0ABM1DYP7 None -> Na).
+ A first try ([TS][FYW][KR][GA]W) made 2 false Na calls on Limulus T-type Ca channels (S-W-R-x-W) and was rejected before this file.
+Script: rounds/dcf_l3633_blind.py (battery = rounds/dcf_battery_v3_L3633.py, tags = rounds/dcf_nerve_v3_L3633.py).
+Data: UniProt TSV (accession, organism_name, protein_name, sequence) for
+ Helobdella robusta (leech, 6412), Dimorphilus gyrociliatus (miniaturised ~1 mm annelid, 2664684), Brachionus calyciflorus (rotifer, 104777).
+ R1 Helobdella >= 1 Na call.   R2 Dimorphilus >= 1 Na call.   R3 Brachionus >= 1 Na call.
+ R4 Helobdella ratio > 1.8.    R5 Dimorphilus ratio > 1.8.    R6 Brachionus ratio > 1.8.
+ R7 Precision: every v3 Na call in the three files is nearest (local aligner) a mouse Scn* rather than Cacna1* or Nalcn. Ungradeable if 0 calls.
+ Void per organism if < 5,000 proteins.

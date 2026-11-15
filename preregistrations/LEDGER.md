@@ -207,3 +207,7 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_aplysia_nmda_L3617.py | `f06e34ded7b500d3f302c220c275e0373f3610856bd05e869ab76c707763b62b` |
 | PREREGISTERED_L3625_nr1_tree_ecdysozoa.txt | `8119dd42b8896f003037665c1863e7a8d91373b37ea05cef8df1e6f82c065a6e` |
 | rounds/dcf_nr1tree_L3625.py | `0c6aafcaa1a985037ea7fd0d5e23b8308045975449dfac613057ffd711c3a6c9` |
+| PREREGISTERED_L3633_spiralia_rotifer.txt | `a21926af64a27d55e8dac5b5f2704aacb4ea83d4896dc7e1bc4a702b7699c6d4` |
+| rounds/dcf_nerve_v3_L3633.py | `cbff0fd7e1e1d16d8fe8acbd194f6016bacc47f915457eebcdae587773898d61` |
+| rounds/dcf_battery_v3_L3633.py | `f599c60b9b7377056150ccc8deaf895d98aed89ced3cb21860fc4c6f7a6636af` |
+| rounds/dcf_l3633_blind.py | `861c29dab3b82a40ebb8aaf3f53827d15f8dfe99a4318ef6787e4dfc8a248ffc` |
