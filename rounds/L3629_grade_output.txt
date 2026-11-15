@@ -1,0 +1,103 @@
+limulus ratio 7.89 Na calls 17
+mite ratio 3.00 Na calls 4
+priap ratio 6.20 Na calls 0
+RESULT [('E1', 'PASS'), ('E2', 'PASS'), ('E3', 'FAIL'), ('E4', 'PASS'), ('E5', 'PASS')]
+--- descriptive after grading
+## limulus
+  A0ABM1BI43  1051 Na-call=False loops=[] nearest Cacna1c   2563 | Voltage-dependent L-type calcium channel subunit alpha
+  A0ABM1BRF5  1673 Na-call=False loops=[] nearest Cacna1g   2696 | Voltage-dependent T-type calcium channel subunit alpha
+  A0ABM1S0L0  1280 Na-call=False loops=[] nearest Cacna1a   2210 | Voltage-dependent calcium channel type A subunit alpha-1-lik
+  A0ABM1S7S0  2069 Na-call=False loops=[] nearest Cacna1c   3274 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1S7S1  2069 Na-call=False loops=[] nearest Cacna1c   3286 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1S7S2  2069 Na-call=False loops=[] nearest Cacna1c   3281 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1S7S3  2069 Na-call=False loops=[] nearest Cacna1c   3269 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1S7S4  2060 Na-call=False loops=[] nearest Cacna1c   3318 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1S7S6  2043 Na-call=False loops=[] nearest Cacna1c   3274 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1S7S7  2060 Na-call=False loops=[] nearest Cacna1c   3313 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1S7S8  2060 Na-call=False loops=[] nearest Cacna1c   3330 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1S7S9  2060 Na-call=False loops=[] nearest Cacna1c   3325 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJX8  1709 Na-call=False loops=[] nearest Cacna1c   3139 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJX9  1709 Na-call=False loops=[] nearest Cacna1c   3118 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJY0  1697 Na-call=False loops=[] nearest Cacna1c   3136 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJY1  1595 Na-call=False loops=[] nearest Cacna1c   3137 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJY2  1709 Na-call=False loops=[] nearest Cacna1c   3137 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJY3  1700 Na-call=False loops=[] nearest Cacna1c   3180 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJY5  1569 Na-call=False loops=[] nearest Cacna1c   3137 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJY6  1700 Na-call=False loops=[] nearest Cacna1c   3182 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SJY7  1709 Na-call=False loops=[] nearest Cacna1c   3116 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0ABM1SWD7  2197 Na-call=False loops=['TFEGW'] nearest Cacna1c   4829 | Voltage-dependent L-type calcium channel subunit alpha
+  A0ABM1SWD8  2179 Na-call=False loops=['TFEGW'] nearest Cacna1c   4956 | Voltage-dependent L-type calcium channel subunit alpha
+  A0ABM1SWD9  2093 Na-call=False loops=['TFEGW'] nearest Cacna1c   4823 | Voltage-dependent L-type calcium channel subunit alpha
+  A0ABM1T2B1  1628 Na-call=False loops=[] nearest Cacna1c   1943 | Voltage-dependent L-type calcium channel subunit alpha
+  A0ABM1TEW8  1561 Na-call=False loops=['TFEGW'] nearest Cacna1c   4298 | Voltage-dependent L-type calcium channel subunit alpha
+  A0ABM1TGG8  1217 Na-call=False loops=[] nearest Cacna1c   2444 | Voltage-dependent calcium channel type A subunit alpha-1-lik
+  A0ABM1TK68  1818 Na-call=False loops=[] nearest Cacna1g   2666 | Voltage-dependent T-type calcium channel subunit alpha
+  A0ABM1TND2  2165 Na-call=False loops=[] nearest Cacna1g   3262 | Voltage-dependent T-type calcium channel subunit alpha
+  A0ABM1TND7  2151 Na-call=False loops=[] nearest Cacna1g   3329 | Voltage-dependent T-type calcium channel subunit alpha
+  A0ABM1S3U1  2002 Na-call=True  loops=['TFKGW'] nearest Scn5a     3910 | Sodium channel protein
+  A0ABM1S3W3  2002 Na-call=True  loops=['TFKGW'] nearest Scn5a     3906 | Sodium channel protein
+  A0ABM1S3X0  1993 Na-call=True  loops=['TFKGW'] nearest Scn5a     3928 | Sodium channel protein
+  A0ABM1S3X5  1993 Na-call=True  loops=['TFKGW'] nearest Scn5a     3924 | Sodium channel protein
+  A0ABM1S3X9  1992 Na-call=True  loops=['TFKGW'] nearest Scn5a     3921 | Sodium channel protein
+  A0ABM1S3Y3  1881 Na-call=True  loops=['TFKGW'] nearest Scn5a     3414 | Sodium channel protein
+  A0ABM1S3Z3  1992 Na-call=True  loops=['TFKGW'] nearest Scn5a     3917 | Sodium channel protein
+  A0ABM1SIX9  1455 Na-call=False loops=['TFKGW'] nearest Scn1a     3000 | Sodium channel protein
+  A0ABM1SJ88  1372 Na-call=False loops=[] nearest Scn5a     2135 | Sodium channel protein para-like isoform X1
+  A0ABM1SJ89  1331 Na-call=False loops=[] nearest Scn5a     2013 | Sodium channel protein para-like isoform X2
+  A0ABM1ST40  2128 Na-call=False loops=['TFRAW'] nearest Scn8a       75 | Unconventional myosin-X-like
+  A0ABM1SWY6  1865 Na-call=True  loops=['TFKGW'] nearest Scn4a     3446 | Sodium channel protein
+  A0ABM1SWY7  1865 Na-call=True  loops=['TFKGW'] nearest Scn4a     3444 | Sodium channel protein
+  A0ABM1SWY8  1864 Na-call=True  loops=['TFKGW'] nearest Scn4a     3454 | Sodium channel protein
+  A0ABM1SWY9  1824 Na-call=True  loops=['TFKGW'] nearest Scn4a     3142 | Sodium channel protein
+  A0ABM1T755  1005 Na-call=False loops=['SFKGW'] nearest Scn10a      60 | glutamate synthase (ferredoxin) (EC 1.4.7.1)
+  A0ABM1T841  1440 Na-call=False loops=['TFEGW'] nearest Scn9a     1839 | Sodium channel protein
+  A0ABM1TH66  1387 Na-call=False loops=['SFKGW'] nearest Nalcn     4067 | Sodium leak channel NALCN (Sodium leak channel non-selective
+  A0ABM1TKV6  1991 Na-call=True  loops=['TFKGW'] nearest Scn5a     3803 | Sodium channel protein
+  A0ABM1TKV9  1991 Na-call=True  loops=['TFKGW'] nearest Scn5a     3810 | Sodium channel protein
+  A0ABM1TKW3  1983 Na-call=True  loops=['TFKGW'] nearest Scn5a     3800 | Sodium channel protein
+  A0ABM1TKW9  1870 Na-call=True  loops=['TFKGW'] nearest Scn5a     3372 | Sodium channel protein
+  A0ABM1TKX5  1862 Na-call=True  loops=['TFKGW'] nearest Scn11a    3335 | Sodium channel protein
+  A0ABM1TKX8  1983 Na-call=True  loops=['TFKGW'] nearest Scn5a     3807 | Sodium channel protein
+  A0ABM1TKZ8  1373 Na-call=False loops=['TFEGW'] nearest Cacna1c   3436 | Muscle calcium channel subunit alpha-1-like
+  A0ABM1TQL8  1100 Na-call=False loops=['SFRAW'] nearest Scn2a       54 | Nucleolar protein 6
+  A0ABM1TRS4  1380 Na-call=False loops=['SYRGW'] nearest Scn8a       73 | Uncharacterized protein LOC106474548
+  A0ABM1B1J8  1052 Na-call=False loops=['SYKAW'] nearest Cacna1c     64 | Uncharacterized protein LOC106458021
+  A0ABM1B9A2  5227 Na-call=False loops=['SYRAW'] nearest -            0 | E3 ubiquitin-protein ligase UBR4-like isoform X2
+  A0ABM1S4P7  1605 Na-call=False loops=['TFKGW'] nearest Scn5a       65 | LOW QUALITY PROTEIN: disco-interacting protein 2-like
+  A0ABM1SHU6  1196 Na-call=False loops=[] nearest Cacna1a     50 | Voltage-dependent calcium channel subunit alpha-2/delta-3-li
+  A0ABM1SMS1  5229 Na-call=False loops=['SYRAW'] nearest -            0 | E3 ubiquitin-protein ligase UBR4-like isoform X1
+  A0ABM1SMS2  5219 Na-call=False loops=['SYRAW'] nearest -            0 | E3 ubiquitin-protein ligase UBR4-like isoform X3
+  A0ABM1SUR3  1518 Na-call=False loops=['TFKGW'] nearest Cacna1g     65 | Disco-interacting protein 2-like
+  A0ABM1TCR6  1696 Na-call=False loops=['TFEAW'] nearest Cacna1a     68 | Uncharacterized protein LOC106469446
+  A0ABM1TD42  1486 Na-call=False loops=['TFRGW'] nearest Cacna1g     66 | LOW QUALITY PROTEIN: disco-interacting protein 2-like
+  O44318      1168 Na-call=False loops=['SFKGW'] nearest Cacna1g     56 | Reverse transcriptase
+## mite
+  T1K0U4      2045 Na-call=False loops=[] nearest Cacna1c   3120 | Voltage-dependent calcium channel type A subunit alpha-1
+  T1K1E6      2272 Na-call=False loops=['TFEGW'] nearest Cacna1c   4536 | Voltage-dependent L-type calcium channel subunit alpha
+  T1KGD6      2067 Na-call=False loops=['TYKGW'] nearest Scn2a       55 | glutamate synthase (NADH) (EC 1.4.1.14)
+  A0A0A7BVC7  2210 Na-call=True  loops=['TFKGW'] nearest Scn8a     2414 | Sodium channel protein
+  C5IFI9      1068 Na-call=False loops=['TFKGW'] nearest Scn8a     1655 | Voltage-gated sodium channel alpha subunit isoform l
+  C5IFJ1      1068 Na-call=False loops=['TFKGW'] nearest Scn8a     1649 | Voltage-gated sodium channel alpha subunit isoform l
+  C5IFJ3      1068 Na-call=False loops=['TFKGW'] nearest Scn8a     1679 | Voltage-gated sodium channel alpha subunit isoform k
+  C5IFJ5      1068 Na-call=False loops=['TFKGW'] nearest Scn8a     1673 | Voltage-gated sodium channel alpha subunit isoform k
+  C5IFJ6      1068 Na-call=False loops=['TFKGW'] nearest Scn8a     1673 | Voltage-gated sodium channel alpha subunit isoform k
+  D3JU69      1034 Na-call=False loops=['TFKGW'] nearest Scn8a     1570 | Voltage-gated sodium channel alpha subunit
+  T1KM99      1890 Na-call=False loops=['SFKGW'] nearest Nalcn     4593 | Ion transport domain-containing protein
+  T1L2Z6      2199 Na-call=True  loops=['TFKGW'] nearest Scn8a     2478 | Sodium channel protein
+  C5IFJ2      1068 Na-call=False loops=['TFKGW'] nearest Scn8a     1649 | Voltage-gated sodium channel alpha subunit isoform l
+  K0GYX7      1806 Na-call=True  loops=['TFKGW'] nearest Scn8a     1822 | Voltage-gated sodium channel alpha subunit
+  K0H5W3      1806 Na-call=True  loops=['TFKGW'] nearest Scn8a     1828 | Voltage-gated sodium channel alpha subunit
+  T1KYH7      1890 Na-call=False loops=['SYKAW'] nearest Nalcn       57 | SWIM-type domain-containing protein
+## priap
+  A0ABM1DNC9  1959 Na-call=False loops=['TFEGW'] nearest Cacna1c   4732 | Voltage-dependent L-type calcium channel subunit alpha
+  A0ABM1DYP7  2027 Na-call=False loops=[] nearest Scn8a     3170 | Sodium channel protein
+  A0ABM1E8D5  1318 Na-call=False loops=[] nearest Cacna1a   2306 | Voltage-dependent calcium channel type A subunit alpha-1-lik
+  A0ABM1EVM5  1124 Na-call=False loops=[] nearest Cacna1g   1039 | Voltage-dependent T-type calcium channel subunit alpha-1I-li
+  A0ABM1DRX9  1027 Na-call=False loops=[] nearest Scn8a      606 | Sodium channel protein 60E-like
+  A0ABM1E8C5  1081 Na-call=False loops=['SFRAW'] nearest Cacna1g     54 | Telomere-associated protein RIF1-like
+  A0ABM1E9T8  1089 Na-call=False loops=['TFKGW'] nearest Scn3a       65 | LOW QUALITY PROTEIN: disco-interacting protein 2-like
+  A0ABM1EQ23  1234 Na-call=False loops=['SFKGW'] nearest Nalcn     2245 | Sodium leak channel non-selective protein-like
+--- descriptive: domain pore-loop windows ([TS]-x-x-x-W ... around the selectivity site) in Priapulus A0ABM1DYP7 vs mouse Scn8a
+Priapulus A0ABM1DYP7 2027 [(1431, 'QVATWKGWITIM')]
+Priapulus A0ABM1DRX9 (60E-like) 1027 []
+mouse Scn8a 1978 [(1408, 'QVATFKGWMDIM')]
