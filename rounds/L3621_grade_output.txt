@@ -1,0 +1,108 @@
+T1 ratio 1.53 < 1.8: PASS
+T2 Na calls 0 : PASS
+RESULT [('T1', 'PASS'), ('T2', 'PASS')]
+--- descriptive after grading: names of calls
+pump_NaK       A0A1D1UGT0 1038 Sodium/potassium-transporting ATPase subunit alpha
+pump_other     A0A1D1UJ19 1185 Phospholipid-transporting ATPase (EC 7.6.2.1)
+pump_other     A0A1D1URK7 1600 Na(+)/K(+)-exchanging ATPase (EC 7.2.2.13)
+pump_Ca        A0A1D1UVI9 1169 Calcium-transporting ATPase (EC 7.2.2.10)
+pump_NaK       A0A1D1UWE9 1011 Sodium/potassium-transporting ATPase subunit alpha
+pump_Ca        A0A1D1UYJ8 1227 Calcium-transporting ATPase (EC 7.2.2.10)
+pump_Ca        A0A1D1UYZ1 1068 Calcium-transporting ATPase (EC 7.2.2.10)
+pump_NaK       A0A1D1UZM5 866 Sodium/potassium-transporting ATPase subunit alpha
+pump_NaK       A0A1D1UZN4 1053 Sodium/potassium-transporting ATPase subunit alpha
+K              A0A1D1V0V9 549 BTB domain-containing protein
+Ca             A0A1D1V1T7 1527 EF-hand domain-containing protein
+CaT            A0A1D1V3H9 1599 Ion transport domain-containing protein
+pump_Ca        A0A1D1V3X1 762 Calcium-transporting ATPase (EC 7.2.2.10)
+pump_NaK       A0A1D1V5V9 1115 Na(+)/K(+)-exchanging ATPase (EC 7.2.2.13)
+Ca             A0A1D1V6K9 1519 EF-hand domain-containing protein
+pump_other     A0A1D1V754 626 Calcium-transporting ATPase (EC 7.2.2.10)
+pump_other     A0A1D1V773 1158 Phospholipid-transporting ATPase (EC 7.6.2.1)
+FeHyd          A0A1D1V7A5 796 Dipeptidyl peptidase 3 (EC 3.4.14.4) (Dipeptidyl aminopeptidase III) (
+pump_other     A0A1D1V7M2 924 Cation-transporting ATPase (EC 7.2.2.-)
+pump_other     A0A1D1V8V7 1248 Phospholipid-transporting ATPase (EC 7.6.2.1)
+pump_NaK       A0A1D1V960 597 Na(+)/K(+)-exchanging ATPase (EC 7.2.2.13)
+pump_other     A0A1D1V9U3 939 Cation-transporting ATPase (EC 7.2.2.-)
+pump_other     A0A1D1VKV5 1144 Na(+)/K(+)-exchanging ATPase (EC 7.2.2.13)
+pump_Ca        A0A1D1VLL7 1006 Calcium-transporting ATPase (EC 7.2.2.10)
+pump_Ca        A0A1D1VNS9 960 Calcium-transporting ATPase (EC 7.2.2.10)
+pump_other     A0A1D1VYA7 1197 Phospholipid-transporting ATPase (EC 7.6.2.1)
+pump_Ca        A0A1D1W9D2 912 Calcium-transporting ATPase (EC 7.2.2.10)
+K              A0A1D1UFK0 1114 RCK N-terminal domain-containing protein
+K              A0A1D1UJ56 1097 RCK N-terminal domain-containing protein
+FeHyd          A0A1D1UL27 300 phenylalanine 4-monooxygenase (EC 1.14.16.1)
+FeHyd          A0A1D1UNV2 469 phenylalanine 4-monooxygenase (EC 1.14.16.1)
+iGluR          A0A1D1UVG7 375 Ionotropic glutamate receptor C-terminal domain-containing protein
+FeHyd          A0A1D1UW04 253 phenylalanine 4-monooxygenase (EC 1.14.16.1)
+iGluR          A0A1D1UW25 846 Ionotropic glutamate receptor C-terminal domain-containing protein
+K2P            A0A1D1V053 311 Potassium channel domain-containing protein
+pump_other     A0A1D1V093 979 P-type ATPase A domain-containing protein
+iGluR          A0A1D1V243 592 Ionotropic glutamate receptor C-terminal domain-containing protein
+iGluR          A0A1D1V2C8 918 Ionotropic glutamate receptor C-terminal domain-containing protein
+iGluR          A0A1D1V2M5 1003 Ionotropic glutamate receptor C-terminal domain-containing protein
+FeHyd          A0A1D1V2N3 503 Tryptophan 5-hydroxylase 2 (Tryptophan 5-monooxygenase 2)
+iGluR          A0A1D1V2X7 955 Ionotropic glutamate receptor C-terminal domain-containing protein
+K              A0A1D1V399 984 Cyclic nucleotide-binding domain-containing protein
+K              A0A1D1V4Y9 671 BTB domain-containing protein
+iGluR          A0A1D1V596 609 Ionotropic glutamate receptor C-terminal domain-containing protein
+FeHyd          A0A1D1V8E6 182 Biopterin-dependent aromatic amino acid hydroxylase family profile dom
+iGluR          A0A1D1VC25 1029 Ionotropic glutamate receptor C-terminal domain-containing protein
+K              A0A1D1VIK0 976 Potassium voltage-gated channel subfamily KQT member 1
+K              A0A1D1VKE0 1144 Uncharacterized protein
+K              A0A1D1VKS4 497 BTB domain-containing protein
+K              A0A1D1VL58 573 BTB domain-containing protein
+K              A0A1D1VN51 373 Ion transport domain-containing protein
+K2P            A0A1D1VQB7 491 Potassium channel domain-containing protein
+pump_Ca        A0A1D1VRE5 784 Calcium-transporting ATPase (EC 7.2.2.10)
+K2P            A0A1D1VS01 377 Potassium channel domain-containing protein
+K              A0A1D1VTD8 526 BTB domain-containing protein
+pump_other     A0A1D1VV56 1216 Cation-transporting ATPase (EC 7.2.2.-)
+pump_Cu        A0A1D1VX43 1046 P-type Cu(+) transporter (EC 7.2.2.8)
+K2P            A0A1D1VZH2 641 Potassium channel domain-containing protein
+K              A0A1D1W1K8 1095 BK channel
+pump_other     A0A1D1W2E0 1208 Cation-transporting ATPase
+pump_other     A0A1D1W2R4 1213 Cation-transporting ATPase
+K              A0A1D1W423 539 BTB domain-containing protein
+iGluR          A0A1D1W492 964 Ionotropic glutamate receptor C-terminal domain-containing protein
+K2P            A0A1D1W5Z5 955 Cyclic nucleotide-binding domain-containing protein
+K              A0A1D1W798 491 BTB domain-containing protein
+K              A0A1D1W7I3 655 BTB domain-containing protein
+iGluR          A0A1D1W7W7 948 Ionotropic glutamate receptor C-terminal domain-containing protein
+pump_other     A0A1D1W8N8 1322 Cation-transporting ATPase (EC 7.2.2.-)
+FeHyd          A0A1D1W9A6 177 phenylalanine 4-monooxygenase (EC 1.14.16.1)
+FeHyd          A0A1D1W9G8 204 phenylalanine 4-monooxygenase (EC 1.14.16.1)
+--- names containing sodium channel / voltage-dependent / NALCN
+A0A1D1UR64 Voltage-dependent L-type calcium channel subunit alpha
+A0A1D1UTV0 Voltage-dependent calcium channel alpha-1 subunit IQ domain-containing protein
+A0A1D1UXK0 Voltage-dependent calcium channel gamma-5 subunit
+A0A1D1V0J9 Voltage-dependent calcium channel gamma-5 subunit
+A0A1D1VU95 Voltage-dependent L-type calcium channel subunit alpha
+--- descriptive: missed L-type alpha entries
+A0A1D1UR64 1238 S4 Ca-ring 3
+A0A1D1VU95 1552 noS4 Ca-ring 4
+--- descriptive: all proteins >=1000 aa with sodium-lysine [TS][FY][KR][GA]W or ancestral E loop [TS]F[E]GW
+A0A1D1UR64 1238 ['TFEGW'] Voltage-dependent L-type calcium channel subunit alpha
+A0A1D1VWD0 2257 ['SFKGW'] Aspartate carbamoyltransferase
+A0A1D1VWD4 2089 ['SFKGW'] Aspartate carbamoyltransferase
+A0A1D1VXG5 2076 ['SFKGW'] Aspartate carbamoyltransferase
+A0A1D1UFD6 1748 ['SFKGW'] Ion transport domain-containing protein
+A0A1D1WAK4 1910 ['TFEGW'] non-specific serine/threonine protein kinase (EC 2.7.11.1)
+A0A1D1W6N4 1678 ['SFKGW'] DMAP1-binding domain-containing protein
+A0A1D1W9R2 1608 ['SFKGW'] DMAP1-binding domain-containing protein
+--- descriptive: candidate check
+<class 'tuple'> 
+mouse refs: ['Cacna1a', 'Cacna1b', 'Cacna1c', 'Cacna1d', 'Cacna1e', 'Cacna1f', 'Cacna1g', 'Cacna1h', 'Cacna1i', 'Cacna1s', 'Catsper1', 'Catsper2', 'Catsper3', 'Catsper4', 'Nalcn', 'Scn10a', 'Scn11a', 'Scn1a', 'Scn2a', 'Scn3a', 'Scn4a', 'Scn5a', 'Scn7a', 'Scn8a', 'Scn9a', 'Tpcn1', 'Tpcn2']
+A0A1D1UFD6 1748 S4 sites 0 tags [] nearest [(4573, 'Nalcn'), (482, 'Cacna1s'), (472, 'Cacna1d')]
+A0A1D1UR64 1238 S4 sites 2 tags [] nearest [(2706, 'Cacna1c'), (2637, 'Cacna1d'), (2521, 'Cacna1s')]
+A0A1D1VU95 1552 S4 sites 0 tags [] nearest [(3699, 'Cacna1s'), (3621, 'Cacna1d'), (3501, 'Cacna1c')]
+A0A1D1V1T7 1527 S4 sites 1 tags ['Ca'] nearest [(2505, 'Cacna1b'), (2464, 'Cacna1a'), (2400, 'Cacna1e')]
+A0A1D1V6K9 1519 S4 sites 1 tags ['Ca'] nearest [(2505, 'Cacna1b'), (2464, 'Cacna1a'), (2400, 'Cacna1e')]
+A0A1D1V3H9 1599 S4 sites 5 tags ['CaT'] nearest [(2324, 'Cacna1h'), (2280, 'Cacna1i'), (2204, 'Cacna1g')]
+--- descriptive: [TS]F[EK]GW in mouse 4-domain channels
+Cacna1c ['TFEGW']
+Cacna1d ['TFEGW']
+Cacna1s ['TFEGW']
+Cacna1a []
+Nalcn []
+Scn2a ['TFKGW']
