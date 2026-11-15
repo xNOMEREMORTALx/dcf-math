@@ -1,0 +1,6 @@
+Hydra vulgaris                           proteins  35504 channels  112 pumps  23 ratio 4.87
+Aplysia californica                      proteins  23632 channels   41 pumps   9 ratio 4.56
+Hypsibius exemplaris                     proteins  20833 channels   20 pumps  13 ratio 1.54
+Salpingoeca rosetta                      proteins  11700 channels    8 pumps  10 ratio 0.80
+Capsaspora owczarzaki                    proteins   9794 channels    3 pumps   8 ratio 0.38
+RESULT [('R1','PASS'),('R2','PASS'),('R3','PASS'),('R4','PASS'),('R5','FAIL')]

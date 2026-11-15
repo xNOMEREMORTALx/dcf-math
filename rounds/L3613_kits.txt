@@ -1,0 +1,6 @@
+L3613 descriptive: excitability kit and channel classes per organism
+  Aplysia californica      Na 2 Nax 0 K 27 Ca 1 CaT 1 HCN 2 K2P 8 iGluR 33 FeHyd 2 pump_NaK 2 pump_Ca 3 pump_Cu 4
+  Hydra vulgaris           Na 0 Nax 0 K 67 Ca 11 CaT 8 HCN 18 K2P 8 iGluR 3 FeHyd 5 pump_NaK 11 pump_Ca 9 pump_Cu 3
+  Capsaspora owczarzaki    Na 0 Nax 0 K 2 Ca 0 CaT 0 HCN 0 K2P 1 iGluR 0 FeHyd 1 pump_NaK 0 pump_Ca 7 pump_Cu 1
+  Hypsibius exemplaris     Na 0 Nax 0 K 14 Ca 1 CaT 2 HCN 0 K2P 3 iGluR 9 FeHyd 3 pump_NaK 4 pump_Ca 8 pump_Cu 1
+  Salpingoeca rosetta      Na 0 Nax 0 K 4 Ca 0 CaT 1 HCN 1 K2P 2 iGluR 0 FeHyd 1 pump_NaK 4 pump_Ca 4 pump_Cu 2
