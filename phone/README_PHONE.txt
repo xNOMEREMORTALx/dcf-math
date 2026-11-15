@@ -1,3 +1,14 @@
+Bundle 6.12 (L3549): menu 34 uses the v8 rules (blind-tested across animals), splits T-type calcium channels, finds the Nax sodium sensor, reads mRNA FASTA, protein FASTA or UniProt TSV, and prints the BATTERY ratio and the EXCITABILITY KIT (pacemakers, T-type Ca, leak channels, monoamine iron enzymes, glutamate receptors). Copy ALL EIGHT .py files into one folder; open dcf_phone_6.12.py. Self-test 265/265.
+SHA-256:
+fed179c7723cb67bfa38b5abd89dca2530f7a3354cf9dcd3db691ac959af486c  dcf_phone_6.12.py
+057e7591db120761faa3ed5237d92cbfe34885e73a36f248cfa06cdf4f20f09c  dcf_nerve.py
+02fe1bb11c322ce0a9b3033cd66cb159b21803c93ee0bd8baa07838388d15ee1  dcf_exonmap.py
+5be0a3296477c529bbc01cff6df09c71264db3db7d19db68900fcacdcab891c1  dcf_motif_scan.py
+4aecee5c25d09f1f3d634e274037643174af1c419f561c1c4e49c86f50d1a7d1  dcf_redox.py
+fa30258bd3e19c1a186f225ebb8b50f4993530948f4ffa50644d37d92930297c  dcf_genefinder_mobile.py
+dca12b53e5358f6dcf99c8f261e27f8ffff0c563878bc8eefb81dee486fc4e49  dcf_dna_codec.py
+dd583cfb386dc71f847db8bb137fb41903ce109b3f6e18730ef85d4a220e95ed  dcf_dna_ecc.py
+
 Bundle 6.11 (L3457): menu 34 now also lists P-type PUMPS by metal (Na/K, Ca, Cu), glutamate and NMDA receptors, and the iron hydroxylases that make dopamine and serotonin; reads NM_ and XM_ records (longest transcript per gene). Blind: chicken 13/14 (L3457). Copy ALL EIGHT .py files into one folder; open dcf_phone_6.11.py. Self-test 265/265.
 SHA-256:
 d769cf0a79ddf9b53e9127b77d82989683a404cf0f5d5c530f0c396ec5976c52  dcf_phone_6.11.py

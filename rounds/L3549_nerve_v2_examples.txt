@@ -1,0 +1,20 @@
+DCF nerve chemistry by metal: mouse.3.rna.fna.gz  (5124 genes/proteins)
+  BATTERY: 33 dischargers (channels) : 11 chargers (metal pumps) = 3.0 per pump
+  EXCITABILITY KIT (arousal and rhythm parts; not a measure of consciousness): pacemaker HCN 3, T-type Ca 1, K2P leak 7, monoamine iron enzymes 3, glutamate receptors 8
+  Sodium spike type: DEKA present (bilaterian-type fast spike)
+DCF nerve chemistry by metal: hmia.pep.fa.gz  (22454 genes/proteins)
+  BATTERY: 35 dischargers (channels) : 7 chargers (metal pumps) = 5.0 per pump
+  EXCITABILITY KIT (arousal and rhythm parts; not a measure of consciousness): pacemaker HCN 3, T-type Ca 1, K2P leak 14, monoamine iron enzymes 3, glutamate receptors 15
+  Sodium spike type: no DEKA sodium channel (early-animal or ambulacrarian type, or none)
+DCF nerve chemistry by metal: early.tsv.gz  (67936 genes/proteins)
+  BATTERY: 86 dischargers (channels) : 22 chargers (metal pumps) = 3.9 per pump
+  EXCITABILITY KIT (arousal and rhythm parts; not a measure of consciousness): pacemaker HCN 4, T-type Ca 2, K2P leak 23, monoamine iron enzymes 3, glutamate receptors 17
+  Sodium spike type: no DEKA sodium channel (early-animal or ambulacrarian type, or none)
+DCF nerve chemistry by metal: cteno.tsv.gz  (25809 genes/proteins)
+  BATTERY: 146 dischargers (channels) : 11 chargers (metal pumps) = 13.3 per pump
+  EXCITABILITY KIT (arousal and rhythm parts; not a measure of consciousness): pacemaker HCN 0, T-type Ca 0, K2P leak 19, monoamine iron enzymes 0, glutamate receptors 29
+  Sodium spike type: no DEKA sodium channel (early-animal or ambulacrarian type, or none)
+DCF nerve chemistry by metal: bil.tsv.gz  (125720 genes/proteins)
+  BATTERY: 225 dischargers (channels) : 54 chargers (metal pumps) = 4.2 per pump
+  EXCITABILITY KIT (arousal and rhythm parts; not a measure of consciousness): pacemaker HCN 16, T-type Ca 20, K2P leak 65, monoamine iron enzymes 18, glutamate receptors 45
+  Sodium spike type: DEKA present (bilaterian-type fast spike)
