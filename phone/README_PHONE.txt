@@ -1,3 +1,16 @@
+Bundle 6.14 (L3589): menu 35 now offers LOCAL alignment (best-matching region; use when protein lengths differ) as well as global. Needs numpy. Copy ALL TEN .py files into one folder; open dcf_phone_6.14.py. Self-test 267/267.
+SHA-256:
+fdc23999aad5ef69ee5c560054c2f5882204d9ddfea0b6b523003f9334ca1b38  dcf_phone_6.14.py
+057e7591db120761faa3ed5237d92cbfe34885e73a36f248cfa06cdf4f20f09c  dcf_nerve.py
+d2e577e4972c989212cc815d8434deafe9e5556318ff544350c6849095d073a4  dcf_align.py
+64f73802c9eda748d0a6f67f7008a4e79e669a1e128ac46dd87947f369756fbe  dcf_localalign.py
+02fe1bb11c322ce0a9b3033cd66cb159b21803c93ee0bd8baa07838388d15ee1  dcf_exonmap.py
+5be0a3296477c529bbc01cff6df09c71264db3db7d19db68900fcacdcab891c1  dcf_motif_scan.py
+4aecee5c25d09f1f3d634e274037643174af1c419f561c1c4e49c86f50d1a7d1  dcf_redox.py
+fa30258bd3e19c1a186f225ebb8b50f4993530948f4ffa50644d37d92930297c  dcf_genefinder_mobile.py
+dca12b53e5358f6dcf99c8f261e27f8ffff0c563878bc8eefb81dee486fc4e49  dcf_dna_codec.py
+dd583cfb386dc71f847db8bb137fb41903ce109b3f6e18730ef85d4a220e95ed  dcf_dna_ecc.py
+
 Bundle 6.13 (L3573): NEW menu 35 aligns two protein sequences (BLOSUM62 global alignment; needs numpy: in Pydroid 3, Pip -> numpy) and reports percent identity. Copy ALL NINE .py files into one folder; open dcf_phone_6.13.py. Self-test 266/266.
 SHA-256:
 7894c73407eff6ee4acdcbd2436d46b01aee336d8118399667f4783c17e6904e  dcf_phone_6.13.py
