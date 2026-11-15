@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3617: (A) NMDA receptors in the sea hare by alignment; (B) a second tardigrade.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026.
+(A) Frozen before rounds/dcf_aplysia_nmda_L3617.py is run (Aplysia proteins were seen only as counts in L3613).
+ G1: at least 2 of the sea hare's glutamate-receptor calls are nearest a mouse NMDA receptor (Grin*), local aligner.
+ G2: at least one is nearest Grin1 (the obligatory NR1 subunit).
+(B) Frozen before the file is downloaded. UniProt TSV for organism_id 947166 Ramazzottius varieornatus (tardigrade).
+ Script rounds/dcf_battery_L3609.py and dcf_nerve v2 tags, unchanged. Hypothesis: tardigrade channel loss (L3613).
+ T1: ratio channels/pumps < 1.8 (like Hypsibius, 1.54).   T2: no DEKA (Na) call.
+ Void if < 5,000 proteins.
