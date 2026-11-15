@@ -109,3 +109,111 @@ ORG Ciona intestinalis             proteins  19006 iGluR   6 NR1  0 classes {'AM
     H2Y004 232 Grin2a 657
     H2XZB0 260 Grid2 678
 ORG Ephydatia muelleri             proteins  30399 iGluR   0 NR1  0 classes {}
+ORG Geodia barretti                proteins  60924 iGluR   0 NR1  0 classes {}
+ORG Hofstenia miamia (FASTA)       proteins  22454 iGluR  15 NR1  3 classes {'NMDA': 4, 'AMPA': 3, 'delta': 3, 'kainate': 5}
+    HMIM021522 818 Grin1 962
+    HMIM014260 958 Gria4 1157
+    HMIM013583 707 Grid1 700
+    HMIM019353 479 Gria4 883
+    HMIM015634 897 Grik1 1204
+    HMIM016068 1116 Grin3a 812
+    HMIM011342 987 Grik2 739
+    HMIM008637 962 Grik2 771
+    HMIM022447 519 Grik1 699
+    HMIM001227 972 Grid1 778
+    HMIM011148 513 Grin1 1156
+    HMIM008996 881 Grid1 831
+    HMIM016873 749 Grik1 1365
+    HMIM011099 862 Grin1 1407
+    HMIM020740 960 Gria4 1467
+ORG Hydra vulgaris                 proteins  35504 iGluR   3 NR1  3 classes {'NMDA': 3}
+    A0ABM4D8J4 881 Grin1 1766
+    A0ABM4D8K0 731 Grin1 1616
+    T2ME34 575 Grin1 1113
+ORG Hypsibius exemplaris           proteins  20833 iGluR   9 NR1  1 classes {'kainate': 6, 'NMDA': 1, 'AMPA': 2}
+    A0A1W0WSQ5 952 Grik3 358
+    A0A1W0WTE7 950 Grin1 1927
+    A0A1W0X1F2 954 Grik1 1780
+    A0A1W0X6L3 955 Grik3 1456
+    A0A1W0X6N0 903 Grik2 1506
+    A0A9X6N8E5 597 Gria2 1327
+    A0A9X6NBM1 592 Gria2 1367
+    A0A9X6NH46 906 Grik2 1779
+    A0A9X6NJX1 916 Grik2 1712
+ORG Lingula anatina                proteins  34462 iGluR  12 NR1  1 classes {'AMPA': 5, 'NMDA': 2, 'kainate': 5}
+    A0A1S3I492 933 Gria4 1716
+    A0A1S3ILH8 1134 Grin2b 966
+    A0A1S3JDJ9 919 Grik2 1865
+    A0A1S3K275 1085 Grin1 1294
+    A0A1S3K2A9 900 Grik3 2051
+    A0A1S3K2M5 911 Grik1 2096
+    A0A1S3K2Y6 924 Grik1 2056
+    A0A1S3K3D1 913 Grik1 2101
+    A0A1S3KEI4 656 Gria2 1502
+    A0A1S3KEK4 944 Gria1 1535
+    A0A1S3KF06 722 Gria4 1230
+    A0A2R2MPU6 707 Gria2 1540
+ORG Mnemiopsis leidyi              proteins  25263 iGluR  11 NR1  0 classes {'kainate': 9, 'AMPA': 2}
+    A0ACF8Y792 1182 Grik3 386
+    A0ACF8YF58 1008 Grik2 511
+    A0ACF8XTK6 936 Grik1 328
+    A0ACF8XTL6 1308 Grik4 296
+    A0ACF8XVE1 1008 Gria2 276
+    A0ACF8Y8F7 1212 Grik3 390
+    A0ACF8YA59 1193 Grik3 386
+    A0ACF8YEZ5 2225 Grik3 342
+    A0ACF8YF60 740 Grik3 414
+    A0ACF8Z8Y8 932 Gria4 344
+    A0ACF8ZEZ5 1118 Grik4 353
+ORG Monosiga brevicollis           proteins   9150 iGluR   0 NR1  0 classes {}
+ORG Nematostella vectensis         proteins  24435 iGluR   9 NR1  1 classes {'NMDA': 2, 'AMPA': 5, 'kainate': 2}
+    A7RUE9 338 Grin3a 554
+    A7SL56 893 Grin1 2124
+    A7S4J4 185 Gria2 403
+    A7S4J5 408 Gria2 772
+    A7S4J7 291 Gria4 557
+    A7SUK3 235 Gria4 367
+    A7T1G4 871 Gria4 844
+    A7S9L6 99 Grik4 132
+    A7SUK5 223 Grik3 356
+ORG Oopsacas minuta                proteins  16366 iGluR   0 NR1  0 classes {}
+ORG Ramazzottius varieornatus      proteins  22945 iGluR  10 NR1  2 classes {'kainate': 8, 'NMDA': 2}
+    A0A1D1UVG7 375 Grik2 917
+    A0A1D1UW25 846 Grik3 1470
+    A0A1D1V243 592 Grik2 1071
+    A0A1D1V2C8 918 Grik2 1798
+    A0A1D1V2M5 1003 Grik3 379
+    A0A1D1V2X7 955 Grik2 1805
+    A0A1D1V596 609 Grik2 1234
+    A0A1D1VC25 1029 Grik3 379
+    A0A1D1W492 964 Grin1 1794
+    A0A1D1W7W7 948 Grin1 1785
+ORG Saccoglossus kowalevskii       proteins  23808 iGluR  10 NR1  2 classes {'NMDA': 4, 'delta': 1, 'AMPA': 2, 'kainate': 3}
+    A0ABM0GNW0 729 Grin3a 877
+    A0ABM0GNW1 1136 Grin3a 1339
+    A0ABM0GP78 879 Grid1 1023
+    A0ABM0GUQ1 883 Gria2 944
+    A0ACM8C838 806 Grin1 1758
+    A0ACM8CEQ4 896 Grin1 1839
+    A0ACM8CTJ8 910 Grik2 2211
+    A0ACM8C6T3 908 Grik3 986
+    A0ACM8C9V1 959 Grik2 860
+    A0ACM8CHZ2 767 Gria4 1630
+ORG Salpingoeca rosetta            proteins  11700 iGluR   0 NR1  0 classes {}
+ORG Strongylocentrotus purpuratus  proteins  35496 iGluR   7 NR1  0 classes {'AMPA': 4, 'kainate': 3}
+    A0A7M7NFW2 963 Gria3 1324
+    A0A7M7NG36 732 Gria2 1175
+    A0A7M7NI13 930 Gria4 1610
+    A0A7M7NJY6 745 Gria4 1535
+    A0A7M7P9S4 853 Grik2 943
+    A0A7M7PGF5 953 Grik2 1852
+    A0A7M7PIS8 838 Grik1 1840
+ORG Trichoplax adhaerens           proteins  11520 iGluR   8 NR1  0 classes {'kainate': 6, 'AMPA': 2}
+    B3RMA2 354 Grik2 640
+    B3RMA3 354 Grik3 566
+    B3RMA4 361 Grik2 624
+    B3RU58 915 Grik2 667
+    B3RXP6 332 Grik1 687
+    B3S7U9 356 Grik2 515
+    B3RKV3 266 Gria3 358
+    B3S7V0 373 Gria1 382
