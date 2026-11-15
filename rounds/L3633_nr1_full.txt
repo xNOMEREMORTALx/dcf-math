@@ -1,0 +1,18 @@
+## Ciona aligned 2360
+  F6TPD4        813 Grin1   475 | Glutamate receptor
+  A0A1Q2TSX5    927 Grin1   475 | Glutamate receptor variant1
+  A0A1Q2TSV5    915 Grin1   475 | Glutamate receptor variant2
+  F6W4K8        835 Grin1   457 | Glutamate receptor
+  F7AA31        906 Grin1   101 | G-protein coupled receptors family 3 profile domain-containi
+  F6RPN1        737 Grin1    95 | G-protein coupled receptors family 3 profile domain-containi
+  F7AQ62        769 Grin1    91 | G-protein coupled receptors family 3 profile domain-containi
+  F7BFE1        809 Grin1    82 | G-protein coupled receptors family 3 profile domain-containi
+## Strongylocentrotus aligned 10540
+  A0A7M7P9S4    853 Grin1   545 | Uncharacterized protein
+  A0A7M7PGF5    953 Grin1   540 | Glutamate receptor
+  A0A7M7PIS8    838 Grin1   515 | Glutamate receptor
+  A0A7M7NFW2    963 Grin1   399 | Uncharacterized protein
+  A0A7M7N6X8    949 Grin1   397 | Uncharacterized protein
+  A0A7M7NG36    732 Grin1   388 | Uncharacterized protein
+  A0A7M7NJY6    745 Grin1   383 | Uncharacterized protein
+  A0A7M7NI13    930 Grin1   382 | Uncharacterized protein
