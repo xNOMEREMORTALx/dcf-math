@@ -1,0 +1,16 @@
+=== L3569 alignment-identity results ===
+control: min best NAV1-NAV1 0.539 vs max NAV1-NAV2 0.515 -> informative
+  A0ACM8CKW0   best NAV1 0.499  best NAV2 0.559 -> NAV2
+  A0A7M7N9I2   best NAV1 0.465  best NAV2 0.522 -> NAV2
+  A9USM1       best NAV1 0.438  best NAV2 0.447 -> NAV2
+  B3RSS4       best NAV1 0.454  best NAV2 0.457 -> NAV2
+  A7SKR1       best NAV1 0.491  best NAV2 0.516 -> NAV2
+  A0ACF8Y6N4   best NAV1 0.431  best NAV2 0.465 -> NAV2
+  A0ACF8Y996   best NAV1 0.428  best NAV2 0.463 -> NAV2
+  A0ACF8YBX3   best NAV1 0.424  best NAV2 0.465 -> NAV2
+  F6MZB8       best NAV1 0.435  best NAV2 0.465 -> NAV2
+  F6MZB9       best NAV1 0.425  best NAV2 0.461 -> NAV2
+  HMIM006045   best NAV1 0.433  best NAV2 0.485 -> NAV2
+  HMIM019623   best NAV1 0.462  best NAV2 0.481 -> NAV2
+NJ tree (unrooted, topology only): (((A0A7M7N9I2,(R7TCA7,(A0ACM8CKW0,(HMIM006045,HMIM019623)))),(A9USM1,((F6QCF9,(I6NQF8,human_SCN2A)),(fly_para,(A0A1S3HN89,R7TMI4))))),((B3RSS4,((A0ACF8Y6N4,F6MZB8),(A0ACF8YBX3,(A0ACF8Y996,F6MZB9)))),(A0A9J7HQP1,A7SKR1)));
+RESULT [('A1', 'PASS'), ('A2', 'PASS')]
