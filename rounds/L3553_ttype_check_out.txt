@@ -1,0 +1,8 @@
+L3553 frozen check (not counted): T-type rule on TrEMBL vertebrate calcium channels named by subtype
+  truth HVA call Ca        10942
+  truth HVA call None      119
+  truth T   call Ca        268
+  truth T   call CaT       3550
+  truth T   call Na        2
+  truth T   call None      26
+  CaT precision 3550/3550 = 100.00%  recall 3550/3846 = 92.30%
