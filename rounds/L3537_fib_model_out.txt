@@ -1,0 +1,5 @@
+n mod 72 allowed by digit_sum(F(n)) = n  [needs F(n) = n mod 9; Pisano period mod 9 = 24]: [0, 1, 5, 10, 31, 35, 36, 62] (8 of 72)
+model expected count in [1,600]: 11.55
+model expected count in [601,1000]: 1.82
+model expected count in [1001,3000]: 2.22
+model expected count in [3001,20000]: 0.21

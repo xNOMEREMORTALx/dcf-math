@@ -1,0 +1,13 @@
+PRE-REGISTRATION L3537: Fibonacci self-encoders digit_sum(F(n)) = n beyond n = 600 (Gary's 'BATTERY-BIOLOGY-PHYSICS TRIANGLE' file).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before any digit sum above n = 600 is computed.
+Model (rounds/L3537_fib_model.py, output committed): a self-encoder needs F(n) = n (mod 9); with Pisano period 24 this allows only
+ n mod 72 in {0, 1, 5, 10, 31, 35, 36, 62}. Normal approximation for the digit sum: expected counts 1.82 in [601,1000],
+ 2.22 in [1001,3000], 0.21 in [3001,20000].
+Script: rounds/dcf_fib_selfenc_L3537.py 20000.
+ Q1 (check, must hold): every self-encoder has n mod 72 in the allowed set. (Theorem; reported, not counted.)
+ Q2: between 1 and 8 self-encoders in [601, 3000].
+ Q3: at most 1 self-encoder in [3001, 20000].
+ Q4: Gary's 'Class A' (multiples of 9) are exactly the self-encoders with n = 0 or 36 (mod 72), i.e. multiples of 36,
+     for all self-encoders found up to 20000. (Follows from Q1's theorem: a multiple of 9 in the allowed set is 0 or 36 mod 72;
+     reported as a check, not counted.)
+Counted predictions: Q2, Q3.

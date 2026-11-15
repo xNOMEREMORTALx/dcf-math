@@ -174,3 +174,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3513_xenacoelomorpha.txt (exploratory) | `c68af76f055cd9810de60a496eee7fe278b858f0b9ab1dabd44075d044c4aa30` |
 | PREREGISTERED_L3513_xenacoelomorpha.txt (note L3521) | `640f26c774eb1ce566a577d1ea249af3168730a7f6d91c78f9f0f7d050651b9f` |
 | PREREGISTERED_L3529_EK_dating.txt | `edeba7d2c8ed82803b65cbc60be570ede16035852b684596b414a69363de6416` |
+| PREREGISTERED_L3537_fib_selfencoding.txt | `ca38aabb6acb3f18c40cdfe97e2767b90e1c56a0fee978b0bf37692d80d68c28` |
+| rounds/dcf_fib_selfenc_L3537.py | `5f58bf632ec4baef3c4d15bc9731aff20ed1bf72546a5233dd129d1ec16885b4` |
