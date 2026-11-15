@@ -1,0 +1,21 @@
+PRE-REGISTRATION L3625: (A) Where does the NMDA "NR1" subunit first appear? (B) Is sodium-channel loss general in moulting animals?
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before rounds/dcf_nr1tree_L3625.py is run.
+(A) Method: every dcf_nerve v2 'iGluR' call in each complete proteome (>= 5,000 proteins) already on disk; nearest mouse
+ receptor (Gria1-4, Grik1-5, Grid1-2, Grin1, Grin2a-d, Grin3a-b) by local aligner (dcf_localalign_L3585). "NR1 call" = nearest is Grin1.
+ Disclosure: iGluR call counts per organism were seen in earlier rounds; nearest-receptor classes were never computed outside the sea hare (L3617).
+ Note: nearest-mouse assignment forces every receptor into a vertebrate class, so receptors of non-vertebrate classes can land anywhere.
+ N1  Bilaterians: >= 1 NR1 call in EACH of Capitella, Lingula, Strongylocentrotus, Saccoglossus, Branchiostoma, Ciona,
+     Hypsibius, Ramazzottius, Hofstenia (FASTA, L3521). One prediction per organism: N1a..N1i (9).
+ N2  Cnidarians: >= 1 NR1 call in Nematostella (N2a) and in Hydra (N2b).
+ N3  Placozoan Trichoplax: >= 1 NR1 call.
+ N4  Comb jelly Mnemiopsis: 0 NR1 calls (ctenophore receptors are a separate lineage).
+ N5  Sponges (Amphimedon, Geodia, Ephydatia, Oopsacas) combined: 0 NR1 calls.
+ N6  Non-animals (Monosiga, Salpingoeca, Capsaspora) combined: 0 NR1 calls.
+ Total 16 predictions. Void per organism if the file is missing.
+(B) Frozen before any file is downloaded. Hypothesis under test: "small moulting animals lose sodium channels" (L3621)
+ against "loss is specific to nematodes + tardigrades". Script rounds/dcf_battery_L3609.py + dcf_nerve v2 tags, unchanged.
+ UniProt TSV (accession, organism_name, protein_name, sequence) for Limulus polyphemus (6850), Tetranychus urticae (32264, a tiny mite),
+ Priapulus caudatus (37621).
+ E1 Limulus >= 1 Na call.  E2 Tetranychus >= 1 Na call.  E3 Priapulus >= 1 Na call.
+ E4 Limulus ratio > 1.8.   E5 Tetranychus ratio > 1.8.
+ Void per organism if < 5,000 proteins.
