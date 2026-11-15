@@ -183,3 +183,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_nerve_v2_L3549.py | `057e7591db120761faa3ed5237d92cbfe34885e73a36f248cfa06cdf4f20f09c` |
 | PREREGISTERED_L3561_navfamily.txt | `921cd590282f43f3f81326fb3003dfd8e86eb044b6df1929d5b70e1f9e2fcbb3` |
 | rounds/dcf_navfamily_L3561.py | `ea139ee10e8825555086ec306e04c157c15ef786da73731cb5cb6bc1d23bc5e1` |
+| PREREGISTERED_L3565_navfamily2.txt | `3b9a94bd17f7e339f61d21ffa3c41e7f068d03f55555089cc3e04077a9982f7a` |
+| rounds/dcf_navfamily2_L3565.py | `e4f798a794015f31042d95ce1916fa704bdcfd78cdded036dd228680d1f4ef8b` |

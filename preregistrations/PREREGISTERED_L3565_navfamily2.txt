@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3565: the family of the earliest sodium-type channels.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the script is run.
+Hypothesis (from L3561 and the literature on NaV evolution): the E-type NAV2 family is the ancestral one; the K-type NAV1 arose
+ later by duplication in bilaterians (after acoels split, since Hofstenia reads E). Script rounds/dcf_navfamily2_L3565.py, same
+ alignment-free 4-mer method and references as L3561.
+M1: every query (choanoflagellate A9USM1, placozoan B3RSS4, sea anemone A7SKR1, the 5 comb-jelly 'sodium channel proteins',
+    acoel HMIM006045 and HMIM019623) is closer to NAV2 than to NAV1. FAIL if any query is closer to NAV1.
