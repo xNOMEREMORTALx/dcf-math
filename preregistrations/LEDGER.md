@@ -193,3 +193,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3585_ctenonames.txt | `2252af12cae4ab2c1144b7f987366686766e6667a346487dd8f81cb9aef07700` |
 | rounds/dcf_localalign_L3585.py | `b9ad9bf61cce7e574c016e841dbf9299d6e2cdd7cf86ba04ec7c805cae0a499c` |
 | rounds/dcf_cteno_names_L3585.py | `51fade19d0536526e2230ea64e73ce128e95445d4af64dbf17d4ff29141a99a6` |
+| PREREGISTERED_L3589_anemone.txt | `97553ec187c571bd434bc8f6a6ad91537c9d3f783cbdf919b7e8431bd57a8f0c` |
+| rounds/dcf_anemone_names_L3589.py | `acd621eeca38db5250f6a9fc70103ec3a6b0dd7679955c959bf430da722b0b85` |

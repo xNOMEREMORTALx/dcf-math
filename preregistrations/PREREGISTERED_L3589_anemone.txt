@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3589: does the sea anemone show a single-subfamily K expansion like the comb jelly (104 Kv1, L3585)?
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before the run.
+Script rounds/dcf_anemone_names_L3589.py: Nematostella K/K2P/HCN calls from L3501, named by nearest mouse channel (local aligner).
+Expectation (literature on cnidarian K channels: Shaker, Shab, Shaw, Shal and EAG families all present):
+ A1: the K calls are spread over >= 4 of the families Kv1, Kv2, Kv3, Kv4, KCNH.
+ A2: no single subfamily holds more than 60% of the K calls (contrast: comb jelly 85% Kv1).
