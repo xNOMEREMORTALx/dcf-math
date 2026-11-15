@@ -1,0 +1,7 @@
+missing: []
+A0ACM8CKW0   best NAV1 0.126  best NAV2 0.156  -> NAV2
+A0A7M7N9I2   best NAV1 0.106  best NAV2 0.136  -> NAV2
+A0A7M7SUY6   best NAV1 0.106  best NAV2 0.136  -> NAV2
+A0A7M7SV24   best NAV1 0.107  best NAV2 0.136  -> NAV2
+control: NAV1 members vs each other (min of best-other): 0.194 | NAV2 vs NAV2: 0.142 | NAV1 vs NAV2 (max): 0.139
+RESULT [('N1', 'PASS')]  (control informative: NAV1-NAV1 0.194 > NAV1-NAV2 0.139)
