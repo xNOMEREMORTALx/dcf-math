@@ -1,0 +1,35 @@
+Aplysia iGluR calls: 33 | nearest class: {'NMDA': 9, 'AMPA': 15, 'kainate': 9}
+  Q7Z1H7   916 aa -> Gria2   AMPA     score 1741 | Glutamate receptor subunit protein GluR3
+  A0ABM0GHC5   898 aa -> Gria4   AMPA     score 1731 | Glutamate receptor 2
+  Q38JV9   898 aa -> Gria4   AMPA     score 1731 | Glutamate receptor 2
+  A0ABM0GH76   911 aa -> Gria2   AMPA     score 1599 | Glutamate receptor subunit protein GluR2 precursor
+  Q7Z1H8   911 aa -> Gria2   AMPA     score 1599 | Glutamate receptor subunit protein GluR2
+  C9EI23   884 aa -> Gria4   AMPA     score 1524 | Glutamate receptor subunit protein GluR8
+  A0ABM0GH77   903 aa -> Gria2   AMPA     score 1509 | Glutamate receptor subunit protein GluR5 precursor
+  Q7Z1H5   903 aa -> Gria2   AMPA     score 1509 | Glutamate receptor subunit protein GluR5
+  Q7Z1H6   906 aa -> Gria4   AMPA     score 1416 | Glutamate receptor subunit protein GluR4
+  A0ABM0GHC6   906 aa -> Gria4   AMPA     score 1411 | Glutamate receptor 1 precursor
+  Q38JW0   906 aa -> Gria4   AMPA     score 1411 | Glutamate receptor 1
+  A0ABM0GH75   925 aa -> Gria2   AMPA     score 1308 | Glutamate receptor subunit protein GluR1 precursor
+  Q7Z1H9   925 aa -> Gria2   AMPA     score 1308 | Glutamate receptor subunit protein GluR1
+  A0ABM1ACE8   629 aa -> Gria1   AMPA     score 1234 | Glutamate receptor 1
+  D2SLW2   760 aa -> Gria4   AMPA     score 1203 | Glutamate receptor 10
+  Q7YXV7   882 aa -> Grin1   NMDA     score 2137 | Glutamate [NMDA] receptor subunit 1
+  A0ABM0GH11   964 aa -> Grin1   NMDA     score 2119 | Glutamate [NMDA] receptor subunit 1
+  Q7YXV6   964 aa -> Grin1   NMDA     score 2119 | Glutamate [NMDA] receptor subunit 1
+  Q7YZZ7   964 aa -> Grin1   NMDA     score 2117 | Glutamate [NMDA] receptor subunit 1
+  A0ABM0GH37  1164 aa -> Grin2b  NMDA     score  981 | NR2
+  D2CMM6  1164 aa -> Grin2b  NMDA     score  981 | NR2
+  A0ABM1VUL5  1692 aa -> Grin2a  NMDA     score  910 | Uncharacterized protein LOC101860416
+  A0ABM1VWQ1   570 aa -> Grin3a  NMDA     score  560 | Glutamate receptor ionotropic, NMDA 3A-like
+  A0ABM1VQ95   143 aa -> Grin2d  NMDA     score  202 | Glutamate receptor ionotropic, NMDA 2D-like
+  A0ABM0GH79   890 aa -> Grik1   kainate  score 1776 | Glutamate receptor subunit protein GluR7 precursor
+  Q7Z1H3   890 aa -> Grik1   kainate  score 1776 | Glutamate receptor subunit protein GluR7
+  A0ABM0GHH3   603 aa -> Grik3   kainate  score  898 | Kainate-binding protein
+  D2SLW1   603 aa -> Grik3   kainate  score  898 | Kainate-binding protein
+  C9EI24   707 aa -> Grik3   kainate  score  892 | Kainate-binding protein
+  A0ABM0GH78   875 aa -> Grik2   kainate  score  780 | Kainate-binding protein
+  Q7Z1H4   875 aa -> Grik2   kainate  score  780 | Kainate-binding protein
+  A0ABM1A3W3   985 aa -> Grik3   kainate  score  540 | Kainate-binding protein
+  A0ABM1VSW6   251 aa -> Grik1   kainate  score  397 | Glutamate receptor ionotropic, kainate 1 isoform X
+RESULT [('G1', 'PASS'), ('G2', 'PASS')]
