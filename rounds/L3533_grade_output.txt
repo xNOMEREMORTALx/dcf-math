@@ -1,0 +1,27 @@
+D1 Lingula anatina                proteins 34462 | Na calls 5 | Ca 15 | K 42 | PASS
+D2 Capitella teleta               proteins 31954 | Na calls 1 | Ca 1 | K 20 | PASS
+D3 Saccoglossus kowalevskii       proteins 23808 | Na calls 0 | Ca 2 | K 11 | FAIL
+D4 Strongylocentrotus purpuratus  proteins 35496 | Na calls 0 | Ca 30 | K 17 | FAIL
+
+D5 domain-III letters per species:
+  Lingula anatina: {'K': 5, 'E': 1}
+      K A0A1S3HN89 LALLQVATFKGWVPIMTN | Sodium channel protein
+      K A0A1S3HNA7 LALLQVATFKGWVPIMTN | Sodium channel protein
+      K A0A1S3HNB5 LALLQVATFKGWVPIMTN | Sodium channel protein
+      K A0A1S3HNC0 LALLQVATFKGWVPIMTN | Sodium channel protein
+      K A0A1S3HR60 LALLQVATFKGWVPIMTN | Sodium channel protein
+      E A0A2R2MPD5 LTLFTVATFEGWPGLLYT | Voltage-dependent L-type calcium channel
+  Capitella teleta: {'E': 1, 'K': 1}
+      E R7TCA7 LALLQVATFEGWMELMDD | Sodium channel protein
+      K R7TMI4 LALLQVATFKGWIDIMQQ | Sodium channel protein
+  Saccoglossus kowalevskii: {'E': 2}
+      E A0ACM8CKW0 LALFQVATFEGWMEVMRD | Sodium channel protein
+      E A0ACM8CRM4 LALFTVATFEGWPKLLYV | Voltage-dependent L-type calcium channel
+  Strongylocentrotus purpuratus: {'E': 5}
+      E A0A7M6W896 LALFTVATFEGWPKLLYV | Voltage-dependent L-type calcium channel
+      E A0A7M7MX50 LALFTVATFEGWPKLLYV | Voltage-dependent L-type calcium channel
+      E A0A7M7MXC8 LALFTVATFEGWPKLLYV | Voltage-dependent L-type calcium channel
+      E A0A7M7MXI9 LALFTVATFEGWPKLLYV | Voltage-dependent L-type calcium channel
+      E A0A7M7MY86 LALFTVATFEGWPKLLYV | Voltage-dependent L-type calcium channel
+RESULT [('D1', 'PASS'), ('D2', 'PASS'), ('D3', 'FAIL'), ('D4', 'FAIL'), ('D5', 'FAIL')]
+passed 2 of 5 gradeable
