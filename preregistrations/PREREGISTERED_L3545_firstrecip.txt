@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3545: are the neurotransmitter/hormone molecular weights 'early' in the reciprocals?
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before the 900-string comparison is computed.
+Gary's observations (verified L3545): 153 first in 1/65, 146 in 1/109, 169 in 1/59, 176 in 1/17, 147 in 1/61, 103 in 1/58,
+ 183 in 1/49, 362 in 1/69 (definition: inside one written period, no wrap).
+Script: rounds/dcf_firstrecip_L3545.py. Null hypothesis (DCF null-first rule): these 8 strings are typical 3-digit strings.
+ R1: the median first-n of the 8 is NOT below the 25th percentile of first-n over all 900 strings 100-999 (i.e. no special
+     earliness). PASS = no special earliness, as the null expects. A FAIL would be a signal worth pursuing.

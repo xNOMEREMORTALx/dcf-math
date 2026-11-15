@@ -1,0 +1,51 @@
+A. Expansions (positions counted after the decimal point; pre-period + one period)
+  1/26  pre 1 period   6  repetend sum   27  5s at [7]
+  1/65  pre 1 period   6  repetend sum   27  5s at [3]
+  1/109 pre 0 period 108  repetend sum  486  5s at [15, 16, 19, 23, 24, 32, 37, 44, 60, 72, 104]
+  1/59  pre 0 period  58  repetend sum  261  5s at [8, 10, 20, 21, 34, 40]
+  1/17  pre 0 period  16  repetend sum   72  5s at [2, 7]
+  1/61  pre 0 period  60  repetend sum  270  5s at [14, 28, 37, 38, 56, 59]
+  1/58  pre 1 period  28  repetend sum  126  5s at [19, 28, 29]
+  1/97  pre 0 period  96  repetend sum  432  5s at [11, 13, 15, 22, 24, 30, 38, 64, 93, 94]
+  1/49  pre 0 period  42  repetend sum  189  5s at [12, 25, 40, 41]
+  1/69  pre 0 period  22  repetend sum   96  5s at [8, 18]
+
+B. First reciprocal 1/n (smallest n>=2) whose expansion contains the string
+  153   first in 1/26    claim 63 or 65
+  146   first in 1/109   claim 109
+  169   first in 1/59    claim 59
+  176   first in 1/17    claim 17
+  147   first in 1/61    claim 61
+  103   first in 1/29    claim 58
+  183   first in 1/49    claim 49
+  362   first in 1/69    claim 69
+  394   first in 1/109   claim 109
+  606   first in 1/61    claim 61
+  1836  first in 1/49    claim 49
+  401   first in 1/127   claim ?
+  117   first in 1/17    claim 17?
+  82    first in 1/17    claim 17?
+  103 second reciprocal (after 58): 1/97  claim 97
+
+C. Specific substring claims
+  1/109: "55" at [15, 23] | "137" at [45] | first reciprocal with two 55s in one period: 109
+  1/17: "88" at [3] "11" at [11]
+  1/49: "77" at [38] | "1836" at [27]
+
+D. Pi (mpmath, 12000 digits; positions after the decimal point)
+  "65" first two occurrences at [7, 108] | digits before 2nd: 08 | "5665" at [210]
+  "401" first at [1197] (mpmath check: 1197)
+  digit sum through first "65" (incl. the 3 / excl.): 36 33
+  sum of digits at positions 19,20,21, 40,41,42, ... up to 1199 (every 21-block): 764
+  210+211+212+213 = 846 | 299+299+248 = 846
+"65" occurrences up to 300: [7, 108, 212, 239]
+  multiples of 19, 20 and 21 (positions <=1199)                          828
+  positions in {19,20,21} mod 21-blocks                                  764
+  every 20th starting 19,20,21 (19,39,..; 20,40,..; 21,41,..) to 1199    817
+  every 21st starting 19,20,21                                           764
+  every 19th starting 19,20,21                                           844
+Alternative "first reciprocal" definition: string inside one written period (no wrap across the period boundary)
+  153: first 1/65
+  103: first 1/58
+  1/26 two periods: 0384615384615 -> "153" spans the period boundary
+  1/29 contains 103 at 28 within first period of 28: True
