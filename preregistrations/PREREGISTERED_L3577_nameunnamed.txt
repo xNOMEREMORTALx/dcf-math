@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3577: naming unnamed genes with the DCF aligner.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before the script is run.
+Script: rounds/dcf_nameunnamed_L3577.py. Unnamed zebrafish genes (LOC/si:/zgc:/im:) that the v8 rule calls K or HCN are aligned to
+ all mouse voltage-gated K and HCN channels; the subfamily of the nearest mouse channel is compared with NCBI's own description.
+DISCLOSURE: some of these genes (L3445) were seen with their descriptions; the aligner has never been applied to them.
+U1: for >= 80% of unnamed calls whose description names a subfamily, the nearest mouse channel is in that subfamily
+    (graded only if >= 5 such genes).
