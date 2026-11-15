@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3569: NAV1 vs NAV2 by real global alignment (BLOSUM62 Needleman-Wunsch, numpy, rounds/dcf_align_L3569.py;
+ validated: mouse Scn2a vs Scn8a identity 0.783, Scn2a vs Cacna1b 0.192). Same references and queries as L3561/L3565.
+DISCLOSURE: the 4-mer results of L3561 (4/4 NAV2) and L3565 (9/10 NAV2, one comb-jelly tie) are known.
+ A1: both ambulacrarian channels (acorn worm A0ACM8CKW0, sea urchin A0A7M7N9I2) closer to NAV2 by best identity.
+ A2: all 10 early/acoel channels closer to NAV2 by best identity.
+ Both void if the control fails (NAV1 members must be more identical to each other than any NAV1 is to NAV2).
+Descriptive: neighbour-joining tree on 1 - identity.
