@@ -5,3 +5,6 @@ Script rounds/dcf_midy_composite_L3601.py, all n < 1000 coprime to 10.
  P1 (theorem check): every n with 10^(L/2) = -1 (mod n) has S = 9L/2.
  P2: S = 9L/2 WITHOUT that property is rare: at most 5% of all n with S = 9L/2.
  P3: 437 has the property (10^99 = -1 mod 437).
+ADDENDUM L3601b (frozen after P1-P3 were computed, before P4 is computed):
+ P4: for all n < 10000 coprime to 10, 10^(L/2) = -1 (mod n) holds exactly when every prime-power factor p^k of n has
+     ord_{p^k}(10) with the same 2-adic valuation v >= 1 (script rounds/dcf_midy_v2_L3601b.py).

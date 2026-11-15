@@ -199,3 +199,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_nonneural_L3597.py | `091ad17057bae7cfa7b2f8a0fbfe45bd1bb61b35caabe45a039165bc90ad837d` |
 | PREREGISTERED_L3601_midy.txt | `d95867b57e6d2de1d3bd9de11a8b50002507f84f92ba7973cc3b4de6e44ee195` |
 | rounds/dcf_midy_composite_L3601.py | `97beef4f726403a479a86d0b38af6857b528486638f51f0aa1ef621f4a004e6f` |
+| PREREGISTERED_L3601_midy.txt (L3601b) | `3517253f175b7ca959ef13a5ccbb142ca83dfa17db716bf8f667125c303181e8` |
+| rounds/dcf_midy_v2_L3601b.py (L3601b) | `3a2e0685cf7ba87a1bb3fed2b9de6e67453c623240a8070c6c1911319da956ba` |
