@@ -1,0 +1,6 @@
+proteins 111584 | organisms 835
+  Oopsacas minuta                          A0AAV7K069 ['K'] -> Kcnh6 (427)
+  Geodia barretti (Barrett's horny sponge) A0AA35TIS1 ['K2P'] -> Kcnk16 (361)
+  Ephydatia muelleri (Mueller's freshwater A0ACS2F3F0 ['K2P'] -> Kcnk10 (341)
+named families (score>300): ['K2P', 'KCNH'] | DEKA Na calls: 0
+RESULT [('B1', 'FAIL'), ('B2', 'PASS'), ('B3', 'PASS')]

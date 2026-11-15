@@ -1,0 +1,7 @@
+L3605 follow-up (after grading): all tags {'pump_Ca': 21, 'pump_other': 85, 'pump_Cu': 7, 'FeHyd': 4, 'pump_NaK': 8, 'K': 2, 'K2P': 4, 'Ca': 1}
+  score  427 Kcnh6    A0AAV7K069 Oopsacas minuta              2170 aa ['K'] | Cyclic nucleotide-binding domain-containing p
+  score  361 Kcnk16   A0AA35TIS1 Geodia barretti (Barrett's h  335 aa ['K2P'] | Potassium channel subfamily K member 16
+  score  341 Kcnk10   A0ACS2F3F0 Ephydatia muelleri (Mueller'  363 aa ['K2P'] | Uncharacterized protein
+  score  280 Kcnk16   A0AAV7JVI9 Oopsacas minuta               342 aa ['K2P'] | Potassium channel subfamily member 17-like
+  score  125 Kcnb2    A0ACS2EZR1 Ephydatia muelleri (Mueller'  917 aa ['K'] | Uncharacterized protein
+  score  100 Hcn2     A0ACS2G1R1 Ephydatia muelleri (Mueller'  424 aa ['K2P'] | Uncharacterized protein
