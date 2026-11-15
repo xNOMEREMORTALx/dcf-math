@@ -1,0 +1,11 @@
+L3553 comb-jelly monoamine check (descriptive): proteins 350-700 aa with an H-x4-H inside H-E-x-x-G-H, or named hydroxylase/decarboxylase
+  A0A1S6WNG5  509 aa | Putative photolyase-cryptochrome | HE..GH: ['VHECWGH']
+  A0ACF8XDB5  672 aa | RNA helicase (EC 3.6.4.13) | HE..GH: ['DHERHGH']
+  A0ACF8XDC0  668 aa | RNA helicase (EC 3.6.4.13) | HE..GH: ['DHERHGH']
+  A0ACF8ZGJ7  464 aa | phenylalanine 4-monooxygenase (EC 1.14.16.1) | HE..GH: ['CHELIGH']
+  A0ACF8ZGL9  482 aa | phenylalanine 4-monooxygenase (EC 1.14.16.1) | HE..GH: ['CHELIGH']
+  A0ACF8ZHU2  480 aa | phenylalanine 4-monooxygenase (EC 1.14.16.1) | HE..GH: ['CHELIGH']
+  A0ACF8YY57  554 aa | PSP proline-rich domain-containing protein | HE..GH: ['LHERFGH']
+  A0ACF8Z4P4  464 aa | Uncharacterized protein | HE..GH: ['LHEKRGH']
+  A0ACF8ZGJ8  448 aa | phenylalanine 4-monooxygenase (EC 1.14.16.1) | HE..GH: ['CHELIGH']
+  A0ACF8ZGU2  443 aa | phenylalanine 4-monooxygenase (EC 1.14.16.1) | HE..GH: ['CHELIGH']

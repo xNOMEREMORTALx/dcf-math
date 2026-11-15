@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3553: the excitability kit and the K letter in an octopus, a sea squirt and a lancelet.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the file is downloaded.
+Tool: rounds/dcf_nerve_v2_L3549.py (= phone dcf_nerve.py v2), unchanged. Tool output (accession + tag) committed before organisms.
+Data: UniProt TSV (Entry, Organism, Protein names, Sequence): organism_id 37653 Octopus bimaculoides (cephalopod, protostome),
+ 7719 Ciona intestinalis (tunicate, chordate), 7739 Branchiostoma floridae (lancelet, chordate). Species with < 5,000 proteins dropped.
+Predictions (per species unless stated):
+ K1-K3 octopus, Ciona, lancelet each have >= 1 HCN call.      K4-K6 each has >= 1 K2P call.
+ K7-K9 each has >= 1 FeHyd call (monoamine iron enzyme).
+ K10 octopus has >= 1 DEKA Na call (protostome, L3533).
+ K11 lancelet has >= 1 DEKA Na call; K12 Ciona has >= 1 DEKA Na call   (tests the chordate-line K: L3533 left open whether K
+     arose separately in chordates; vertebrates have it, acorn worm and sea urchin do not).
+Not predicted (reported): T-type Ca counts; battery ratios.

@@ -1,0 +1,4 @@
+FROZEN CHECK L3553 (NOT counted: the file was opened in L3489, though the T-type rule was never applied to it):
+T-type rule of rounds/dcf_nerve_v2_L3549.py on the filtered TrEMBL vertebrate channel set (L3489, human/mouse/zebrafish/chicken
+removed). Truth by UniProt name: 'T-type' vs 'L-type'/'N-type'/'P/Q-type'/'R-type' in 'calcium channel subunit alpha' names.
+Reported: precision and recall of the CaT call. Computed after this file and the script hash are pushed.

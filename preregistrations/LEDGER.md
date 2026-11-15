@@ -178,3 +178,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_fib_selfenc_L3537.py | `5f58bf632ec4baef3c4d15bc9731aff20ed1bf72546a5233dd129d1ec16885b4` |
 | PREREGISTERED_L3545_firstrecip.txt | `bf2bb71aad6d605ad194a855b650e9b76331d6fc3e3e0fc9389365bdd2fad894` |
 | rounds/dcf_firstrecip_L3545.py | `741b309602ebd85ace652c23dc37d0d655a430e670e3e8985669ae4bef37716e` |
+| PREREGISTERED_L3553_kit_chordates_octopus.txt | `7e0db35db5efeddd60730a321cae487815097dbac97cdad43bafb0646f27e62b` |
+| PREREGISTERED_L3553_ttype_check.txt | `43dbd7539291fddb17ddcc080325e71255e8c631ddeb85bf0c34032d0b1981e5` |
+| rounds/dcf_nerve_v2_L3549.py | `057e7591db120761faa3ed5237d92cbfe34885e73a36f248cfa06cdf4f20f09c` |
