@@ -1,0 +1,67 @@
+Octopus bimaculoides     proteins     53 | Na 0 Nax 0 Ca 0 CaT 0 K 0 HCN 0 K2P 0 iGluR 0 FeHyd 0 pump_NaK 0 pump_Ca 0 pump_Cu 0
+Ciona intestinalis       proteins  19006 | Na 3 Nax 0 Ca 2 CaT 1 K 9 HCN 3 K2P 4 iGluR 6 FeHyd 2 pump_NaK 1 pump_Ca 9 pump_Cu 1
+Branchiostoma floridae   proteins  39280 | Na 13 Nax 2 Ca 15 CaT 15 K 93 HCN 5 K2P 28 iGluR 48 FeHyd 10 pump_NaK 1 pump_Ca 9 pump_Cu 2
+
+  Na     Ciona intestinalis     A0A7R7ZF24 | Sodium channel protein
+  Na     Ciona intestinalis     F6QCF9 | Sodium channel protein
+  Na     Ciona intestinalis     H2Y2S0 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HNI0 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HNN1 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HNP1 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HNZ5 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HP02 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HQ16 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HR40 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HR45 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HRS3 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7HT08 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7K9N1 | Sodium channel protein
+  Na     Branchiostoma floridae A0A9J7KGS6 | Sodium channel protein
+  Na     Branchiostoma floridae I6NQF8 | Sodium channel protein
+  FeHyd  Ciona intestinalis     A1Y9J6 | phenylalanine 4-monooxygenase (EC 1.14.16.1)
+  FeHyd  Ciona intestinalis     F6UB18 | phenylalanine 4-monooxygenase (EC 1.14.16.1)
+  FeHyd  Branchiostoma floridae A0A9J7HM43 | Tryptophan 5-hydroxylase 2 (EC 1.14.16.4) (Tryptophan 5-mono
+  FeHyd  Branchiostoma floridae A0A9J7HPQ7 | Tryptophan 5-hydroxylase 2 (EC 1.14.16.4) (Tryptophan 5-mono
+  FeHyd  Branchiostoma floridae A0A9J7HQU4 | phenylalanine 4-monooxygenase (EC 1.14.16.1) (Phe-4-monooxyg
+  FeHyd  Branchiostoma floridae A0A9J7KA74 | phenylalanine 4-monooxygenase (EC 1.14.16.1) (Phe-4-monooxyg
+  FeHyd  Branchiostoma floridae A0A9J7KH37 | phenylalanine 4-monooxygenase (EC 1.14.16.1) (Phe-4-monooxyg
+  FeHyd  Branchiostoma floridae A0A9J7KJT3 | phenylalanine 4-monooxygenase (EC 1.14.16.1) (Phe-4-monooxyg
+  FeHyd  Branchiostoma floridae A0A9J7KK56 | phenylalanine 4-monooxygenase (EC 1.14.16.1) (Phe-4-monooxyg
+  FeHyd  Branchiostoma floridae A0A9J7KKQ7 | Tyrosine 3-monooxygenase-like
+  FeHyd  Branchiostoma floridae O17498 | phenylalanine 4-monooxygenase (EC 1.14.16.1) (Phe-4-monooxyg
+  FeHyd  Branchiostoma floridae Q45XJ4 | Tyrosine hydroxylase
+  HCN    Ciona intestinalis     F6WZV6 | Cyclic nucleotide-binding domain-containing protein
+  HCN    Ciona intestinalis     H6V963 | Hyperpolarization-activated cyclic nucleotide channel
+  HCN    Ciona intestinalis     H6V964 | Hyperpolarization-activated cyclic nucleotide channel
+  HCN    Branchiostoma floridae A0A9J7KNP8 | Potassium/sodium hyperpolarization-activated cyclic nucleoti
+  HCN    Branchiostoma floridae A0A9J7KNR1 | Potassium/sodium hyperpolarization-activated cyclic nucleoti
+  HCN    Branchiostoma floridae A0A9J7KNS0 | Potassium/sodium hyperpolarization-activated cyclic nucleoti
+  HCN    Branchiostoma floridae A0A9J7KNU0 | Potassium/sodium hyperpolarization-activated cyclic nucleoti
+  HCN    Branchiostoma floridae A0A9J7KNU4 | Potassium/sodium hyperpolarization-activated cyclic nucleoti
+
+Domain-III loops in chordate 4-domain voltage-sensor proteins (descriptive):
+  Branchiostoma floridae A0A9J7MRS2 ['LSLFTVSTFEGWPNLLYV'] | Voltage-dependent L-type calcium channel subu
+  Ciona intestinalis     F6QCF9 ['LALLQVATFKGWTIIMYD'] | Sodium channel protein
+  Ciona intestinalis     F7AUQ0 ['LALLQIATFTGWIEIMGS'] | Sodium channel protein
+  Ciona intestinalis     A0A7R7ZF24 ['LALLQVATFKGWTIIMYD'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HG25 ['LALFQVATFQGWIEIMHD'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HNI0 ['LSLLQIATFKGWIQIIEH'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HNN1 ['LSLLQIATFKGWIQIIEH'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HNP1 ['LSLFQVATFKGWMDIMYD'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HNZ5 ['LSLFQVATFKGWMDIMYD'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HP02 ['LSLLQIATFKGWIQIIEH'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HQ16 ['LVLFQVATFKGWIEIMAD'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HQP1 ['LALLQVATFEGWIEVMSD'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HR40 ['LSLLQIATFKGWIQIIEH'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HR45 ['LSLLQIATFKGWIQIIEH'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HRS3 ['LSLLQIATFKGWIQIIEH'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7HT08 ['LSLLQIATFKGWIQIIEH'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7K9N1 ['LVLFQVATFKGWIEIMAD'] | Sodium channel protein
+  Branchiostoma floridae A0A9J7KGS6 ['LVLFQVATFKGWIEIMAD'] | Sodium channel protein
+  Ciona intestinalis     F6X5E1 ['LTLFVVATFEGWPALLYK'] | Voltage-dependent L-type calcium channel subu
+  Ciona intestinalis     H2Y2S0 ['ALLQVVATFKGWMPIMYA'] | Sodium channel protein
+  Branchiostoma floridae I6NLS5 ['LALFQVATFQGWIEIMHD'] | Sodium channel protein
+  Branchiostoma floridae I6NQF8 ['LSLFQVATFKGWMDIMYD'] | Sodium channel protein
+
+RESULT [('K1', 'ungradeable'), ('K2', 'PASS'), ('K3', 'PASS'), ('K4', 'ungradeable'), ('K5', 'PASS'), ('K6', 'PASS'), ('K7', 'ungradeable'), ('K8', 'PASS'), ('K9', 'PASS'), ('K10', 'ungradeable'), ('K11', 'PASS'), ('K12', 'PASS')]
+passed 8 of 8 gradeable; 4 ungradeable
