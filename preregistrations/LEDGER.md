@@ -181,3 +181,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3553_kit_chordates_octopus.txt | `7e0db35db5efeddd60730a321cae487815097dbac97cdad43bafb0646f27e62b` |
 | PREREGISTERED_L3553_ttype_check.txt | `43dbd7539291fddb17ddcc080325e71255e8c631ddeb85bf0c34032d0b1981e5` |
 | rounds/dcf_nerve_v2_L3549.py | `057e7591db120761faa3ed5237d92cbfe34885e73a36f248cfa06cdf4f20f09c` |
+| PREREGISTERED_L3561_navfamily.txt | `921cd590282f43f3f81326fb3003dfd8e86eb044b6df1929d5b70e1f9e2fcbb3` |
+| rounds/dcf_navfamily_L3561.py | `ea139ee10e8825555086ec306e04c157c15ef786da73731cb5cb6bc1d23bc5e1` |

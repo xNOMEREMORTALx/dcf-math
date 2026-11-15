@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3561: lost K or lost channel? The family of the ambulacrarian E-type sodium channels.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 14 November 2026. Frozen before the similarity script is run.
+Background: K (DEKA) is in every protostome and chordate tested; the sea urchin and acorn worm carry only E-type 'sodium channel
+ proteins' (L3533, L3557). Capitella and the lancelet carry BOTH a K-type (NAV1) and an E-type (NAV2) paralog.
+Two hypotheses: H1 'the urchin/acorn-worm channels are NAV2 (the K-type NAV1 gene was lost)'; H2 'they are NAV1 that reverted K->E'.
+Script: rounds/dcf_navfamily_L3561.py (alignment-free 4-mer similarity to reference NAV1 and NAV2 sets, all sequences already graded).
+Prediction N1 (H1): all 4 query sequences are closer to NAV2 than to NAV1. (FAIL if any query is closer to NAV1.)
+Control (reported): NAV1 members must be more similar to each other than to NAV2, or the method is uninformative (then N1 void).
