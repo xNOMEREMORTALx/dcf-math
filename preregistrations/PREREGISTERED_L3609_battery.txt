@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3609: the battery ratio (channels per metal pump) separates organisms with and without a nervous system.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before the file is downloaded.
+Seen data (rounds/L3609_battery_seen.txt, DISCLOSED; the cut was chosen from it): no nervous system 0.05-1.60 (sponges, Monosiga,
+ Trichoplax); nervous system 2.00-14.25. Cut fixed at 1.8. Script rounds/dcf_battery_L3609.py (dcf_nerve v2), unchanged.
+Data: UniProt TSV (Entry, Organism, Protein names, Sequence) for organism_id 946362 Salpingoeca rosetta (choanoflagellate),
+ 595528 Capsaspora owczarzaki (filasterean), 6500 Aplysia californica (sea hare), 6087 Hydra vulgaris (hydra),
+ 2072580 Hypsibius exemplaris (tardigrade). Organisms with < 5,000 proteins dropped.
+ R1 Salpingoeca ratio < 1.8.   R2 Capsaspora ratio < 1.8.
+ R3 Aplysia ratio > 1.8.       R4 Hydra ratio > 1.8.       R5 Hypsibius ratio > 1.8.

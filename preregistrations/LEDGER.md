@@ -201,3 +201,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_midy_composite_L3601.py | `97beef4f726403a479a86d0b38af6857b528486638f51f0aa1ef621f4a004e6f` |
 | PREREGISTERED_L3601_midy.txt (L3601b) | `3517253f175b7ca959ef13a5ccbb142ca83dfa17db716bf8f667125c303181e8` |
 | rounds/dcf_midy_v2_L3601b.py (L3601b) | `3a2e0685cf7ba87a1bb3fed2b9de6e67453c623240a8070c6c1911319da956ba` |
+| PREREGISTERED_L3609_battery.txt | `0d0243515f1e2e06232ebae044e8a3969190f933d0164ba64f3f9315a48bba0c` |
+| rounds/dcf_battery_L3609.py | `b187f60a5681562e6de03485310481b35704e4d2bcad1087206eac5d714504b4` |

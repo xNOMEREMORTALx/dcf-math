@@ -1,0 +1,17 @@
+Geodia barretti                          proteins  60924 channels    1 pumps  21 ratio 0.05
+Ephydatia muelleri                       proteins  30399 channels    4 pumps  12 ratio 0.33
+Oopsacas minuta                          proteins  16366 channels    2 pumps   3 ratio 0.67
+Nematostella vectensis                   proteins  24435 channels   68 pumps   6 ratio 11.33
+Amphimedon queenslandica                 proteins  22831 channels    5 pumps   6 ratio 0.83
+Trichoplax adhaerens                     proteins  11520 channels    8 pumps   5 ratio 1.60
+Monosiga brevicollis                     proteins   9150 channels    5 pumps   5 ratio 1.00
+Mnemiopsis leidyi                        proteins  25263 channels  146 pumps  11 ratio 13.27
+Strongylocentrotus purpuratus            proteins  35496 channels   76 pumps  18 ratio 4.22
+Lingula anatina                          proteins  34462 channels   77 pumps  23 ratio 3.35
+Capitella teleta                         proteins  31954 channels   32 pumps   7 ratio 4.57
+Saccoglossus kowalevskii                 proteins  23808 channels   40 pumps   6 ratio 6.67
+Branchiostoma floridae                   proteins  39280 channels  171 pumps  12 ratio 14.25
+Ciona intestinalis                       proteins  19006 channels   22 pumps  11 ratio 2.00
+Hofstenia miamia                         proteins  22454 channels   34 pumps   7 ratio 4.86
+Gallus gallus                            proteins  18011 channels   69 pumps  11 ratio 6.27
+Drosophila melanogaster                  proteins  13864 channels   21 pumps   6 ratio 3.50
