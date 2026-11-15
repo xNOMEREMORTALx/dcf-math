@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3601: when does the repetend of 1/n sum to 9L/2? (lead from L3541: 1/437 = 1/(19*23) does).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before the script is run.
+Generalised Midy: if the period L is even and 10^(L/2) = -1 (mod n), the two halves of the repetend sum to 99...9, so S = 9L/2.
+Script rounds/dcf_midy_composite_L3601.py, all n < 1000 coprime to 10.
+ P1 (theorem check): every n with 10^(L/2) = -1 (mod n) has S = 9L/2.
+ P2: S = 9L/2 WITHOUT that property is rare: at most 5% of all n with S = 9L/2.
+ P3: 437 has the property (10^99 = -1 mod 437).

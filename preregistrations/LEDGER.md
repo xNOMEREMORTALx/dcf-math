@@ -197,3 +197,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_anemone_names_L3589.py | `acd621eeca38db5250f6a9fc70103ec3a6b0dd7679955c959bf430da722b0b85` |
 | PREREGISTERED_L3597_nonneural.txt | `11b0a212b8c8c45490117ed11b0b56ab4bcaedd161831ad372f9789467bf6f60` |
 | rounds/dcf_nonneural_L3597.py | `091ad17057bae7cfa7b2f8a0fbfe45bd1bb61b35caabe45a039165bc90ad837d` |
+| PREREGISTERED_L3601_midy.txt | `d95867b57e6d2de1d3bd9de11a8b50002507f84f92ba7973cc3b4de6e44ee195` |
+| rounds/dcf_midy_composite_L3601.py | `97beef4f726403a479a86d0b38af6857b528486638f51f0aa1ef621f4a004e6f` |
