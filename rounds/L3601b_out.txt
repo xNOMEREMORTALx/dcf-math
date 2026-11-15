@@ -1,0 +1,2 @@
+n < 10000 coprime to 10 with the complement property: 1150 | mismatches with criterion C: 0 []
+RESULT [('P4', 'PASS')]
