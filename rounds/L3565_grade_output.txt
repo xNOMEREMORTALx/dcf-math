@@ -1,0 +1,12 @@
+missing: []
+choanoflagellate A9USM1       best NAV1 0.092  best NAV2 0.096  -> NAV2
+placozoan        B3RSS4       best NAV1 0.086  best NAV2 0.100  -> NAV2
+sea anemone      A7SKR1       best NAV1 0.115  best NAV2 0.127  -> NAV2
+comb jelly       A0ACF8Y6N4   best NAV1 0.088  best NAV2 0.086  -> NAV1
+comb jelly       A0ACF8Y996   best NAV1 0.080  best NAV2 0.089  -> NAV2
+comb jelly       A0ACF8YBX3   best NAV1 0.081  best NAV2 0.089  -> NAV2
+comb jelly       F6MZB8       best NAV1 0.082  best NAV2 0.082  -> NAV2
+comb jelly       F6MZB9       best NAV1 0.072  best NAV2 0.079  -> NAV2
+acoel            HMIM006045   best NAV1 0.090  best NAV2 0.103  -> NAV2
+acoel            HMIM019623   best NAV1 0.094  best NAV2 0.114  -> NAV2
+RESULT [('M1', 'FAIL')]
