@@ -1,0 +1,43 @@
+A. Fibonacci digit sums (exact big integers)
+  ds(F(24)) = 27  claim 27  OK
+  ds(F(48)) = 54  claim 54  OK
+  ds(F(72)) = 72  claim 72  OK
+  ds(F(96)) = 90  claim 90  OK
+  ds(F(120)) = 126  claim 126  OK
+  ds(F(144)) = 126  claim 126  OK
+  ds(F(168)) = 153  claim 153  OK
+  ds(F(192)) = 180  claim 180  OK
+  ds(F(216)) = 216  claim 216  OK
+  ds(F(240)) = 198  claim 198  OK
+  ds(F(264)) = 252  claim 252  OK
+  ds(F(288)) = 306  claim 306  OK
+  ds(F(24k)) = 0 mod 9 for k=1..199: True | reason: 9 divides F(12)=144, so 9 | F(12k) and the digit sum keeps residue mod 9
+  ds(F(3)) = 2  claim 2  OK
+  ds(F(7)) = 4  claim 4  OK
+  ds(F(31)) = 31  claim 31  OK
+  ds(F(127)) = 121  claim 121  OK
+  self-encoding n<=600: [1, 5, 10, 31, 35, 62, 72, 175, 180, 216, 251, 252, 360, 494, 504, 540] | claim match: True
+  mod 9 of class B: {1: 1, 5: 5, 10: 1, 31: 4, 35: 8, 62: 8, 175: 4, 251: 8, 494: 8}
+
+B. Molecular weights (average atomic weights, free acid / neutral unless noted)
+  ATP                      C10H16N5O13P3     507.18  claim 507  OK (rounds)
+  ADP                      C10H15N5O10P2     427.20  claim 427  OK (rounds)
+  AMP                      C10H14N5O7P       347.22  claim 347  OK (rounds)
+  GTP                      C10H16N5O14P3     523.18  claim 523  OK (rounds)
+  GDP                      C10H15N5O11P2     443.20  claim 443  OK (rounds)
+  CTP                      C9H16N3O14P3      483.16  claim 483  OK (rounds)
+  CDP                      C9H15N3O11P2      403.18  claim 403  OK (rounds)
+  UTP                      C9H15N2O15P3      484.14  claim 484  OK (rounds)
+  UDP                      C9H14N2O12P2      404.16  claim 404  OK (rounds)
+  dTTP                     C10H17N2O14P3     482.17  claim 482  OK (rounds)
+  lactic acid              C3H6O3             90.08  claim 90  OK (rounds)
+  citric acid              C6H8O7            192.12  claim 192  OK (rounds)
+  glucose                  C6H12O6           180.16  claim 180  OK (rounds)
+  dopamine                 C8H11NO2          153.18  claim 153  OK (rounds)
+  acetylcholine (cation)   C7H16NO2          146.21  claim 146  OK (rounds)
+  hydroxyl radical         OH                 17.01  claim 17  OK (rounds)
+  CO2                      CO2                44.01  claim 44  OK (rounds)
+  water x6                 H12O6             108.09  claim 108  OK (rounds)
+
+C. Golden angle vs inverse fine-structure constant
+  golden angle = 137.5078 deg; 1/alpha = 137.035999; difference 0.344%  (a numerical closeness; no physical link is known)

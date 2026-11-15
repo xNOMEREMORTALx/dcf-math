@@ -1,0 +1,8 @@
+L3537 protein lengths claimed in the triangle file vs Swiss-Prot (cow/other animals from the L3481 file; not human)
+  MT-CO1   Bos taurus   P00396  514 aa
+  ATP5F1B  Bos taurus   P00829  528 aa
+  SDHA     Bos taurus   P31039  665 aa
+  CYCS     Bos taurus   P62894  105 aa
+  SDHB     Bos taurus   Q3T189  280 aa
+  SDHC     Bos taurus   P35720  169 aa
+  SDHD     Bos taurus   Q95123  158 aa
