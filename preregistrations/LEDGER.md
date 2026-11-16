@@ -223,3 +223,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/fasta_to_tsv_L3669.py | `7c20fd3dc69cdc44aa910c131fecd34eb234292909ae88c5899983e247907801` |
 | PREREGISTERED_L3673_neural_kit.txt | `a7c63a005b61de9ab3d9089bdcbccd8eed46b2195c96611cfe00e5c5a2b57e32` |
 | rounds/dcf_kit_L3673.py | `54fcf259e35697b79f6a7872016d52b28ad2f063bb931fe3ed7c1367c9b19a43` |
+| rounds/dcf_nr1_L3681.py | `125ce35bcec207f059717af5273277237b7a300b76d953baec4407715fff663a` |
