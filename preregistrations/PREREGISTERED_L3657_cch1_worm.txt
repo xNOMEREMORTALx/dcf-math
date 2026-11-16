@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3657: are the non-bilaterian E-E-E-E "NALCN" hits really NALCN, or its sister family CCH1? And the worm half of L3653 Q5.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before either file is downloaded.
+Script rounds/dcf_cch1_L3657.py (reuses the frozen L3653 definitions by reading that file). Reference file: UniProt P50077 (yeast Cch1), Q8IZF0 (human NALCN).
+Part C, local-aligner score of each L3653 NALCN hit against yeast Cch1 vs mouse Nalcn:
+ C1 Hydra: both hits score higher against Cch1.          C2 Amphimedon: both hits score higher against Cch1.
+ C3 Nematostella: both hits score higher against Cch1.   (My expectation; Hydra's are named "CCH1", the others are unnamed.)
+ C4 Control: every bilaterian hit (all other L3653 hits) scores higher against mouse Nalcn.
+Part W, full C. elegans proteome UP000001940 (nca-1 and nca-2 expected):
+ W1 >= 2 NALCN hits (frozen L3653 rule, floor 1000).     W2 every worm NALCN hit reads E-E-K-E.
+Void if the reference file lacks P50077.
