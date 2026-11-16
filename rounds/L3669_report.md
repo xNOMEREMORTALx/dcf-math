@@ -50,7 +50,12 @@
   - **In every non-bilaterian tested, the leak channel is calcium-like.** The sodium-like lysine appears only in bilaterians, at two positions.
 - **The battery cut (1.8) has now failed on a non-neural animal.**
   - **Placozoans have no nervous system, but H2 scores 3.25** with only 4 metal pumps. One pump more or less moves the ratio between about 2.6 and 4.3.
-  - **The ratio is unstable when pump counts are this small.** It separated neural from non-neural animals in 12 of 14 blind cases so far: the 4 of 5 in L3613 (where *Hypsibius* was the miss), the second tardigrade, and the seven moulting animals, spiralians and rotifers. It is not a reliable classifier for small genomes.
+  - **The ratio is unstable when pump counts are this small.** Battery-ratio predictions have now passed **12 of 14** blind tests:
+    - 4 of 5 in L3613 (*Hypsibius* the miss);
+    - the second tardigrade, predicted *below* the cut as a sodium-less animal;
+    - 7 in the moulting animals, spiralians and rotifers;
+    - this placozoan, which failed.
+  - **It is not a reliable classifier for small genomes.
   - **The ratio should be reported with its counts,** and a rule based on channel *types* (for example a sodium channel or NR1 present) may separate the groups better than a ratio.
 - **NR1 vs nerves holds up:** sponges, comb jelly and both placozoans have no NR1; cnidarians and all bilaterians tested except the sea urchin and Ciona have it.
 
