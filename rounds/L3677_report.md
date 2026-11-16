@@ -48,7 +48,9 @@
   - **The case for a RefSeq check of the urchin is now stronger.**
 - **Coral:** several entries are named NMDA 1 and NMDA 2A, and two "Sodium channel protein" entries carry no lysine loop (cnidarian NAV2-type).
 - **Flatworm:**
-  - An entry named "Putative glutamate receptor, NMDA" (A0A3Q0KPC6) was not called by the iGluR gate. Its single NR1-nearest call is weak.
+  - An entry named "Putative glutamate receptor, NMDA" (A0A3Q0KPC6) *was* called by the iGluR gate. Its nearest mouse receptor is Grin2a, an NR2-type subunit (score 842).
+    - **Correction (L3681):** an earlier version of this report said the gate missed it; that was wrong.
+  - Its single NR1-nearest call is weak (941).
   - No lysine sodium channel was called. **Flatworm channels need a closer look.**
 - **Water flea:** both kit features are present: NR1 (2,046) and a lysine sodium channel (E9GGF2), plus "Nach" entries, which are a different (ENaC-type) family.
 - ***Sphaeroforma*:** neither feature, and only 4 channels, against 3 pumps.
@@ -73,6 +75,6 @@
 
 ## Potential leads for future research
 - **[NR1 floor in code]** Freeze a shared NR1 caller with the floor built in. Recheck every NR1 count with it, descriptively.
-- **[Flatworm channels]** Why no lysine sodium channel in *Schistosoma*? Check its "sodium channel" entries and the NMDA-named receptor missed by the gate.
+- **[Flatworm channels]** Why no lysine sodium channel in *Schistosoma*? Check its four-domain channels (done in L3681: all nearest calcium channels or NALCN).
 - **[Urchin NR1]** RefSeq protein for *S. purpuratus* (the starfish has NR1, so the urchin gap may be annotation).
 - **[Manuscript 2]** §3.22: the kit blind test with the floor disclosure.
