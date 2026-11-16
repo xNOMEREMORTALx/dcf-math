@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3685: is the blood fluke's reduced kit (no NAV-family channel, no strong NR1; L3681) a parasite trait or a flatworm trait?
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before any file is downloaded.
+Script rounds/dcf_flatworm_L3685.py (floored NR1 caller dcf_nr1_L3681; kit rule L3673; NAV-family = nearest mouse Scn, score >= 1000).
+Data: UniProt TSV (accession, organism_name, protein_name, sequence) by proteome:
+ Macrostomum lignano UP000095280 (free-living), Fasciola hepatica UP000230066 (liver fluke), Echinococcus multilocularis UP000017246 (tapeworm),
+ Schistosoma japonicum UP000311919 (a second blood fluke).
+Hypothesis under test: loss is parasite-specific.
+ F1 Macrostomum: kit present.            F2 Macrostomum: >= 1 NAV-family channel.
+ F3 Fasciola: kit absent.                F4 Echinococcus: kit absent.               F5 S. japonicum: kit absent.
+ F6 the three parasites together: 0 NAV-family channels.
+ Void per file if < 5,000 proteins.

@@ -224,3 +224,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3673_neural_kit.txt | `a7c63a005b61de9ab3d9089bdcbccd8eed46b2195c96611cfe00e5c5a2b57e32` |
 | rounds/dcf_kit_L3673.py | `54fcf259e35697b79f6a7872016d52b28ad2f063bb931fe3ed7c1367c9b19a43` |
 | rounds/dcf_nr1_L3681.py | `125ce35bcec207f059717af5273277237b7a300b76d953baec4407715fff663a` |
+| PREREGISTERED_L3685_flatworms.txt | `246eb78f43e4f3f3155d508550acdc4f53af2c5553c4d606e5a26beaa3daeb02` |
+| rounds/dcf_flatworm_L3685.py | `982e5f9d610a239897e356ea54ed8cbfe8d7aff7c22bc08eb7ce52e7bcd8710d` |
