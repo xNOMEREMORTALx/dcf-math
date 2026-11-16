@@ -1,0 +1,11 @@
+### clon.tsv.gz
+NR1 H2KQD6 935 1015
+SUMMARY proteins 13606 NR1 1 Na 0 Na_partial 0 NAV_family 0 KIT present
+### parag.tsv.gz
+SUMMARY proteins 12535 NR1 0 Na 0 Na_partial 0 NAV_family 0 KIT absent
+### taenia.tsv.gz
+NA A0A158R6N9 1686
+NAV A0A158R6N9 1686 Scn8a 2001
+SUMMARY proteins 10244 NR1 0 Na 1 Na_partial 0 NAV_family 1 KIT present
+### hymen.tsv.gz
+SUMMARY proteins 18691 NR1 0 Na 0 Na_partial 0 NAV_family 0 KIT absent
