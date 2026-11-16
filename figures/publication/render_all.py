@@ -9,5 +9,6 @@ def _save(self, fname, *a, **k):
 Figure.savefig = _save
 os.chdir('/home/claude/dcf-math')
 for s in ['L3277_iron_zinc_tiers', 'L3329_enzyme_families', 'L3341_all_blind', 'L3421_protists_ladderp',
-          'L3493_motif_panel', 'L3489_blind_tests', 'L3493_battery', 'L3521_EtoK']:
+          'L3493_motif_panel', 'L3489_blind_tests', 'L3493_battery', 'L3521_EtoK',
+          'L3557_EtoK', 'L3573_navtree', 'L3593_kfamilies', 'L3609_battery_ratio', 'L3649_size_sodium', 'L3649_nr1_tree']:
     runpy.run_path('figures/%s.py' % s); plt.close('all'); print('rendered', s)
