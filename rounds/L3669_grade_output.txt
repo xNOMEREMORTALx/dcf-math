@@ -1,0 +1,10 @@
+L3669 grading (rounds/L3669_tool_output.txt; Trichoplax sp. H2, UniParc, 12,150 sequences)
+T1 >= 1 NALCN hit: 1 (UPI000E19C482, 1855 aa, score 2933): PASS
+T2 every NALCN hit E-E-E-E: EEEE: PASS
+T3 >= 1 NR1 call: 0 of 8 iGluR calls (all nearest Grik1/2/5, scores 476-898): FAIL
+T4 ratio < 1.8: 13 / 4 = 3.25: FAIL
+T5 no Na call: 0: PASS
+RESULT [('T1', 'PASS'), ('T2', 'PASS'), ('T3', 'FAIL'), ('T4', 'FAIL'), ('T5', 'PASS')]
+--- descriptive after grading
+Trichoplax sp. H2      proteins 12150 channel classes {'Ca': 2, 'K': 7, 'K2P': 3, 'CaT': 1} pumps {'pump_Ca': 2, 'pump_Cu': 1, 'pump_other': 9, 'pump_NaK': 1}
+Trichoplax adhaerens   proteins 11520 channel classes {'K': 5, 'Ca': 1, 'CaT': 1, 'K2P': 1} pumps {'pump_Ca': 3, 'pump_other': 11, 'pump_NaK': 1, 'pump_Cu': 1}
