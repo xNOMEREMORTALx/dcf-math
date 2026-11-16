@@ -1,0 +1,6 @@
+AMENDMENT to PREREGISTERED_L3665_placozoa_H2.txt, 16 November 2026, before any valid data.
+The UniProtKB file Gary downloaded (proteome:UP000253843) was empty (58 bytes, header only); UniProtKB holds no entries for Trichoplax sp. H2 (organism_id 287889).
+UniParc holds the proteome. New data source: UniParc FASTA, query upid:UP000253843, converted to TSV by rounds/fasta_to_tsv_L3669.py
+(organism name "Trichoplax sp. H2"). Predictions T1-T5 and rounds/dcf_placozoa_L3665.py are unchanged.
+Disclosure: UniParc IDs (UPI...) are shared by identical sequences across organisms; some H2 sequences may be identical to T. adhaerens ones (seen in L3625/L3653).
+Void rule unchanged (< 5,000 records).
