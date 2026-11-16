@@ -74,4 +74,4 @@
 - **[NALCN floor]** Adopt a score floor of 1,000 for every nearest-reference count; pre-register it before use.
 - **[*B. calyciflorus* NALCN ×3]** Compare the three copies' pore rings and the genome positions (RefSeq/Ensembl gene IDs). Are they real genes or split models?
 - **[RefSeq NR1]** Still waiting for the sea-urchin and Ciona RefSeq protein files.
-- **[Manuscript 2]** §3.13–3.18 and the size-vs-sodium figure. The nerve chapter now spans 31 blind-tested proteomes from protists to chordates.
+- **[Manuscript 2]** §3.13–3.18 and the size-vs-sodium figure. The nerve chapter now spans blind-tested proteomes from protists to chordates.
