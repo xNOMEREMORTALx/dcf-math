@@ -1,0 +1,57 @@
+### a.gz
+ratio Brachionus plicatilis proteins 52387 channels 18 pumps 7 ratio 2.57
+CH A0A3M7T6U3 1405 cand nearest Cacna1s 53
+CH A0A3M7P5C0 1497 Na_partial nearest Scn1a 1909
+CH A0A3M7PI78 2232 cand nearest Cacna1g 2848
+CH A0A3M7PZV5 4464 cand nearest Scn2a 61
+CH A0A3M7STL5 1883 cand nearest Nalcn 3901
+CH A0A3M7RXX0 1417 cand nearest Cacna1c 55
+### b.gz
+ratio Adineta ricciae proteins 64111 channels 85 pumps 28 ratio 3.04
+CH A0A813P937 3040 cand nearest Cacna1e 68
+CH A0A814Q6D0 1564 cand nearest Scn11a 54
+CH A0A815SQU7 1721 cand nearest Cacna1g 60
+CH A0A815SXD4 2160 cand nearest Cacna1c 2801
+CH A0A815TJQ8 2184 cand nearest Cacna1c 2789
+CH A0A813P0D8 1449 cand nearest Scn3a 55
+CH A0A813S2F1 1426 cand nearest Scn3a 56
+CH A0A813SLE5 12397 cand nearest Scn9a 66
+CH A0A813TUF4 1492 cand nearest Scn1a 51
+CH A0A813Y1D4 3693 cand nearest Nalcn 61
+CH A0A814ANF8 1596 Na nearest Scn4a 2915
+CH A0A814D0V3 4306 cand nearest Cacna1s 70
+CH A0A814DNX6 2253 cand nearest Nalcn 54
+CH A0A814EKK9 1730 cand nearest Nalcn 4313
+CH A0A814H2E8 1511 Na nearest Scn3a 2795
+CH A0A814IU89 1589 Na nearest Scn4a 2932
+CH A0A814K322 1479 cand nearest Scn3a 2628
+CH A0A814L8D7 1885 cand nearest Cacna1i 1889
+CH A0A814PFK8 4336 cand nearest Cacna1s 70
+CH A0A814Y8F8 4315 cand nearest Cacna1a 55
+CH A0A815B8G0 1730 cand nearest Nalcn 4321
+CH A0A815H3L9 2253 cand nearest Nalcn 54
+CH A0A815I6Q7 1788 cand nearest Cacna1c 2254
+CH A0A815IEE8 1785 cand nearest Cacna1c 2463
+CH A0A815SDI1 1905 cand nearest Cacna1i 2154
+CH A0A815T7C7 1583 cand nearest Scn11a 60
+CH A0A815ZMM9 1866 Na nearest Scn3a 3470
+CH A0A815ZS69 1836 Na nearest Scn3a 3387
+CH A0A816AQ68 1354 cand nearest Cacna1d 3249
+CH A0A816AXQ2 1354 cand nearest Cacna1d 3229
+CH A0A816BIQ0 1548 cand nearest Cacna1h 2391
+CH A0A816BSP3 1534 cand nearest Cacna1i 2411
+CH A0A816CAI0 1325 cand nearest Scn3a 60
+CH A0A816CH02 1324 cand nearest Scn3a 60
+CH A0A813NWG6 3107 cand nearest Scn1a 61
+CH A0A813R861 4636 cand nearest Cacna1h 62
+CH A0A813RNB3 9013 cand nearest Cacna1b 69
+CH A0A813RX78 3584 cand nearest Cacna1i 59
+CH A0A813WY51 9013 cand nearest Cacna1b 70
+CH A0A813YB76 4631 cand nearest Cacna1g 61
+CH A0A814C8R6 2229 cand nearest Scn5a 54
+CH A0A814D5Z8 3107 cand nearest Scn1a 62
+CH A0A814Q4B9 3135 cand nearest Scn9a 65
+CH A0A815IZ94 3135 cand nearest Cacna1e 69
+CH A0A815QBG4 1852 cand nearest Scn4a 62
+CH A0A815STM2 1910 cand nearest Cacna1b 56
+CH A0A815UAP2 2101 cand nearest Scn1a 59
