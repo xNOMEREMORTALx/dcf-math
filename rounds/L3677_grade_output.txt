@@ -1,0 +1,27 @@
+sphaero kit absent predicted absent
+stylo kit present predicted present
+schisto kit present predicted present
+daphnia kit present predicted present
+acanth kit present predicted absent
+RESULT [('K1', 'PASS'), ('K2', 'PASS'), ('K3', 'PASS'), ('K4', 'PASS'), ('K5', 'FAIL')]
+--- descriptive after grading: names of NR1 / Na hits; named sodium channels
+## sphaero
+   named sodium-channel/NMDA entries: []
+## stylo
+   IGLUR A0A2B4RMV7 1484 nearest Grin1 553 | Small ribosomal subunit protein uS13 (40S ribosomal protein 
+   IGLUR A0A2B4SII4 917 nearest Grin1 2196 | Glutamate [NMDA] receptor subunit 1
+   named sodium-channel/NMDA entries: [('A0A2B4SII4', 'Glutamate [NMDA] receptor subunit 1'), ('A0A2B4RKW5', 'Sodium channel protein'), ('A0A2B4RWJ8', 'Glutamate receptor ionotropic, NMDA 2A'), ('A0A2B4S1A0', 'Glutamate receptor ionotropic, NMDA 1'), ('A0A2B4SBP5', 'Glutamate receptor ionotropic, NMDA 1'), ('A0A2B4SBZ2', 'Glutamate receptor ionotropic, NMDA 1'), ('A0A2B4SC68', 'Glutamate receptor ionotropic, NMDA 1'), ('A0A2B4SEK8', 'Sodium channel protein')]
+## schisto
+   IGLUR A0A5K4F3J7 1185 nearest Grin1 941 | ANF_receptor domain-containing protein
+   named sodium-channel/NMDA entries: [('A0A3Q0KPC6', 'Putative glutamate receptor, NMDA')]
+## daphnia
+   IGLUR E9H8K2 1046 nearest Grin1 2046 | Glutamate [NMDA] receptor subunit 1
+   NA E9GGF2 2057 | Sodium channel protein
+   named sodium-channel/NMDA entries: [('E9H8K2', 'Glutamate [NMDA] receptor subunit 1'), ('E9FT70', 'Sodium channel protein'), ('E9FV73', 'Glutamate receptor ionotropic, NMDA 2B'), ('E9FVN5', 'Sodium channel protein Nach'), ('E9GGF2', 'Sodium channel protein'), ('E9FVN4', 'Sodium channel protein Nach'), ('E9FVN6', 'Sodium channel protein Nach'), ('E9HQY8', 'Sodium channel protein Nach')]
+## acanth
+   IGLUR A0A8B8A3N6 952 nearest Grin1 1996 | Glutamate [NMDA] receptor subunit 1
+   named sodium-channel/NMDA entries: [('A0A8B7ZPT7', 'Glutamate receptor ionotropic, NMDA 3B-like'), ('A0A8B7ZRV7', 'Sodium channel protein'), ('A0A8B8A3N6', 'Glutamate [NMDA] receptor subunit 1'), ('A0A8B7XWA1', 'NMDA receptor synaptonuclear signaling and neurona'), ('A0A8B7XWA5', 'NMDA receptor synaptonuclear signaling and neurona')]
+--- disclosed: NR1 score floor
+The standing rule (L3649) requires a score floor of 1000 for nearest-reference counts; it was NOT written into dcf_kit_L3673.py. Graded as frozen.
+Under the floor: Stylophora NR1 2 -> 1 (A0A2B4RMV7, a ribosomal protein, 553, drops; kit still present); Schistosoma NR1 1 -> 0 (A0A5K4F3J7, 941) -> kit absent -> K3 would FAIL.
+Earlier rounds checked: of 19 Grin1-nearest calls in L3625, one is below 1000 (Hofstenia HMIM021522, 962); Hofstenia keeps 2 NR1 calls, no outcome changes.
