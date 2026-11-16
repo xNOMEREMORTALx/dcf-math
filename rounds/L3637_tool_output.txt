@@ -1,0 +1,12 @@
+### leech.tsv.gz
+ratio Helobdella robusta proteins 23370 channels 61 pumps 22 ratio 2.77
+NA T1EEX7 1792 nearest Scn4a 3311
+NA T1EGM2 1864 nearest Scn9a 3542
+NA T1FXW1 1823 nearest Scn9a 3265
+NA T1G0H5 1722 nearest Scn8a 3258
+NA T1G7B6 1792 nearest Scn8a 2834
+### dimorph.tsv.gz
+ratio Dimorphilus gyrociliatus proteins 16152 channels 34 pumps 9 ratio 3.78
+### rotifer.tsv.gz
+ratio Brachionus calyciflorus proteins 24535 channels 29 pumps 15 ratio 1.93
+NA A0A813S2Z5 1574 nearest Scn3a 2690
