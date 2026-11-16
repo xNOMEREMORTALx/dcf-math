@@ -228,3 +228,7 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_flatworm_L3685.py | `982e5f9d610a239897e356ea54ed8cbfe8d7aff7c22bc08eb7ce52e7bcd8710d` |
 | PREREGISTERED_L3693_nr1_calibration.txt | `bba7494e7ebc0c9fcac83a18a81232a7b7553d6846bba4c1a27ea7aa1c29c420` |
 | rounds/dcf_nr1_calibrate_L3693.py | `f91c30f5f680a54cb6ba4acefed1896c26f1fe8752ae1631e361d0cad1e67351` |
+| rounds/L3693_calibration_output.txt | `a0e64f5409dc52e1840eb4e0743a73655278a0a05cc9c1531d77c60c59d298a4` |
+| rounds/dcf_nr1_L3693.py | `f981b4dba940a1391cabfa40ca4b891da68657a3dd6c14601172cb7e1212a844` |
+| PREREGISTERED_L3697_trematode_cestode.txt | `cfbbe8450d9181680aad4558effa79f2b572bbb03ffd7ec3f3f01f813dbec9fa` |
+| rounds/dcf_flatworm2_L3697.py | `d3f19fc56bb5c8228821dbce92250c5f09787f85049064cd6e74fc20afc11030` |

@@ -1,0 +1,53 @@
+ROW	mouse	Grin1	4874	POS	Grin1
+ROW	zebrafish	grin1a	3790	POS	grin1a
+ROW	zebrafish	grin1b	4108	POS	grin1b
+ROW	chicken	GRIN1	4096	POS	GRIN1
+ROW	fly	Nmdar1	1921	POS	Nmdar1
+ROW	Nematostella vectensis	A7SL56	2124	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Saccoglossus kowalevskii	A0ACM8C838	1758	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Saccoglossus kowalevskii	A0ACM8CEQ4	1839	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Lingula anatina	A0A1S3K275	1294	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Capitella teleta	R7VAJ8	2052	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Branchiostoma floridae	A0A9J7HRA2	2589	POS	Glutamate receptor ionotropic, NMDA 1-like
+ROW	Hypsibius exemplaris	A0A1W0WTE7	1927	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Hydra vulgaris	A0ABM4D8J4	1766	POS	Glutamate receptor ionotropic, NMDA 1 isoform X2
+ROW	Hydra vulgaris	A0ABM4D8K0	1616	POS	Glutamate receptor ionotropic, NMDA 1 isoform X3
+ROW	Hydra vulgaris	T2ME34	1113	POS	Glutamate [NMDA] receptor subunit zeta-1
+ROW	Aplysia californica	A0ABM0GH11	2119	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Aplysia californica	Q7YXV6	2119	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Aplysia californica	Q7YXV7	2137	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Aplysia californica	Q7YZZ7	2117	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Ramazzottius varieornatus	A0A1D1W492	1794	EXCL	Ionotropic glutamate receptor C-terminal domain-containing protein
+ROW	Ramazzottius varieornatus	A0A1D1W7W7	1785	EXCL	Ionotropic glutamate receptor C-terminal domain-containing protein
+ROW	Caenorhabditis elegans	Q7JPI6	1092	EXCL	LITAF domain-containing protein
+ROW	Limulus polyphemus	A0ABM1S5A5	1461	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Limulus polyphemus	A0ABM1SPP1	1370	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Limulus polyphemus	A0ABM1T6A7	2039	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Limulus polyphemus	A0ABM1T6B1	2024	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Limulus polyphemus	A0ABM1T6B6	2024	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Limulus polyphemus	A0ABM1T6C0	1863	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Limulus polyphemus	A0ABM1T6C3	1834	POS	Glutamate [NMDA] receptor subunit 1-like isoform X5
+ROW	Limulus polyphemus	A0ABM1TBY4	1683	POS	Glutamate [NMDA] receptor subunit 1-like
+ROW	Tetranychus urticae	T1L122	1861	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Tetranychus urticae	T1L579	1980	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Priapulus caudatus	A0ABM1EDE6	2208	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Dimorphilus gyrociliatus	A0A7I8VJC8	1917	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Brachionus calyciflorus	A0A813M8L7	1702	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Brachionus plicatilis	A0A3M7RHG0	1611	POS	Glutamate [NMDA] receptor subunit 1-like isoform X1
+ROW	Adineta ricciae	A0A814E8I6	1294	EXCL	Uncharacterized protein
+ROW	Adineta ricciae	A0A815HBB8	1622	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Adineta ricciae	A0A815KKB6	1413	EXCL	Uncharacterized protein
+ROW	Adineta ricciae	A0A816ANI7	1613	EXCL	Uncharacterized protein
+ROW	Acanthaster planci	A0A8B8A3N6	1996	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Daphnia pulex	E9H8K2	2046	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Schistosoma mansoni	A0A5K4F3J7	941	EXCL	ANF_receptor domain-containing protein
+ROW	Stylophora pistillata	A0A2B4RMV7	553	NEG	Small ribosomal subunit protein uS13 (40S ribosomal protein S18)
+ROW	Stylophora pistillata	A0A2B4SII4	2196	POS	Glutamate [NMDA] receptor subunit 1
+ROW	Echinococcus multilocularis	A0A068Y703	839	NEG	Nmda type glutamate receptor
+ROW	Fasciola hepatica	A0A4E0RU97	459	NEG	Ionotropic receptor iGluR
+ROW	Macrostomum lignano	A0A1I8F3N2	415	EXCL	PBPe domain-containing protein
+ROW	Macrostomum lignano	A0A1I8IU12	648	EXCL	PBPe domain-containing protein
+ROW	Schistosoma japonicum	A0A4Z2D3T5	953	POS	Glutamate [NMDA] receptor subunit 1
+POS 38 [953, 1113, 1294, 1370, 1461, 1611, 1616, 1622, 1683, 1702, 1758, 1766, 1834, 1839, 1861, 1863, 1917, 1921, 1927, 1980, 1996, 2024, 2024, 2039, 2046, 2052, 2117, 2119, 2119, 2124, 2137, 2196, 2208, 2589, 3790, 4096, 4108, 4874]
+NEG 3 [459, 553, 839]
+FLOOR 941 balanced_accuracy 1.000 TPR 1.000 TNR 1.000

@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3697: is the loss of the sodium spike channel a trematode (fluke) trait? Five unseen flatworms. Uses the calibrated NR1 floor.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before any file is downloaded.
+Calibration (L3693): floor 941 (38 named NR1 >= 953; 3 named non-NR1 <= 839; balanced accuracy 1.0; only 3 negatives; ties -> lowest observed score).
+Script rounds/dcf_flatworm2_L3697.py (= L3685 script with dcf_nr1_L3693). NAV-family = 4-domain candidate nearest a mouse Scn, score >= 1000 (unchanged).
+Data: UniProt TSV by proteome: trematodes Clonorchis sinensis UP000008909, Opisthorchis viverrini UP000054324, Paragonimus westermani UP000324629;
+ cestodes Taenia asiatica UP000282613, Hymenolepis diminuta UP000321570.
+ G1 Clonorchis 0 NAV-family.   G2 Opisthorchis 0 NAV-family.   G3 Paragonimus 0 NAV-family.
+ G4 Taenia >= 1 NAV-family.    G5 Hymenolepis >= 1 NAV-family.
+ G6 NR1 (floor 941) >= 1 in at least 3 of the 5 (flatworms carry divergent NR1, L3689).
+ Void per file if < 5,000 proteins.
