@@ -1,0 +1,14 @@
+L3689 grading (rounds/L3689_tool_output.txt)
+F1 Macrostomum kit present: present (Na 7): PASS
+F2 Macrostomum >= 1 NAV-family: 8: PASS
+F3 Fasciola kit absent: absent: PASS
+F4 Echinococcus kit absent: present (Na 1, A0A087VY10): FAIL
+F5 S. japonicum kit absent: absent: PASS
+F6 three parasites 0 NAV-family: 1 (Echinococcus): FAIL
+RESULT [('F1', 'PASS'), ('F2', 'PASS'), ('F3', 'PASS'), ('F4', 'FAIL'), ('F5', 'PASS'), ('F6', 'FAIL')]
+--- descriptive after grading
+Macrostomum          iGluR nearest-class counts {'Grin': 14, 'Grik': 37, 'Gria': 15, 'Grid': 1} | best Grin1-nearest score 648 | [('A0A1I8FZ58', 'Sodium channel protein')]
+Echinococcus         iGluR nearest-class counts {'Grik': 3, 'Grin': 2, 'Gria': 3} | best Grin1-nearest score 839 | [('A0A068Y3T7', 'Glutamate NMDA receptor subunit', 'Grin2a', 818), ('A0A087VY10', 'Sodium channel protein')]
+Fasciola             iGluR nearest-class counts {'Grin': 2, 'Grik': 3} | best Grin1-nearest score 459 | [('A0A4E0R4M7', 'Glutamate [NMDA] receptor subunit epsilo', 'Grin2d', 826)]
+S. japonicum         iGluR nearest-class counts {'Grik': 7, 'Grin': 2} | best Grin1-nearest score 953 | [('A0A4Z2D3T5', 'Glutamate [NMDA] receptor subunit 1', 'Grin1', 953), ('A0A4Z2DRV8', 'Glutamate receptor ionotropic, NMDA 2A', 'Grin2a', 851)]
+S. mansoni (L3677)   iGluR nearest-class counts {'Grik': 3, 'Grin': 2} | best Grin1-nearest score 941 | [('A0A3Q0KPC6', 'Putative glutamate receptor, NMDA', 'Grin2a', 842)]
