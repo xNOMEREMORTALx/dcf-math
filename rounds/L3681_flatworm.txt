@@ -1,0 +1,13 @@
+L3681 descriptive: Schistosoma mansoni (L3677 file) channel-like entries by name or by 4-domain shape
+Reference set: mouse Scn2a, Scn8a, Cacna1a, Cacna1c, Cacna1g, Nalcn, Grin1, Gria2, Grik2 (9 only; for iGluR class use the 18-receptor L3677 output).
+A0A3Q0KBR4   2178 S4=2 loops=[] gate_YTANLAA=False tags=['Ca'] nearest Cacna1c  2919 | Voltage-dependent calcium channel type A subunit a
+A0A3Q0KD42   1766 S4=0 loops=['TFEGW'] gate_YTANLAA=False tags=[] nearest Cacna1c  3798 | Voltage-dependent L-type calcium channel subunit a
+A0A3Q0KNA6   1009 S4=0 loops=[] gate_YTANLAA=True tags=['iGluR'] nearest Grik2    1003 | Putative glutamate receptor, kainate
+A0A3Q0KPB7   1124 S4=0 loops=[] gate_YTANLAA=True tags=['iGluR'] nearest Grik2    1428 | Putative glutamate receptor, kainate
+A0A3Q0KPC6   1472 S4=0 loops=[] gate_YTANLAA=True tags=['iGluR'] nearest Grin1     504 | Putative glutamate receptor, NMDA
+A0A3Q0KQ55   1098 S4=0 loops=[] gate_YTANLAA=True tags=['iGluR'] nearest Grik2    1283 | Putative glutamate receptor, kainate
+A0A3Q0KR84   2563 S4=1 loops=['TFEGW'] gate_YTANLAA=False tags=['Ca'] nearest Cacna1c  3301 | Voltage-dependent L-type calcium channel subunit a
+A0A5K4EAX0   1924 S4=0 loops=['TFEGW'] gate_YTANLAA=False tags=[] nearest Cacna1c  3798 | Voltage-dependent L-type calcium channel subunit a
+A0A5K4FA71   2211 S4=2 loops=[] gate_YTANLAA=False tags=['Ca'] nearest Cacna1c  2909 | Voltage-dependent calcium channel type A subunit a
+A0A3Q0KUE9   2388 S4=0 loops=[] gate_YTANLAA=False tags=[] nearest Nalcn    3460 | Voltage-dependent calcium channel
+A0A5K4F5F2    885 S4=0 loops=[] gate_YTANLAA=False tags=[] nearest Grik2     375 | Glutamate receptor
