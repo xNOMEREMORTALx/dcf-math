@@ -1,0 +1,22 @@
+C4 bilaterian hits nearer Nalcn: 26 of 26
+W NALCN entries 18 rings ['EEKE']
+RESULT [('C1', 'FAIL'), ('C2', 'FAIL'), ('C3', 'FAIL'), ('C4', 'PASS'), ('W1', 'PASS'), ('W2', 'PASS')]
+--- descriptive after grading: worm NALCN entry names
+  Q688B2 1861 3729 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  Q688B3 1767 3606 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  Q688B4 1827 3606 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  Q8MXH5 1801 3729 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CKM5 1867 3729 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  G5EDM1 1785 3757 | Ion transport domain-containing protein
+  U4PCH9 1798 3606 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  U4PMX5 1738 3606 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CJF5 1832 3729 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CJF9 1820 3729 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CKL6 1772 3729 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CLT6 1815 3606 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CLU1 1838 3729 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CLY1 1786 3606 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CLY6 1833 3606 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CLY7 1849 3729 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  V6CLZ1 1804 3606 | Sodium leak channel NALCN (Sodium leak channel non-selective protein) 
+  B5MBW2 1763 3757 | Ion transport domain-containing protein
