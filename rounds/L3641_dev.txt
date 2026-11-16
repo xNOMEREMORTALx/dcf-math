@@ -1,0 +1,33 @@
+WLOOP human WDR87 2873 None ETRKSWKAWKEE | 
+WLOOP mouse Notch4 1964 None LCPKTWKGWDCS | 
+WLOOP mouse Frem1 2191 None CDGISWKAWSPQ | 
+WLOOP mouse Ctnnd2 1246 None LAAGSWKGWAED | 
+WLOOP zebrafish gcdhb 1405 None EKESSWKAWISS | 
+WLOOP zebrafish usp45 803 None ISLTTWKAWCFE | 
+WLOOP cteno.tsv.gz A0ACF8XGZ1|Mnemiopsis leidyi 1526 None NSLLSWKGWLVL | Acyltransferase 3 domain-containing protein
+WLOOP cteno.tsv.gz A0ACF8ZI54|Mnemiopsis leidyi 996 None NAFLSWKGWLPV | Uncharacterized protein
+WLOOP bil.tsv.gz A0A1S3IP94|Lingula anatina 2077 None GMPGTWKAWLVD | Disks large homolog 5
+WLOOP bil.tsv.gz A0A7M7P3R9|Strongylocentrotus pur 849 None KVRGSWKGWTKL | Oxysterol-binding protein
+WLOOP bil.tsv.gz A0A1S3HJD4|Lingula anatina 1420 None TMGVTWKGWRKY | Protein SFI1 homolog
+WLOOP bil.tsv.gz A0A7M7N1W7|Strongylocentrotus pur 1891 None VKGLTWKGWEPG | Uncharacterized protein
+WLOOP bil.tsv.gz A0ABM0MKK9|Saccoglossus kowalevsk 1852 None VEGVTWKGWEPG | Cilia- and flagella-associated protein 65-like
+WLOOP bil.tsv.gz A0ACM8C5Y9|Saccoglossus kowalevsk 1592 None NAVLSWKAWIPI | Uncharacterized protein LOC100368914
+WLOOP bil.tsv.gz N1PB86|Capitella teleta 843 None QPVLTWKGWQFI | Nucleoside phosphorylase domain-containing protein
+WLOOP oc.tsv.gz A0A9J7MDI9|Branchiostoma floridae 1122 None VHWDTWKGWSYT | Uncharacterized protein LOC118431516
+WLOOP nn.tsv.gz A0A9F1U407|Halisarca dujardinii 4618 None RNDKSWKAWFDS | Axonemal dynein heavy chain B
+WLOOP nn.tsv.gz A0A9F1UC87|Halisarca dujardinii 4623 None RNDKSWKAWFDS | Axonemal dynein heavy chain C
+WLOOP nn.tsv.gz A0AA35RSF1|Geodia barretti 4608 None RNDKSWKAWFDT | Dynein heavy chain 5, axonemal
+WLOOP nn.tsv.gz A0AAV7JD22|Oopsacas minuta 1542 None EDYLTWKGWKDR | ATP-dependent helicase brm isoform X2
+WLOOP bat.tsv.gz A0A0D2WPV8|Capsaspora owczarzaki 814 None RTALSWKGWMYQ | Carnitine O-acyltransferase
+WLOOP bat.tsv.gz A0ABM4BYN7|Hydra vulgaris 1042 None ESKKTWKGWTEE | Uncharacterized protein LOC136080890
+FRAG limulus.tsv.gz A0ABM1SIX9|Limulus polyphemus 1455 5 TFKGW | Sodium channel protein
+WLOOP limulus.tsv.gz A0ABM1TM05|Limulus polyphemus 806 None YGEQSWKAWPLC | Uncharacterized protein LOC106471630
+FRAG mite.tsv.gz C5IFI9|Tetranychus urticae 1068 4 TFKGW | Voltage-gated sodium channel alpha subunit isoform l
+FRAG mite.tsv.gz C5IFJ1|Tetranychus urticae 1068 4 TFKGW | Voltage-gated sodium channel alpha subunit isoform l
+FRAG mite.tsv.gz C5IFJ3|Tetranychus urticae 1068 4 TFKGW | Voltage-gated sodium channel alpha subunit isoform k
+FRAG mite.tsv.gz C5IFJ5|Tetranychus urticae 1068 4 TFKGW | Voltage-gated sodium channel alpha subunit isoform k
+FRAG mite.tsv.gz C5IFJ6|Tetranychus urticae 1068 4 TFKGW | Voltage-gated sodium channel alpha subunit isoform k
+FRAG mite.tsv.gz D3JU69|Tetranychus urticae 1034 4 TFKGW | Voltage-gated sodium channel alpha subunit
+FRAG mite.tsv.gz C5IFJ2|Tetranychus urticae 1068 4 TFKGW | Voltage-gated sodium channel alpha subunit isoform l
+WLOOP priap.tsv.gz A0ABM1DYP7|Priapulus caudatus 2027 Na LQVATWKGWITI | Sodium channel protein
+FRAG dimorph.tsv.gz A0A7I8V7K0|Dimorphilus gyrociliat 923 4 TFKGW | Sodium channel protein

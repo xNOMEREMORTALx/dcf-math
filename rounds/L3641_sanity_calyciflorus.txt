@@ -1,0 +1,16 @@
+### rotifer.tsv.gz
+ratio Brachionus calyciflorus proteins 24535 channels 29 pumps 15 ratio 1.93
+CH A0A2Z4EUN5 2989 cand nearest Scn5a 64
+CH A0A813PCI1 3081 cand nearest Scn5a 64
+CH A0A813PH78 3037 cand nearest Scn5a 64
+CH A0A813M7M3 1841 cand nearest Nalcn 4263
+CH A0A813MDY4 1892 cand nearest Nalcn 3887
+CH A0A813MKV0 1847 cand nearest Nalcn 4198
+CH A0A813NVL2 2184 cand nearest Cacna1c 2997
+CH A0A813RQ25 1362 cand nearest Scn1a 91
+CH A0A813RVW5 1939 cand nearest Scn1a 91
+CH A0A813RZZ3 1930 cand nearest Scn1a 91
+CH A0A813S2Z5 1574 Na nearest Scn3a 2690
+CH A0A813WZW3 2002 cand nearest Cacna1d 4285
+CH A0A813X657 2003 cand nearest Cacna1d 4285
+CH A0A814CD25 2015 cand nearest Cacna1h 2836

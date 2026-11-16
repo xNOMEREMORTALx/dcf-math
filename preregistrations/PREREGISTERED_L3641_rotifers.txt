@@ -1,0 +1,14 @@
+PRE-REGISTRATION L3641: blind test of the partial-sodium-channel rule and of multiple NALCN copies, in two unseen rotifers.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before either file is downloaded.
+Development (rounds/L3641_dev.txt, all sets seen): Na_partial (800-1499 aa, >= 4 S4 matches, v3 lysine loop, not a v3 Na call) fires on 9 proteins,
+ all named sodium channels (7 spider mite, 1 horseshoe crab, 1 Dimorphilus). [TS]WK[GA]W: 24 proteins >= 800 aa; only the priapulid channel is a channel call.
+Sanity run on the seen rotifer B. calyciflorus (not a test): 1 Na, 3 nearest-Nalcn candidates, ratio 1.93.
+Script: rounds/dcf_l3641_blind.py (dcf_nerve v3, battery v3, local aligner; reference set mouse Scn*, Cacna1*, Nalcn).
+Data: UniProt TSV (accession, organism_name, protein_name, sequence) by proteome:
+ Brachionus plicatilis UP000276133 (monogont rotifer, like B. calyciflorus); Adineta ricciae UP000663828 (bdelloid rotifer).
+ Disclosure: bdelloids are degenerate tetraploids, so gene copies are often doubled; this makes N1b easier.
+ F1  Precision: every Na_partial call in the two files is nearest (local) a mouse Scn*. Ungradeable if 0 calls.
+ F2a B. plicatilis >= 1 call of Na or Na_partial.   F2b A. ricciae >= 1 call of Na or Na_partial.
+ N1a B. plicatilis >= 2 proteins nearest Nalcn.     N1b A. ricciae >= 2 proteins nearest Nalcn.
+ B1  B. plicatilis ratio > 1.8.                     B2  A. ricciae ratio > 1.8.
+ Void per file if < 5,000 proteins.

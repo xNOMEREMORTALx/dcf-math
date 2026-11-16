@@ -211,3 +211,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_nerve_v3_L3633.py | `cbff0fd7e1e1d16d8fe8acbd194f6016bacc47f915457eebcdae587773898d61` |
 | rounds/dcf_battery_v3_L3633.py | `f599c60b9b7377056150ccc8deaf895d98aed89ced3cb21860fc4c6f7a6636af` |
 | rounds/dcf_l3633_blind.py | `861c29dab3b82a40ebb8aaf3f53827d15f8dfe99a4318ef6787e4dfc8a248ffc` |
+| PREREGISTERED_L3641_rotifers.txt | `9cdf579e267fb97df6892ba712ac80c0979dc1dd3c8b91a3c4cd1630dc962387` |
+| rounds/dcf_l3641_blind.py | `55acd87667c39952322640194286f2101a5f527ab7c900cc5e89fa7cf283fb95` |
