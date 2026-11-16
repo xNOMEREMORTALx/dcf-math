@@ -1,0 +1,56 @@
+computed human 0 0
+computed mouse 1 1
+computed zebrafish 2 2
+computed chicken 1 1
+computed fly 1 1
+computed Limulus polyphemus 8 8
+computed Tetranychus urticae 2 2
+computed Priapulus caudatus 1 1
+computed Dimorphilus gyrociliatus 1 1
+computed Helobdella robusta 0 0
+computed Brachionus calyciflorus 1 1
+computed Brachionus plicatilis 1 1
+computed Adineta ricciae 4 4
+computed Caenorhabditis elegans 1 1
+ORGANISM                         NR1 no floor NR1 floor 1000
+Amphimedon queenslandica              0            0 
+Aplysia californica                   4            4 
+Branchiostoma floridae                1            1 
+Capitella teleta                      1            1 
+Capsaspora owczarzaki                 0            0 
+Ciona intestinalis                    0            0 
+Ephydatia muelleri                    0            0 
+Geodia barretti                       0            0 
+Hofstenia miamia                      3            2   <-- changes
+Hydra vulgaris                        3            3 
+Hypsibius exemplaris                  1            1 
+Lingula anatina                       1            1 
+Mnemiopsis leidyi                     0            0 
+Monosiga brevicollis                  0            0 
+Nematostella vectensis                1            1 
+Oopsacas minuta                       0            0 
+Ramazzottius varieornatus             2            2 
+Saccoglossus kowalevskii              2            2 
+Salpingoeca rosetta                   0            0 
+Strongylocentrotus purpuratus         0            0 
+Trichoplax adhaerens                  0            0 
+Trichoplax sp. H2                     0            0 
+sphaero                               0            0 
+stylo                                 2            1   <-- changes
+schisto                               1            0   <-- changes
+daphnia                               1            1 
+acanth                                1            1 
+human                                 0            0 
+mouse                                 1            1 
+zebrafish                             2            2 
+chicken                               1            1 
+fly                                   1            1 
+Limulus polyphemus                    8            8 
+Tetranychus urticae                   2            2 
+Priapulus caudatus                    1            1 
+Dimorphilus gyrociliatus              1            1 
+Helobdella robusta                    0            0 
+Brachionus calyciflorus               1            1 
+Brachionus plicatilis                 1            1 
+Adineta ricciae                       4            4 
+Caenorhabditis elegans                1            1 

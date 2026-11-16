@@ -1,11 +1,11 @@
 # Reader brief: "Reading the metal chemistry of nervous systems from sequence alone"
-### Gary NOMEREMORTAL Mason (ORCID 0009-0008-9235-4493) · draft v0.19 · code and data DOI 10.5281/zenodo.24234795
+### Gary NOMEREMORTAL Mason (ORCID 0009-0008-9235-4493) · draft v0.20 · code and data DOI 10.5281/zenodo.24234795
 
 **What it claims, in one paragraph.**
 - **The rules:** a handful of short, readable sequence rules sort nerve channels and pumps by the metal ion they pass (K⁺, Na⁺, Ca²⁺, Cu), straight from mRNA or protein. The rules read the selectivity loops: T-V-G-Y-G, the DEKA lysine, the EEEE/EEDD calcium ring, and the P-E-G-L pump loop.
 - **How they were tested:** every rule was hashed and frozen before each blind test, and tool output was committed before any label was read.
 - **The results:**
-  - **overall:** **145 of 176 pre-registered predictions passed** in 28 blind tests, from protists and sponges to vertebrates (mouse, zebrafish, chicken, fruit fly, nematode, all other animals in Swiss-Prot, ~25,000 TrEMBL channels, early animals, and single proteomes of 20+ invertebrates);
+  - **overall:** **149 of 181 pre-registered predictions passed** in 29 blind tests, from protists and sponges to vertebrates (mouse, zebrafish, chicken, fruit fly, nematode, all other animals in Swiss-Prot, ~25,000 TrEMBL channels, early animals, and single proteomes of 20+ invertebrates);
   - **against UniProt's independent classification:** 345 of 351 calls agree.
 - **Newer findings (v0.15–v0.17):**
   - the NMDA receptor's NR1 subunit first appears in cnidarians (§3.15);
@@ -15,11 +15,11 @@
 
 **What I would like from you (three questions).**
 1. Is any biological claim wrong or overstated? See especially §3.9 (E→K history), §3.11 (comb-jelly Shaker expansion), §3.16 (sodium loss twice) and §3.19 (NALCN rings).
-2. Is the pre-registration convincing? The ledger, the hash-before-data rule, and the "failures stand" rule (all 31 failures are listed, plus two grading issues disclosed in §3.17).
+2. Is the pre-registration convincing? The ledger, the hash-before-data rule, and the "failures stand" rule (all 32 failures are listed, plus two grading issues disclosed in §3.17).
 3. Should this be one paper or two (a methods paper, and an evolution paper on E→K, NR1, sodium loss and NALCN)? Which journal would fit? Candidates: Genome Biology and Evolution, Molecular Biology and Evolution (brief communication), PeerJ.
 
 **Where everything is.**
-- **Draft:** `notes/Manuscript_nerve_metals_draft_v0.19.md` (ten figures in `figures/`; publication-resolution copies in `figures/publication/`).
+- **Draft:** `notes/Manuscript_nerve_metals_draft_v0.20.md` (ten figures in `figures/`; publication-resolution copies in `figures/publication/`).
 - **Every test:** `preregistrations/` (frozen texts and LEDGER.md) and `rounds/` (reports and grade outputs).
 - **Tools:** dcf-genefinder (DOI 10.5281/zenodo.24234986): `dcf_nerve.py`, `dcf_pump.py`, `dcf_align.py`, `dcf_localalign.py`.
 
