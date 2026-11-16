@@ -1,0 +1,35 @@
+leech ratio 2.77 Na calls 5
+dimorph ratio 3.78 Na calls 0
+rotifer ratio 1.93 Na calls 1
+R7: 0 of 6 Na calls nearest Scn
+RESULT [('R1', 'PASS'), ('R2', 'FAIL'), ('R3', 'PASS'), ('R4', 'PASS'), ('R5', 'PASS'), ('R6', 'PASS'), ('R7', 'FAIL')]
+--- descriptive after grading
+## leech
+  T1F3E3       2301 call=CaT  S4=5 rings=4 loops=[] nearest Cacna1g   1956 | Ion transport domain-containing protein
+  T1EEX7       1792 call=Na   S4=5 rings=1 loops=['TFKGW'] nearest Scn4a     3311 | Sodium channel protein
+  T1EGM2       1864 call=Na   S4=5 rings=1 loops=['TFKGW'] nearest Scn9a     3542 | Sodium channel protein
+  T1EGM4       1408 call=None S4=2 rings=4 loops=[] nearest Cacna1s   3020 | Voltage-dependent calcium channel type A subunit a
+  T1EHR1       1602 call=Ca   S4=2 rings=4 loops=[] nearest Cacna1c   3208 | Voltage-dependent calcium channel type A subunit a
+  T1EHR3       1563 call=Ca   S4=1 rings=4 loops=['TFEGW'] nearest Cacna1c   4357 | Voltage-dependent L-type calcium channel subunit a
+  T1EKC2       1572 call=CaT  S4=5 rings=4 loops=[] nearest Cacna1g   2291 | Ion transport domain-containing protein
+  T1ELQ3       1645 call=None S4=0 rings=3 loops=[] nearest Nalcn     4145 | Ion transport domain-containing protein
+  T1FXW1       1823 call=Na   S4=5 rings=1 loops=['TFKGW'] nearest Scn9a     3265 | Sodium channel protein
+  T1FYK0       1581 call=CaT  S4=5 rings=3 loops=[] nearest Cacna1g   2141 | Ion transport domain-containing protein
+  T1FZJ7       1616 call=None S4=4 rings=2 loops=[] nearest Cacna1s   2690 | Voltage-dependent L-type calcium channel subunit a
+  T1G0H5       1722 call=Na   S4=5 rings=1 loops=['TFKGW'] nearest Scn8a     3258 | Sodium channel protein
+  T1G1F3       1418 call=None S4=2 rings=4 loops=[] nearest Cacna1c   2991 | Voltage-dependent calcium channel alpha-1 subunit 
+  T1G7B6       1792 call=Na   S4=5 rings=3 loops=['TFKGW'] nearest Scn8a     2834 | Sodium channel protein
+## dimorph
+  A0A7I8V7K0    923 call=None S4=4 rings=0 loops=['TFKGW'] nearest Scn2a     2052 | Sodium channel protein
+  A0A7I8VIC0   1331 call=None S4=0 rings=3 loops=['TFEGW'] nearest Cacna1c   2932 | DgyrCDS4403
+  A0A7I8W837   1226 call=None S4=5 rings=1 loops=['TFEGW'] nearest Scn3a     2594 | Sodium channel protein
+## rotifer
+  A0A813M7M3   1841 call=None S4=0 rings=3 loops=[] nearest Nalcn     4263 | Ion transport domain-containing protein
+  A0A813MDY4   1892 call=None S4=0 rings=4 loops=[] nearest Nalcn     3887 | Ion transport domain-containing protein
+  A0A813MKV0   1847 call=None S4=0 rings=4 loops=[] nearest Nalcn     4198 | Ion transport domain-containing protein
+  A0A813NSF5   1208 call=None S4=1 rings=3 loops=[] nearest Cacna1a   2146 | Voltage-dependent L-type calcium channel subunit a
+  A0A813NVL2   2184 call=Ca   S4=2 rings=4 loops=[] nearest Cacna1c   2997 | Voltage-dependent calcium channel type A subunit a
+  A0A813S2Z5   1574 call=Na   S4=5 rings=1 loops=['TFKGW'] nearest Scn3a     2690 | Sodium channel protein
+  A0A813WZW3   2002 call=Ca   S4=2 rings=5 loops=['TFEGW'] nearest Cacna1c   4215 | Voltage-dependent L-type calcium channel subunit a
+  A0A813X657   2003 call=Ca   S4=2 rings=5 loops=['TFEGW'] nearest Cacna1c   4215 | Voltage-dependent L-type calcium channel subunit a
+  A0A814CD25   2015 call=CaT  S4=5 rings=4 loops=[] nearest Cacna1g   2747 | Ion transport domain-containing protein
