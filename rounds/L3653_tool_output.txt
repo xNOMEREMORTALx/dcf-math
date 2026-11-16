@@ -1,0 +1,64 @@
+control mouse Nalcn ring: EEKE
+ORG human                        NALCN 0 rings []
+ORG mouse                        NALCN 1 rings ['EEKE']
+    Nalcn 1739 9055 EEKE
+ORG zebrafish                    NALCN 1 rings ['EEKE']
+    nalcn 1768 7997 EEKE
+ORG chicken                      NALCN 1 rings ['EEKE']
+    NALCN 1738 8678 EEKE
+ORG fly                          NALCN 1 rings ['EEKE']
+    na 2233 4751 EEKE
+ORG Amphimedon queenslandica     NALCN 2 rings ['EEEE']
+    A0A1X7UFQ1 1809 1050 EEEE
+    A0AAN0J3Y7 1809 1028 EEEE
+ORG Nematostella vectensis       NALCN 2 rings ['EDEE', 'EEEE']
+    A7RTZ7 1570 3355 EDEE
+    A7RTZ8 1557 3376 EEEE
+ORG Monosiga brevicollis         NALCN 0 rings []
+ORG Trichoplax adhaerens         NALCN 0 rings []
+ORG Mnemiopsis leidyi            NALCN 0 rings []
+ORG Saccoglossus kowalevskii     NALCN 0 rings []
+ORG Lingula anatina              NALCN 2 rings ['EKEE']
+    A0A1S3HM10 1676 4889 EKEE
+    A0A2R2MM01 1757 4889 EKEE
+ORG Strongylocentrotus purpuratu NALCN 4 rings ['EKEE']
+    A0A7M7NPU0 1765 4599 EKEE
+    A0A7M7NKG3 1760 4620 EKEE
+    A0A7M7SX48 1763 4609 EKEE
+    A0A7M7SX55 1753 4599 EKEE
+ORG Capitella teleta             NALCN 1 rings ['EKEE']
+    R7ULW3 1686 4552 EKEE
+ORG Ciona intestinalis           NALCN 0 rings []
+ORG Branchiostoma floridae       NALCN 1 rings ['EEEE']
+    A0A9J7KKG7 1668 4970 EEEE
+ORG Capsaspora owczarzaki        NALCN 0 rings []
+ORG Hypsibius exemplaris         NALCN 1 rings ['EEKE']
+    A0A1W0XEA0 1763 4475 EEKE
+ORG Hydra vulgaris               NALCN 2 rings ['EEEE']
+    A0ABM4BM93 1774 2674 EEEE
+    T2MA95 1771 2684 EEEE
+ORG Aplysia californica          NALCN 1 rings ['EKEE']
+    A0ABM0ZUK7 1614 3464 EKEE
+ORG Salpingoeca rosetta          NALCN 0 rings []
+ORG Ramazzottius varieornatus    NALCN 1 rings ['EEKE']
+    A0A1D1UFD6 1748 4573 EEKE
+ORG Limulus polyphemus           NALCN 0 rings []
+ORG Tetranychus urticae          NALCN 1 rings ['EEKE']
+    T1KM99 1890 4593 EEKE
+ORG Priapulus caudatus           NALCN 0 rings []
+ORG Dimorphilus gyrociliatus     NALCN 1 rings ['EKEE']
+    A0A7I8VLM2 1713 4252 EKEE
+ORG Helobdella robusta           NALCN 1 rings ['EEEE']
+    T1ELQ3 1645 4145 EEEE
+ORG Brachionus calyciflorus      NALCN 3 rings ['EEEE', 'EKEE']
+    A0A813M7M3 1841 4263 EKEE
+    A0A813MDY4 1892 3887 EKEE
+    A0A813MKV0 1847 4198 EEEE
+ORG Brachionus plicatilis        NALCN 1 rings ['EKEE']
+    A0A3M7STL5 1883 3901 EKEE
+ORG Adineta ricciae              NALCN 2 rings ['EKEE']
+    A0A814EKK9 1730 4313 EKEE
+    A0A815B8G0 1730 4321 EKEE
+ORG Hofstenia miamia             NALCN 2 rings ['EEEE', 'EEKE']
+    HMIM021959 1671 3815 EEKE
+    HMIM007133 1661 3421 EEEE
