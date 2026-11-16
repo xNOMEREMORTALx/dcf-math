@@ -1,0 +1,59 @@
+### sphaero
+ratio Sphaeroforma arctica JP610 proteins 18649 channels 4 pumps 3 ratio 1.33
+KIT absent NR1 0 Na 0 Na_partial 0
+### stylo
+ratio Stylophora pistillata proteins 23873 channels 76 pumps 4 ratio 19.00
+IGLUR A0A2B4RMV7 1484 nearest Grin1 553
+IGLUR A0A2B4SII4 917 nearest Grin1 2196
+IGLUR A0A2B4RME9 917 nearest Grik2 640
+IGLUR A0A2B4S6N7 2250 nearest Grik2 694
+IGLUR A0A2B4S9H8 715 nearest Gria4 740
+IGLUR A0A2B4S9T9 816 nearest Gria1 720
+IGLUR A0A2B4SD47 839 nearest Grik1 698
+IGLUR A0A2B4SDY4 719 nearest Gria4 750
+IGLUR A0A2B4SE38 827 nearest Gria4 778
+IGLUR A0A2B4SEQ4 815 nearest Gria4 609
+IGLUR A0A2B4SXH0 1438 nearest Grik2 843
+IGLUR A0A2B4RL74 1144 nearest Grik3 316
+IGLUR A0A2B4SLR4 350 nearest Gria3 359
+KIT present NR1 2 Na 0 Na_partial 0
+### schisto
+ratio Schistosoma mansoni proteins 10766 channels 30 pumps 10 ratio 3.00
+IGLUR A0A3Q0KNA6 1009 nearest Grik3 1022
+IGLUR A0A3Q0KPB7 1124 nearest Grik3 1454
+IGLUR A0A3Q0KPC6 1472 nearest Grin2a 842
+IGLUR A0A3Q0KQ55 1098 nearest Grik3 1296
+IGLUR A0A5K4F3J7 1185 nearest Grin1 941
+KIT present NR1 1 Na 0 Na_partial 0
+### daphnia
+ratio Daphnia pulex proteins 30137 channels 20 pumps 8 ratio 2.50
+IGLUR E9H8K2 1046 nearest Grin1 2046
+IGLUR E9FS57 915 nearest Grik2 1785
+IGLUR E9G2B0 942 nearest Grik3 557
+IGLUR E9H9V9 897 nearest Grik2 1822
+IGLUR E9FV73 937 nearest Grin2b 1192
+NA E9GGF2 2057
+IGLUR E9GR11 452 nearest Grin2c 314
+IGLUR E9GR23 362 nearest Grin2a 469
+IGLUR E9GVY0 866 nearest Grik2 1963
+IGLUR E9GVY3 912 nearest Grik2 1903
+IGLUR E9H8R8 906 nearest Gria4 1769
+KIT present NR1 1 Na 1 Na_partial 0
+### acanth
+ratio Acanthaster planci proteins 25685 channels 57 pumps 13 ratio 4.38
+IGLUR A0A8B7XXR5 958 nearest Grid1 1031
+IGLUR A0A8B7XXS1 910 nearest Grik2 1005
+IGLUR A0A8B7XZB8 973 nearest Gria4 1730
+IGLUR A0A8B7XZJ3 925 nearest Grid1 1031
+IGLUR A0A8B7Y062 951 nearest Grid1 1031
+IGLUR A0A8B7Y136 932 nearest Grid1 1031
+IGLUR A0A8B7Y150 808 nearest Gria4 1700
+IGLUR A0A8B7Y1S9 846 nearest Gria4 1700
+IGLUR A0A8B7Y2U9 986 nearest Gria4 1728
+IGLUR A0A8B7ZCV1 900 nearest Grik1 1929
+IGLUR A0A8B7ZCV5 902 nearest Grik1 1864
+IGLUR A0A8B7ZPT7 1191 nearest Grin3a 1055
+IGLUR A0A8B8A3N6 952 nearest Grin1 1996
+IGLUR A0A8B7XZA3 906 nearest Gria4 1447
+IGLUR A0A8B7XZA6 924 nearest Gria4 1447
+KIT present NR1 1 Na 0 Na_partial 0
