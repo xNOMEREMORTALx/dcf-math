@@ -1,0 +1,13 @@
+PRE-REGISTRATION L3653: NALCN selectivity rings across the tree, tested against Senatore et al. 2013 (PLoS ONE 8:e55088-type report; PMC3557258).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 15 November 2026. Frozen before rounds/dcf_nalcn_ring_L3653.py is run.
+Source claims (read before freezing): one NALCN gene with mutually exclusive exons; Domain II EEEE/EKEE in flatworms, molluscs, annelids,
+ echinoderms, hemichordates; Domain III EEEE/EEKE in arthropods such as myriapods and chelicerates; nematodes, insects, chordates lack the
+ alternative pairs; vertebrates EEKE only. Seen before freezing: only the three B. calyciflorus entries (L3649: EKEE- and EEEE-type words).
+Method: script docstring. Ring read as 4 letters DI..DIV. UniProt usually lists one isoform per gene, so absence of a variant is weak evidence.
+ Q1 Chordates (human, zebrafish, chicken, lancelet, Ciona; mouse is the control and not counted): every NALCN entry reads E-E-K-E.
+ Q2 Spiralians + ambulacrarians (Aplysia, Capitella, Lingula, Helobdella, Dimorphilus, B. plicatilis, B. calyciflorus, Adineta, sea urchin, Saccoglossus):
+    no NALCN entry has K in Domain III (all are E-K-E-E or E-E-E-E).
+ Q3 Same group: an E-K-E-E entry occurs in >= 3 organisms.
+ Q4 Chelicerates (Limulus, Tetranychus): no NALCN entry has K in Domain II.
+ Q5 Fly and worm: every NALCN entry reads E-E-K-E (my expectation; the source says only that they lack alternative pairs).
+ Ungradeable if the group has no NALCN call. Descriptive only: priapulid, tardigrades, acoel, non-bilaterians.
