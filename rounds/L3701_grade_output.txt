@@ -1,0 +1,8 @@
+L3701 grading (rounds/L3701_tool_output.txt). Opisthorchis file missing from Gary's zip: G2 VOID (dropped, not replaced).
+G1 Clonorchis 0 NAV-family: 0: PASS
+G2 Opisthorchis: VOID (file missing)
+G3 Paragonimus 0 NAV-family: 0: PASS
+G4 Taenia >= 1 NAV-family: 1: PASS
+G5 Hymenolepis >= 1 NAV-family: 0: FAIL
+G6 NR1 (floor 941) in >= 3 of the 5: Clonorchis 1, Paragonimus 0, Taenia 0, Hymenolepis 0 (Opisthorchis void) = 1: FAIL
+RESULT [('G1', 'PASS'), ('G2', 'ungradeable'), ('G3', 'PASS'), ('G4', 'PASS'), ('G5', 'FAIL'), ('G6', 'FAIL')]
