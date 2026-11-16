@@ -1,0 +1,53 @@
+refs {'P50077': 2039, 'Q8IZF0': 1738} | human NALCN ring EEKE
+Part C: NALCN hits found again 32 of 32
+C mouse                        Nalcn        Cch1   451 Nalcn  9055 nearer Nalcn
+C zebrafish                    nalcn        Cch1   454 Nalcn  7997 nearer Nalcn
+C chicken                      NALCN        Cch1   457 Nalcn  8678 nearer Nalcn
+C fly                          na           Cch1   472 Nalcn  4751 nearer Nalcn
+C Amphimedon queenslandica     A0A1X7UFQ1   Cch1   260 Nalcn  1050 nearer Nalcn
+C Amphimedon queenslandica     A0AAN0J3Y7   Cch1   247 Nalcn  1028 nearer Nalcn
+C Nematostella vectensis       A7RTZ7       Cch1   421 Nalcn  3355 nearer Nalcn
+C Nematostella vectensis       A7RTZ8       Cch1   430 Nalcn  3376 nearer Nalcn
+C Lingula anatina              A0A1S3HM10   Cch1   400 Nalcn  4889 nearer Nalcn
+C Lingula anatina              A0A2R2MM01   Cch1   400 Nalcn  4889 nearer Nalcn
+C Strongylocentrotus purpuratu A0A7M7NPU0   Cch1   433 Nalcn  4599 nearer Nalcn
+C Strongylocentrotus purpuratu A0A7M7NKG3   Cch1   433 Nalcn  4620 nearer Nalcn
+C Strongylocentrotus purpuratu A0A7M7SX48   Cch1   433 Nalcn  4609 nearer Nalcn
+C Strongylocentrotus purpuratu A0A7M7SX55   Cch1   433 Nalcn  4599 nearer Nalcn
+C Capitella teleta             R7ULW3       Cch1   440 Nalcn  4552 nearer Nalcn
+C Branchiostoma floridae       A0A9J7KKG7   Cch1   449 Nalcn  4970 nearer Nalcn
+C Hypsibius exemplaris         A0A1W0XEA0   Cch1   431 Nalcn  4475 nearer Nalcn
+C Hydra vulgaris               A0ABM4BM93   Cch1   470 Nalcn  2674 nearer Nalcn
+C Hydra vulgaris               T2MA95       Cch1   478 Nalcn  2684 nearer Nalcn
+C Aplysia californica          A0ABM0ZUK7   Cch1   392 Nalcn  3464 nearer Nalcn
+C Ramazzottius varieornatus    A0A1D1UFD6   Cch1   440 Nalcn  4573 nearer Nalcn
+C Tetranychus urticae          T1KM99       Cch1   504 Nalcn  4593 nearer Nalcn
+C Dimorphilus gyrociliatus     A0A7I8VLM2   Cch1   391 Nalcn  4252 nearer Nalcn
+C Helobdella robusta           T1ELQ3       Cch1   259 Nalcn  4145 nearer Nalcn
+C Brachionus calyciflorus      A0A813M7M3   Cch1   491 Nalcn  4263 nearer Nalcn
+C Brachionus calyciflorus      A0A813MDY4   Cch1   491 Nalcn  3887 nearer Nalcn
+C Brachionus calyciflorus      A0A813MKV0   Cch1   491 Nalcn  4198 nearer Nalcn
+C Brachionus plicatilis        A0A3M7STL5   Cch1   483 Nalcn  3901 nearer Nalcn
+C Adineta ricciae              A0A814EKK9   Cch1   450 Nalcn  4313 nearer Nalcn
+C Adineta ricciae              A0A815B8G0   Cch1   454 Nalcn  4321 nearer Nalcn
+C Hofstenia miamia             HMIM021959   Cch1   411 Nalcn  3815 nearer Nalcn
+C Hofstenia miamia             HMIM007133   Cch1   405 Nalcn  3421 nearer Nalcn
+Part W: C. elegans proteins 26620
+W Q688B2 1861 3729 EEKE
+W Q688B3 1767 3606 EEKE
+W Q688B4 1827 3606 EEKE
+W Q8MXH5 1801 3729 EEKE
+W V6CKM5 1867 3729 EEKE
+W G5EDM1 1785 3757 EEKE
+W U4PCH9 1798 3606 EEKE
+W U4PMX5 1738 3606 EEKE
+W V6CJF5 1832 3729 EEKE
+W V6CJF9 1820 3729 EEKE
+W V6CKL6 1772 3729 EEKE
+W V6CLT6 1815 3606 EEKE
+W V6CLU1 1838 3729 EEKE
+W V6CLY1 1786 3606 EEKE
+W V6CLY6 1833 3606 EEKE
+W V6CLY7 1849 3729 EEKE
+W V6CLZ1 1804 3606 EEKE
+W B5MBW2 1763 3757 EEKE
