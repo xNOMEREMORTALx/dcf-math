@@ -1,0 +1,16 @@
+L3653 grading (from rounds/L3653_tool_output.txt; control mouse Nalcn ring EEKE)
+Q1 chordates (human 0 calls, zebrafish EEKE, chicken EEKE, lancelet EEEE, Ciona 0 calls): FAIL (lancelet A0A9J7KKG7 reads EEEE)
+Q2 spiralians+ambulacrarians, no K in DIII: Lingula EKEE x2, sea urchin EKEE x4, Capitella EKEE, Aplysia EKEE, Dimorphilus EKEE, Helobdella EEEE,
+   B. calyciflorus EEEE/EKEE (3), B. plicatilis EKEE, Adineta EKEE x2, Saccoglossus 0 calls: PASS (15 entries, none EEKE)
+Q3 EKEE in >= 3 organisms of that group: 8 (Lingula, sea urchin, Capitella, Aplysia, Dimorphilus, B. calyciflorus, B. plicatilis, Adineta): PASS
+Q4 chelicerates, no K in DII: Tetranychus EEKE; Limulus 0 calls: PASS (graded on the mite alone)
+Q5 fly and worm EEKE: fly EEKE; worm set 4,487 proteins < 5,000, skipped by the frozen size rule: PASS (graded on the fly alone)
+RESULT [('Q1', 'FAIL'), ('Q2', 'PASS'), ('Q3', 'PASS'), ('Q4', 'PASS'), ('Q5', 'PASS')]
+--- descriptive after grading
+P6 worm proteins: 4487 | human: 9718
+Branchiostoma A0A9J7KKG7 1668 ['SQEGW', 'TQEGW', 'SLEGW', 'TGEDW'] | Sodium leak channel non-selective protein-like
+Hydra A0ABM4BM93 1774 ['SMEGW', 'SLEGW', 'TGEDW'] | Calcium-channel protein CCH1
+Hydra T2MA95 1771 ['SMEGW', 'SLEGW', 'TGEDW'] | Calcium-channel protein CCH1
+Amphimedon A0A1X7UFQ1 1809 ['TLELW', 'TLEGW', 'TGEDW'] | Ion transport domain-containing protein
+Amphimedon A0AAN0J3Y7 1809 ['TLELW', 'TLEGW', 'TGEDW'] | Ion transport domain-containing protein
+mouse ['SQEGW', 'TQEGW', 'SLKGW', 'TGEDW']
