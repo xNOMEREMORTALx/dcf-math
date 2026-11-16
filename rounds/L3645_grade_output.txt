@@ -1,0 +1,30 @@
+B. plicatilis (a.gz): ratio 2.57 Na 0 Na_partial 1 nearest-Nalcn 1 (score>=1000: 1)
+A. ricciae   (b.gz): ratio 3.04 Na 5 Na_partial 0 nearest-Nalcn 5 (score>=1000: 2)
+Disclosure: the frozen NALCN count has no score floor; graded literally. With a floor of 1000 the outcomes are the same.
+RESULT [('F1', 'PASS'), ('F2a', 'PASS'), ('F2b', 'PASS'), ('N1a', 'FAIL'), ('N1b', 'PASS'), ('B1', 'PASS'), ('B2', 'PASS')]
+--- descriptive after grading: names of hits with score >= 1000
+## Brachionus plicatilis
+  A0A3M7P5C0   1497 Na_partial nearest Scn1a     1909 | Sodium channel protein
+  A0A3M7PI78   2232 cand       nearest Cacna1g   2848 | Voltage-dependent T-type calcium channel subunit alpha
+  A0A3M7STL5   1883 cand       nearest Nalcn     3901 | Sodium leak channel non-selective
+  names with NALCN / sodium leak: [('A0A3M7STL5', 'Sodium leak channel non-selective')]
+## Adineta ricciae
+  A0A815SXD4   2160 cand       nearest Cacna1c   2801 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0A815TJQ8   2184 cand       nearest Cacna1c   2789 | Voltage-dependent calcium channel type A subunit alpha-1
+  A0A814ANF8   1596 Na         nearest Scn4a     2915 | Sodium channel protein
+  A0A814EKK9   1730 cand       nearest Nalcn     4313 | Ion transport domain-containing protein
+  A0A814H2E8   1511 Na         nearest Scn3a     2795 | Ion transport domain-containing protein
+  A0A814IU89   1589 Na         nearest Scn4a     2932 | Sodium channel protein
+  A0A814K322   1479 cand       nearest Scn3a     2628 | Ion transport domain-containing protein
+  A0A814L8D7   1885 cand       nearest Cacna1i   1889 | Uncharacterized protein
+  A0A815B8G0   1730 cand       nearest Nalcn     4321 | Ion transport domain-containing protein
+  A0A815I6Q7   1788 cand       nearest Cacna1c   2254 | EF-hand domain-containing protein
+  A0A815IEE8   1785 cand       nearest Cacna1c   2463 | EF-hand domain-containing protein
+  A0A815SDI1   1905 cand       nearest Cacna1i   2154 | Uncharacterized protein
+  A0A815ZMM9   1866 Na         nearest Scn3a     3470 | Sodium channel protein
+  A0A815ZS69   1836 Na         nearest Scn3a     3387 | Sodium channel protein
+  A0A816AQ68   1354 cand       nearest Cacna1d   3249 | Voltage-dependent calcium channel alpha-1 subunit IQ domain-
+  A0A816AXQ2   1354 cand       nearest Cacna1d   3229 | Voltage-dependent calcium channel alpha-1 subunit IQ domain-
+  A0A816BIQ0   1548 cand       nearest Cacna1h   2391 | Ion transport domain-containing protein
+  A0A816BSP3   1534 cand       nearest Cacna1i   2411 | Ion transport domain-containing protein
+  names with NALCN / sodium leak: []
