@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3665: a second placozoan, Trichoplax sp. H2 (UP000253843, 12,174 proteins), unseen.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before the file is downloaded.
+Why: Trichoplax adhaerens gave no NALCN hit (L3653) and failed the NR1 prediction with fragment-length receptors (L3625 N3).
+Hypothesis (L3661): the ancestral NALCN ring is calcium-like E-E-E-E. Script rounds/dcf_placozoa_L3665.py.
+ T1 >= 1 NALCN hit (frozen L3653 rule, score floor 1000).
+ T2 every NALCN hit reads E-E-E-E.  (Ungradeable if T1 has no hit.)
+ T3 >= 1 NR1 call (iGluR call nearest mouse Grin1); a retest of L3625 N3 on a different placozoan proteome.
+ T4 battery ratio < 1.8 (no nervous system; T. adhaerens was 1.60).
+ T5 no Na call (v3).
+ Void if < 5,000 proteins.
