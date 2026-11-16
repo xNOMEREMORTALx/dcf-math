@@ -71,7 +71,7 @@
 
 ## Summary
 - **The rotifer's alternative NALCN loops match a published splicing switch** (Senatore et al. 2013).
-- **Tested across 30 proteomes, 4 of 5 predictions from that paper held:**
+- **Tested across 31 proteomes, 4 of 5 predictions from that paper held:**
   - spiralians and the sea urchin carry the lysine in domain II;
   - arthropods, tardigrades and vertebrates carry it in domain III.
 - **New observations:**
