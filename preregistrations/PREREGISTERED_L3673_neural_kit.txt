@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3673: a "neural kit" call that does not depend on the pump count (the battery ratio failed on placozoan H2, L3669).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before any of the five files is downloaded.
+Rule: kit present = NR1 >= 1 OR lysine Na call >= 1 OR Na_partial >= 1. Script rounds/dcf_kit_L3673.py.
+Development on all 36 organisms seen (rounds/L3673_dev_features.txt): 9/9 without nerves have no kit; 25/27 with nerves have it.
+ Misses: Mnemiopsis (comb jelly) and Strongylocentrotus (sea urchin): neither has NR1 or a lysine Na channel (both carry NAV2-type E-loop channels).
+ "NAV2 present" cannot be added: choanoflagellates and placozoans carry NAV2-type channels (L3501).
+Data: UniProt TSV (accession, organism_name, protein_name, sequence) by proteome:
+ Sphaeroforma arctica UP000054560 (ichthyosporean, no nerves); Stylophora pistillata UP000225706 (coral); Schistosoma mansoni UP000008854 (flatworm);
+ Daphnia pulex UP000000305 (water flea); Acanthaster planci UP000694845 (crown-of-thorns starfish).
+ K1 Sphaeroforma: kit absent.   K2 Stylophora: kit present.   K3 Schistosoma: kit present.   K4 Daphnia: kit present.
+ K5 Acanthaster: kit ABSENT (the sea-urchin pattern: an echinoderm with nerves but neither NR1 nor a lysine Na channel). This predicts a miss of the rule.
+ Void per file if < 5,000 proteins.

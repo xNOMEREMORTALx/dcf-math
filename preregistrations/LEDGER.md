@@ -221,3 +221,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_placozoa_L3665.py | `9522376f66232f347b79625ede0a44f2fc3c399f230c6547936c705015a77746` |
 | AMENDMENT_L3669_placozoa_H2.txt | `d48d615360b10fef9d897eda5e696b420e2a7ad6b736aa9238f324ec659dec61` |
 | rounds/fasta_to_tsv_L3669.py | `7c20fd3dc69cdc44aa910c131fecd34eb234292909ae88c5899983e247907801` |
+| PREREGISTERED_L3673_neural_kit.txt | `a7c63a005b61de9ab3d9089bdcbccd8eed46b2195c96611cfe00e5c5a2b57e32` |
+| rounds/dcf_kit_L3673.py | `54fcf259e35697b79f6a7872016d52b28ad2f063bb931fe3ed7c1367c9b19a43` |

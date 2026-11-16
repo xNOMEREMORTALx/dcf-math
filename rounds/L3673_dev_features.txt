@@ -1,0 +1,37 @@
+ORG human                          proteins   9718 NR1  0 Na   2 Na_partial  0
+ORG mouse                          proteins  21298 NR1  1 Na   9 Na_partial  0
+ORG zebrafish                      proteins  48099 NR1  2 Na   7 Na_partial  0
+ORG chicken                        proteins  18011 NR1  1 Na   9 Na_partial  0
+ORG fly                            proteins  13864 NR1  1 Na   1 Na_partial  0
+ORG Amphimedon queenslandica       proteins  22831 NR1  0* Na   0 Na_partial  0
+ORG Nematostella vectensis         proteins  24435 NR1  1* Na   0 Na_partial  0
+ORG Monosiga brevicollis           proteins   9150 NR1  0* Na   0 Na_partial  0
+ORG Trichoplax adhaerens           proteins  11520 NR1  0* Na   0 Na_partial  0
+ORG Mnemiopsis leidyi              proteins  25263 NR1  0* Na   0 Na_partial  0
+ORG Saccoglossus kowalevskii       proteins  23808 NR1  2* Na   0 Na_partial  0
+ORG Lingula anatina                proteins  34462 NR1  1* Na   5 Na_partial  0
+ORG Strongylocentrotus purpuratus  proteins  35496 NR1  0* Na   0 Na_partial  0
+ORG Capitella teleta               proteins  31954 NR1  1* Na   1 Na_partial  0
+ORG Ciona intestinalis             proteins  19006 NR1  0* Na   3 Na_partial  0
+ORG Branchiostoma floridae         proteins  39280 NR1  1* Na  13 Na_partial  0
+ORG Geodia barretti                proteins  60924 NR1  0* Na   0 Na_partial  0
+ORG Oopsacas minuta                proteins  16366 NR1  0* Na   0 Na_partial  0
+ORG Ephydatia muelleri             proteins  30399 NR1  0* Na   0 Na_partial  0
+ORG Capsaspora owczarzaki          proteins   9794 NR1  0* Na   0 Na_partial  0
+ORG Hypsibius exemplaris           proteins  20833 NR1  1* Na   0 Na_partial  0
+ORG Hydra vulgaris                 proteins  35504 NR1  3* Na   0 Na_partial  0
+ORG Aplysia californica            proteins  23632 NR1  4* Na   2 Na_partial  0
+ORG Salpingoeca rosetta            proteins  11700 NR1  0* Na   0 Na_partial  0
+ORG Ramazzottius varieornatus      proteins  22945 NR1  2* Na   0 Na_partial  0
+ORG Trichoplax sp. H2              proteins  12150 NR1  0* Na   0 Na_partial  0
+ORG Limulus polyphemus             proteins  31562 NR1  8 Na  17 Na_partial  1
+ORG Tetranychus urticae            proteins  17840 NR1  2 Na   4 Na_partial  7
+ORG Priapulus caudatus             proteins  18486 NR1  1 Na   1 Na_partial  0
+ORG Dimorphilus gyrociliatus       proteins  16152 NR1  1 Na   0 Na_partial  1
+ORG Helobdella robusta             proteins  23370 NR1  0 Na   5 Na_partial  0
+ORG Brachionus calyciflorus        proteins  24535 NR1  1 Na   1 Na_partial  0
+ORG Brachionus plicatilis          proteins  52387 NR1  1 Na   0 Na_partial  1
+ORG Adineta ricciae                proteins  64111 NR1  4 Na   5 Na_partial  0
+ORG Caenorhabditis elegans         proteins  26620 NR1  1 Na   0 Na_partial  0
+ORG Hofstenia miamia               proteins  22454 NR1  3* Na   0 Na_partial  0
+* NR1 taken from L3625/L3669 outputs
