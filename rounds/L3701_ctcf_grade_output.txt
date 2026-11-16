@@ -1,0 +1,23 @@
+L3701 CTCF grading (rounds/L3701_ctcf_tool_output.txt). The frozen scan omitted /home/claude/L3605/z/nn.tsv.gz (Geodia, Ephydatia, Oopsacas):
+Z1 is graded on Amphimedon only (disclosed); the three were run afterwards, descriptively, with the same finder: all absent.
+Z1 sponges absent: Amphimedon absent: PASS
+Z2 placozoans absent: both absent: PASS
+Z3 cnidarians absent: Nematostella, Hydra, Stylophora absent: PASS
+Z4 comb jelly absent: PASS
+Z5 non-animals absent: Monosiga, Salpingoeca, Capsaspora, Sphaeroforma absent: PASS
+Z6 bilaterians (29, excluding the acoel) present >= 80%: 14 of 29 = 48%: FAIL
+Z7 Hofstenia present: present (924): PASS
+Z8 both tardigrades present: both absent: FAIL
+RESULT [('Z1', 'PASS'), ('Z2', 'PASS'), ('Z3', 'PASS'), ('Z4', 'PASS'), ('Z5', 'PASS'), ('Z6', 'FAIL'), ('Z7', 'PASS'), ('Z8', 'FAIL')]
+--- descriptive after grading: entries named CTCF / CCCTC in organisms where the finder found none
+NAMED Ciona intestinalis F6XAQ1 491 zf 7 vsCtcf 764 | CCCTC-binding factor
+NAMED Ciona intestinalis H2XNG3 520 zf 7 vsCtcf 752 | CCCTC-binding factor
+NAMED Ciona intestinalis Q4H2H9 605 zf 8 vsCtcf 869 | CCCTC-binding factor
+NAMED Ciona intestinalis Q4H2I0 634 zf 8 vsCtcf 857 | CCCTC-binding factor
+NAMED Hypsibius exemplaris A0A1W0WE81 314 zf 9 vsCtcf 376 | Transcriptional repressor CTCF
+NAMED Hypsibius exemplaris A0A1W0X2T9 685 zf 7 vsCtcf 671 | Transcriptional repressor CTCF
+NAMED Clonorchis sinensis G7YV61 1178 zf 6 vsCtcf 124 | Transcriptional repressor CTCFL
+--- descriptive: the three sponges left out of the frozen scan (same frozen finder)
+SPONGE Geodia barretti (False, 586, 'Zfp808', 1015, 10, 'A0AA35TXH2')
+SPONGE Oopsacas minuta (False, 0, None, 0, 0, None)
+SPONGE Ephydatia muelleri (False, 574, 'Gm19428', 1624, 14, 'A0ACS2HNJ4')
