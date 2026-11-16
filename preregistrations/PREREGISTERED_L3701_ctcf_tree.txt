@@ -1,0 +1,13 @@
+PRE-REGISTRATION L3701: CTCF, the zinc-finger architect of genome loops (the "4D nucleome"), across the animal tree.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before rounds/dcf_ctcf_tree_L3701.py is run.
+Finder rounds/dcf_ctcf_L3701.py (reciprocal best hit vs mouse Ctcf over the 365 mouse >= 9-C2H2 proteins). Development (rounds/L3701_ctcf_dev.txt):
+ zebrafish, chicken, fly called CTCF (scores 2627, 3609, 793); C. elegans not called (nearest Zfp970). These four are excluded below.
+Expectation source: my recollection that CTCF is a bilaterian innovation (Heger et al. 2012), lost in C. elegans; not checked before freezing.
+ Z1 sponges (Amphimedon, Geodia, Ephydatia, Oopsacas): CTCF absent in all.
+ Z2 placozoans (T. adhaerens, T. sp. H2): absent in both.
+ Z3 cnidarians (Nematostella, Hydra, Stylophora): absent in all.
+ Z4 comb jelly (Mnemiopsis): absent.
+ Z5 non-animals (Monosiga, Salpingoeca, Capsaspora, Sphaeroforma): absent in all.
+ Z6 bilaterians other than the acoel (all remaining organisms): present in >= 80%.
+ Z7 acoel Hofstenia: present.
+ Z8 both tardigrades: present.

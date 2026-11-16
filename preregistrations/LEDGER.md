@@ -232,3 +232,7 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_nr1_L3693.py | `f981b4dba940a1391cabfa40ca4b891da68657a3dd6c14601172cb7e1212a844` |
 | PREREGISTERED_L3697_trematode_cestode.txt | `cfbbe8450d9181680aad4558effa79f2b572bbb03ffd7ec3f3f01f813dbec9fa` |
 | rounds/dcf_flatworm2_L3697.py | `d3f19fc56bb5c8228821dbce92250c5f09787f85049064cd6e74fc20afc11030` |
+| PREREGISTERED_L3701_ctcf_tree.txt | `15de54cc0193a26e360ca25e00045627e235a12215598a8b25c217c516b7d2b8` |
+| rounds/dcf_ctcf_L3701.py | `281c134d761aab0d3294de19a916e059ce5a73da82264c0deb0b4c6e2d99ab5a` |
+| rounds/dcf_ctcf_tree_L3701.py | `b00738e5c12bf934a1c1be1bc72afdc33c860cd33e44b6820f3564f2f488a102` |
+| rounds/L3701_ctcf_dev.txt | `8110fe4c13aed7aeda70ddd972176b40787c04a1af10fd6ed3d482f745dd308b` |

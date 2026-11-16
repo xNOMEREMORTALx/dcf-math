@@ -1,0 +1,4 @@
+zebrafish (True, 2627, 'Ctcf', 2627, 797, 'ctcf')
+chicken (True, 3609, 'Ctcf', 3609, 94, 'CTCF')
+fly (True, 793, 'Ctcf', 793, 49, 'CTCF')
+C. elegans (full) (False, 369, 'Zfp970', 692, 12, 'Q9N360')
