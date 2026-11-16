@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3693: calibrate the NR1 score floor (the round number 1000 removed divergent but named NR1s, 941-962; L3689).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before rounds/dcf_nr1_calibrate_L3693.py is run.
+Method in the script docstring: all Grin1-nearest iGluR calls in all organisms seen, labelled by name (POS = named NR1 / zeta-1 / Grin1 / Nmdar1;
+NEG = any other informative name; unnamed excluded); floor = threshold maximising balanced accuracy, ties to the lowest.
+Disclosure: some scores are already known (L3625 list; L3689 named NR1 at 953 and 941; noise at 553 in the coral).
+This is calibration, not a test; no prediction is graded. The resulting floor is frozen into dcf_nr1_L3693.py and used, unchanged, in the next blind test.

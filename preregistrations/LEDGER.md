@@ -226,3 +226,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_nr1_L3681.py | `125ce35bcec207f059717af5273277237b7a300b76d953baec4407715fff663a` |
 | PREREGISTERED_L3685_flatworms.txt | `246eb78f43e4f3f3155d508550acdc4f53af2c5553c4d606e5a26beaa3daeb02` |
 | rounds/dcf_flatworm_L3685.py | `982e5f9d610a239897e356ea54ed8cbfe8d7aff7c22bc08eb7ce52e7bcd8710d` |
+| PREREGISTERED_L3693_nr1_calibration.txt | `bba7494e7ebc0c9fcac83a18a81232a7b7553d6846bba4c1a27ea7aa1c29c420` |
+| rounds/dcf_nr1_calibrate_L3693.py | `f91c30f5f680a54cb6ba4acefed1896c26f1fe8752ae1631e361d0cad1e67351` |
