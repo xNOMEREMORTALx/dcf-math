@@ -1,0 +1,13 @@
+L3649 descriptive: the three B. calyciflorus NALCN-nearest proteins (L3637)
+Pore-ring words [TS]-x-[ED/K]-x-W (NALCN selectivity ring is EEKE in mammals):
+ A0A813M7M3    1841 aa ['SQEGW', 'TQKGW', 'SLEGW', 'TGEDW']
+ A0A813MDY4    1892 aa ['SQEGW', 'TNEGW', 'TQKGW', 'SLEGW', 'TGEDW']
+ A0A813MKV0    1847 aa ['SQEGW', 'TNEGW', 'SLEGW', 'TGEDW']
+ mouse Nalcn   1739 aa ['SQEGW', 'TQEGW', 'SLKGW', 'TGEDW']
+Pairwise global identity (dcf_align):
+  A0A813M7M3 A0A813MDY4 100.0%
+  A0A813M7M3 A0A813MKV0 98.5%
+  A0A813MDY4 A0A813MKV0 100.0%
+  A0A813M7M3 vs mouse Nalcn 55.0%
+  A0A813MDY4 vs mouse Nalcn 55.0%
+  A0A813MKV0 vs mouse Nalcn 54.5%
