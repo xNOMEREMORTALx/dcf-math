@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3797: blind test of the cryptochrome family marker with a confidence cut (marker v2, from L3785). Frozen before download.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026.
+Script: rounds/dcf_cry_marker_blind_L3781.py UNCHANGED (L3777 six-reference scan; hit floor 350; tetrad read on robin CRY4). Grading adds the cut.
+Data (UniProt reference-proteome TSV: Entry, Organism, Protein names, Sequence), identified by the Organism column:
+  monarch butterfly Danaus plexippus (taxon 13037); Atlantic salmon Salmo salar (8030); coral Acropora millepora (45264); owl limpet Lottia gigantea (225164).
+None of the four has been scanned in any earlier round. The cut (score >= 900) was chosen from L3785, where all 14 hits >= 973 were aromatic
+and the three exceptions scored 406-415.
+ V1 Every CRY4/phr6-4-family hit scoring >= 900 reads W, Y or F at TrpD.
+ V2 No photolyase/DASH-family hit scoring >= 900 reads W, Y or F at TrpD (ungradeable if none is informative).
+ V3 The monarch has >= 2 CRY4/phr6-4-family hits scoring >= 900 (its CRY1 and CRY2).
+ V4 Each of the four has >= 1 CRY4/phr6-4-family hit scoring >= 900.
+Void per file if < 5,000 proteins or organism not one of the four. Failures stand.

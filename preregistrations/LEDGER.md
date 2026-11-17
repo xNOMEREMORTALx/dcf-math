@@ -282,3 +282,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | data/L3789_magnetosome_refs.tsv | `e3d440091ff23b5c0b88d1b60c5282cb96e7e2931e3c50b1c986b34739c77e78` |
 | preregistrations/PREREGISTERED_L3793_magnetite_evalue.txt | `b17dab8d54fe32d2e7447c944097672a339cd4199b26f627fcae8f6a18824f21` |
 | rounds/dcf_magnetite_evalue_L3793.py | `4b56a0d15bf7d811538c2440c010867c6a9af312ffcd9a0a669231dc1f712037` |
+| preregistrations/PREREGISTERED_L3797_cry_marker_v2.txt | `f8e411054889cd270100d0aa2e2d44b53fadddba897137e8053136d532b82e69` |
+| rounds/dcf_grade_L3797.py | `c3a32c6aa319bbcb115345502d193042be73b9717ec015375712e56559477d0c` |
