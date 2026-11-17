@@ -1,0 +1,5 @@
+protein-coding genes 20014 channel set 139
+H1     CTCF-ChIAPET     channel 48/139 = 0.345  control 4670/19875 = 0.235  OR 1.72  p(enriched) 0.0022  p(depleted) 1
+H1     H3K4me3-PLACSeq  channel 88/139 = 0.633  control 14040/19875 = 0.706  OR 0.72  p(enriched) 0.97  p(depleted) 0.038
+HFFc6  CTCF-ChIAPET     channel 41/139 = 0.295  control 4719/19875 = 0.237  OR 1.34  p(enriched) 0.071  p(depleted) 0.95
+HFFc6  H3K4me3-PLACSeq  channel 47/139 = 0.338  control 12016/19875 = 0.605  OR 0.33  p(enriched) 1  p(depleted) 2.3e-10
