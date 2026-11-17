@@ -264,3 +264,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_s4gear_L3749.py | `1b360cd189de34fb8bdafb501405925449c03bf589e68977ff80766e4c63de1c` |
 | PREREGISTERED_L3753_cry_tetrad.txt | `d2a2281249a77bdcc55f59553461cfb8fcb8deee2c675ee9c712eeab011800a0` |
 | rounds/dcf_cry_tetrad_L3753.py | `ae9cc3cb0e2b4008a56d6906fd15197423c799abfd1f2d439c59cced39658a4a` |
+| PREREGISTERED_L3757_cry_tree.txt | `d7ae915e0ff26a07b888a05f61f25f34224f02cb5a3947e891632eea6a19784b` |
+| rounds/dcf_cry_tree_L3757.py | `1df7d80425e4db29d1314cf1bdc66a2c0d305b25bcd3cebeb3c8e5fe07af0c26` |

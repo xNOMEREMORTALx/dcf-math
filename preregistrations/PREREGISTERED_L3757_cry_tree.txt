@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3757: the cryptochrome/photolyase family and its tryptophan tetrad across all proteomes seen (sponge to human).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026. Frozen before rounds/dcf_cry_tree_L3757.py is run. Method in its docstring.
+Positive control (finder sensitivity, the L3713 lesson):
+ P1 Hits include mouse Cry1 and Cry2, fly cry, zebrafish cry1a, cry1b, cry4 and cry-dash, chicken CRY1 and CRY2 (9 of 9).
+Predictions:
+ T1 Every bilaterian proteome has >= 1 hit.
+ T2 Mouse, zebrafish and chicken each have >= 1 hit reading WWWW.
+ T3 Zebrafish cry-dash reads G (not W) at TrpD (the DASH signature seen in birds, L3753).
+ T4 The sponge Amphimedon has >= 1 hit (cryptochromes are reported in sponge larvae).
+ T5 Fly cry reads W at A, B and C.
