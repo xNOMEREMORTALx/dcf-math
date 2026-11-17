@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3721: is the H1 CTCF-anchor enrichment of nerve-metal genes (L3717, OR 1.72) robust and channel-specific?
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before rounds/dcf_channel_loops2_L3721.py is run. Method in its docstring.
+Graded on H1 only (where the effect appeared); HFFc6 reported descriptively.
+ P1 After merging clustered genes (< 100 kb) into units, channel units are still enriched (OR > 1, p < 0.05).
+ P2 Non-channel neural genes (neurexins, neuroligins, contactins, CNTNAPs, LRRTMs, SHANKs, DLGs, synapsins, synaptotagmins) are ALSO enriched
+    (OR > 1, p < 0.05), i.e. the effect is neural-gene-wide, not channel-specific. (My leaning.)
+ P3 Against 10 length-matched controls per channel gene, channel genes are still enriched (OR > 1, p < 0.05).
