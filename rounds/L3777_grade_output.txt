@@ -1,0 +1,6 @@
+L3777 grading (rounds/L3777_tool_output.txt; 11 organisms scanned: Nematostella omitted because its file was not in the script's file list - disclosed before grading)
+C1 Q9XHE2 and B7FZ06 are hits: both: PASS
+C2 no photolyase/DASH hit with W/Y/F at TrpD: 0 of 25 (13 class II hits read '----', i.e. no residue aligned; the 12 informative DASH/class I hits are all non-aromatic): PASS
+C3 >= 90% of CRY4/6-4-nearest hits aromatic at TrpD: 35 of 35: PASS
+C4 >= 1 of the animals has a phr-classII hit: 7 of 7 scanned: PASS
+RESULT [('C1', 'PASS'), ('C2', 'PASS'), ('C3', 'PASS'), ('C4', 'PASS')]
