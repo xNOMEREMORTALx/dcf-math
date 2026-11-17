@@ -1,0 +1,8 @@
+L3705 grading (rounds/L3705_keynumbers_output.txt)
+D1 H1 spans, no key number significant: none (max 541 at 93.79): PASS
+D2 HFFc6 spans, none significant: k=9 at percentile 100.00 (rate 1.051 vs control median 0.999; only 4 controls): FAIL
+D3 significant in both cells: none (9 is 75.00 in H1): PASS
+D4 report integers, none significant: none: PASS
+RESULT [('D1', 'PASS'), ('D2', 'FAIL'), ('D3', 'PASS'), ('D4', 'PASS')]
+Disclosed design flaw: a 99.7th-percentile threshold is only meaningful with >= 333 controls; k = 9, 37, 72, 73, 89, 108, 113, 137, 153, 203, 216, 401 had fewer
+(4 to 238), so for them "significant" meant "beats every control". Under the null, beating all 4 controls has probability 1/5.
