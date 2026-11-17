@@ -1,0 +1,11 @@
+H1ESC loops 141365 unique pairs 141365 cis 141365 trans 0
+  span quantiles 0.25/0.5/0.75: 65000.0 170000.0 380000.0 | <50kb 27764 <100kb 48349 >=1Mb 11721
+  platforms {'CTCF-ChIAPET': 28270, 'H3K4me3-PLACSeq': 62135, 'Hi-C': 39509, 'Micro-C': 50273, 'RNAPII-ChIAPET': 44951} | support {1: 89200, 2: 29559, 3: 15457, 4: 5296, 5: 1853} | single-platform 0.6310
+HFFc6 loops 146140 unique pairs 146140 cis 146140 trans 0
+  span quantiles 0.25/0.5/0.75: 74955.875 185000.0 435000.0 | <50kb 23877 <100kb 46425 >=1Mb 14487
+  platforms {'CTCF-ChIAPET': 24421, 'H3K4me3-PLACSeq': 49597, 'Hi-C': 50732, 'Micro-C': 79625, 'RNAPII-ChIAPET': 51376} | support {1: 82148, 2: 33917, 3: 17749, 4: 9108, 5: 3218} | single-platform 0.5621
+exact shared interval pairs 5304
+tol 2000 H1->HFF 0.1624 HFF->H1 0.1568
+tol 5000 H1->HFF 0.2785 HFF->H1 0.2662
+tol 10000 H1->HFF 0.4046 HFF->H1 0.3713
+tol 15000 H1->HFF 0.4819 HFF->H1 0.4316

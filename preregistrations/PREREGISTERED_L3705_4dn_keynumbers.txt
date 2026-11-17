@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3705: do DCF key numbers appear in the 4D Nucleome loop data or the 4D report beyond chance?
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before rounds/dcf_4dn_keynumbers_L3705.py is run.
+Key set (project L400 milestone + named constants): 9 37 72 73 89 108 113 137 153 203 216 401 432 541 937 1231 1841 2701.
+Method in the script docstring: divisibility rate x n against matched controls (same gcd with 1000, range k/2..2k); significant only at the
+99.7th percentile (Bonferroni 0.05/18).
+My expectation (the null): genomic coordinates and report numbers carry no DCF signal beyond grid/rounding effects.
+ D1 H1 spans: no key number significant.
+ D2 HFFc6 spans: no key number significant.
+ D3 a key number significant in BOTH cell lines (the replication standard for any claimed DCF signal): none.
+ D4 report integers: no key number significant.
+A "FAIL" here means a DCF number IS over-represented; it would then need replication before any claim.
