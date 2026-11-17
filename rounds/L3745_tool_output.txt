@@ -1,0 +1,5 @@
+sub 0.050 indel 0.000+0.000 | exact 6-mer 1.0000
+sub 0.050 indel 0.025+0.025 | exact 6-mer 1.0000
+sub 0.150 indel 0.000+0.000 | exact 6-mer 0.9980
+sub 0.100 indel 0.000+0.000 | exact 6-mer 1.0000
+sub 0.100 indel 0.050+0.050 | exact 6-mer 0.9840

@@ -1,0 +1,5 @@
+L3741 grading (rounds/L3741_tool_output.txt)
+T1 D=20000 K=4 >= 90% at 15% substitutions: 0.8975: FAIL
+T2 D=20000 K=3 >= 90% at 10% + 5%/5% indels: 0.3485: FAIL
+T3 K=3 better than K=4 at 10% + 5%/5%: 0.3485 vs 0.8020: FAIL
+RESULT [('T1', 'FAIL'), ('T2', 'FAIL'), ('T3', 'FAIL')]

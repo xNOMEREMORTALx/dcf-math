@@ -1,0 +1,5 @@
+L3745 grading (rounds/L3745_tool_output.txt; fresh strands and reads, seed 3745)
+I1 >= 99% at 15% substitutions: 0.9980: PASS
+I2 >= 95% at 10% + 5%/5% indels: 0.9840: PASS
+I3 >= 99.5% at 5% + 2.5%/2.5% indels: 1.0000: PASS
+RESULT [('I1', 'PASS'), ('I2', 'PASS'), ('I3', 'PASS')]
