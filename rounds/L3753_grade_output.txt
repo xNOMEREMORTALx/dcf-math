@@ -1,0 +1,16 @@
+L3753 grading (rounds/L3753_tool_output.txt; 615 full-length entries)
+Q1 robin CRY4 W at 395, 372, 318, 369: W W W W: PASS
+Q2 >= 95% of named full-length CRY4 read WWWW: 4 of 4 (100%; small n): PASS
+Q3 chicken and pigeon CRY4 all WWWW: pigeon 2 of 2 WWWW; no full-length chicken entry carries a CRY4 name: ungradeable
+Q4 >= 90% of CRY1/CRY2 keep W at A, B, C: 495 of 500 (99.0%): PASS
+RESULT [('Q1', 'PASS'), ('Q2', 'PASS'), ('Q3', 'ungradeable'), ('Q4', 'PASS')]
+--- descriptive after grading: names of the unclassed ("other") full-length entries by tetrad pattern
+  WWWW {'Photolyase/cryptochrome alpha/beta domain-containing protein': 51, 'Cryptochrome/DNA photolyase FAD-binding domain-containing protein': 3, 'Photolyase/cryptochrome alpha/beta domain-containing protein (Fragment)': 1, 'Cryptochrome-like protein': 1}
+  WWAG {'Cryptochrome DASH': 1}
+  WWWG {'Cryptochrome DASH': 35, 'Photolyase/cryptochrome alpha/beta domain-containing protein': 2, 'Cryptochrome DASH-like isoform 1-T1': 2, 'Cryptochrome DASH-like isoform 2-T2': 1, 'Cryptochrome DASH-like isoform 1-T2': 1}
+  WW-G {'Cryptochrome DASH': 1}
+  --W- {'Photolyase/cryptochrome alpha/beta domain-containing protein': 1}
+  W-W- {'Photolyase/cryptochrome alpha/beta domain-containing protein': 5}
+  -WWG {'Cryptochrome DASH': 4}
+  -WWW {'Photolyase/cryptochrome alpha/beta domain-containing protein': 1}
+chicken entries (any class, full length): [('A0A8V0ZNA3', 'Cryptochrome circadian regulator 2', 'WWWW'), ('Q8QG61', 'Cryptochrome-1', 'WWWW'), ('Q8QG60', 'Cryptochrome-2', 'WWWW'), ('A0A8V0Y3Y8', 'Cryptochrome-1', 'WWWW'), ('A0A8V0YA81', 'Cryptochrome-1', '-WWW'), ('A0A8V0YCE8', 'Cryptochrome-1', 'WWWW'), ('A0A8V0ZZQ4', 'Photolyase/cryptochrome alpha/beta domain-containing protein', 'W-W-'), ('A0A8V1A404', 'Photolyase/cryptochrome alpha/beta domain-containing protein', 'WWWW'), ('Q2TV23', 'Cryptochrome-like protein', 'WWWW'), ('A0A8V0ZZP6', 'Photolyase/cryptochrome alpha/beta domain-containing protein', 'WWWW')]
