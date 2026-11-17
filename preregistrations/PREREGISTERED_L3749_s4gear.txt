@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3749: the voltage sensor's "gear teeth" - K/R every third residue - in UniProt-labelled voltage-gated channels.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before rounds/dcf_s4gear_L3749.py is run.
+Independent of DCF channel rules: channels are chosen by UniProt "Protein families" text (reviewed Metazoa file, L3481).
+ G1 >= 90% of labelled channels contain >= 4 K/R at spacing exactly 3.
+ G2 <= 30% contain >= 4 K/R at spacing 2, and <= 30% at spacing 4.
+ G3 the spacing-3 share in channels is >= 5 times the share in all other reviewed proteins.
