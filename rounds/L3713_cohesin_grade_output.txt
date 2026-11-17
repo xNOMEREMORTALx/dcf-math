@@ -1,0 +1,6 @@
+L3713 cohesin grading (rounds/L3713_cohesin_output.txt), 48 organisms
+H1 SMC1 in every organism: 38 of 48 (missing: Monosiga, T. adhaerens, Ciona, Oopsacas, Capsaspora, Tetranychus, Stylophora, Echinococcus, Fasciola, Clonorchis): FAIL
+H2 SMC3 in every organism: 38 of 48 (missing: Nematostella, Monosiga, T. adhaerens, Saccoglossus, Capitella, Oopsacas, Stylophora, Fasciola, Macrostomum, Clonorchis): FAIL
+H3 both in every CTCF-absent organism (L3701): 16 of 26: FAIL
+RESULT [('H1', 'FAIL'), ('H2', 'FAIL'), ('H3', 'FAIL')]
+Reading: cohesin is universal in eukaryotes; these are finder misses (sensitivity ~79% per gene on UniProt sets), the positive control failed.
