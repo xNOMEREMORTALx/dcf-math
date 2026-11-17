@@ -1,0 +1,12 @@
+L3721 grading (rounds/L3721_tool_output.txt), graded on H1
+P1 cluster-merged units: OR 1.10, p 0.33: FAIL
+P2 neural non-channel enriched: OR 1.03, p 0.52: FAIL
+P3 length-matched: OR 1.73, p 0.0031: PASS
+RESULT [('P1', 'FAIL'), ('P2', 'FAIL'), ('P3', 'PASS')]
+Disclosed design flaw in P1: units were merged within each set separately, so control units bundle many genes (more chances to hit an anchor) while channel units are mostly single genes.
+--- descriptive after grading: isolation (no other protein-coding TSS within 100 kb) and CTCF anchoring
+isolated genes: channel 50/139, controls 3152/19825
+  H1     isolated     channel 14/50 = 0.280  controls 613/3152 = 0.194  OR 1.61  p(enriched) 0.095
+  H1     in clusters  channel 34/89 = 0.382  controls 4045/16673 = 0.243  OR 1.93  p(enriched) 0.0025
+  HFFc6  isolated     channel 8/50 = 0.160  controls 630/3152 = 0.200  OR 0.76  p(enriched) 0.81
+  HFFc6  in clusters  channel 33/89 = 0.371  controls 4080/16673 = 0.245  OR 1.82  p(enriched) 0.0056

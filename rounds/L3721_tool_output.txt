@@ -1,0 +1,11 @@
+genes 20014 channel 139 neural non-channel 50 controls 19825
+median length: channel 65526, matched pool 65550, all controls 27596
+## H1
+  P1 cluster-merged units            46/128 = 0.359 vs 2066/6123 = 0.337  OR 1.10  p(enriched) 0.33
+  P2 neural non-channel vs controls  12/50 = 0.240 vs 4658/19825 = 0.235  OR 1.03  p(enriched) 0.52
+  P3 channel vs length-matched       48/139 = 0.345 vs 325/1390 = 0.234  OR 1.73  p(enriched) 0.0031
+## HFFc6
+  P1 cluster-merged units            40/128 = 0.312 vs 2154/6123 = 0.352  OR 0.84  p(enriched) 0.85
+  P2 neural non-channel vs controls  9/50 = 0.180 vs 4710/19825 = 0.238  OR 0.70  p(enriched) 0.87
+  P3 channel vs length-matched       41/139 = 0.295 vs 344/1390 = 0.247  OR 1.27  p(enriched) 0.13
+RESULT [('P1', 'FAIL'), ('P2', 'FAIL'), ('P3', 'PASS')]
