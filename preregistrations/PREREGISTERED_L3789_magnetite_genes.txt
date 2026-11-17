@@ -1,0 +1,17 @@
+PRE-REGISTRATION L3789: are the "universal magnetosome gene homologs" (Bellinger et al. 2022, PNAS 119:e2108655119) magnetite-specific,
+or generic protein families? Frozen before the reference sequences are downloaded.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026. Script rounds/dcf_magnetite_L3789.py (hash in LEDGER).
+References: UniProt TSV (Entry, Organism, Gene Names, Protein names, Length, Sequence) for
+  ((organism_name:"Magnetospirillum gryphiswaldense") AND (gene:mamB OR gene:mamE OR gene:mamK OR gene:mamP)) OR accession:Q9BUE6
+Proteomes already on disk: honeybee, Pacific oyster, frog (L3785); alga Chlamydomonas, fungus Neurospora, diatom Phaeodactylum (L3769).
+None of the three non-animals has reported biogenic magnetite; honeybee and frog belong to groups with magnetite/magnetic-sense reports.
+Hit = local score >= floor, the floor calibrated per reference and proteome on 300 residue-shuffled proteins (seed 3789).
+ G1 MamB, MamE and MamK each have >= 1 hit in all three non-animal proteomes (homology is not magnetite-specific).
+ G2 MamB, MamE and MamK each have >= 1 hit in all three animal proteomes.
+ G3 MamP has no hit in any of the six proteomes (Bellinger: MamP absent from eukaryotes).
+ G4 ISCA1 (MagR) has >= 1 hit in all six proteomes (MagR is a housekeeping iron-sulfur protein, not a magnetosensor-specific one).
+ G5 In each animal, the best MamB hit's protein name contains "zinc", "ZnT", "SLC30", "cation" or "metal" (CDF family);
+    ungradeable per animal if the best hit is unnamed ("Uncharacterized").
+Void: a reference with no entry in the TSV voids the predictions that use it. Failures stand.
+Interpretation fixed now: G1 and G2 passing means sequence homology to these magnetosome genes cannot by itself indicate magnetite making;
+a magnetite claim then needs a magnetosome-specific gene (MamP-like) or direct mineral evidence.

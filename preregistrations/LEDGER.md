@@ -277,3 +277,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_cry_classII_L3777.py | `273851b2cc7c6346480116d6a7106938c29fed9d73da0f74c6d4b7c6e850271d` |
 | PREREGISTERED_L3781_cry_marker_blind.txt | `2a664619958d3ad0f8631455cc8b8a250ba539496e2726ab65697860662251cd` |
 | rounds/dcf_cry_marker_blind_L3781.py | `509cc8ffcd8d23c52342bb8156f9a6fffe501985e925f8e82f458904757cdc1a` |
+| preregistrations/PREREGISTERED_L3789_magnetite_genes.txt | `516e4801881742a0e021583b200bf6ef8b4131c94893dbaa27b270d224067f00` |
+| rounds/dcf_magnetite_L3789.py | `967c7416ee467aebd028ede726c98c52b35b889be8da5025aab5b6c3d70d2717` |
