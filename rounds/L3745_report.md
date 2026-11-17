@@ -61,5 +61,5 @@
 
 ## Potential leads for future research
 - **[Full DNA-store round trip]** Combine the index with the error-correcting code (`dcf_dna_ecc.py`). Cluster noisy reads by strand, take a per-position consensus, decode, and measure the byte error rate. That is a complete store-and-retrieve test.
-- **[Cryptochrome tetrad]** Still needs the robin CRY4 sequence: https://rest.uniprot.org/uniprotkb/stream?format=tsv&fields=accession,organism_name,protein_name,sequence&query=gene:CRY4%20AND%20organism_id:9172
+- **[Cryptochrome tetrad]** Still needs the robin CRY4 sequence: https://rest.uniprot.org/uniprotkb/stream?format=tsv&fields=accession,organism_name,protein_name,sequence&query=gene:CRY4%20AND%20taxonomy_id:8782&compressed=true (CRY4 from all birds, including robin, pigeon and chicken)
 - **[Clock genes across the tree]** Where 24-hour timekeeping machinery appears; use a finder with measured sensitivity.
