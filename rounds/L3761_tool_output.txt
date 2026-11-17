@@ -1,0 +1,48 @@
+ORG	Acanthaster planci	hits	6	A0A8B7XWT0:1416:WWWW:Cry2(mouse) A0A8B7XWT4:1416:WWWW:Cry2(mouse) A0A8B7YMN4:1240:WWWW:Cry1(mouse) A0A8B7ZNI7:416:WWWK:cry-dash(zf) A0A8B8A592:1053:WWWW:cry(fly) A0A8B8A7R1:1053:WWWW:cry(fly)
+ORG	Adineta ricciae	hits	2	A0A813YRX5:384:WWWG:cry-dash(zf) A0A814M6X6:393:WWWG:cry-dash(zf)
+ORG	Amphimedon queenslandica	hits	2	A0A1X7UX67:836:WWWW:Cry2(mouse) A0A1X7UXA7:713:WWWW:Cry1(mouse)
+ORG	Aplysia californica	hits	7	A0ABM0JP98:423:WWWH:cry-dash(zf) A0ABM0JP99:423:WWWH:cry-dash(zf) A0ABM0ZZB1:1014:WWWW:cry(fly) A0ABM1A5A1:1355:WWWW:Cry1(mouse) A0ABM1VSZ2:550:WWFW:Cry1(mouse) A0ABM1VSZ3:534:WW-W:CRY4(robin) A0ABM1W212:1420:WWWW:Cry1(mouse)
+ORG	Brachionus calyciflorus	hits	2	A0A813QY51:829:WWWF:cry(fly) A0A814DXE0:1303:WWWY:phr6-4(fly)
+ORG	Brachionus plicatilis	hits	3	A0A3M7QYM2:806:WWWF:cry(fly) A0A3M7R0F8:351:WWWE:cry-dash(zf) A0A3M7T3X0:1290:WWWY:phr6-4(fly)
+ORG	Branchiostoma floridae	hits	8	A0A9J7HNA4:1391:WWWW:Cry1(mouse) A0A9J7HQT5:1391:WWWW:Cry1(mouse) A0A9J7HRF9:1391:WWWW:Cry1(mouse) A0A9J7KH12:1605:WWWW:CRY4(robin) A0A9J7KK21:1391:WWWW:Cry1(mouse) A0A9J7LUQ3:1529:WWWW:CRY4(robin) A0A9J7HQR5:1074:WWWW:Cry1(mouse) A0A9J7KA45:1605:WWWW:CRY4(robin)
+ORG	Caenorhabditis elegans	hits	0	
+ORG	Capitella teleta	hits	2	R7UL99:1346:WWWW:Cry1(mouse) R7V1J3:1010:WWWW:Cry1(mouse)
+ORG	Capsaspora owczarzaki	hits	1	A0A0D2WIV3:982:WWWF:Cry1(mouse)
+ORG	Ciona intestinalis	hits	0	
+ORG	Clonorchis sinensis	hits	0	
+ORG	Daphnia pulex	hits	4	E9G193:433:WWWL:cry-dash(zf) E9G560:1235:WWWW:phr6-4(fly) E9GDJ9:1387:WWWW:Cry1(mouse) E9GSJ7:852:WWWW:cry(fly)
+ORG	Dimorphilus gyrociliatus	hits	0	
+ORG	Echinococcus multilocularis	hits	0	
+ORG	Ephydatia muelleri	hits	3	A0ACS2FH22:773:WWWW:Cry1(mouse) A0ACS2GE42:699:WWWW:Cry2(mouse) A0ACS2GFN7:722:WWWW:Cry2(mouse)
+ORG	Fasciola hepatica	hits	0	
+ORG	Geodia barretti	hits	3	A0AA35TSS7:677:WWWW:Cry1(mouse) A0AA35X572:806:WWWW:Cry2(mouse) A0AA35X6B2:841:WWWW:Cry2(mouse)
+ORG	Helobdella robusta	hits	0	
+ORG	Hofstenia miamia	hits	0	
+ORG	Hydra vulgaris	hits	1	T2MCV5:368:WWWN:cry-dash(zf)
+ORG	Hymenolepis diminuta	hits	0	
+ORG	Hypsibius exemplaris	hits	0	
+ORG	Limulus polyphemus	hits	3	A0A1B0YYP5:1362:WWWW:Cry1(mouse) A0ABM1BE34:1357:WWWW:Cry2(mouse) A0ABM1SWG5:1357:WWWW:Cry2(mouse)
+ORG	Lingula anatina	hits	7	A0A1S3HDP4:1402:WWWW:Cry1(mouse) A0A1S3HGK8:1402:WWWW:Cry1(mouse) A0A1S3HIC9:958:WWFW:Cry1(mouse) A0A1S3JD95:413:WWWH:cry-dash(zf) A0A1S3K249:1353:WWWW:Cry1(mouse) A0A1S3KC50:1403:WWWW:Cry1(mouse) A0A1S3KCP2:1403:WWWW:Cry1(mouse)
+ORG	Macrostomum lignano	hits	4	A0A1I8H9L1:696:WWWF:Cry2(mouse) A0A1I8HCX8:696:WWWF:Cry1(mouse) A0A1I8HRK8:659:WWWF:Cry1(mouse) A0A1I8IFX4:695:WWWF:Cry1(mouse)
+ORG	Mnemiopsis leidyi	hits	1	A0ACF8Y932:1061:WWWW:Cry1(mouse)
+ORG	Monosiga brevicollis	hits	1	A9V4B6:933:WWWY:Cry2(mouse)
+ORG	Nematostella vectensis	hits	7	A7RWD1:1336:WWWW:Cry1(mouse) A7S6B3:1011:WWWW:Cry1(mouse) A7S6B4:1046:WWWW:Cry1(mouse) A7SBA6:1088:WWWW:Cry1(mouse) A7SSN5:1008:WWWW:Cry1(mouse) A7SYS9:366:WWWG:cry-dash(zf) A7SZ19:1217:WWWW:Cry1(mouse)
+ORG	Oopsacas minuta	hits	2	A0AAV7JJJ9:462:WWWW:Cry2(mouse) A0AAV7JUB3:420:WWWW:Cry1(mouse)
+ORG	Paragonimus westermani	hits	0	
+ORG	Priapulus caudatus	hits	0	
+ORG	Ramazzottius varieornatus	hits	0	
+ORG	Saccoglossus kowalevskii	hits	0	
+ORG	Salpingoeca rosetta	hits	1	F2U6L6:1207:WWWY:Cry2(mouse)
+ORG	Schistosoma japonicum	hits	0	
+ORG	Schistosoma mansoni	hits	0	
+ORG	Sphaeroforma arctica JP610	hits	1	A0A0L0G0E7:882:WWWW:Cry1(mouse)
+ORG	Strongylocentrotus purpuratus	hits	5	A0A7M7NZ12:1017:WWWW:cry(fly) A0A7M7PQ10:1346:WWWW:Cry2(mouse) A0A7M7PRE8:1346:WWWW:Cry2(mouse) A0A7M7PUS5:403:WWWV:cry-dash(zf) A0A7M7RD62:1377:WWWW:Cry1(mouse)
+ORG	Stylophora pistillata	hits	2	A0A2B4RCR6:1439:WWWW:Cry1(mouse) A0A2B4RVU1:1366:WWWW:Cry1(mouse)
+ORG	Taenia asiatica	hits	0	
+ORG	Tetranychus urticae	hits	2	T1KEA9:1287:WWWW:Cry1(mouse) T1KNZ8:775:WWWW:cry(fly)
+ORG	Trichoplax adhaerens	hits	3	B3RK16:352:WWWL:phr6-4(fly) B3RK17:403:WWLL:phr6-4(fly) B3RK18:430:WWLL:phr6-4(fly)
+ORG	Trichoplax sp. H2	hits	2	UPI00017829CE:403:WWLL:phr6-4(fly) UPI000E11AD81:435:WWLL:phr6-4(fly)
+ORG	chicken	hits	3	LOC395100:2528:WWWW:CRY4(robin) CRY2:1435:WWWW:Cry2(mouse) CRY1:1455:WWWW:Cry1(mouse)
+ORG	fly	hits	2	phr6-4:1181:WWWW:phr6-4(fly) cry:817:WWWW:cry(fly)
+ORG	mouse	hits	2	Cry2:1424:WWWW:Cry2(mouse) Cry1:1440:WWWW:Cry1(mouse)
+ORG	zebrafish	hits	7	cry3a:1423:WWWW:Cry1(mouse) cry4:1956:WWWW:CRY4(robin) cry5:1375:WWWW:Cry2(mouse) cry3b:1324:WWWW:Cry1(mouse) cry-dash:440:WWWG:cry-dash(zf) cry1a:1420:WWWW:Cry1(mouse) cry1b:1411:WWWW:Cry1(mouse)
