@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3741: tuning the HD strand index (L3737 missed 90% at 15% substitutions with 89.5%). Frozen before running.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Script rounds/dcf_hd_L3741.py (= L3737 with D, K from argv; same seeds,
+strands, reads and conditions).
+ T1 D = 20,000, K = 4: HD accuracy >= 90% at 15% substitutions.
+ T2 D = 20,000, K = 3: HD accuracy >= 90% at 10% substitutions + 5% insertions + 5% deletions (shorter words should tolerate indels better).
+ T3 D = 20,000, K = 3 does better than K = 4 at 10% + 5% + 5%.

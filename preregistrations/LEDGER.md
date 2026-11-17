@@ -253,3 +253,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_se_zn_L3733.py | `41205e7df08ab8a834a4135023b71fa7ec9fa1501d8580a8cb6cf3ee5758852e` |
 | PREREGISTERED_L3737_hd_retrieval.txt | `ecd2e338b8adb6e851761252ad1c0e88d65b4d71938d6e61ccf68de4df933a3b` |
 | rounds/dcf_hd_L3737.py | `4738743e6be60bdb472e832cba8f3e4b5979e03a7d9374325d35192edf02003c` |
+| PREREGISTERED_L3741_hd_tuning.txt | `53193cc2001ec351497f2f8f23f3f693f33248780041d7220ebd9a706e559653` |
+| rounds/dcf_hd_L3741.py | `fc73086906f305c53a5d84b3d5b0a1e636a8fa905fc0249a18dca980868aea40` |
