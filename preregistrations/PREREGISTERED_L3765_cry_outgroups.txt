@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3765: the cryptochrome/photolyase tetrad outside animals and their single-celled relatives. Frozen before download.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026. Script rounds/dcf_cry_outgroup_L3765.py (the L3761 scan, unchanged).
+Data (UniProt TSV by proteome): Chlamydomonas reinhardtii UP000006906 (green alga), Neurospora crassa UP000001805 (fungus), Phaeodactylum tricornutum UP000000759 (diatom).
+ O1 Each of the three has >= 1 hit.
+ O2 Neurospora has >= 1 hit nearest zebrafish cry-dash that reads a non-W residue at TrpD (fungal CRY is DASH-type).
+ O3 Chlamydomonas has >= 1 hit nearest mouse Cry1/Cry2 or fly phr6-4 that reads W at A, B and C (the algal "animal-like" cryptochrome).
+ O4 At least one hit across the three reads Y or F at TrpD (the "aromatic fourth" also outside the animal lineage).
