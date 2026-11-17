@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3761: full alignment scan (no shortlist) for cryptochromes/photolyases across all proteomes seen; repairs L3757.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026. Frozen before rounds/dcf_cry_full_L3761.py is run. Floor 350 (zebrafish cry-dash scored 440).
+ P1 The 9 controls are hits: mouse Cry1, Cry2; fly cry; zebrafish cry1a, cry1b, cry4, cry-dash; chicken CRY1, CRY2.
+ T1 Every bilaterian proteome has >= 1 hit.
+ T2 Amphimedon has >= 1 hit.
+ T3 Zebrafish cry-dash reads G at TrpD.
+ T4 Fly cry reads W at A, B and C.
+ T5 Of hits with Y or F at TrpD, the majority are nearest fly phr6-4 (i.e. photolyases, not clock/compass cryptochromes).
