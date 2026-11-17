@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3793: L3789 re-analysed under a size-scaled noise floor (proposed rule 17). NOT BLIND: the same six proteomes and
+references were already scanned in L3789 and their best scores are known. This round tests the floor method, not new biology.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026. Script rounds/dcf_magnetite_evalue_L3793.py (hash in LEDGER).
+Hit = Gumbel E-value < 0.01 from 1000 shuffled candidates (seed 3793), E scaled by the number of candidates.
+ E1 MamP has 0 hits in all six proteomes.
+ E2 MamB, MamE and MamK each have >= 1 hit in all six proteomes.
+ E3 ISCA1 has >= 1 hit in honeybee, oyster, frog, alga and diatom (the fungus, best score 81, is not predicted).
+ E4 Hit counts fall: for every (organism, reference) pair the E-value hit count is <= the L3789 hit count.
+If E1 passes, rule 17 (size-scaled floor) is adopted into the standing methods rules. Failures stand.
