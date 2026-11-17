@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3753: the cryptochrome tryptophan tetrad (the quantum radical-pair electron chain) across bird cryptochromes.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before rounds/dcf_cry_tetrad_L3753.py is run.
+Data: Gary's UniProt FASTA of bird cryptochromes (717 sequences). Reference robin CRY4 A0A2I4SZI9. Rows from full-length (>= 450 aa) entries.
+ Q1 Robin CRY4 carries W at positions 395, 372, 318 and 369 (checks my recollection of the published numbering; if not, Q2-Q4 are void).
+ Q2 >= 95% of full-length bird CRY4 entries read WWWW at the four aligned positions.
+ Q3 Chicken (Gallus gallus) and pigeon (Columba livia) full-length CRY4 entries all read WWWW (sensitivity differences are not from losing the tetrad).
+ Q4 >= 90% of full-length CRY1 and CRY2 entries keep W at A, B and C (the classical triad).
