@@ -89,7 +89,7 @@ A pre-filter based on shared 3-letter words recovered only 7 of 9 controls. It m
 ## 5. Data and code
 - **Code:** `dcf-math/rounds/dcf_cry_tetrad_L3753.py`, `dcf_cry_tree_L3757.py` (discarded) and `dcf_cry_full_L3761.py`.
 - **Outputs and grades:** in `rounds/`.
-- **Archive:** dcf-math, Zenodo 10.5281/zenodo.24234795.
+- **Archive:** dcf-math v1.1.0, Zenodo 10.5281/zenodo.24302678.
 
 ## Summary
 - **First draft of a short note:** the four-tryptophan electron chain behind the robin's quantum compass is conserved across bird cryptochromes and present in every sponge tested, so it predates nervous systems.

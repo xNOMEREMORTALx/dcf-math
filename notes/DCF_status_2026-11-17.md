@@ -27,9 +27,9 @@
   - Menu 36: DNA data store with a noisy-read index.
 - **dcf-genefinder:** `dcf_nerve.py` v3, `dcf_pump.py`, the aligners.
 - **Zenodo DOIs:**
-  - dcf-math: 10.5281/zenodo.24234795;
+  - dcf-math: 10.5281/zenodo.24302678 (v1.1.0; v1.0.0 24234795);
   - dcf-genefinder: 10.5281/zenodo.24234986.
-  - **A new GitHub release would refresh both.**
+  - **dcf-math v1.1.0 archived (24302678). dcf-genefinder v1.1.0 DOI still to confirm.**
 
 ## What Gary can do next
 1. **Send a reader brief** to an outside reader (Manuscripts 1 and 2).

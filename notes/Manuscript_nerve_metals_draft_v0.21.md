@@ -254,7 +254,7 @@ We wrote transparent, label-free rules that read these loops from protein or mRN
 - **dcf-math:** pre-registrations, ledger, rounds, grade outputs, and `rounds/L3485_audit2.py`.
 - **dcf-genefinder:** `dcf_nerve.py` (v3), `dcf_pump.py`.
 - **Phone:** menu 34 (bundle 6.15).
-- **Archived on Zenodo:** dcf-math v1.0.0, DOI 10.5281/zenodo.24234795; dcf-genefinder v1.0.0, DOI 10.5281/zenodo.24234986.
+- **Archived on Zenodo:** dcf-math v1.1.0, DOI 10.5281/zenodo.24302678 (v1.0.0: 10.5281/zenodo.24234795); dcf-genefinder v1.0.0, DOI 10.5281/zenodo.24234986.
 - **Author ORCID:** 0009-0008-9235-4493.
 
 ## Declarations
