@@ -1,0 +1,31 @@
+REFS {'mamB': ('V6F510', 297), 'mamE': ('V6F2B6', 772), 'mamK': ('Q6NE59', 360), 'mamP': ('Q93DZ0', 270), 'ISCA1': ('Q9BUE6', 129)}
+Apis mellifera	mamB(V6F510)	hits	8	floor	63	best	A0A7M7II84	114	Zinc transporter 2 isoform X1
+Apis mellifera	mamE(V6F2B6)	hits	138	floor	68	best	A0A7M7TFY6	235	Serine protease HTRA2, mitochondrial (EC 3.4.21.108) (High temperature requirement protein A2)
+Apis mellifera	mamK(Q6NE59)	hits	59	floor	55	best	A0A7M6UW32	96	Actin related protein 1
+Apis mellifera	mamP(Q93DZ0)	hits	35	floor	54	best	A0A7M7TFY6	68	Serine protease HTRA2, mitochondrial (EC 3.4.21.108) (High temperature requirement protein A2)
+Apis mellifera	ISCA1(Q9BUE6)	hits	4	floor	53	best	A0A7M7RB65	485	Iron-sulfur cluster assembly 1 homolog, mitochondrial
+Magallana gigas	mamB(V6F510)	hits	123	floor	54	best	A0A8W8NM50	133	Zinc transporter 2
+Magallana gigas	mamE(V6F2B6)	hits	908	floor	52	best	A0A8W8IK83	239	PDZ domain-containing protein
+Magallana gigas	mamK(Q6NE59)	hits	447	floor	50	best	A0A8W8IY74	110	Actin
+Magallana gigas	mamP(Q93DZ0)	hits	52	floor	54	best	A0A8W8L7J3	65	UV excision repair protein RAD23
+Magallana gigas	ISCA1(Q9BUE6)	hits	355	floor	42	best	K1P9S4	470	Iron-sulfur cluster assembly 1 homolog, mitochondrial
+Xenopus tropicalis	mamB(V6F510)	hits	37	floor	55	best	A0A8J0Q8C2	137	Probable proton-coupled zinc antiporter SLC30A4 (Solute carrier family 30 member 4) (Zinc transporter 4)
+Xenopus tropicalis	mamE(V6F2B6)	hits	312	floor	65	best	A4IHA1	283	Serine protease HTRA1 (EC 3.4.21.-) (High-temperature requirement A serine peptidase 1) (Serine protease 11)
+Xenopus tropicalis	mamK(Q6NE59)	hits	40	floor	58	best	A0A8J0PEB9	120	Actin related protein T2
+Xenopus tropicalis	mamP(Q93DZ0)	hits	6	floor	63	best	A0A8J1J2S3	66	Vomeronasal type-2 receptor 26-like
+Xenopus tropicalis	ISCA1(Q9BUE6)	hits	47	floor	45	best	A0A803J7J5	594	Iron-sulfur cluster assembly 1 homolog, mitochondrial
+Chlamydomonas reinhardtii	mamB(V6F510)	hits	22	floor	56	best	A0A2K3DWE3	143	Uncharacterized protein
+Chlamydomonas reinhardtii	mamE(V6F2B6)	hits	61	floor	100	best	A0A2K3D3G2	303	PDZ domain-containing protein
+Chlamydomonas reinhardtii	mamK(Q6NE59)	hits	19	floor	59	best	A8JAV1	103	Actin
+Chlamydomonas reinhardtii	mamP(Q93DZ0)	hits	80	floor	59	best	A0A2K3DSD3	83	Uncharacterized protein
+Chlamydomonas reinhardtii	ISCA1(Q9BUE6)	hits	7	floor	53	best	A0A2K3DEY7	210	Core domain-containing protein
+Neurospora crassa	mamB(V6F510)	hits	8	floor	62	best	Q7SB14	139	Mitochondrial metal transporter 2
+Neurospora crassa	mamE(V6F2B6)	hits	65	floor	67	best	Q7S9D2	100	Pro-apoptotic serine protease nma111 (EC 3.4.21.-)
+Neurospora crassa	mamK(Q6NE59)	hits	38	floor	53	best	P78711	100	Actin (EC 3.6.4.-)
+Neurospora crassa	mamP(Q93DZ0)	hits	33	floor	54	best	Q7S9G6	73	Probable glucan endo-1,3-beta-glucosidase eglC (EC 3.2.1.39) (Endo-1,3-beta-glucanase eglC) (Laminarinase eglC)
+Neurospora crassa	ISCA1(Q9BUE6)	hits	12	floor	46	best	Q7SBD6	81	Uncharacterized protein
+Phaeodactylum tricornutum	mamB(V6F510)	hits	24	floor	55	best	B7FWI7	201	Cation efflux protein cytoplasmic domain-containing protein
+Phaeodactylum tricornutum	mamE(V6F2B6)	hits	85	floor	60	best	B5Y422	290	PDZ domain-containing protein
+Phaeodactylum tricornutum	mamK(Q6NE59)	hits	65	floor	52	best	A0T0H7	91	Chaperone protein dnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70)
+Phaeodactylum tricornutum	mamP(Q93DZ0)	hits	18	floor	55	best	B7FPA3	66	Major facilitator superfamily (MFS) profile domain-containing protein
+Phaeodactylum tricornutum	ISCA1(Q9BUE6)	hits	11	floor	49	best	B7FVM0	279	Core domain-containing protein
