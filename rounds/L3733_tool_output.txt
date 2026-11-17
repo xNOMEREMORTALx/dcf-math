@@ -1,0 +1,48 @@
+ORG	mouse (RefSeq ORF)	proteins	21298	Se_U	n/a	Zn_C2H2x3	643	Zn_share	0.0302
+ORG	zebrafish (RefSeq ORF)	proteins	48099	Se_U	n/a	Zn_C2H2x3	1374	Zn_share	0.0286
+ORG	chicken (RefSeq ORF)	proteins	18011	Se_U	n/a	Zn_C2H2x3	289	Zn_share	0.0160
+ORG	fly (RefSeq ORF)	proteins	13864	Se_U	n/a	Zn_C2H2x3	232	Zn_share	0.0167
+ORG	Amphimedon queenslandica	proteins	22831	Se_U	0	Zn_C2H2x3	38	Zn_share	0.0017
+ORG	Nematostella vectensis	proteins	24435	Se_U	0	Zn_C2H2x3	136	Zn_share	0.0056
+ORG	Monosiga brevicollis	proteins	9150	Se_U	0	Zn_C2H2x3	14	Zn_share	0.0015
+ORG	Trichoplax adhaerens	proteins	11520	Se_U	0	Zn_C2H2x3	30	Zn_share	0.0026
+ORG	Mnemiopsis leidyi	proteins	25263	Se_U	0	Zn_C2H2x3	204	Zn_share	0.0081
+ORG	Saccoglossus kowalevskii	proteins	23808	Se_U	24	Zn_C2H2x3	252	Zn_share	0.0106
+ORG	Lingula anatina	proteins	34462	Se_U	14	Zn_C2H2x3	436	Zn_share	0.0127
+ORG	Strongylocentrotus purpuratus	proteins	35496	Se_U	0	Zn_C2H2x3	497	Zn_share	0.0140
+ORG	Capitella teleta	proteins	31954	Se_U	0	Zn_C2H2x3	299	Zn_share	0.0094
+ORG	Ciona intestinalis	proteins	19006	Se_U	0	Zn_C2H2x3	216	Zn_share	0.0114
+ORG	Branchiostoma floridae	proteins	39280	Se_U	13	Zn_C2H2x3	1141	Zn_share	0.0290
+ORG	Geodia barretti	proteins	60924	Se_U	0	Zn_C2H2x3	53	Zn_share	0.0009
+ORG	Oopsacas minuta	proteins	16366	Se_U	0	Zn_C2H2x3	26	Zn_share	0.0016
+ORG	Ephydatia muelleri	proteins	30399	Se_U	0	Zn_C2H2x3	90	Zn_share	0.0030
+ORG	Capsaspora owczarzaki	proteins	9794	Se_U	0	Zn_C2H2x3	19	Zn_share	0.0019
+ORG	Hypsibius exemplaris	proteins	20833	Se_U	0	Zn_C2H2x3	95	Zn_share	0.0046
+ORG	Hydra vulgaris	proteins	35504	Se_U	11	Zn_C2H2x3	185	Zn_share	0.0052
+ORG	Aplysia californica	proteins	23632	Se_U	6	Zn_C2H2x3	327	Zn_share	0.0138
+ORG	Salpingoeca rosetta	proteins	11700	Se_U	0	Zn_C2H2x3	26	Zn_share	0.0022
+ORG	Ramazzottius varieornatus	proteins	22945	Se_U	0	Zn_C2H2x3	76	Zn_share	0.0033
+ORG	Caenorhabditis elegans	proteins	26620	Se_U	2	Zn_C2H2x3	140	Zn_share	0.0053
+ORG	Trichoplax sp. H2	proteins	12150	Se_U	0	Zn_C2H2x3	33	Zn_share	0.0027
+ORG	Limulus polyphemus	proteins	31562	Se_U	14	Zn_C2H2x3	679	Zn_share	0.0215
+ORG	Tetranychus urticae	proteins	17840	Se_U	0	Zn_C2H2x3	108	Zn_share	0.0061
+ORG	Priapulus caudatus	proteins	18486	Se_U	6	Zn_C2H2x3	326	Zn_share	0.0176
+ORG	Dimorphilus gyrociliatus	proteins	16152	Se_U	0	Zn_C2H2x3	196	Zn_share	0.0121
+ORG	Helobdella robusta	proteins	23370	Se_U	0	Zn_C2H2x3	174	Zn_share	0.0074
+ORG	Brachionus calyciflorus	proteins	24535	Se_U	0	Zn_C2H2x3	79	Zn_share	0.0032
+ORG	Brachionus plicatilis	proteins	52387	Se_U	0	Zn_C2H2x3	65	Zn_share	0.0012
+ORG	Adineta ricciae	proteins	64111	Se_U	0	Zn_C2H2x3	190	Zn_share	0.0030
+ORG	Acanthaster planci	proteins	25685	Se_U	16	Zn_C2H2x3	231	Zn_share	0.0090
+ORG	Daphnia pulex	proteins	30137	Se_U	0	Zn_C2H2x3	125	Zn_share	0.0041
+ORG	Schistosoma mansoni	proteins	10766	Se_U	1	Zn_C2H2x3	113	Zn_share	0.0105
+ORG	Sphaeroforma arctica JP610	proteins	18649	Se_U	0	Zn_C2H2x3	72	Zn_share	0.0039
+ORG	Stylophora pistillata	proteins	23873	Se_U	0	Zn_C2H2x3	94	Zn_share	0.0039
+ORG	Echinococcus multilocularis	proteins	10472	Se_U	0	Zn_C2H2x3	97	Zn_share	0.0093
+ORG	Fasciola hepatica	proteins	11190	Se_U	0	Zn_C2H2x3	102	Zn_share	0.0091
+ORG	Macrostomum lignano	proteins	52448	Se_U	0	Zn_C2H2x3	311	Zn_share	0.0059
+ORG	Schistosoma japonicum	proteins	14733	Se_U	0	Zn_C2H2x3	127	Zn_share	0.0086
+ORG	Clonorchis sinensis	proteins	13606	Se_U	0	Zn_C2H2x3	150	Zn_share	0.0110
+ORG	Hymenolepis diminuta	proteins	18691	Se_U	0	Zn_C2H2x3	135	Zn_share	0.0072
+ORG	Paragonimus westermani	proteins	12535	Se_U	0	Zn_C2H2x3	86	Zn_share	0.0069
+ORG	Taenia asiatica	proteins	10244	Se_U	0	Zn_C2H2x3	80	Zn_share	0.0078
+ORG	Hofstenia miamia (FASTA)	proteins	22454	Se_U	0	Zn_C2H2x3	110	Zn_share	0.0049

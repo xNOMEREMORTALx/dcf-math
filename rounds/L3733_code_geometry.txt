@@ -1,0 +1,6 @@
+L3733 genetic-code geometry (standard code, computed)
+codons 64 = 2^6 = 64 | stop codons 3 | sense codons 61 | amino acids 20
+point-mutation graph: each codon has 9 neighbours; edges 288 = 64*9/2 = 288
+  synonymous edges 67 | to/from stop 23 | stop-stop 2 | missense 196
+  synonymous edges by codon position (1,2,3): [4, 0, 63]
+6-cube (one illustrative 2-bit base code C=00 T=01 G=10 A=11): vertices 64, edges 192 = 64*6/2; synonymous cube edges 48

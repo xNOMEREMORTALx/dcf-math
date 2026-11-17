@@ -1,0 +1,8 @@
+L3733 grading (rounds/L3733_tool_output.txt)
+S1 C. elegans <= 2 U-proteins: 2: PASS
+S2 eight aquatic animals each >= 10: Nematostella 0, Amphimedon 0, Strongylocentrotus 0, Capitella 0, Aplysia 6, Branchiostoma 13, Lingula 14, Saccoglossus 24: FAIL
+S3 Daphnia > Tetranychus: 0 vs 0: FAIL
+Z1 mouse C2H2 share above every non-vertebrate: 0.0302 vs max 0.0290 (Branchiostoma): PASS
+Z2 mouse > 2x fly: 643 vs 232: PASS
+RESULT [('S1', 'PASS'), ('S2', 'FAIL'), ('S3', 'FAIL'), ('Z1', 'PASS'), ('Z2', 'PASS')]
+Reading: U appears only where the gene-model pipeline encodes Sec; zero counts mean "not annotated", not "no selenium" (cf. cohesin, L3713).
