@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3713: cohesin (SMC1 + SMC3), the loop-extruding motor that works with CTCF, as a positive control across all organisms seen.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before rounds/dcf_cohesin_L3713.py is run.
+Why: CTCF is absent from every non-bilaterian and undetected in many bilaterians (L3701). Cohesin is expected in every eukaryote, so 3D genome
+folding machinery should be present where CTCF is not. Organisms: every proteome seen with >= 5,000 proteins (45 expected, incl. mouse, zebrafish,
+chicken, fly, full worm).
+ H1 SMC1 present in every organism.
+ H2 SMC3 present in every organism.
+ H3 Both present in every organism where L3701 found no CTCF (the decisive subset).
