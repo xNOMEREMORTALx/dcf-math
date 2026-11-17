@@ -1,0 +1,8 @@
+L3761 grading (rounds/L3761_tool_output.txt; 48 proteomes; full alignment, floor 350)
+P1 9 of 9 controls are hits: all 9 (mouse Cry1, Cry2; fly cry; zebrafish cry1a, cry1b, cry4, cry-dash; chicken CRY1, CRY2): PASS
+T1 every bilaterian >= 1 hit: 0 hits in C. elegans, Ciona, Saccoglossus, Hofstenia, Priapulus, both tardigrades, Helobdella, Dimorphilus and nine flatworms: FAIL
+T2 Amphimedon >= 1 hit: 2: PASS
+T3 zebrafish cry-dash G at TrpD: WWWG: PASS
+T4 fly cry W at A, B, C: WWWW: PASS
+T5 majority of Y/F-at-TrpD hits nearest fly phr6-4: 2 of 11 (Cry1 4, Cry2 3, fly cry 2, phr6-4 2): FAIL
+RESULT [('P1', 'PASS'), ('T1', 'FAIL'), ('T2', 'PASS'), ('T3', 'PASS'), ('T4', 'PASS'), ('T5', 'FAIL')]
