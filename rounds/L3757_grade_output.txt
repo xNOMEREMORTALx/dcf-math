@@ -1,0 +1,12 @@
+L3757 grading (rounds/L3757_tool_output.txt)
+P1 9 of 9 controls recovered: 7 of 9 (missed fly cry, zebrafish cry-dash): FAIL
+T1 every bilaterian >= 1 hit: 16 bilaterians with 0 hits: FAIL
+T2 mouse, zebrafish, chicken >= 1 WWWW hit: all three: PASS
+T3 zebrafish cry-dash G at TrpD: cry-dash not a hit: ungradeable
+T4 Amphimedon >= 1 hit: 0: FAIL
+T5 fly cry W at A, B, C: fly cry not a hit: ungradeable
+RESULT [('P1', 'FAIL'), ('T1', 'FAIL'), ('T2', 'PASS'), ('T3', 'ungradeable'), ('T4', 'FAIL'), ('T5', 'ungradeable')]
+--- descriptive after grading: why the two missed controls were missed
+  fly       cry      length 542  shortlist rank 81 of 4899 (top 20 kept)  local score vs robin CRY4 817 (floor 600)
+  zebrafish cry-dash length 521  shortlist rank 2407 of 10608 (top 20 kept)  local score vs robin CRY4 440 (floor 600)
+  fly       phr6-4   length 540  shortlist rank 1 of 4899 (top 20 kept)  local score vs robin CRY4 1181 (floor 600)
