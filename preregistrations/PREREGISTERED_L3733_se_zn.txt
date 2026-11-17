@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3733: two more elements from sequence - selenium (selenocysteine, the UGA-recoded 21st amino acid) and zinc (C2H2 fingers).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before rounds/dcf_se_zn_L3733.py is run.
+Priors (my recollection of the selenoproteome literature, not checked before freezing): nematodes keep about one selenoprotein; insects lose
+most; aquatic animals keep large selenoproteomes. Vertebrates expanded zinc-finger genes. Caveat: unreviewed gene models may truncate at UGA.
+ S1 C. elegans (full proteome): <= 2 proteins with U.
+ S2 Each of Nematostella, Amphimedon, Strongylocentrotus, Branchiostoma, Lingula, Capitella, Aplysia, Saccoglossus: >= 10 proteins with U.
+ S3 Tetranychus (mite) and Daphnia (crustacean): Daphnia has more U-proteins than Tetranychus (aquatic vs terrestrial).
+ Z1 Mouse C2H2 (>= 3 motifs) share of proteome is higher than in every non-vertebrate set.
+ Z2 Mouse C2H2 count is more than twice the fly's.
