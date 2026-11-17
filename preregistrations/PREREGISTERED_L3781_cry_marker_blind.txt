@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3781: blind test of the aromatic-TrpD family marker (L3777) on three unseen proteomes. Frozen before download.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026. Script rounds/dcf_cry_marker_blind_L3781.py (L3777 scan unchanged).
+Data (UniProt TSV by proteome): honeybee Apis mellifera UP000005203; Pacific oyster Magallana gigas UP000005408; frog Xenopus tropicalis UP000008143.
+ B1 Every hit whose best reference is CRY4(robin) or phr6-4(fly) reads W, Y or F at TrpD.
+ B2 No hit whose best reference is a photolyase or DASH (phr-classII, CPD-photolyase, cry-dash, DASH) reads W, Y or F at TrpD.
+ B3 Each of the three has >= 1 hit whose best reference is CRY4(robin) or phr6-4(fly).
+ B4 Xenopus has >= 1 hit whose best reference is phr-classII(fly) (non-placental vertebrates keep class II CPD photolyase).
+ Void per file if < 5,000 proteins.
