@@ -284,3 +284,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_magnetite_evalue_L3793.py | `4b56a0d15bf7d811538c2440c010867c6a9af312ffcd9a0a669231dc1f712037` |
 | preregistrations/PREREGISTERED_L3797_cry_marker_v2.txt | `f8e411054889cd270100d0aa2e2d44b53fadddba897137e8053136d532b82e69` |
 | rounds/dcf_grade_L3797.py | `c3a32c6aa319bbcb115345502d193042be73b9717ec015375712e56559477d0c` |
+| preregistrations/AMENDMENT_L3797_a.txt | `1294f52479d11d68fdc916bd5702cc21bca1a2f340091c0bab0126546e67f812` |
+| rounds/dcf_grade_L3797a.py | `f9ed0dcc86888c53b0713f6c423cfcb462026ff5e9766f00caa3c67fdde091e5` |
