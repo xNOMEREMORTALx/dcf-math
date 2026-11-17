@@ -26,7 +26,7 @@
 ## Reading: a sequence-readable family marker
 | lineage | residue at TrpD | n here |
 |---|---|---|
-| **animal-like cryptochromes and 6-4 photolyases** | **W** (most), **Y** (alga), **F** (*Lingula*, sea hare: WW**F**W read at TrpC) | 35, all aromatic |
+| **animal-like cryptochromes and 6-4 photolyases** | **W** (34), **Y** (1, the alga). Two read WW**F**W, an F at TrpC, not TrpD. | 35, all aromatic |
 | cryptochrome DASH | G, H, L, N, Q, V, E | 11, none aromatic |
 | class I CPD photolyase (fungus) | L | 1 |
 | class II CPD photolyase | not alignable | 13 |
