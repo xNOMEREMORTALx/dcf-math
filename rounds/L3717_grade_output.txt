@@ -1,0 +1,18 @@
+L3717 grading (rounds/L3717_tool_output.txt; GENCODE v49 basic, 20,014 protein-coding genes on autosomes + X; channel set 139)
+C1 H1 CTCF-ChIAPET not enriched: 48/139 = 0.345 vs 0.235, OR 1.72, p(enriched) 0.0022: FAIL
+C2 HFFc6 CTCF-ChIAPET not enriched: 41/139 = 0.295 vs 0.237, OR 1.34, p(enriched) 0.071: PASS
+C3 H1 H3K4me3-PLACSeq depleted: 0.633 vs 0.706, OR 0.72, p(depleted) 0.038: PASS
+C4 HFFc6 H3K4me3-PLACSeq depleted: 0.338 vs 0.605, OR 0.33, p(depleted) 2.3e-10: PASS
+RESULT [('C1', 'FAIL'), ('C2', 'PASS'), ('C3', 'PASS'), ('C4', 'PASS')]
+--- descriptive after grading: CTCF-anchored channel genes by family (n, H1, HFFc6)
+  ATP     n= 11  H1   4 (36%)  HFFc6   3 (27%)
+  CACNA1  n= 10  H1   1 (10%)  HFFc6   1 (10%)
+  GRIN    n=  7  H1   4 (57%)  HFFc6   4 (57%)
+  HCN1    n=  1  H1   0 (0%)  HFFc6   0 (0%)
+  HCN2    n=  1  H1   0 (0%)  HFFc6   1 (100%)
+  HCN3    n=  1  H1   1 (100%)  HFFc6   1 (100%)
+  HCN4    n=  1  H1   0 (0%)  HFFc6   0 (0%)
+  KCN     n= 96  H1  33 (34%)  HFFc6  27 (28%)
+  NALC    n=  1  H1   0 (0%)  HFFc6   0 (0%)
+  SCN     n= 10  H1   5 (50%)  HFFc6   4 (40%)
+  H1 CTCF-anchored channel genes: ATP2A1 ATP2A3 ATP2B2 ATP2B4 CACNA1S GRIN2A GRIN2B GRIN2C GRIN3B HCN3 KCNA1 KCNA10 KCNA2 KCNA3 KCNA7 KCNAB1 KCNAB3 KCNB1 KCNC1 KCNC4 KCNE1 KCNF1 KCNH1 KCNH2 KCNH4 KCNIP2 KCNJ11 KCNJ2 KCNJ5 KCNJ6 KCNJ8 KCNJ9 KCNK15 KCNK17 KCNK3 KCNK5 KCNK7 KCNMA1 KCNQ3 KCNQ5 KCNS1 KCNS2 KCNS3 SCN1A SCN3A SCN5A SCN7A SCN8A
