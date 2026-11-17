@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3713: do nerve-metal genes (K/Na/Ca channels, HCN, NALCN, NMDA receptors, Na/K and Ca pumps) sit at loop anchors differently
+from other protein-coding genes in human H1 stem cells and HFFc6 fibroblasts? Frozen before the GENCODE file is downloaded.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Script rounds/dcf_channel_loops_L3713.py (method in its docstring).
+Data: GENCODE human basic annotation GTF (release named on download) + the two verified Zenodo BEDPE files (L3705).
+Reasoning: most channel genes are neural and silent in stem cells and fibroblasts, so they should have fewer active-promoter (H3K4me3) loops;
+CTCF loops are structural and should not track expression.
+ C1 H1 CTCF-ChIAPET: channel genes NOT enriched (one-sided p(enriched) > 0.05).
+ C2 HFFc6 CTCF-ChIAPET: NOT enriched.
+ C3 H1 H3K4me3-PLACSeq: channel genes DEPLETED (OR < 1 and p(depleted) < 0.05).
+ C4 HFFc6 H3K4me3-PLACSeq: DEPLETED.
+ Void if the channel set has < 50 genes.

@@ -241,3 +241,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/L3705_4dn_verify.py | `ed898a9d9bfc16bb339beccc589566aceb9eac52a55d6a4f2b52d98d848d0fa7` |
 | PREREGISTERED_L3713_cohesin.txt | `aa768d224f524e26605cf3ad16cddd68eddd00e7e8458f5b1ea113681533d753` |
 | rounds/dcf_cohesin_L3713.py | `41f53e825bd4d139df7cb1a0f25b248e054031427d340a2b896ccbc282603016` |
+| PREREGISTERED_L3713_channel_loops.txt | `41dafdb115082e174d1fdbd5b841d69abbd24f78a884f83c25406d3fd3033d38` |
+| rounds/dcf_channel_loops_L3713.py | `936c90282cf943342a913ade660f3c2092cc33212ec9276d303aa35a52f0f060` |

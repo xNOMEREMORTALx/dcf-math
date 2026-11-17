@@ -1,0 +1,10 @@
+L3713 repdigit lattice (pure arithmetic). Every triple repdigit aaa = a*111 = a*3*37.
+Shared products: aaa*d = bbb*e  <=>  a*d = b*e. The smallest number that is a whole multiple of a given set of repdigits:
+  repdigits [444, 666, 888] -> least common multiple 2664 = 72 x 37
+  repdigits [222, 444, 666, 888] -> least common multiple 2664 = 72 x 37
+  repdigits [333, 666, 999] -> least common multiple 1998 = 54 x 37
+  repdigits [111, 222, 333, 444, 555, 666, 777, 888, 999] -> least common multiple 279720 = 7560 x 37
+Multiples of 5328 (=12*444=8*666=6*888) up to 6e4: [5328, 10656, 15984, 21312, 26640, 31968, 37296, 42624, 47952, 53280, 58608]
+DCF key numbers that are multiples of 37: [37, 2701] | of 111: []
+DCF key numbers within 2% of a multiple of 2664 (lcm of 444,666,888): [2701]
+2701 = 37*73 = 2701 ; 2701 - 2664 = 37 = 37 (2701 = 2664 + 37 = 73*37)
