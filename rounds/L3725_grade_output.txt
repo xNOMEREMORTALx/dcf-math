@@ -1,0 +1,5 @@
+L3725 grading (rounds/L3725_tool_output.txt)
+Q1 H1 p < 0.05: observed D 0.1102, null mean 0.0044 (sd 0.0269), p 0.0010: PASS
+Q2 HFFc6 p < 0.05: observed D 0.0574, null mean 0.0040 (sd 0.0242), p 0.0180: PASS
+RESULT [('Q1', 'PASS'), ('Q2', 'PASS')]
+Note: 20,023 protein-coding genes here vs 20,014 in L3713 (that script keyed genes by name, so 9 duplicated names collapsed); observed D values match L3717.
