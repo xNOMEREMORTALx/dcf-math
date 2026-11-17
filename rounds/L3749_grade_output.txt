@@ -1,0 +1,9 @@
+L3749 grading (rounds/L3749_tool_output.txt)
+G1 >= 90% with spacing-3 run: 0.1976: FAIL
+G2 spacing-2 <= 30% and spacing-4 <= 30%: 0.0722 and 0.1323: PASS
+G3 spacing-3 share >= 5x other proteins: 0.1976 / 0.0893 = 2.2x: FAIL
+RESULT [('G1', 'FAIL'), ('G2', 'PASS'), ('G3', 'FAIL')]
+Disclosed flaw: the family filter 'Sodium channel' also matched scorpion 'Sodium channel inhibitor' toxins (446 entries) and SCN1B auxiliary subunits.
+--- descriptive after grading: true pore-forming channels only (toxins, auxiliary and beta subunits removed)
+true channels n=124  spacing-2 0.331  spacing-3 0.903  spacing-4 0.347
+all other     n=58825  spacing-2 0.090  spacing-3 0.089  spacing-4 0.086
