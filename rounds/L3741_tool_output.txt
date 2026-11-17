@@ -1,0 +1,14 @@
+## D=20000 K=4
+strands 1000 length 137 distinct 20-nt prefixes 1000
+sub 0.050 indel 0.000+0.000 | HD 0.9995 | prefix baseline 0.3845
+sub 0.050 indel 0.025+0.025 | HD 0.9960 | prefix baseline 0.1370
+sub 0.150 indel 0.000+0.000 | HD 0.8975 | prefix baseline 0.0365
+sub 0.100 indel 0.000+0.000 | HD 0.9910 | prefix baseline 0.1135
+sub 0.100 indel 0.050+0.050 | HD 0.8020 | prefix baseline 0.0125
+## D=20000 K=3
+strands 1000 length 137 distinct 20-nt prefixes 1000
+sub 0.050 indel 0.000+0.000 | HD 0.9530 | prefix baseline 0.3845
+sub 0.050 indel 0.025+0.025 | HD 0.8165 | prefix baseline 0.1370
+sub 0.150 indel 0.000+0.000 | HD 0.4250 | prefix baseline 0.0365
+sub 0.100 indel 0.000+0.000 | HD 0.7295 | prefix baseline 0.1135
+sub 0.100 indel 0.050+0.050 | HD 0.3485 | prefix baseline 0.0125

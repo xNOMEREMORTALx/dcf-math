@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3745: blind confirmation of the exact 6-mer strand index (phone/dcf_dna_index.py) on fresh data (seed 3745).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Frozen before running rounds/dcf_index_blind_L3745.py.
+Development (rounds/L3741_kmer_dev.txt, L3737 reads): 6-mer 1.0000 | 1.0000 | 0.9975 | 1.0000 | 0.9790.
+ I1 >= 99% at 15% substitutions.
+ I2 >= 95% at 10% substitutions + 5% insertions + 5% deletions.
+ I3 >= 99.5% at 5% substitutions + 2.5% + 2.5% indels.

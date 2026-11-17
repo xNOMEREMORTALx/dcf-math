@@ -255,3 +255,8 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_hd_L3737.py | `4738743e6be60bdb472e832cba8f3e4b5979e03a7d9374325d35192edf02003c` |
 | PREREGISTERED_L3741_hd_tuning.txt | `53193cc2001ec351497f2f8f23f3f693f33248780041d7220ebd9a706e559653` |
 | rounds/dcf_hd_L3741.py | `fc73086906f305c53a5d84b3d5b0a1e636a8fa905fc0249a18dca980868aea40` |
+| PREREGISTERED_L3745_dna_index.txt | `40b64ceb285793624a409e24b6f9465251dee93bd48021062d1c19b14ba01c12` |
+| rounds/dcf_index_blind_L3745.py | `df40dc0413f36e07e45437a2aba22d7bb2f0ce81673ef05b6706caabd874fc68` |
+| phone/dcf_dna_index.py | `5689580b529170531272fe2a61c3de41e738faeffe450180c1d9ee362aa19eb2` |
+| rounds/L3741_kmer_dev.txt | `e3835ad693096e609aa6b513972e1f0723a30810a0afb27e730377040ce0ca43` |
+| rounds/L3741_tool_output.txt | `d2de42f69870a0f34a000dba2990c83d8783d12381d45db0a86c7391ca076e53` |

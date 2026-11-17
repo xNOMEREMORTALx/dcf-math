@@ -1,0 +1,4 @@
+Development (descriptive, not graded): exact k-mer cosine index; conditions in L3737 order: 5% | 5%+2.5/2.5 indel | 15% | 10% | 10%+5/5 indel. Reads drawn with the same RNG stream as L3737.
+exact 4-mer cosine index: 1.0000 | 0.9995 | 0.9225 | 0.9945 | 0.8425
+exact 5-mer cosine index: 1.0000 | 1.0000 | 0.9890 | 0.9995 | 0.9605
+exact 6-mer cosine index: 1.0000 | 1.0000 | 0.9975 | 1.0000 | 0.9790
