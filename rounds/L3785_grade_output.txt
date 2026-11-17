@@ -1,0 +1,31 @@
+honeybee (Apis mellifera): 6 hits
+   A0A7M7GTD9      1366 WWWW CRY4(robin)
+   A0A7M7GWA1      1153 ---- phr-classII(fly)
+   A0A7M7GYC4      1366 WWWW CRY4(robin)
+   A0A7M7H0R1      1366 WWWW CRY4(robin)
+   A0A7M7LRL0      1475 ---- phr-classII(fly)
+   A4GKG5          1366 WWWW CRY4(robin)
+oyster (Magallana gigas): 9 hits
+   A0A8W8IDI3      1705 WWWH cry-dash(zf)
+   A0A8W8IN73      1589 ---- phr-classII(fly)
+   A0A8W8IQ93      1589 ---- phr-classII(fly)
+   A0A8W8J9Y2      1364 WWWW phr6-4(fly)
+   A0A8W8KH86       415 WWWR phr6-4(fly)
+   A0A8W8KKK9       415 WWWR phr6-4(fly)
+   A0A8W8MZT0      1037 WWWW CRY4(robin)
+   A0A8W8N694      1589 WWWW phr6-4(fly)
+   A0A8W8N834       973 WWWW CRY4(robin)
+frog (Xenopus tropicalis): 8 hits
+   A0A6I8QG66      2064 WWWW CRY4(robin)
+   A0A6I8QP63       406 WWWH phr6-4(fly)
+   A0A8J0PJM1      1469 WWWW CRY4(robin)
+   A0A8J0QB82      1493 WWWW phr6-4(fly)
+   A0A8J1J9Y1      1469 WWWW CRY4(robin)
+   A0A8J1JEP0      1415 WWWW CRY4(robin)
+   A0A8J1JS65      2139 WWWX cry-dash(zf)
+   A0A8J0QCT5      2076 WWWW CRY4(robin)
+B1 CRY/6-4 hits 17; non-aromatic at TrpD 3 [('A0A8W8KH86', '415', 'WWWR', 'phr6-4(fly)'), ('A0A8W8KKK9', '415', 'WWWR', 'phr6-4(fly)'), ('A0A6I8QP63', '406', 'WWWH', 'phr6-4(fly)')]
+B2 photolyase/DASH hits 6 (informative at TrpD 2); aromatic at TrpD 0 []
+B3 per organism CRY/6-4 counts {'honeybee': 4, 'oyster': 6, 'frog': 7} missing []
+B4 Xenopus phr-classII hits []
+RESULT [('B1', 'FAIL'), ('B2', 'PASS'), ('B3', 'PASS'), ('B4', 'FAIL')]
