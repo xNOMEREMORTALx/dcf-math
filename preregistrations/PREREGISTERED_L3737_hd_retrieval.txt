@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3737: hyperdimensional (HD) retrieval of DNA-storage strands from noisy reads. Frozen before the encoder is written or run.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026.
+Setup: 1,000 strands made by the phone codec (phone/dcf_dna_codec.py encode) from random bytes (seed 3737). Each strand's HD vector:
+bipolar D = 10,000; random vector per base; a 4-mer = product of its bases' vectors, each rolled by its position in the 4-mer; strand = sign of the
+sum of all its 4-mers. A read is matched to the strand with the highest dot product. 2,000 reads per condition, each from a random strand with
+independent substitutions (rate s) and single-base insertions/deletions (rate d each).
+Baseline: exact match of the first 20 nt to a strand's first 20 nt (address lookup); no match = failure.
+ H1 HD accuracy >= 99% at s = 5%, d = 0.
+ H2 HD accuracy >= 95% at s = 5%, d = 2.5% (insertions) + 2.5% (deletions).
+ H3 HD accuracy > baseline accuracy at s = 5%, d = 0.
+ H4 HD accuracy >= 90% at s = 15%, d = 0.
