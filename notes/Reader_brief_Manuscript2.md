@@ -21,7 +21,7 @@
 **Where everything is.**
 - **Draft:** `notes/Manuscript_nerve_metals_draft_v0.20.md` (ten figures in `figures/`; publication-resolution copies in `figures/publication/`).
 - **Every test:** `preregistrations/` (frozen texts and LEDGER.md) and `rounds/` (reports and grade outputs).
-- **Tools:** dcf-genefinder (DOI 10.5281/zenodo.24234986): `dcf_nerve.py`, `dcf_pump.py`, `dcf_align.py`, `dcf_localalign.py`.
+- **Tools:** dcf-genefinder v1.1.0 (DOI 10.5281/zenodo.24302710): `dcf_nerve.py`, `dcf_pump.py`, `dcf_align.py`, `dcf_localalign.py`.
 
 **Known limits** (stated in the draft):
 - Silent K subunits, divergent K2P channels and insect IR receptors are missed.

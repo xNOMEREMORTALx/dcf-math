@@ -50,8 +50,8 @@ python3 -I dcf_redox.py genome.gb genome.gff3
 5. Compare with the committed output file.
 
 ## Permanent identifiers
-- **dcf-math** v1.0.0: DOI [10.5281/zenodo.24234795](https://doi.org/10.5281/zenodo.24234795)
-- **dcf-genefinder** v1.0.0: DOI [10.5281/zenodo.24234986](https://doi.org/10.5281/zenodo.24234986)
+- **dcf-math** v1.1.0: DOI [10.5281/zenodo.24302678](https://doi.org/10.5281/zenodo.24302678) (v1.0.0: [10.5281/zenodo.24234795](https://doi.org/10.5281/zenodo.24234795))
+- **dcf-genefinder** v1.1.0: DOI [10.5281/zenodo.24302710](https://doi.org/10.5281/zenodo.24302710) (v1.0.0: [10.5281/zenodo.24234986](https://doi.org/10.5281/zenodo.24234986))
 - Author ORCID: [0009-0008-9235-4493](https://orcid.org/0009-0008-9235-4493)
 
 Not for medical use.
