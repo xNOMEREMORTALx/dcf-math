@@ -4,3 +4,6 @@ AMENDMENT L3797-a (17 November 2026, before any monarch or coral data exist; sal
 2. Because a taxonomy query can return subspecies names (e.g. "Danaus plexippus plexippus"), organisms are matched on their first two words
    (genus + species); hits from organism groups sharing genus + species are pooled. This is applied by rounds/dcf_grade_L3797a.py, which is dcf_grade_L3797.py with that one change; the original is kept.
 3. If the replacement files do not arrive, V3 is ungradeable and V4 is ungradeable (it needs all four), as the frozen grader already does.
+4. Addendum (09:50, still before monarch/coral data): UniProt has a monarch proteome UP000007151 ("Danaus plexippus plexippus", taxon 278856,
+   15,140 proteins) and NO proteome for Acropora millepora (only A. cervicornis, UP001249851). Gary is given proteome:UP000007151 for the monarch.
+   The coral is NOT substituted (rule: missing files are dropped, not replaced); unless a non-empty A. millepora file arrives, coral is void.
