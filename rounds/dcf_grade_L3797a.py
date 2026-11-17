@@ -7,7 +7,7 @@ H = {}
 for l in open(sys.argv[1]):
     if l.startswith('ORG\t'):
         x = l.rstrip('\n').split('\t')
-        H[' '.join(x[1].split()[:2])] = [re.match(r'(.*):(\d+):([A-Z\-]{4}):(.+)$', h).groups() for h in (x[4].split() if len(x) > 4 else [])]
+        H.setdefault(' '.join(x[1].split()[:2]), []).extend([re.match(r'(.*):(\d+):([A-Z\-]{4}):(.+)$', h).groups() for h in (x[4].split() if len(x) > 4 else [])])
 for o in ORGS:
     print(o, 'present' if o in H else 'MISSING')
     for a, s, t, f in H.get(o, []): print('   %-14s %5s %s %s' % (a, s, t, f))
