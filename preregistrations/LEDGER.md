@@ -252,3 +252,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | PREREGISTERED_L3733_se_zn.txt | `56b9fb3724249ffb9b63b086b624c7ab6c96b2d7b887d6334f592650f158a406` |
 | rounds/dcf_se_zn_L3733.py | `41205e7df08ab8a834a4135023b71fa7ec9fa1501d8580a8cb6cf3ee5758852e` |
 | PREREGISTERED_L3737_hd_retrieval.txt | `ecd2e338b8adb6e851761252ad1c0e88d65b4d71938d6e61ccf68de4df933a3b` |
+| rounds/dcf_hd_L3737.py | `4738743e6be60bdb472e832cba8f3e4b5979e03a7d9374325d35192edf02003c` |
