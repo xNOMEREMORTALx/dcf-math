@@ -1,0 +1,32 @@
+Apis mellifera             mamB   E-hits 6 (L3789 8)  best A0A7M7II84	114	1.39e-06	Zinc transporter 2 isoform X1
+Apis mellifera             mamE   E-hits 2 (L3789 138)  best A0A7M7TFY6	235	1.18e-13	Serine protease HTRA2, mitochondrial (EC 3.4.21.108) (High temperature requirement protein A2)
+Apis mellifera             mamK   E-hits 4 (L3789 59)  best A0A7M6UW32	96	0.000906	Actin related protein 1
+Apis mellifera             mamP   E-hits 0 (L3789 35)  best A0A7M7TFY6	68	0.502	Serine protease HTRA2, mitochondrial (EC 3.4.21.108) (High temperature requirement protein A2)
+Apis mellifera             ISCA1  E-hits 2 (L3789 4)  best A0A7M7RB65	485	7.33e-47	Iron-sulfur cluster assembly 1 homolog, mitochondrial
+Magallana gigas            mamB   E-hits 14 (L3789 123)  best A0A8W8NM50	133	1.11e-07	Zinc transporter 2
+Magallana gigas            mamE   E-hits 1 (L3789 908)  best A0A8W8IK83	239	1.17e-17	PDZ domain-containing protein
+Magallana gigas            mamK   E-hits 24 (L3789 447)  best A0A8W8IY74	110	4.86e-05	Actin
+Magallana gigas            mamP   E-hits 0 (L3789 52)  best A0A8W8L7J3	65	1.92	UV excision repair protein RAD23
+Magallana gigas            ISCA1  E-hits 3 (L3789 355)  best K1P9S4	470	4.88e-46	Iron-sulfur cluster assembly 1 homolog, mitochondrial
+Xenopus tropicalis         mamB   E-hits 4 (L3789 37)  best A0A8J0Q8C2	137	1.11e-08	Probable proton-coupled zinc antiporter SLC30A4 (Solute carrier family 30 member 4) (Zinc transporter 4)
+Xenopus tropicalis         mamE   E-hits 5 (L3789 312)  best A4IHA1	283	2.6e-17	Serine protease HTRA1 (EC 3.4.21.-) (High-temperature requirement A serine peptidase 1) (Serine protease 11)
+Xenopus tropicalis         mamK   E-hits 9 (L3789 40)  best A0A8J0PEB9	120	3.4e-06	Actin related protein T2
+Xenopus tropicalis         mamP   E-hits 0 (L3789 6)  best A0A8J1J2S3	66	2.93	Vomeronasal type-2 receptor 26-like
+Xenopus tropicalis         ISCA1  E-hits 3 (L3789 47)  best A0A803J7J5	594	3.96e-62	Iron-sulfur cluster assembly 1 homolog, mitochondrial
+Chlamydomonas reinhardtii  mamB   E-hits 3 (L3789 22)  best A0A2K3DWE3	143	3.98e-08	Uncharacterized protein
+Chlamydomonas reinhardtii  mamE   E-hits 5 (L3789 61)  best A0A2K3D3G2	303	1.24e-09	PDZ domain-containing protein
+Chlamydomonas reinhardtii  mamK   E-hits 1 (L3789 19)  best A8JAV1	103	0.000226	Actin
+Chlamydomonas reinhardtii  mamP   E-hits 0 (L3789 80)  best A0A2K3DSD3	83	0.251	Uncharacterized protein
+Chlamydomonas reinhardtii  ISCA1  E-hits 2 (L3789 7)  best A0A2K3DEY7	210	7.89e-19	Core domain-containing protein
+Neurospora crassa          mamB   E-hits 4 (L3789 8)  best Q7SB14	139	1.03e-08	Mitochondrial metal transporter 2
+Neurospora crassa          mamE   E-hits 0 (L3789 65)  best Q7S9D2	100	0.0118	Pro-apoptotic serine protease nma111 (EC 3.4.21.-)
+Neurospora crassa          mamK   E-hits 1 (L3789 38)  best P78711	100	0.000147	Actin (EC 3.6.4.-)
+Neurospora crassa          mamP   E-hits 0 (L3789 33)  best Q7S9G6	73	0.23	Probable glucan endo-1,3-beta-glucosidase eglC (EC 3.2.1.39) (Endo-1,3-beta-glucanase eglC) (Laminarinase eglC)
+Neurospora crassa          ISCA1  E-hits 1 (L3789 12)  best Q7SBD6	81	0.000382	Uncharacterized protein
+Phaeodactylum tricornutum  mamB   E-hits 2 (L3789 24)  best B7FWI7	201	4.97e-16	Cation efflux protein cytoplasmic domain-containing protein
+Phaeodactylum tricornutum  mamE   E-hits 2 (L3789 85)  best B5Y422	290	8.29e-21	PDZ domain-containing protein
+Phaeodactylum tricornutum  mamK   E-hits 3 (L3789 65)  best A0T0H7	91	0.00222	Chaperone protein dnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70)
+Phaeodactylum tricornutum  mamP   E-hits 0 (L3789 18)  best B7FPA3	66	0.749	Major facilitator superfamily (MFS) profile domain-containing protein
+Phaeodactylum tricornutum  ISCA1  E-hits 3 (L3789 11)  best B7FVM0	279	7.28e-26	Core domain-containing protein
+missing []
+RESULT [('E1', 'PASS'), ('E2', 'FAIL'), ('E3', 'PASS'), ('E4', 'PASS')]

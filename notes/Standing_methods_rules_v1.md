@@ -25,6 +25,11 @@
    - The floor is **calibrated on named positives and negatives** (NR1: 941, L3693), not chosen as a round number (1,000 removed true divergent NR1s, L3689).
    - **State the floor in the pre-registration,** and build it into shared code (dcf_nr1_L3693).
 9. **Reciprocal best hits** against a panel of the family's paralogs prevent repeat-rich proteins posing as the target (CTCF, L3701).
+9a. **(Rule 17, adopted L3793) Shuffled-sequence floors must scale with search size.**
+   - The maximum of 300 shuffles let hundreds of noise hits through in 20,000–58,000-protein proteomes (L3789: 908 "MamE hits" in the oyster).
+   - Use a Gumbel fit to ≥ 1,000 shuffles and an E-value scaled by the number of candidates (E < 0.01, `dcf_magnetite_evalue_L3793.py`).
+   - Under it, the MamP noise hits fell to zero in all six proteomes, while true families stayed (E down to 1e-62).
+   - **A borderline real homolog can fall just outside the cut** (fungal HtrA nma111, E = 0.012), so report the best E-value, not only the yes/no call.
 
 ## D. Statistics
 10. **Grid effects.** Genomic coordinates sit on human-chosen bins. Divisibility or digit tests need matched controls with the same 2-and-5 content (L3705).
