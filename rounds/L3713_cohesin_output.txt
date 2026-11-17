@@ -1,0 +1,48 @@
+ORG	mouse	SMC1	2	SMC3	1	other_SMC	3
+ORG	zebrafish	SMC1	3	SMC3	1	other_SMC	4
+ORG	chicken	SMC1	1	SMC3	1	other_SMC	3
+ORG	fly	SMC1	1	SMC3	1	other_SMC	2
+ORG	Amphimedon queenslandica	SMC1	1	SMC3	1	other_SMC	2
+ORG	Nematostella vectensis	SMC1	1	SMC3	0	other_SMC	2
+ORG	Monosiga brevicollis	SMC1	0	SMC3	0	other_SMC	1
+ORG	Trichoplax adhaerens	SMC1	0	SMC3	0	other_SMC	0
+ORG	Mnemiopsis leidyi	SMC1	1	SMC3	1	other_SMC	2
+ORG	Saccoglossus kowalevskii	SMC1	1	SMC3	0	other_SMC	2
+ORG	Lingula anatina	SMC1	1	SMC3	1	other_SMC	2
+ORG	Strongylocentrotus purpuratus	SMC1	1	SMC3	1	other_SMC	4
+ORG	Capitella teleta	SMC1	1	SMC3	0	other_SMC	3
+ORG	Ciona intestinalis	SMC1	0	SMC3	1	other_SMC	3
+ORG	Branchiostoma floridae	SMC1	1	SMC3	2	other_SMC	5
+ORG	Geodia barretti	SMC1	1	SMC3	2	other_SMC	1
+ORG	Oopsacas minuta	SMC1	0	SMC3	0	other_SMC	2
+ORG	Ephydatia muelleri	SMC1	1	SMC3	1	other_SMC	1
+ORG	Capsaspora owczarzaki	SMC1	0	SMC3	1	other_SMC	2
+ORG	Hypsibius exemplaris	SMC1	1	SMC3	1	other_SMC	2
+ORG	Hydra vulgaris	SMC1	1	SMC3	1	other_SMC	3
+ORG	Aplysia californica	SMC1	1	SMC3	1	other_SMC	3
+ORG	Salpingoeca rosetta	SMC1	1	SMC3	1	other_SMC	2
+ORG	Ramazzottius varieornatus	SMC1	1	SMC3	1	other_SMC	2
+ORG	Caenorhabditis elegans	SMC1	1	SMC3	1	other_SMC	3
+ORG	Trichoplax sp. H2	SMC1	1	SMC3	1	other_SMC	3
+ORG	Limulus polyphemus	SMC1	3	SMC3	1	other_SMC	3
+ORG	Tetranychus urticae	SMC1	0	SMC3	1	other_SMC	2
+ORG	Priapulus caudatus	SMC1	1	SMC3	1	other_SMC	2
+ORG	Dimorphilus gyrociliatus	SMC1	1	SMC3	1	other_SMC	2
+ORG	Helobdella robusta	SMC1	1	SMC3	1	other_SMC	1
+ORG	Brachionus calyciflorus	SMC1	1	SMC3	1	other_SMC	3
+ORG	Brachionus plicatilis	SMC1	1	SMC3	1	other_SMC	3
+ORG	Adineta ricciae	SMC1	3	SMC3	2	other_SMC	3
+ORG	Acanthaster planci	SMC1	1	SMC3	2	other_SMC	3
+ORG	Daphnia pulex	SMC1	2	SMC3	1	other_SMC	2
+ORG	Schistosoma mansoni	SMC1	1	SMC3	1	other_SMC	2
+ORG	Sphaeroforma arctica JP610	SMC1	1	SMC3	1	other_SMC	2
+ORG	Stylophora pistillata	SMC1	0	SMC3	0	other_SMC	3
+ORG	Echinococcus multilocularis	SMC1	0	SMC3	1	other_SMC	2
+ORG	Fasciola hepatica	SMC1	0	SMC3	0	other_SMC	1
+ORG	Macrostomum lignano	SMC1	2	SMC3	0	other_SMC	2
+ORG	Schistosoma japonicum	SMC1	4	SMC3	2	other_SMC	1
+ORG	Clonorchis sinensis	SMC1	0	SMC3	0	other_SMC	1
+ORG	Hymenolepis diminuta	SMC1	2	SMC3	1	other_SMC	2
+ORG	Paragonimus westermani	SMC1	1	SMC3	1	other_SMC	2
+ORG	Taenia asiatica	SMC1	1	SMC3	1	other_SMC	2
+ORG	Hofstenia miamia	SMC1	1	SMC3	1	other_SMC	2

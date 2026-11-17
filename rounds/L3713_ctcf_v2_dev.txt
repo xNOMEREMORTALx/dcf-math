@@ -1,0 +1,44 @@
+ORG	mouse	CTCF	present	top_vs_Ctcf	3973	nearest	Ctcf	3973	zf_proteins	474	top	Ctcf
+ORG	Amphimedon queenslandica	CTCF	absent	top_vs_Ctcf	397	nearest	Prdm9	682	zf_proteins	7	top	A0AAN0J8L6
+ORG	Nematostella vectensis	CTCF	absent	top_vs_Ctcf	577	nearest	Gm9595	1297	zf_proteins	67	top	A7RIQ4
+ORG	Monosiga brevicollis	CTCF	absent	top_vs_Ctcf	0	nearest	None	0	zf_proteins	0	top	None
+ORG	Trichoplax adhaerens	CTCF	absent	top_vs_Ctcf	456	nearest	Zfp268	984	zf_proteins	9	top	B3RPQ5
+ORG	Geodia barretti	CTCF	absent	top_vs_Ctcf	586	nearest	Zfp808	1015	zf_proteins	21	top	A0AA35TXH2
+ORG	Oopsacas minuta	CTCF	absent	top_vs_Ctcf	330	nearest	Zfp808	527	zf_proteins	7	top	A0AAV7K0Q5
+ORG	Ephydatia muelleri	CTCF	absent	top_vs_Ctcf	574	nearest	Gm19428	1624	zf_proteins	34	top	A0ACS2HNJ4
+ORG	Mnemiopsis leidyi	CTCF	absent	top_vs_Ctcf	554	nearest	Zfp808	1294	zf_proteins	102	top	A0ACF8YLB0
+ORG	Saccoglossus kowalevskii	CTCF	present	top_vs_Ctcf	812	nearest	Ctcfl	817	zf_proteins	179	top	A0ABM0LY93
+ORG	Lingula anatina	CTCF	present	top_vs_Ctcf	979	nearest	Ctcf	979	zf_proteins	316	top	A0A1S3KEB8
+ORG	Strongylocentrotus purpuratus	CTCF	present	top_vs_Ctcf	800	nearest	Ctcf	800	zf_proteins	359	top	A0A7M7SUA6
+ORG	Capitella teleta	CTCF	present	top_vs_Ctcf	987	nearest	Ctcf	987	zf_proteins	166	top	R7TAQ4
+ORG	Ciona intestinalis	CTCF	present	top_vs_Ctcf	869	nearest	Ctcf	869	zf_proteins	93	top	Q4H2H9
+ORG	Branchiostoma floridae	CTCF	present	top_vs_Ctcf	1175	nearest	Ctcf	1175	zf_proteins	837	top	A0A9J7LAE2
+ORG	Capsaspora owczarzaki	CTCF	absent	top_vs_Ctcf	245	nearest	Zfp808	352	zf_proteins	3	top	A0A0D2WNS6
+ORG	Hypsibius exemplaris	CTCF	present	top_vs_Ctcf	671	nearest	Ctcf	671	zf_proteins	45	top	A0A1W0X2T9
+ORG	Hydra vulgaris	CTCF	absent	top_vs_Ctcf	636	nearest	Zfp808	999	zf_proteins	70	top	A0ABM4CN81
+ORG	Aplysia californica	CTCF	present	top_vs_Ctcf	885	nearest	Ctcf	885	zf_proteins	206	top	A0ABM0JLS1
+ORG	Salpingoeca rosetta	CTCF	absent	top_vs_Ctcf	549	nearest	Zfp808	930	zf_proteins	4	top	F2UMX6
+ORG	Ramazzottius varieornatus	CTCF	present	top_vs_Ctcf	690	nearest	Ctcf	690	zf_proteins	29	top	A0A1D1VW06
+ORG	Trichoplax sp. H2	CTCF	absent	top_vs_Ctcf	366	nearest	Zfp808	588	zf_proteins	8	top	UPI000E15E922
+ORG	Limulus polyphemus	CTCF	present	top_vs_Ctcf	1029	nearest	Ctcf	1029	zf_proteins	429	top	A0ABM1TJA2
+ORG	Tetranychus urticae	CTCF	present	top_vs_Ctcf	938	nearest	Ctcf	938	zf_proteins	29	top	T1K7S3
+ORG	Priapulus caudatus	CTCF	present	top_vs_Ctcf	1007	nearest	Ctcf	1007	zf_proteins	219	top	A0ABM1EII2
+ORG	Dimorphilus gyrociliatus	CTCF	present	top_vs_Ctcf	952	nearest	Ctcf	952	zf_proteins	96	top	A0A7I8V421
+ORG	Helobdella robusta	CTCF	present	top_vs_Ctcf	629	nearest	Ctcf	629	zf_proteins	55	top	T1FBH5
+ORG	Brachionus calyciflorus	CTCF	present	top_vs_Ctcf	543	nearest	Ctcfl	553	zf_proteins	21	top	A0A814NA31
+ORG	Brachionus plicatilis	CTCF	present	top_vs_Ctcf	567	nearest	Ctcf	567	zf_proteins	15	top	A0A3M7T4P0
+ORG	Adineta ricciae	CTCF	present	top_vs_Ctcf	782	nearest	Ctcf	782	zf_proteins	52	top	A0A813WLW2
+ORG	Acanthaster planci	CTCF	present	top_vs_Ctcf	814	nearest	Ctcf	814	zf_proteins	134	top	A0A8B7XVJ2
+ORG	Daphnia pulex	CTCF	present	top_vs_Ctcf	997	nearest	Ctcf	997	zf_proteins	49	top	E9HLQ9
+ORG	Schistosoma mansoni	CTCF	absent	top_vs_Ctcf	394	nearest	Zfp997	825	zf_proteins	36	top	A0A5K4F460
+ORG	Sphaeroforma arctica JP610	CTCF	absent	top_vs_Ctcf	363	nearest	Gm9595	621	zf_proteins	34	top	A0A0L0FMP6
+ORG	Stylophora pistillata	CTCF	absent	top_vs_Ctcf	617	nearest	Zfp808	1582	zf_proteins	33	top	A0A2B4RM67
+ORG	Echinococcus multilocularis	CTCF	absent	top_vs_Ctcf	344	nearest	Zfp316	433	zf_proteins	19	top	A0A068Y5T0
+ORG	Fasciola hepatica	CTCF	absent	top_vs_Ctcf	351	nearest	Zfp997	467	zf_proteins	24	top	A0A2H1CA67
+ORG	Macrostomum lignano	CTCF	absent	top_vs_Ctcf	557	nearest	Zfp619	1812	zf_proteins	98	top	A0A1I8GT13
+ORG	Schistosoma japonicum	CTCF	absent	top_vs_Ctcf	386	nearest	Gm19428	830	zf_proteins	38	top	A0A4Z2DFE3
+ORG	Clonorchis sinensis	CTCF	absent	top_vs_Ctcf	342	nearest	Gm3055	476	zf_proteins	39	top	G7Y3G2
+ORG	Hymenolepis diminuta	CTCF	absent	top_vs_Ctcf	433	nearest	LOC139424762	633	zf_proteins	41	top	A0A564YXF6
+ORG	Paragonimus westermani	CTCF	absent	top_vs_Ctcf	339	nearest	Zfp93	530	zf_proteins	22	top	A0A5J4NLN9
+ORG	Taenia asiatica	CTCF	absent	top_vs_Ctcf	315	nearest	Gm9595	450	zf_proteins	13	top	A0A0R3W7G0
+ORG	Hofstenia miamia	CTCF	present	top_vs_Ctcf	924	nearest	Ctcf	924	zf_proteins	42	top	HMIM007423
