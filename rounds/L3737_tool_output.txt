@@ -1,0 +1,6 @@
+strands 1000 length 137 distinct 20-nt prefixes 1000
+sub 0.050 indel 0.000+0.000 | HD 1.0000 | prefix baseline 0.3845
+sub 0.050 indel 0.025+0.025 | HD 0.9955 | prefix baseline 0.1370
+sub 0.150 indel 0.000+0.000 | HD 0.8950 | prefix baseline 0.0365
+sub 0.100 indel 0.000+0.000 | HD 0.9895 | prefix baseline 0.1135
+sub 0.100 indel 0.050+0.050 | HD 0.7995 | prefix baseline 0.0125

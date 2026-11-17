@@ -1,0 +1,6 @@
+L3737 grading (rounds/L3737_tool_output.txt)
+H1 HD >= 99% at s=5%: 1.0000: PASS
+H2 HD >= 95% at s=5%, indels 2.5%+2.5%: 0.9955: PASS
+H3 HD > prefix baseline at s=5%: 1.0000 vs 0.3845: PASS
+H4 HD >= 90% at s=15%: 0.8950: FAIL
+RESULT [('H1', 'PASS'), ('H2', 'PASS'), ('H3', 'PASS'), ('H4', 'FAIL')]
