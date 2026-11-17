@@ -1,0 +1,3 @@
+ORG	Chlamydomonas reinhardtii	hits	2	A0A2K3E0E6:372:WWWG:cry-dash(zf) A8J8W0:1261:WWWY:Cry2(mouse)
+ORG	Neurospora crassa	hits	0	
+ORG	Phaeodactylum tricornutum	hits	1	B7FZ64:971:WWWW:Cry1(mouse)

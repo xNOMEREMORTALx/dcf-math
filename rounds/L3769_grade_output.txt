@@ -1,0 +1,22 @@
+L3769 grading of PREREGISTERED_L3765 (rounds/L3769_tool_output.txt). Zip held 4 files; Phaeodactylum twice (identical MD5 43087b37...), one copy used.
+O1 each >= 1 hit: Chlamydomonas 2, Neurospora 0, Phaeodactylum 1: FAIL
+O2 Neurospora DASH-nearest hit with non-W at TrpD: no Neurospora hit: FAIL
+O3 Chlamydomonas hit nearest Cry1/Cry2/phr6-4 with W at A, B, C: A8J8W0 WWWY nearest Cry2: PASS
+O4 >= 1 hit with Y or F at TrpD: A8J8W0 WWWY: PASS
+RESULT [('O1', 'FAIL'), ('O2', 'FAIL'), ('O3', 'PASS'), ('O4', 'PASS')]
+--- descriptive after grading: names of hits, and named cryptochromes/photolyases in each file
+  named Chlamydomonas reinhardtii A0A2K3D533 531 Photolyase/cryptochrome alpha/beta domain-containing protein
+  HIT   Chlamydomonas reinhardtii A0A2K3E0E6 612 Cryptochrome DASH
+  named Chlamydomonas reinhardtii A0A2K3E6N9 760 Photolyase/cryptochrome alpha/beta domain-containing protein
+  HIT   Chlamydomonas reinhardtii A8J8W0 595 Uncharacterized protein
+  named Chlamydomonas reinhardtii Q9XHE2 612 Deoxyribodipyrimidine photo-lyase (EC 4.1.99.3) (DNA photolyase)
+  named Chlamydomonas reinhardtii A0A2K3D0R8 804 Photolyase/cryptochrome alpha/beta domain-containing protein
+  named Chlamydomonas reinhardtii A0A2K3E3F7 970 Photolyase/cryptochrome alpha/beta domain-containing protein
+  named Neurospora crassa (strain P27526 615 Deoxyribodipyrimidine photo-lyase (EC 4.1.99.3) (DNA photolyase) (Phot
+  named Neurospora crassa (strain Q7SI68 745 Putative cryptochrome DASH, mitochondrial
+  named Phaeodactylum tricornutum B7FV99 610 Cryptochrome DASH
+  named Phaeodactylum tricornutum B7FWG0 585 Photolyase/cryptochrome alpha/beta domain-containing protein
+  named Phaeodactylum tricornutum B7FZ06 511 Deoxyribodipyrimidine photo-lyase (EC 4.1.99.3) (DNA photolyase)
+  HIT   Phaeodactylum tricornutum B7FZ64 550 Cryptochrome photolyase family 1
+  named Phaeodactylum tricornutum B7GBN1 524 Photolyase/cryptochrome alpha/beta domain-containing protein
+  named Phaeodactylum tricornutum B7G9P9 495 Photolyase/cryptochrome alpha/beta domain-containing protein
