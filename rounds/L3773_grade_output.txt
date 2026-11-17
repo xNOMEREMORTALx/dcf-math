@@ -1,0 +1,7 @@
+L3773 grading (rounds/L3773_tool_output.txt)
+M1 held-out Q7SI68, Q9XHE2, B7FZ06 all hits: Q7SI68 yes; Q9XHE2 no; B7FZ06 no: FAIL
+M2 9 animal controls: 9 of 9: PASS
+M3 C. elegans 0 hits: 0: PASS
+M4 >= 5 of the other 17 gain a hit: 0 gained (Adineta, wrongly listed as zero-hit in the pre-registration, already had 2 DASH hits in L3761): FAIL
+RESULT [('M1', 'FAIL'), ('M2', 'PASS'), ('M3', 'PASS'), ('M4', 'FAIL')]
+Disclosed: (1) Adineta ricciae was wrongly in the pre-registered zero-hit list; (2) one zebrafish gene name contains ':' and breaks the display parse of that hit (no grade affected).
