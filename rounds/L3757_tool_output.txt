@@ -1,0 +1,48 @@
+ORG	mouse	hits	2	Cry1:1440:WWWW Cry2:1424:WWWW
+ORG	zebrafish	hits	6	cry4:1956:WWWW cry3a:1423:WWWW cry1a:1420:WWWW cry1b:1411:WWWW cry3b:1324:WWWW cry5:1375:WWWW
+ORG	chicken	hits	3	LOC395100:2528:WWWW CRY1:1455:WWWW CRY2:1435:WWWW
+ORG	fly	hits	1	phr6-4:1181:WWWW
+ORG	Amphimedon queenslandica	hits	0	
+ORG	Nematostella vectensis	hits	5	A7RWD1:1336:WWWW A7SZ19:1217:WWWW A7SBA6:1088:WWWW A7S6B4:1046:WWWW A7SSN5:1008:WWWW
+ORG	Monosiga brevicollis	hits	0	
+ORG	Trichoplax adhaerens	hits	0	
+ORG	Mnemiopsis leidyi	hits	0	
+ORG	Saccoglossus kowalevskii	hits	0	
+ORG	Lingula anatina	hits	5	A0A1S3KCP2:1403:WWWW A0A1S3HDP4:1402:WWWW A0A1S3KC50:1403:WWWW A0A1S3HGK8:1402:WWWW A0A1S3K249:1353:WWWW
+ORG	Strongylocentrotus purpuratus	hits	4	A0A7M7RD62:1377:WWWW A0A7M7PQ10:1346:WWWW A0A7M7PRE8:1346:WWWW A0A7M7NZ12:1017:WWWW
+ORG	Capitella teleta	hits	2	R7UL99:1346:WWWW R7V1J3:1010:WWWW
+ORG	Ciona intestinalis	hits	0	
+ORG	Branchiostoma floridae	hits	8	A0A9J7KH12:1605:WWWW A0A9J7KA45:1605:WWWW A0A9J7LUQ3:1529:WWWW A0A9J7KK21:1391:WWWW A0A9J7HNA4:1391:WWWW A0A9J7HRF9:1391:WWWW A0A9J7HQT5:1391:WWWW A0A9J7HQR5:1074:WWWW
+ORG	Geodia barretti	hits	2	A0AA35X572:806:WWWW A0AA35X6B2:841:WWWW
+ORG	Oopsacas minuta	hits	0	
+ORG	Ephydatia muelleri	hits	0	
+ORG	Capsaspora owczarzaki	hits	1	A0A0D2WIV3:982:WWWF
+ORG	Hypsibius exemplaris	hits	0	
+ORG	Hydra vulgaris	hits	0	
+ORG	Aplysia californica	hits	3	A0ABM1A5A1:1355:WWWW A0ABM1W212:1420:WWWW A0ABM0ZZB1:1014:WWWW
+ORG	Salpingoeca rosetta	hits	1	F2U6L6:1207:WWWY
+ORG	Ramazzottius varieornatus	hits	0	
+ORG	Caenorhabditis elegans	hits	0	
+ORG	Trichoplax sp. H2	hits	0	
+ORG	Limulus polyphemus	hits	3	A0ABM1SWG5:1357:WWWW A0A1B0YYP5:1362:WWWW A0ABM1BE34:1357:WWWW
+ORG	Tetranychus urticae	hits	2	T1KEA9:1287:WWWW T1KNZ8:775:WWWW
+ORG	Priapulus caudatus	hits	0	
+ORG	Dimorphilus gyrociliatus	hits	0	
+ORG	Helobdella robusta	hits	0	
+ORG	Brachionus calyciflorus	hits	2	A0A814DXE0:1303:WWWY A0A813QY51:829:WWWF
+ORG	Brachionus plicatilis	hits	1	A0A3M7T3X0:1290:WWWY
+ORG	Adineta ricciae	hits	0	
+ORG	Acanthaster planci	hits	5	A0A8B7XWT4:1416:WWWW A0A8B7XWT0:1416:WWWW A0A8B7YMN4:1240:WWWW A0A8B8A592:1053:WWWW A0A8B8A7R1:1053:WWWW
+ORG	Daphnia pulex	hits	2	E9GDJ9:1387:WWWW E9G560:1235:WWWW
+ORG	Schistosoma mansoni	hits	0	
+ORG	Sphaeroforma arctica JP610	hits	1	A0A0L0G0E7:882:WWWW
+ORG	Stylophora pistillata	hits	2	A0A2B4RCR6:1439:WWWW A0A2B4RVU1:1366:WWWW
+ORG	Echinococcus multilocularis	hits	0	
+ORG	Fasciola hepatica	hits	0	
+ORG	Macrostomum lignano	hits	1	A0A1I8H9L1:696:WWWF
+ORG	Schistosoma japonicum	hits	0	
+ORG	Clonorchis sinensis	hits	0	
+ORG	Hymenolepis diminuta	hits	0	
+ORG	Paragonimus westermani	hits	0	
+ORG	Taenia asiatica	hits	0	
+ORG	Hofstenia miamia	hits	0	
