@@ -1,0 +1,5 @@
+PRE-REGISTRATION L3725: genome-shift permutation test of the channel-gene CTCF-anchor excess (L3717/L3721). Frozen before running.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026. Script rounds/dcf_channel_perm_L3725.py (method in its docstring; seed 3725).
+This null keeps gene clustering and loop structure and only breaks their alignment, so it answers the flawed L3721 P1.
+ Q1 H1: p < 0.05 (the excess is real in stem cells).
+ Q2 HFFc6: p < 0.05.
