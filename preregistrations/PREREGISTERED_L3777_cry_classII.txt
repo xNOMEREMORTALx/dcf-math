@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3777: adding a class II CPD photolyase (fly phr) as a sixth reference; is an aromatic TrpD a cryptochrome/6-4 family marker?
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026. Frozen before rounds/dcf_cry_classII_L3777.py is run.
+Organisms: fly; Chlamydomonas, Neurospora, Phaeodactylum; Nematostella, Daphnia, Aplysia, Strongylocentrotus, Limulus, Tetranychus, Lingula, Branchiostoma.
+ C1 The held-out class II photolyases missed in L3773 (Chlamydomonas Q9XHE2, diatom B7FZ06) are now hits.
+ C2 No hit whose best reference is a photolyase (phr-classII, CPD-photolyase(Neurospora)) or a DASH (cry-dash, DASH(diatom)) reads W, Y or F at TrpD.
+ C3 >= 90% of hits whose best reference is CRY4(robin) or phr6-4(fly) read W, Y or F at TrpD.
+ C4 >= 1 of the 8 animals (not the fly) has a hit whose best reference is phr-classII(fly).
