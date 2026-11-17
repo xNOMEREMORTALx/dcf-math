@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3729: where do CTCF loops anchored at nerve-metal genes lead? Frozen before rounds/dcf_channel_partners_L3729.py is run.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 16 November 2026.
+ R1 (H1) fewer than 5% of channel-anchored CTCF loop ends have their partner anchor at another channel gene (no channel-to-channel hub).
+ R2 (H1) the share of partners that land at a protein-coding TSS is NOT higher for channel-anchored loops than for control-anchored loops
+    (one-sided Fisher p > 0.05).
+HFFc6 reported descriptively.

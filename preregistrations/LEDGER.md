@@ -247,3 +247,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_channel_loops2_L3721.py | `909cc0a3a37e33c319aef8323a1865484cdba912b5d9920059950092805ce02b` |
 | PREREGISTERED_L3725_channel_perm.txt | `a09ff813d18417513f4cabe24ed21f3cd1a2ee0924c9ea6562db0b44937af825` |
 | rounds/dcf_channel_perm_L3725.py | `a0be3787ba43396dcb89048cd6b85e7b8168e1949048bbb9493a0b9c8645e49a` |
+| PREREGISTERED_L3729_channel_partners.txt | `bcfc0d9bc548b8e4c7166db66e363e13f24d57598dbd0c739a6b85d147a1cb08` |
+| rounds/dcf_channel_partners_L3729.py | `396d8cc88daad4a283b8ea1623dfc1546941e5fdf38bbb422092d8ebd71a5700` |
