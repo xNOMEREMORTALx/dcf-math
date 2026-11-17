@@ -1,0 +1,5 @@
+L3729 grading (rounds/L3729_tool_output.txt), graded on H1
+R1 < 5% channel-to-channel partners: 0 of 153 (0.000): PASS
+R2 partner-at-TSS not higher than controls: 17/153 = 0.111 vs control 0.268, OR 0.34, p(enriched) 1: PASS
+RESULT [('R1', 'PASS'), ('R2', 'PASS')]
+Descriptive: HFFc6 0 of 119 channel-to-channel; partner at TSS 21/119 = 0.176 vs 0.270 (OR 0.58). Channel-anchored CTCF loops mostly end in non-gene DNA (89% H1, 82% HFFc6).

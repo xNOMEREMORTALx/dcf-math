@@ -1,0 +1,2 @@
+H1 channel-anchored loop ends 153: partner channel 0 (0.000), other gene 17, none 136 | control partner-at-TSS 0.268 | OR 0.34 p 1
+HFFc6 channel-anchored loop ends 119: partner channel 0 (0.000), other gene 21, none 98 | control partner-at-TSS 0.270 | OR 0.58 p 0.99
