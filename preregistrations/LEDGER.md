@@ -271,3 +271,5 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/L3757_grade_output.txt | `ecb078311db7b67644512ed4a263423a6d75e4f8ffcd3492a4b09bc4c0b9681a` |
 | PREREGISTERED_L3765_cry_outgroups.txt | `f23707391008f967b162815cebf294c3db05426626dfde2029297d5f58535353` |
 | rounds/dcf_cry_outgroup_L3765.py | `3a02cd8b1db0a899f5993a839e745cc7395d3fb2cae0aa501eebeef604aaf4a7` |
+| PREREGISTERED_L3773_cry_multiref.txt | `ad4f1b6962186b7cc646dc9b87462cc0b592f9aa74a9bd71dfcc61929f9f4a96` |
+| rounds/dcf_cry_multiref_L3773.py | `dacf070434264f07c6d7070c08be45d60e2365e83175d6728d90630d39a77bfc` |

@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3773: a multi-reference photolyase/cryptochrome finder (L3769 showed a robin-only reference misses distant members).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026. Frozen before rounds/dcf_cry_multiref_L3773.py is run. Method in its docstring.
+Held-out controls (named members missed in L3769, NOT used as references):
+ M1 Neurospora "putative cryptochrome DASH" Q7SI68, Chlamydomonas DNA photolyase Q9XHE2 and diatom DNA photolyase B7FZ06 are all hits.
+ M2 The 9 animal controls of L3761 are all hits.
+Predictions on the 18 bilaterians with no L3761 hit:
+ M3 C. elegans still has 0 hits (nematodes are reported to lack the photolyase/cryptochrome family).
+ M4 At least 5 of the other 17 gain >= 1 hit (photolyases are more widespread than cryptochromes).
