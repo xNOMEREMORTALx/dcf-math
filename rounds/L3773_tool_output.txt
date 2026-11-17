@@ -1,0 +1,25 @@
+ORG	Adineta ricciae	hits	2	A0A813YRX5:1306:WWWG:cry-dash(zf) A0A814M6X6:1291:WWWG:cry-dash(zf)
+ORG	Caenorhabditis elegans	hits	0	
+ORG	Chlamydomonas reinhardtii	hits	4	A0A2K3D533:352:----:cry-dash(zf) A0A2K3E0E6:943:WWWG:cry-dash(zf) A0A2K3E6N9:429:WWWQ:cry-dash(zf) A8J8W0:1373:WWWY:phr6-4(fly)
+ORG	Ciona intestinalis	hits	0	
+ORG	Clonorchis sinensis	hits	0	
+ORG	Dimorphilus gyrociliatus	hits	0	
+ORG	Echinococcus multilocularis	hits	0	
+ORG	Fasciola hepatica	hits	0	
+ORG	Helobdella robusta	hits	0	
+ORG	Hofstenia miamia	hits	0	
+ORG	Hymenolepis diminuta	hits	0	
+ORG	Hypsibius exemplaris	hits	0	
+ORG	Neurospora crassa	hits	2	P27526:3304:WWWL:CPD-photolyase(Neurospora) Q7SI68:427:WW-E:cry-dash(zf)
+ORG	Paragonimus westermani	hits	0	
+ORG	Phaeodactylum tricornutum	hits	2	B7FV99:3304:WWWN:DASH(diatom) B7FZ64:1028:WWWW:phr6-4(fly)
+ORG	Priapulus caudatus	hits	0	
+ORG	Ramazzottius varieornatus	hits	0	
+ORG	Saccoglossus kowalevskii	hits	0	
+ORG	Schistosoma japonicum	hits	0	
+ORG	Schistosoma mansoni	hits	0	
+ORG	Taenia asiatica	hits	0	
+ORG	chicken	hits	3	LOC395100:2528:WWWW:CRY4(robin) CRY2:1435:WWWW:CRY4(robin) CRY1:1455:WWWW:CRY4(robin)
+ORG	fly	hits	2	phr6-4:2901:WWWW:phr6-4(fly) cry:820:WWWW:phr6-4(fly)
+ORG	mouse	hits	2	Cry2:1424:WWWW:CRY4(robin) Cry1:1440:WWWW:CRY4(robin)
+ORG	zebrafish	hits	8	cry3a:1423:WWWW:CRY4(robin) cry4:1956:WWWW:CRY4(robin) cry5:1505:WWWW:phr6-4(fly) cry3b:1324:WWWW:CRY4(robin) cry-dash:2836:WWWG:cry-dash(zf) cry1a:1420:WWWW:CRY4(robin) cry1b:1411:WWWW:CRY4(robin) si:ch1073-390k14.1:404:WWWH:phr6-4(fly)
