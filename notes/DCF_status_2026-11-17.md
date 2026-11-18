@@ -28,8 +28,8 @@
   - Menu 37: cryptochrome reader (family, TrpA–D chain, blind-tested marker), about 0.01 s per protein on a computer.
 - **dcf-genefinder:** `dcf_nerve.py` v3, `dcf_pump.py`, the aligners, and `dcf_cryreader.py` (unreleased, for v1.2.0).
 - **Zenodo DOIs:**
-  - dcf-math: 10.5281/zenodo.24302678 (v1.1.0; v1.0.0 24234795);
-  - dcf-genefinder: 10.5281/zenodo.24302710 (v1.1.0; v1.0.0 24234986).
+  - dcf-math: 10.5281/zenodo.24331499 (v1.2.0); all versions 10.5281/zenodo.24234794;
+  - dcf-genefinder: 10.5281/zenodo.24331605 (v1.2.0); all versions 10.5281/zenodo.24234985.
 
 ## What Gary can do next
 1. **Download the two L3809 files** (PANTHER SF18 and SF17; links in the L3805 message).

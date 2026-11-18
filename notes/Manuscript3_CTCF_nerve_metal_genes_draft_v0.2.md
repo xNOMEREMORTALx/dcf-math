@@ -121,7 +121,7 @@
 - **Data:** Zenodo 17451616 (loops) and GENCODE v49 (genes).
 - **Code:** `dcf-math/rounds/` scripts L3713–L3729.
 - **Records:** pre-registrations and ledger in `dcf-math/preregistrations/`.
-- **Archive:** dcf-math is archived at Zenodo, DOI 10.5281/zenodo.24302678 (v1.1.0).
+- **Archive:** dcf-math v1.2.0, DOI 10.5281/zenodo.24331499 (all versions: 10.5281/zenodo.24234794); dcf-genefinder v1.2.0, DOI 10.5281/zenodo.24331605 (all versions: 10.5281/zenodo.24234985).
 
 ## Declarations
 - **Pre-registration:** every graded prediction was hashed before running. **Failed predictions are reported and not regraded.**

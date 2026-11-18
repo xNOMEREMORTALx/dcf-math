@@ -1,6 +1,6 @@
 # Digital Cosmos Framework: verified mathematics and phone toolkit
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24302678.svg)](https://doi.org/10.5281/zenodo.24302678) (v1.1.0; v1.0.0: [10.5281/zenodo.24234795](https://doi.org/10.5281/zenodo.24234795))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24234794.svg)](https://doi.org/10.5281/zenodo.24234794) (all versions; latest v1.2.0: [10.5281/zenodo.24331499](https://doi.org/10.5281/zenodo.24331499); v1.1.0: [10.5281/zenodo.24302678](https://doi.org/10.5281/zenodo.24302678); v1.0.0: [10.5281/zenodo.24234795](https://doi.org/10.5281/zenodo.24234795))
 
 
 **Author:** Gary NOMEREMORTAL Mason.

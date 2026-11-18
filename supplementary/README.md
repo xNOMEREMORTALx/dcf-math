@@ -3,4 +3,4 @@
 - `Table_S2_preregistration_ledger.tsv`: every ledger entry (file, SHA-256, first commit date).
 - **Round reports and grade outputs:** in `rounds/` (Lxxxx_report.md, Lxxxx_grade_output.txt). They include every failure.
 - **Figures at publication resolution:** `figures/publication/` (600 dpi PNG and vector PDF), rendered by `figures/publication/render_all.py` from the unchanged source scripts.
-- **Archive:** dcf-math v1.1.0, DOI 10.5281/zenodo.24302678 (v1.0.0: 10.5281/zenodo.24234795); dcf-genefinder v1.1.0, DOI 10.5281/zenodo.24302710 (v1.0.0: 10.5281/zenodo.24234986).
+- **Archive:** dcf-math v1.2.0, DOI 10.5281/zenodo.24331499 (all versions: 10.5281/zenodo.24234794); dcf-genefinder v1.2.0, DOI 10.5281/zenodo.24331605 (all versions: 10.5281/zenodo.24234985).

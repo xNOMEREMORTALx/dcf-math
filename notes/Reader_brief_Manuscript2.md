@@ -1,5 +1,5 @@
 # Reader brief: "Reading the metal chemistry of nervous systems from sequence alone"
-### Gary NOMEREMORTAL Mason (ORCID 0009-0008-9235-4493) · draft v0.20 · code and data DOI 10.5281/zenodo.24234795
+### Gary NOMEREMORTAL Mason (ORCID 0009-0008-9235-4493) · draft v0.20 · code and data DOI 10.5281/zenodo.24234794 (all versions)
 
 **What it claims, in one paragraph.**
 - **The rules:** a handful of short, readable sequence rules sort nerve channels and pumps by the metal ion they pass (K⁺, Na⁺, Ca²⁺, Cu), straight from mRNA or protein. The rules read the selectivity loops: T-V-G-Y-G, the DEKA lysine, the EEEE/EEDD calcium ring, and the P-E-G-L pump loop.
@@ -21,7 +21,7 @@
 **Where everything is.**
 - **Draft:** `notes/Manuscript_nerve_metals_draft_v0.20.md` (ten figures in `figures/`; publication-resolution copies in `figures/publication/`).
 - **Every test:** `preregistrations/` (frozen texts and LEDGER.md) and `rounds/` (reports and grade outputs).
-- **Tools:** dcf-genefinder v1.1.0 (DOI 10.5281/zenodo.24302710): `dcf_nerve.py`, `dcf_pump.py`, `dcf_align.py`, `dcf_localalign.py`.
+- **Tools:** dcf-genefinder v1.2.0 (DOI 10.5281/zenodo.24331605): `dcf_nerve.py`, `dcf_pump.py`, `dcf_align.py`, `dcf_localalign.py`.
 
 **Known limits** (stated in the draft):
 - Silent K subunits, divergent K2P channels and insect IR receptors are missed.
