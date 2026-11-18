@@ -1,0 +1,13 @@
+PRE-REGISTRATION L3809: is PANTHER subfamily PTHR11455:SF18 the non-aromatic-TrpD photolyase-like family behind every marker exception?
+Frozen before download. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026.
+Basis (seen data, L3785/L3805): all 5 weak non-aromatic hits (A0A8W8KH86, A0A8W8KKK9, A0A8B8EP46, A0A8S3V2Y9, A0A6I8QP63) are SF18;
+the one aromatic weak hit is SF17. These 5 accessions are EXCLUDED from grading.
+Data: two UniProt TSVs (Entry, Organism, Protein names, PANTHER, Sequence), all organisms:
+  SF18 = query (xref:panther-PTHR11455:SF18); SF17 = query (xref:panther-PTHR11455:SF17) (Cryptochrome-1).
+Script: rounds/dcf_cry_panther_L3809.py (L3777 scan unchanged, all proteins of a set pooled). Grader: rounds/dcf_grade_L3809.py.
+TrpD "aromatic" = W, Y or F; '-' (unaligned) counts as non-aromatic. Only hits (score >= 350) are graded.
+ P1 >= 90% of SF18 hits read non-aromatic at TrpD.
+ P2 >= 90% of SF17 hits read aromatic at TrpD.
+ P3 >= 80% of SF18 hits score < 900 (SF18 is only weakly similar to all six references).
+ P4 >= 90% of SF17 hits score >= 900.
+Void per set if its file is empty, has < 20 proteins, or its PANTHER column does not show that subfamily in >= 90% of rows. Failures stand.

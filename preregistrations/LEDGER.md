@@ -288,3 +288,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_grade_L3797a.py | `38ccc7cb0330d171916c9742977b2c2ef2e27d81d65ea8700751b0ec434d48dc` |
 | preregistrations/PREREGISTERED_L3805_cry_weak_class.txt | `6ad2e01fe0aedaca5b7a8b3655ecdadff235e1fe6ff549c7592ff62321fe1ffe` |
 | rounds/dcf_grade_L3805.py | `f523f3aeee386f1f0520a2eaa6b02181e907769cde858c49efbdaf5737036475` |
+| preregistrations/PREREGISTERED_L3809_panther_SF18.txt | `cc19be2810804fe9b60025cac23316b94b24870167aad54771f082a994c68e16` |
+| rounds/dcf_cry_panther_L3809.py | `a31433851b01e9cb7b00d0f16fe993bd25c1a69270087728e66519adaf86020b` |
+| rounds/dcf_grade_L3809.py | `07226cc6d17b380dc641d849aa0585da92b4032a87803a66b7a4c5c8a82f97a0` |

@@ -53,6 +53,19 @@ I compared the five weak non-aromatic proteins with each other by normalised loc
 - **Two oyster species share the same arginine at TrpD.** That suggests a conserved, separate photolyase-like family in bivalves and frogs, not broken cryptochromes.
 - If so, the marker did not fail in L3785. The finder simply placed a different family nearest the 6-4 reference.
 
+**Independent check: PANTHER subfamilies from UniProt, read after grading.**
+
+| protein | TrpD | PANTHER subfamily |
+|---|---|---|
+| Pacific oyster A0A8W8KH86, A0A8W8KKK9 | R, R | **PTHR11455:SF18** |
+| eastern oyster A0A8B8EP46 | R | **SF18** |
+| mussel A0A8S3V2Y9 | H | **SF18** |
+| frog A0A6I8QP63 | H | **SF18** |
+| mussel A0A8S3UES5 (the one *aromatic* weak hit) | W | SF17, "Cryptochrome-1" |
+| eastern oyster A0A8B8E5C8 (true 6-4, confident) | W | SF9, "cryptochrome circadian clock 5" (6-4 photolyase) |
+
+**All five marker exceptions belong to one PANTHER subfamily, SF18,** which is named after the zebrafish gene si:ch1073-390k14.1. PANTHER classified them independently of our method. So the exceptions are a separate family, not broken cryptochromes. The blind test of this is pre-registered as L3809.
+
 ## Record
 **+5 passed. 549 of 755 passed, plus 3 split.** Audit **216 of 282** (entry "cryptochrome weak class").
 
@@ -62,7 +75,8 @@ I compared the five weak non-aromatic proteins with each other by normalised loc
 - **That points to a separate photolyase-like family,** with arginine or histidine at TrpD, shared by oysters, mussels and frogs.
 
 ## Potential leads for future research
-- **[New family, pre-register]** Add the Pacific oyster WWWR protein as a seventh reference. Predict, blind, that it becomes the best reference for the weak non-aromatic proteins in new bivalve/amphibian proteomes, and that confident cryptochromes are unaffected.
+- **[SF18 blind, L3809]** Pre-registered: across all UniProt SF18 proteins, TrpD is non-aromatic; across SF17 (Cryptochrome-1), aromatic.
+- **[New family, reference]** Add the Pacific oyster WWWR protein as a seventh reference. Predict, blind, that it becomes the best reference for the weak non-aromatic proteins in new bivalve/amphibian proteomes, and that confident cryptochromes are unaffected.
 - **[Domain check]** Look up these proteins' domain architecture (InterPro). Do the extra ~200 residues hold a known domain? (Needs a download from Gary or a fetch of the InterPro entries.)
 - **[Manuscript 4]** Add §3.7 (weak class) and the pooled table as v0.6.
 - **[Phone]** Once the seventh reference is tested, add it to dcf_cryreader so the reader names this family instead of calling it a "weak hit".
