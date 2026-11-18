@@ -22,8 +22,8 @@ Verified number-theory results from the Digital Cosmos Framework (DCF).
   - A mod-24 classification of the primes that divide them (density 1/3).
   - Star-number sides of hexagonal-number grids.
 - **`notes/Note_FeS_ferredoxin_signature_draft_v0.3.md`:** Note H, an iron–sulfur signature of ferredoxin-based metabolism in raw genomes (eight pre-registered rounds, failures kept).
-- **`phone/`:** the DCF phone toolkit (`dcf_phone_6.05.py`, self-test 257/257), a DNA codec and an error-correcting code. Runs in Pydroid 3 on Android.
-- **`preregistrations/`:** 86 frozen prediction files from rounds L2746–L3189, with `LEDGER.md` listing their SHA-256 hashes.
+- **`phone/`:** the DCF phone toolkit (latest `dcf_phone_6.18.py`, bundle `dcf_phone_bundle_6.18.zip`, self-test 270/270): nerve chemistry, aligners, DNA data store and the cryptochrome reader (menu 37). Runs in Pydroid 3 on Android.
+- **`preregistrations/`:** 185 frozen prediction files from round L2746 on, with amendments, and `LEDGER.md` listing their SHA-256 hashes.
 - **`rounds/`:** round reports and hashed tool numbers from L3181 on.
 
 **Related.** The gene finder is in [dcf-genefinder](https://github.com/xNOMEREMORTALx/dcf-genefinder).
