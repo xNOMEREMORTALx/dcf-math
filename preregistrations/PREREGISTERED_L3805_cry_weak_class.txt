@@ -1,0 +1,13 @@
+PRE-REGISTRATION L3805: do weak cryptochrome/6-4 family hits break the aromatic-TrpD marker more often than confident ones? Corals and bivalves.
+Frozen before download. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 17 November 2026.
+Scan: rounds/dcf_cry_marker_blind_L3781.py UNCHANGED (six references, floor 350, tetrad on robin CRY4). Grader: rounds/dcf_grade_L3805.py.
+Data (UniProt proteomes, TSV Entry/Organism/Protein names/Sequence), identified by the Organism column (genus + species):
+  staghorn coral Acropora cervicornis UP001249851 (27,986); cauliflower coral Pocillopora damicornis UP000275408 (25,411);
+  blue mussel Mytilus edulis UP000683360 (73,624); eastern oyster Crassostrea virginica UP000694844 (50,256).
+None was scanned in any earlier round. Confident = score >= 900; weak = 350-899. CRY family = best reference CRY4(robin) or phr6-4(fly).
+ W1 Every confident CRY-family hit reads W, Y or F at TrpD.
+ W2 At least one weak CRY-family hit reads a non-aromatic residue or '-' at TrpD (the L3785 exception class recurs). Ungradeable if no weak CRY hit.
+ W3 The non-aromatic fraction at TrpD is higher among weak CRY-family hits than among confident ones. Ungradeable if no weak CRY hit.
+ W4 No confident DASH/photolyase hit (informative at TrpD) reads W, Y or F.
+ W5 Each of the four has >= 1 confident CRY-family hit.
+Void per organism if its file is missing, empty, < 5,000 proteins, or another organism (not substituted). Failures stand.
