@@ -123,7 +123,7 @@ Two corals, a mussel and the eastern oyster.
 | weak cryptochrome/6-4 (350–899) | 1 of 6 |
 | confident DASH/photolyase | 0 of 7 |
 
-**Descriptive, after grading:** the five weak non-aromatic proteins (two oysters R, mussel H, frog H) are similar to one another (0.41–0.82) but not to true 6-4 photolyases (0.11). This suggests a separate photolyase-like family, not divergent cryptochromes.
+**Descriptive, after grading:** the five weak non-aromatic proteins (two oysters R, mussel H, frog H) are similar to one another (0.41–0.82) but not to true 6-4 photolyases (0.11). PANTHER places all five in subfamily PTHR11455:SF18, the class I CPD (DNA-repair) photolyases. **The exceptions are probably animal class I photolyases mis-assigned by the finder, not cryptochromes.** This is under blind test (L3809).
 
 ### 3.8 A discarded shortcut (L3757)
 A pre-filter based on shared 3-letter words recovered only 7 of 9 controls. It missed fly cry (ranked 81st) and zebrafish cry-dash. Its results were not used.

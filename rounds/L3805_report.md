@@ -64,7 +64,11 @@ I compared the five weak non-aromatic proteins with each other by normalised loc
 | mussel A0A8S3UES5 (the one *aromatic* weak hit) | W | SF17, "Cryptochrome-1" |
 | eastern oyster A0A8B8E5C8 (true 6-4, confident) | W | SF9, "cryptochrome circadian clock 5" (6-4 photolyase) |
 
-**All five marker exceptions belong to one PANTHER subfamily, SF18,** which is named after the zebrafish gene si:ch1073-390k14.1. PANTHER classified them independently of our method. So the exceptions are a separate family, not broken cryptochromes. The blind test of this is pre-registered as L3809.
+**All five marker exceptions belong to one PANTHER subfamily, SF18.** PANTHER classified them independently of our method.
+
+**Correction, made before any L3809 data:** SF18 is named after the zebrafish gene si:ch1073-390k14.1. A 5-row look at UniProt (disclosed in `AMENDMENT_L3809_a.txt`) shows SF18 also holds yeast PHR1, an *Arabidopsis* protein and our own *Neurospora* reference. **SF18 is the class I CPD photolyase (DNA-repair) subfamily.**
+
+**So the "exceptions" are probably animal class I DNA-repair photolyases** that our six-reference finder placed nearest the 6-4 reference. They are not cryptochromes that lost the aromatic residue. If L3809 confirms this, the marker has no true exception: every cryptochrome is aromatic at TrpD, and every DNA-repair photolyase is not.
 
 ## Record
 **+5 passed. 549 of 755 passed, plus 3 split.** Audit **216 of 282** (entry "cryptochrome weak class").
@@ -75,7 +79,7 @@ I compared the five weak non-aromatic proteins with each other by normalised loc
 - **That points to a separate photolyase-like family,** with arginine or histidine at TrpD, shared by oysters, mussels and frogs.
 
 ## Potential leads for future research
-- **[SF18 blind, L3809]** Pre-registered: across all UniProt SF18 proteins, TrpD is non-aromatic; across SF17 (Cryptochrome-1), aromatic.
+- **[SF18 blind, L3809]** Pre-registered, with amendment a: across all UniProt SF18 (class I CPD photolyase) proteins, TrpD is non-aromatic; across SF17 (insect Drosophila-type cryptochrome), aromatic.
 - **[New family, reference]** Add the Pacific oyster WWWR protein as a seventh reference. Predict, blind, that it becomes the best reference for the weak non-aromatic proteins in new bivalve/amphibian proteomes, and that confident cryptochromes are unaffected.
 - **[Domain check]** Look up these proteins' domain architecture (InterPro). Do the extra ~200 residues hold a known domain? (Needs a download from Gary or a fetch of the InterPro entries.)
 - **[Manuscript 4]** Add §3.7 (weak class) and the pooled table as v0.6.
