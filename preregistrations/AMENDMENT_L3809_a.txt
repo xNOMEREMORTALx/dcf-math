@@ -1,0 +1,11 @@
+AMENDMENT L3809-a (17 November 2026, before any L3809 sequence data were downloaded).
+1. Query syntax: the form (xref:panther-PTHR11455:SF18) returns an error from UniProt; the working form is the quoted ID "PTHR11455:SF18".
+2. DISCLOSED PEEK: to test the syntax I viewed the first 5 rows of each query (accession, organism, PANTHER only; no sequences, scores or tetrads).
+   SF18: P05066 (yeast PHR1), Q96524 (Arabidopsis), J4KQS2 (Beauveria), P27526 (Neurospora, our CPD-photolyase reference), P40115 (white mustard).
+   SF17: O77059 (Drosophila cry), Q293P8, B0WRR9, Q17DK5, Q7PYI7 (mosquito/fly CRYs).
+   So SF18 is the class I CPD photolyase subfamily and SF17 the insect (Drosophila-type) cryptochrome.
+3. P1-P4 are KEPT UNCHANGED and graded as written (P3 now looks risky because fungal/plant class I members may score >= 900 against the
+   Neurospora reference; it stands either way).
+4. Reference accessions (P27526, B7FV99, A0A2I4SZI9 and the fly/zebrafish reference entries if present) are excluded from grading (circular).
+5. ADDED: P5 >= 50% of graded SF18 hits have best reference CPD-photolyase(Neurospora) (SF18 = class I CPD photolyases).
+Grader: rounds/dcf_grade_L3809a.py = dcf_grade_L3809.py + items 4 and 5; the original is kept.
