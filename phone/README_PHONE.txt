@@ -1,3 +1,18 @@
+Bundle 6.17 (L3801): NEW menu 37 CRYPTOCHROME READER. Give a protein FASTA, a UniProt TSV or a pasted sequence; for each protein it reports the family (six references: robin CRY4, fly 6-4, fly class II photolyase, zebrafish DASH, fungal CPD photolyase, diatom DASH), the four-tryptophan electron chain TrpA-B-C-D, and the blind-tested TrpD marker (31 of 31 confident cryptochromes aromatic, L3785 + L3797). Reproduces all 21 L3797 hits exactly. Needs numpy. Also includes 6.15 (dcf_nerve v3) and 6.16 (menu 36 DNA store). Copy ALL TWELVE .py files into one folder; open dcf_phone_6.17.py. Self-test 270/270.
+SHA-256:
+0ce88dc4cd6543af16bd7800ab61873ca4022d3c2d7ef9c6b7dd7b963c407db3  dcf_phone_6.17.py
+b59a9da563dbf35b15bef3b04fd591462e72f29e6a350292cf03625549a5e341  dcf_cryreader.py
+2e5c56fde31548d23987aff58eea510a20b90a200d8732198873c9f679953206  dcf_nerve.py
+d2e577e4972c989212cc815d8434deafe9e5556318ff544350c6849095d073a4  dcf_align.py
+64f73802c9eda748d0a6f67f7008a4e79e669a1e128ac46dd87947f369756fbe  dcf_localalign.py
+02fe1bb11c322ce0a9b3033cd66cb159b21803c93ee0bd8baa07838388d15ee1  dcf_exonmap.py
+5be0a3296477c529bbc01cff6df09c71264db3db7d19db68900fcacdcab891c1  dcf_motif_scan.py
+4aecee5c25d09f1f3d634e274037643174af1c419f561c1c4e49c86f50d1a7d1  dcf_redox.py
+fa30258bd3e19c1a186f225ebb8b50f4993530948f4ffa50644d37d92930297c  dcf_genefinder_mobile.py
+dca12b53e5358f6dcf99c8f261e27f8ffff0c563878bc8eefb81dee486fc4e49  dcf_dna_codec.py
+dd583cfb386dc71f847db8bb137fb41903ce109b3f6e18730ef85d4a220e95ed  dcf_dna_ecc.py
+5689580b529170531272fe2a61c3de41e738faeffe450180c1d9ee362aa19eb2  dcf_dna_index.py
+
 Bundle 6.14 (L3589): menu 35 now offers LOCAL alignment (best-matching region; use when protein lengths differ) as well as global. Needs numpy. Copy ALL TEN .py files into one folder; open dcf_phone_6.14.py. Self-test 267/267.
 SHA-256:
 fdc23999aad5ef69ee5c560054c2f5882204d9ddfea0b6b523003f9334ca1b38  dcf_phone_6.14.py
