@@ -1,0 +1,26 @@
+Acropora cervicornis present
+   A0AAD9PS67      1489 ---- phr-classII(fly)
+   A0AAD9QLY3      1188 WWWW phr6-4(fly)
+   A0AAD9UX65      1476 WWWW phr6-4(fly)
+Pocillopora damicornis present
+   A0A3M6TY05      1505 WWWW phr6-4(fly)
+   A0A3M6UYM6      1181 WWWW CRY4(robin)
+   A0A3M6V1R5      1489 WWWG cry-dash(zf)
+Mytilus edulis present
+   A0A8S3R5K9      1308 -WWK cry-dash(zf)
+   A0A8S3UES5       862 WWWW CRY4(robin)
+   A0A8S3R361       975 WWWW CRY4(robin)
+   A0A8S3RQ45      1176 WWWW CRY4(robin)
+   A0A8S3SYU7      1597 ---- phr-classII(fly)
+   A0A8S3U3J4      1751 WWWK cry-dash(zf)
+   A0A8S3UW80      1601 ---- phr-classII(fly)
+   A0A8S3UWX7      1248 WWWW phr6-4(fly)
+   A0A8S3V2Y9       374 WWWH phr6-4(fly)
+Crassostrea virginica present
+   A0A8B8ADY2      1588 ---- phr-classII(fly)
+   A0A8B8AKN5      1046 WWWW CRY4(robin)
+   A0A8B8E5C8      1560 WWWW phr6-4(fly)
+   A0A8B8EP46       384 WWWR phr6-4(fly)
+confident CRY 9 (non-aromatic 0); weak CRY 3 (non-aromatic 2); informative confident DASH/photolyase 3
+voids []
+RESULT [('W1', 'PASS'), ('W2', 'PASS'), ('W3', 'PASS'), ('W4', 'PASS'), ('W5', 'PASS')]
