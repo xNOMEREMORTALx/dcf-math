@@ -315,3 +315,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3857_combined.txt | `6ebebcc14051e73b708966d0fefcc6f77108f90953d0b4f370819590a92739bd` |
 | rounds/dcf_combined_L3857.py | `180fbcdb7d082e4703e90c35d715ed0e66b58c751e567a1161ede8eb5e3abab3` |
 | rounds/dcf_grade_L3857.py | `f0d0a97b2291799b90326839aad051fa62711dca9e55cf877f6ee66efe8d1b32` |
+| preregistrations/PREREGISTERED_L3861_density_matched.txt | `f1ce17d29b76d5bb126748c6115e07a95da82040ee68b6bc42e434e53f7f5371` |
+| rounds/dcf_densitymatch_L3861.py | `bef3b8e81c4d318fbfcaa9478e611fa528013bffe33848b975c9ede0735efede` |
+| rounds/dcf_grade_L3861.py | `29dce22fa84d2d076a4dfad4cf2c67d3e1345908958d4cd58f5ce87e35f5bf51` |

@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3861: does the CTCF-anchor family pattern survive matching on gene length AND local gene density (TSSs within +-1 Mb)?
+Frozen before any density-matched share was computed. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 19 November 2026.
+Same ten cells and files as L3853; NOT blind to them. Script rounds/dcf_densitymatch_L3861.py.
+ G1 KCN Delta > 0 in >= 7 of 10 cells.
+ G2 CACNA1 Delta < 0 in >= 7 of 10 cells.
+ G3 GRIN Delta > 0 in >= 7 of 10 cells.
+ G4 The sparsest decile (lowest local gene density) of non-channel genes has a lower anchor share than all non-channel genes in >= 7 of 10.
+Fixed interpretation: if G2 fails while G4 passes, the CACNA1 dip is a gene-desert effect. Failures stand.
