@@ -66,6 +66,6 @@ Excluded from grading: *Neurospora* P27526, our own reference, and the 5 protein
 
 ## Potential leads for future research
 - **[Fish tyrosine]** Are the perch/cichlid photolyases with Y at TrpD a single lineage? Map them on a tree and pre-register that their nearest relatives (other fish SF18) read L or M.
-- **[Reader update]** Change dcf_cryreader's call to the family rule: aromatic TrpD → "cryptochrome-type chain", non-aromatic → "photolyase-type", with the 98.6% record. The score then only says whether the protein is in the superfamily.
+- **[Reader update, done in L3829, phone 6.20]** Change dcf_cryreader's call to the family rule: aromatic TrpD → "cryptochrome-type chain", non-aromatic → "photolyase-type", with the 98.6% record. The score then only says whether the protein is in the superfamily.
 - **[Other PANTHER subfamilies]** Repeat the test on the vertebrate CRY1/CRY2 subfamilies, plant CRY and CRY-DASH. That makes it a superfamily-wide map of TrpD.
 - **[Manuscript 4]** v0.7: replace the confidence-cut framing with the family rule.
