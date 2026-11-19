@@ -1,0 +1,13 @@
+FAMILY KCN n 96 median length 47767 density 14 | control median length 47296 density 14
+FAMILY GRIN n 7 median length 51264 density 54 | control median length 51209 density 54
+FAMILY CACNA1 n 10 median length 182913 density 36 | control median length 155814 density 36
+H1 | KCN 0.3438 ctrl 0.2234 delta +0.1203 | GRIN 0.5714 ctrl 0.2786 delta +0.2929 | CACNA1 0.1000 ctrl 0.2500 delta -0.1500 | SPARSE10 0.1815 NONCH 0.2352
+HFFc6 | KCN 0.2812 ctrl 0.2432 delta +0.0380 | GRIN 0.5714 ctrl 0.2500 delta +0.3214 | CACNA1 0.1000 ctrl 0.2200 delta -0.1200 | SPARSE10 0.2040 NONCH 0.2376
+SK-N-SH | KCN 0.4375 ctrl 0.2964 delta +0.1411 | GRIN 0.5714 ctrl 0.3786 delta +0.1929 | CACNA1 0.2000 ctrl 0.3550 delta -0.1550 | SPARSE10 0.2105 NONCH 0.3317
+K562 | KCN 0.3438 ctrl 0.2552 delta +0.0885 | GRIN 0.4286 ctrl 0.2714 delta +0.1571 | CACNA1 0.1000 ctrl 0.2850 delta -0.1850 | SPARSE10 0.1719 NONCH 0.2830
+HepG2 | KCN 0.3333 ctrl 0.2786 delta +0.0547 | GRIN 0.4286 ctrl 0.3429 delta +0.0857 | CACNA1 0.3000 ctrl 0.2550 delta +0.0450 | SPARSE10 0.2174 NONCH 0.3104
+IMR-90 | KCN 0.3438 ctrl 0.2719 delta +0.0719 | GRIN 0.4286 ctrl 0.3643 delta +0.0643 | CACNA1 0.2000 ctrl 0.3050 delta -0.1050 | SPARSE10 0.2161 NONCH 0.2855
+HEK293 | KCN 0.3646 ctrl 0.2620 delta +0.1026 | GRIN 0.7143 ctrl 0.3643 delta +0.3500 | CACNA1 0.2000 ctrl 0.2500 delta -0.0500 | SPARSE10 0.1758 NONCH 0.2933
+MCF10A | KCN 0.3229 ctrl 0.2729 delta +0.0500 | GRIN 0.1429 ctrl 0.3000 delta -0.1571 | CACNA1 0.1000 ctrl 0.2750 delta -0.1750 | SPARSE10 0.2373 NONCH 0.2982
+BJ | KCN 0.3646 ctrl 0.2682 delta +0.0964 | GRIN 0.5714 ctrl 0.3786 delta +0.1929 | CACNA1 0.2000 ctrl 0.2650 delta -0.0650 | SPARSE10 0.1884 NONCH 0.3159
+RWPE1 | KCN 0.3125 ctrl 0.2823 delta +0.0302 | GRIN 0.5714 ctrl 0.3071 delta +0.2643 | CACNA1 0.2000 ctrl 0.2900 delta -0.0900 | SPARSE10 0.1836 NONCH 0.2992
