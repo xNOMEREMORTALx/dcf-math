@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3853: is the CTCF-anchor family pattern (K+ and NMDA above, Ca2+ pores below) explained by gene length?
+Frozen before any length-matched share was computed. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 19 November 2026.
+NOT BLIND to the ten loop sets (H1, HFFc6, SK-N-SH, K562, HepG2, IMR-90, HEK293, MCF 10A, BJ, RWPE1; files as used in L3725/L3825/
+L3845/L3849). Blind to every length-matched comparison and to the share of long genes. Script rounds/dcf_lengthmatch_L3853.py.
+Delta = family share - share of its length-matched control (20 nearest non-channel genes by log10 length per member).
+ L1 KCN Delta > 0 in >= 7 of 10 cells.
+ L2 CACNA1 Delta < 0 in >= 7 of 10 cells.
+ L3 GRIN Delta > 0 in >= 7 of 10 cells.
+ L4 The longest decile of non-channel genes has a lower anchor share than all non-channel genes in >= 7 of 10 cells.
+Fixed interpretation: if L2 fails while L4 passes, the CACNA1 dip is a gene-length effect, not a calcium-channel property.
+Failures stand.
