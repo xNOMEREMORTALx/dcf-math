@@ -1,3 +1,18 @@
+Bundle 6.20 (L3825): menu 37 now names the chain type by the L3809 family rule - aromatic TrpD = cryptochrome-type, non-aromatic = photolyase-type (right for 98.6% of 2,564 PANTHER-classified proteins, at any score) - and flags proteins whose nearest reference disagrees with TrpD. Scores and tetrads unchanged. Copy ALL TWELVE .py files into one folder; open dcf_phone_6.20.py. Self-test 270/270.
+SHA-256:
+1af47d402f3c9fe149fb9e391c0f99a7c43ee4b35349c4250efcc50b8860225b  dcf_phone_6.20.py
+e25b90fe018578984e4a173b28eade44944cce4a322e2723add9047873210d99  dcf_cryreader.py
+2e5c56fde31548d23987aff58eea510a20b90a200d8732198873c9f679953206  dcf_nerve.py
+d2e577e4972c989212cc815d8434deafe9e5556318ff544350c6849095d073a4  dcf_align.py
+64f73802c9eda748d0a6f67f7008a4e79e669a1e128ac46dd87947f369756fbe  dcf_localalign.py
+02fe1bb11c322ce0a9b3033cd66cb159b21803c93ee0bd8baa07838388d15ee1  dcf_exonmap.py
+5be0a3296477c529bbc01cff6df09c71264db3db7d19db68900fcacdcab891c1  dcf_motif_scan.py
+4aecee5c25d09f1f3d634e274037643174af1c419f561c1c4e49c86f50d1a7d1  dcf_redox.py
+fa30258bd3e19c1a186f225ebb8b50f4993530948f4ffa50644d37d92930297c  dcf_genefinder_mobile.py
+dca12b53e5358f6dcf99c8f261e27f8ffff0c563878bc8eefb81dee486fc4e49  dcf_dna_codec.py
+dd583cfb386dc71f847db8bb137fb41903ce109b3f6e18730ef85d4a220e95ed  dcf_dna_ecc.py
+5689580b529170531272fe2a61c3de41e738faeffe450180c1d9ee362aa19eb2  dcf_dna_index.py
+
 Bundle 6.19 (L3817): menu 37 reads a WHOLE proteome (UniProt TSV or FASTA, .gz accepted) and lists only the cryptochrome/photolyase hits. Honeybee: 6 hits, identical to the computer scan (L3785), 7 min on one computer core. Copy ALL TWELVE .py files into one folder; open dcf_phone_6.19.py. Self-test 270/270.
 SHA-256:
 b49f8ffadfaef4dcfbfa73bf026345e03601213e782b65c57710bb502e9248a1  dcf_phone_6.19.py
