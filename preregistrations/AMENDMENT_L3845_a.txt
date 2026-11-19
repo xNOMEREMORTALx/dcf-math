@@ -6,3 +6,6 @@ AMENDMENT L3845-a (19 November 2026, before any L3845 loop data were downloaded)
    HepG2 ENCSR411IVB: loops bedpe replicate 1 ENCFF743ZWY, replicate 2 ENCFF299NHM (ENCODE default); bigInteract copies ENCFF724XZB, ENCFF460CLD.
    K562 ENCSR597AKG: loops bedpe replicate 1 ENCFF607PZX, replicate 2 ENCFF118PBQ (ENCODE default); bigInteract copies ENCFF894BJB, ENCFF459PYK.
    IMR-90 ENCSR076TTY: file map to be supplied; same rule.
+3. Addendum (19 November 2026, after the K562/HepG2 runs were committed unread, before any IMR-90 data):
+   IMR-90 ENCSR076TTY file map (Gary's screenshot): loops bedpe replicate 1 ENCFF816ATV, replicate 2 ENCFF682YFU (ENCODE default);
+   bigInteract copies ENCFF168PGC, ENCFF889PPZ. Same file rule.
