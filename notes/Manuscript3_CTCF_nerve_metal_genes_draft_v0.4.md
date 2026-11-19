@@ -107,16 +107,17 @@
 - **Predictions:** KCN above (N2), GRIN above (N3) and CACNA1 below (N4) the all-other share. All pass.
 - **Replicate 1** (ENCFF072FCN, descriptive): D = 0.073, p = 0.011, with the same three family directions.
 - **Calcium channels are below the genome-wide share in all three cell types,** but there are only 10 genes.
+- **The exception does not extend to the auxiliary subunits (L3837, 0 of 2):** the 16 β, α2δ and γ subunit genes sit at or above baseline (H1 0.25, HFFc6 0.19, SK-N-SH 0.50, against 0.24, 0.24 and 0.33). If the CACNA1 dip is real, it belongs to the pore-forming genes alone.
 
 ### Figure 1
-![Figure 1](../figures/L3821_manuscript3.png)
+![Figure 1](../figures/L3841_manuscript3_fig1_v2.png)
 
 **Figure 1. Nerve-metal genes at CTCF loop anchors.**
-- **(A)** Share of genes whose transcription start site (± 5 kb) lies at a CTCF-ChIA-PET-supported loop anchor, by family, in H1 (blue) and HFFc6 (orange). The pooled excess (D = 0.110 and 0.057) is carried mostly by potassium and sodium channels, NMDA receptors and the calcium pumps. Calcium channels (0.10) and NALCN (0 of 1) sit below the genome-wide share (0.24). Several families have fewer than 10 genes.
-- **(B)** Genome-shift null for D: every anchor on a chromosome is shifted by one common random offset, 1,000 times (seed 3725). Observed D is the vertical line.
+- **(A)** Share of genes whose transcription start site (± 5 kb) lies at a CTCF-ChIA-PET-supported loop anchor, by family, in H1 (blue), HFFc6 (orange) and SK-N-SH (green; blind, L3825). The pooled excess (D = 0.110 and 0.057) is carried mostly by potassium and sodium channels, NMDA receptors and the calcium pumps. Calcium channels (0.10) and NALCN (0 of 1) sit below the genome-wide share (0.24). Several families have fewer than 10 genes.
+- **(B)** Genome-shift null for D, in each cell type (SK-N-SH: seed 3825): every anchor on a chromosome is shifted by one common random offset, 1,000 times (seed 3725). Observed D is the vertical line.
 - **(C)** The other end of each channel-anchored loop: none reaches another channel gene, and most reach no gene at all.
 
-Source: `figures/L3821_manuscript3.py`, which recomputes the frozen L3725 null and stops unless its summary matches `rounds/L3725_tool_output.txt` exactly.
+Source: `figures/L3841_manuscript3_fig1_v2.py`, which recomputes the frozen L3725 and L3825 nulls and stops unless both summaries match the committed tool outputs exactly.
 
 ## 4. Discussion
 **What the data show:**
@@ -162,7 +163,7 @@ Source: `figures/L3821_manuscript3.py`, which recomputes the frozen L3725 null a
 - **The excess repeats blind in a neural line (SK-N-SH, 4 of 4),** and calcium channel genes are below baseline in all three cell types.
 
 ## Potential leads for future research
-- **[Calcium channel exception]** CACNA1 is below baseline in all three cell types (10 genes). Add the auxiliary subunits (CACNB, CACNA2D, CACNG) as a larger, pre-registered set.
+- **[Calcium channel exception]** CACNA1 is below baseline in all three cell types (10 genes), but the auxiliary subunits are not (L3837 failed). Test CACNA1 alone in new ENCODE cell types.
 - **[Neurons]** Loop maps from mature (iPSC-derived) neurons; SK-N-SH is a cancer line.
 - **[More ENCODE cell types]** ENCODE has CTCF ChIA-PET in about a hundred biosamples. A pre-registered multi-cell test of N1–N4 is possible with the same script.
 - **[Partner regions]** Are the non-gene partner anchors enhancers (H3K27ac) or insulators? This needs ENCODE annotations for H1/HFFc6.
