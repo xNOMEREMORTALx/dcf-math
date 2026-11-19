@@ -1,0 +1,5 @@
+HEK293 (0.088, 0.2933, {'KCN': 0.3646, 'SCN': 0.4, 'CACNA1': 0.2, 'HCN': 0.25, 'NALCN': 0.0, 'GRIN': 0.7143, 'ATP1A': 0.75, 'ATP2AB': 0.4286})
+MCF10A (0.0112, 0.2981, {'KCN': 0.3229, 'SCN': 0.4, 'CACNA1': 0.1, 'HCN': 0.25, 'NALCN': 0.0, 'GRIN': 0.1429, 'ATP1A': 0.5, 'ATP2AB': 0.4286})
+BJ (0.0511, 0.3158, {'KCN': 0.3646, 'SCN': 0.4, 'CACNA1': 0.2, 'HCN': 0.5, 'NALCN': 0.0, 'GRIN': 0.5714, 'ATP1A': 0.5, 'ATP2AB': 0.2857})
+RWPE1 (0.039, 0.2991, {'KCN': 0.3125, 'SCN': 0.4, 'CACNA1': 0.2, 'HCN': 0.75, 'NALCN': 0.0, 'GRIN': 0.5714, 'ATP1A': 0.5, 'ATP2AB': 0.2857})
+cells graded 4 RESULT [('F1', 'PASS'), ('F2', 'PASS'), ('F3', 'PASS'), ('F4', 'PASS')]
