@@ -1,0 +1,11 @@
+loops 28270 | genes 20023 channel 139
+SK-N-SH observed D 0.0390 | null mean 0.0071 sd 0.0307 95th 0.0571 | p 0.1439
+OTHER share 0.2991 n 19884
+FAM KCN share 0.3125 n 96
+FAM SCN share 0.4000 n 10
+FAM CACNA1 share 0.2000 n 10
+FAM HCN share 0.7500 n 4
+FAM NALCN share 0.0000 n 1
+FAM GRIN share 0.5714 n 7
+FAM ATP1A share 0.5000 n 4
+FAM ATP2AB share 0.2857 n 7
