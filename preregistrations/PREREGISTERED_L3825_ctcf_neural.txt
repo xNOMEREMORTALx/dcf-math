@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3825: do nerve-metal genes sit at CTCF loop anchors in a neural cell line, and does the per-family pattern of
+Manuscript 3 Figure 1 (L3821, descriptive) hold? Frozen before download. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 18 November 2026.
+Data: ENCODE experiment ENCSR514HBO (CTCF ChIA-PET, SK-N-SH neuroblastoma, Ruan lab), one released "loops" BEDPE on GRCh38
+(if several, the pooled/merged-replicate file; if none is marked pooled, the largest). Identified by content (>= 6 tab columns,
+chr-prefixed GRCh38 names). GENCODE v49 as L3717. Script rounds/dcf_ctcf_neural_L3825.py (L3725 code, anchors adapted; seed 3825).
+Basis: H1 and HFFc6 (L3725) D = 0.110 and 0.057; per family (L3821, seen): KCN 0.34/0.28, GRIN 0.57/0.57, CACNA1 0.10/0.10, other genes 0.24.
+ N1 Pooled D > 0 with genome-shift p < 0.05.
+ N2 K+ channel genes (KCN, n = 96): share > the all-other-genes share.
+ N3 NMDA receptor genes (GRIN, n = 7): share > the all-other-genes share.
+ N4 Voltage-gated Ca2+ channel genes (CACNA1, n = 10): share < the all-other-genes share (the apparent exception repeats).
+Void if the file is not CTCF ChIA-PET loops from SK-N-SH on GRCh38. Failures stand. Not blind to H1/HFFc6; blind to SK-N-SH.
