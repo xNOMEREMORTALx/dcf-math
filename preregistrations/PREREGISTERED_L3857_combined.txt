@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3857: Stouffer-combined genome-shift test per gene family across the ten cell types (H1, HFFc6, SK-N-SH, K562, HepG2,
+IMR-90, HEK293, MCF 10A, BJ, RWPE1; files as in L3853). Frozen before any per-family null was computed.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 19 November 2026. Script rounds/dcf_combined_L3857.py. NOT blind to the cells.
+ S1 KCN: Stouffer Z > 1.645 (one-sided p < 0.05).
+ S2 GRIN: Stouffer Z > 1.645.
+ S3 CACNA1: Stouffer Z < -1.645.
+ S4 ALL (139-gene set): Stouffer Z > 3.09 (one-sided p < 0.001).
+Failures stand.
