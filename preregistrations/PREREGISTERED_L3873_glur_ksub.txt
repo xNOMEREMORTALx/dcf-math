@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3873: two new gene sets under the L3869 dependence-aware test (gene resampling matched for length and local density,
+ten cells scored together). Frozen before any share of these sets was computed. Gary NOMEREMORTAL Mason, DCF, 19 November 2026.
+Script rounds/dcf_sets_L3873.py (seed 3873). NOT blind to the ten cells; blind to these sets' shares.
+Sets: GLUR = GRIN1, GRIN2A-D, GRIN3A-B, GRIA1-4, GRIK1-5, GRID1-2; K+ subfamilies Kv, K2P, Kir, KCa, Kaux (auxiliary) as in the script.
+ Q1 GLUR: p_upper < 0.05 (the NMDA excess extends to glutamate receptors and gains power).
+ Q2 Kv (the largest K+ subfamily): p_upper < 0.05.
+ Q3 At least 3 of the 4 pore-forming K+ subfamilies (Kv, K2P, Kir, KCa) have T_obs > their null mean (the excess is shared, not one subfamily).
+ Q4 Kaux (auxiliary K+ subunits): T_obs > null mean.
+Failures stand.
