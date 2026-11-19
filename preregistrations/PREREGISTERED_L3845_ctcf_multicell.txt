@@ -1,0 +1,14 @@
+PRE-REGISTRATION L3845: does the CTCF-anchor excess of nerve-metal genes hold in three more ENCODE cell types? Frozen before download.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 18 November 2026.
+Cells: GM12878 (B-lymphoblastoid), K562 (erythroleukemia), HepG2 (liver carcinoma).
+Data: for each cell, the released ENCODE CTCF ChIA-PET experiment(s) on GRCh38; the loops BEDPE files (7 columns, column 7 = PET count).
+File rule (as L3825): a pooled loops file if one exists, otherwise the larger replicate by loop count. If a cell has several experiments,
+the in-situ ChIA-PET from the Ruan lab; otherwise the one with the most loops. Identified by content and ENCFF accession.
+Script: rounds/dcf_ctcf_neural_L3825a.py UNCHANGED (top 28,270 loops by PET count; genome-shift null seed 3825; its print label reads
+"SK-N-SH" for every file and is cosmetic). Grader: rounds/dcf_grade_L3845.py.
+ M1 In each of the three cells, pooled D > 0 with p < 0.05.
+ M2 In each of the three cells, the K+ channel (KCN, 96 genes) share > the all-other share.
+ M3 In each of the three cells, the NMDA receptor (GRIN, 7 genes) share > the all-other share.
+ M4 In at least 2 of the 3 cells, the CACNA1 (10 genes) share < the all-other share.
+Void per cell if no released CTCF ChIA-PET loops exist for it on GRCh38; a void cell makes M1-M3 ungradeable (they need all three)
+and M4 is graded on the remaining cells as ">= 2 of the graded cells" only if 2 or 3 remain. Failures stand.
