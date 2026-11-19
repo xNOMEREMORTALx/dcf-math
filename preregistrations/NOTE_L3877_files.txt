@@ -1,0 +1,10 @@
+NOTE L3877 (19 November 2026, before any L3877 loop data were downloaded). File maps from Gary's five screenshots. No pooled loops file.
+Loops bedpe (bigInteract copies not used):
+  ENCSR106INW: rep1 ENCFF923WTD; rep2 ENCFF786NNV (ENCODE default)
+  ENCSR345UIQ: rep1 has two library sets with loops ENCFF736FMG and ENCFF971WVJ (both starred); rep2 ENCFF937PTH
+               -> the frozen rule ("the larger replicate by loop count") is applied to all three files: the largest is used.
+  ENCSR154MAJ: rep1 ENCFF427ORQ (default); rep2 ENCFF031DPV
+  ENCSR093CTT: rep1 ENCFF316XYJ (default); rep2 ENCFF108IBE
+  ENCSR962FFY: rep1 ENCFF939ZKJ (default); rep2 ENCFF309GVQ
+The screenshots do not show the biosample. The five were found as Ruan-lab CTCF ChIA-PET T-cell sets; none of the ten biosamples used
+so far is a T cell. If a file's content or the ENCODE page shows a used biosample, that experiment is void.
