@@ -1,0 +1,7 @@
+NOTE L3825 (18 November 2026, before any SK-N-SH loop data exist). Not an amendment: it records how the frozen file rule applies.
+Gary supplied the ENCODE file graph for ENCSR514HBO and the ENCODE ChIA-PET pipeline readme (12/17/2020).
+- Loop (bedpe) files: replicate 1 ENCFF072FCN; replicate 2 ENCFF775DIU (ENCODE default, starred). ENCFF505NII and ENCFF012XPT are
+  bigInteract conversions of these. No pooled/merged-replicate loop file exists.
+- Frozen rule ("if none is marked pooled, the largest") therefore selects the larger of ENCFF072FCN and ENCFF775DIU, judged by loop count.
+- Readme: loop file = bedpe, 7 columns (chr1 start end chr2 start end score); score = PET count; only loops with PET count >= 3 are
+  submitted. So amendment a's density rule (top 28,270 by column 7) applies to PET counts as intended.

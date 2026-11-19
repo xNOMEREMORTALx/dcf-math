@@ -298,3 +298,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_grade_L3825.py | `0358abed5e93777c7c5fd6cfe3475edc841f1e6073d8d1c9ba1d5d2c0f9b5130` |
 | preregistrations/AMENDMENT_L3825_a.txt | `6f49f54b2960e1d706dfdb0add2d8709a80da65edc0e689a46249ef37721efcf` |
 | rounds/dcf_ctcf_neural_L3825a.py | `4cd381eeb8f5cc495358bba4e1e42c057d08e5aec8dd695970c0ce2a31b03c17` |
+| preregistrations/NOTE_L3825_files.txt | `f196e18d59ec953b64e9249f4454f9aa53f7fd5ff1a73f84f7fdc560a86447ae` |
