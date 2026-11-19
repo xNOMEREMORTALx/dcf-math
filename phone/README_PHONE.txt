@@ -1,7 +1,7 @@
-Bundle 6.20 (L3825): menu 37 now names the chain type by the L3809 family rule - aromatic TrpD = cryptochrome-type, non-aromatic = photolyase-type (right for 98.6% of 2,564 PANTHER-classified proteins, at any score) - and flags proteins whose nearest reference disagrees with TrpD. Scores and tetrads unchanged. Copy ALL TWELVE .py files into one folder; open dcf_phone_6.20.py. Self-test 270/270.
+Bundle 6.20 (L3829): menu 37 now names the chain type by the L3809 family rule - aromatic TrpD = cryptochrome-type, non-aromatic = photolyase-type (right for 98.6% of 2,564 PANTHER-classified proteins, at any score) - and flags proteins whose nearest reference disagrees with TrpD. Scores and tetrads unchanged. Copy ALL TWELVE .py files into one folder; open dcf_phone_6.20.py. Self-test 270/270.
 SHA-256:
-1af47d402f3c9fe149fb9e391c0f99a7c43ee4b35349c4250efcc50b8860225b  dcf_phone_6.20.py
-e25b90fe018578984e4a173b28eade44944cce4a322e2723add9047873210d99  dcf_cryreader.py
+d2020bfe168bd8da43d007930bed5312b195290312fe941595f45ba8192cce9e  dcf_phone_6.20.py
+9c07f04c5168df724f67f25ac6ac073b9ee32131e51680237905f51a48ad7825  dcf_cryreader.py
 2e5c56fde31548d23987aff58eea510a20b90a200d8732198873c9f679953206  dcf_nerve.py
 d2e577e4972c989212cc815d8434deafe9e5556318ff544350c6849095d073a4  dcf_align.py
 64f73802c9eda748d0a6f67f7008a4e79e669a1e128ac46dd87947f369756fbe  dcf_localalign.py

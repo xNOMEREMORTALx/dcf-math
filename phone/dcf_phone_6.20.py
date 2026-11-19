@@ -1,5 +1,5 @@
 # DCF PHONE TOOLKIT — Digital Cosmos Framework on Pydroid 3
-# Author: Gary NOMEREMORTAL Mason · round L1894 · 2026-10-14 · updated round L2076 · 2026-10-18 · 6.06 round L3277 · 2026-11-10 · 6.07 round L3285 · 2026-11-11 (menu 30 lists only genome files) · 6.08 round L3289 (Theorem D self-test row uses 60-digit mpmath; failed on an ARM phone in float) · 6.09 round L3297 (menus 32 motif scan, 33 exon map) · 6.10 round L3433 (menu 34 nerve channels by metal ion) · 6.11 round L3457 (menu 34 adds pumps, glutamate/NMDA receptors, iron hydroxylases) · 6.12 round L3549 (menu 34: v8 rules, T-type calcium, Nax, battery and excitability kit; protein FASTA and UniProt TSV input) · 6.13 round L3573 (menu 35 protein aligner) · 6.14 round L3589 (menu 35 local alignment option) · 6.15 round L3637 (menu 34: dcf_nerve v3, sodium loop T-W-K-G-W) · 6.16 round L3745 (menu 36: DNA store, find a strand from a noisy read) · 6.17 round L3801 (menu 37: cryptochrome reader, family + TrpA-D chain + blind-tested marker) · 6.18 round L3813 (cryptochrome reader 25x faster, identical on all 63 blind hits; exact scan tie rule) · 6.19 round L3817 (menu 37 reads whole proteomes, .gz too, and lists only the hits; honeybee 6/6 identical to the scan) · 6.20 round L3825 (menu 37 calls the chain type by the L3809 family rule: aromatic TrpD = cryptochrome-type, 98.6% of 2,564 proteins)
+# Author: Gary NOMEREMORTAL Mason · round L1894 · 2026-10-14 · updated round L2076 · 2026-10-18 · 6.06 round L3277 · 2026-11-10 · 6.07 round L3285 · 2026-11-11 (menu 30 lists only genome files) · 6.08 round L3289 (Theorem D self-test row uses 60-digit mpmath; failed on an ARM phone in float) · 6.09 round L3297 (menus 32 motif scan, 33 exon map) · 6.10 round L3433 (menu 34 nerve channels by metal ion) · 6.11 round L3457 (menu 34 adds pumps, glutamate/NMDA receptors, iron hydroxylases) · 6.12 round L3549 (menu 34: v8 rules, T-type calcium, Nax, battery and excitability kit; protein FASTA and UniProt TSV input) · 6.13 round L3573 (menu 35 protein aligner) · 6.14 round L3589 (menu 35 local alignment option) · 6.15 round L3637 (menu 34: dcf_nerve v3, sodium loop T-W-K-G-W) · 6.16 round L3745 (menu 36: DNA store, find a strand from a noisy read) · 6.17 round L3801 (menu 37: cryptochrome reader, family + TrpA-D chain + blind-tested marker) · 6.18 round L3813 (cryptochrome reader 25x faster, identical on all 63 blind hits; exact scan tie rule) · 6.19 round L3817 (menu 37 reads whole proteomes, .gz too, and lists only the hits; honeybee 6/6 identical to the scan) · 6.20 round L3829 (menu 37 calls the chain type by the L3809 family rule: aromatic TrpD = cryptochrome-type, 98.6% of 2,564 proteins)
 #
 # One file. Press Run in Pydroid 3 and pick from the menu.
 # Needs only the Python standard library. mpmath is optional but recommended
@@ -38,7 +38,7 @@
 
 import math, os, sys, re, json, time, hashlib, hmac, struct, sqlite3
 
-VERSION = "DCF-phone-6.20 (L3825)"
+VERSION = "DCF-phone-6.20 (L3829)"
 try:
     import mpmath
     HAVE_MP = True
