@@ -1,0 +1,6 @@
+AMENDMENT L3825-a (18 November 2026, before any SK-N-SH data exist).
+Reason: a smoke test of the frozen script on the H1 4DN union file using ALL loops (not graded; H1 is not the test cell) put 82% of genes
+at an anchor; the signal saturates. L3725 used only the CTCF-ChIAPET-tagged subset (28,270 loops in H1, 24,421 in HFFc6).
+Density rule: if the SK-N-SH file has more than 28,270 loops, keep the 28,270 with the highest value in column 7 (PET count / score;
+ties broken by file order); if column 7 is not numeric, keep the first 28,270 lines. Applied by rounds/dcf_ctcf_neural_L3825a.py,
+which is dcf_ctcf_neural_L3825.py with this one change. Predictions N1-N4 and the grader are unchanged.
