@@ -1,0 +1,4 @@
+AUX 16 CA 26 OTHER 19868
+H1       AUX 0.2500 CA 0.1923 OTHER 0.2352 | D_ca -0.0428 null mean 0.0165 p_lower 0.1838
+HFFc6    AUX 0.1875 CA 0.1538 OTHER 0.2376 | D_ca -0.0838 null mean 0.0134 p_lower 0.0230
+SK-N-SH  AUX 0.5000 CA 0.3846 OTHER 0.3316 | D_ca 0.0530 null mean 0.0382 p_lower 0.5614
