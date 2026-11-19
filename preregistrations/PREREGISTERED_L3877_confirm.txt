@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3877: confirmatory, fully blind test of the potassium-channel and pooled CTCF-anchor excess on NEW cell types.
+Frozen before any file map or download. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 19 November 2026.
+Cells: the ENCODE CTCF in-situ ChIA-PET experiments ENCSR093CTT, ENCSR154MAJ, ENCSR345UIQ, ENCSR962FFY, ENCSR106INW (Ruan lab; listed
+as T-cell sets when found; biosample identities to be recorded from the file maps). Any of them that duplicates a biosample already used
+(H1, HFFc6, SK-N-SH, K562, HepG2, IMR-90, HEK293, MCF 10A, BJ, RWPE1) is void.
+File rule: pooled loops bedpe if any, else the larger replicate by loop count. Script rounds/dcf_confirm_L3877.py (L3869 machinery:
+gene resampling matched for length and local gene density, all new cells scored together, 10,000 sets, seed 3877).
+ T1 KCN: p_upper < 0.05.
+ T2 ALL (139 genes): p_upper < 0.05.
+ T3 KPORE (pore-forming K+): p_upper < 0.05.
+ T4 Kaux (K+ auxiliary subunits): p_upper >= 0.05 (no excess).
+Needs >= 3 valid new cells; otherwise ungradeable. Failures stand.
