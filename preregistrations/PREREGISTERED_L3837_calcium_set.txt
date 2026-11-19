@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3837: is the calcium-channel exception (CACNA1 below baseline at CTCF anchors in H1, HFFc6, SK-N-SH) a property of
+calcium-channel genes generally? Frozen before the auxiliary subunits were looked at in any cell type.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 18 November 2026. Script rounds/dcf_calcium_L3837.py (hash in LEDGER).
+NOT BLIND to cell type (all three loop sets were used in L3725/L3825) and not blind to CACNA1 (10 genes, seen).
+BLIND to the 16 auxiliary subunits CACNB1-4, CACNA2D1-4, CACNG1-8, whose anchor shares have never been computed.
+OTHER = protein-coding genes outside the L3725 channel set and outside the auxiliary set.
+ C1 In each of the three cell types, the auxiliary-subunit share (16 genes) is below the OTHER share.
+ C2 In at least 2 of the 3 cell types, the full calcium set (26 genes) is below OTHER with genome-shift p_lower < 0.05.
+Failures stand. If C1 fails, the calcium exception is a pore-gene (CACNA1) property, not a calcium-channel-complex property.
