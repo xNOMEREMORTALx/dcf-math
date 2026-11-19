@@ -1,0 +1,7 @@
+NOTE L3849 (19 November 2026, before any L3849 loop data were downloaded). File maps from Gary's screenshots (zip "graphs_1");
+no pooled loops file in any experiment. Loops bedpe per replicate (bigInteract copies in brackets, not used):
+  HEK293  ENCSR410UHV: rep1 ENCFF432WRY (ENCFF940SLF); rep2 ENCFF701GLV, ENCODE default (ENCFF789AST)
+  MCF 10A ENCSR403ZYJ: rep1 ENCFF310MTX, ENCODE default (ENCFF635RQE); rep2 ENCFF035RRT (ENCFF883SVK)
+  BJ      ENCSR573PZV: rep1 ENCFF253KLV, ENCODE default (ENCFF102QZU); rep2 ENCFF763HTH (ENCFF166EMA)
+  RWPE1   ENCSR030KAB: rep1 ENCFF041WND (ENCFF055DVO); rep2 ENCFF479KLF, ENCODE default (ENCFF080TMX)
+Frozen rule: the larger replicate by loop count in each cell.
