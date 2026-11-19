@@ -318,3 +318,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3861_density_matched.txt | `f1ce17d29b76d5bb126748c6115e07a95da82040ee68b6bc42e434e53f7f5371` |
 | rounds/dcf_densitymatch_L3861.py | `bef3b8e81c4d318fbfcaa9478e611fa528013bffe33848b975c9ede0735efede` |
 | rounds/dcf_grade_L3861.py | `29dce22fa84d2d076a4dfad4cf2c67d3e1345908958d4cd58f5ce87e35f5bf51` |
+| preregistrations/PREREGISTERED_L3869_gene_resampling.txt | `d921e9ca3fef1aa541ac6902fd02f54931c2781342f71f7f546ffab6f5fe95b0` |
+| rounds/dcf_generesample_L3869.py | `5e9363a2ec98bf0e81c9eac8241a5b89ef5f34e45792f994be00cb0816efbf32` |
+| rounds/dcf_grade_L3869.py | `0a02f9fab55f7b3c5d82c4d35c34865887ea80103127fcd90afd99a735a7d6b5` |

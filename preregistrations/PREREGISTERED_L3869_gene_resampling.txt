@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3869: dependence-aware ten-cell test of the family pattern (answers the L3857 caveat). Frozen before running.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 19 November 2026. Script rounds/dcf_generesample_L3869.py. Same ten cells as L3857.
+Null: 10,000 random gene sets, each member replaced by one of its 50 nearest non-channel genes in length and local gene density; all ten
+cells scored on the same set. T = mean anchor share over the ten cells. NOT blind to the cells; blind to this null.
+ R1 KCN: p_upper < 0.05.
+ R2 GRIN: p_upper < 0.05.
+ R3 CACNA1: p_lower < 0.05.
+ R4 ALL (139 genes): p_upper < 0.01.
+Failures stand.
