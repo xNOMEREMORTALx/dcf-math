@@ -1,0 +1,14 @@
+cell H1
+cell HFFc6
+cell SK-N-SH
+cell K562
+cell HepG2
+cell IMR-90
+cell HEK293
+cell MCF10A
+cell BJ
+cell RWPE1
+FAM KCN n 96 T_obs 0.3448 null mean 0.2700 sd 0.0295 p_upper 0.0079 p_lower 0.9927
+FAM GRIN n 7 T_obs 0.5000 null mean 0.3405 sd 0.1144 p_upper 0.0948 p_lower 0.9177
+FAM CACNA1 n 10 T_obs 0.1700 null mean 0.3043 sd 0.0952 p_upper 0.9311 p_lower 0.0782
+FAM ALL n 139 T_obs 0.3468 null mean 0.2752 sd 0.0247 p_upper 0.0024 p_lower 0.9977
