@@ -1,0 +1,2 @@
+D 0.0999 p 0.001 other 0.3317 {'KCN': 0.4375, 'SCN': 0.5, 'CACNA1': 0.2, 'HCN': 0.5, 'NALCN': 0.0, 'GRIN': 0.5714, 'ATP1A': 0.5, 'ATP2AB': 0.4286}
+RESULT [('N1', 'PASS'), ('N2', 'PASS'), ('N3', 'PASS'), ('N4', 'PASS')]
