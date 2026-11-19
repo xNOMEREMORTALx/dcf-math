@@ -1,0 +1,14 @@
+PRE-REGISTRATION L3849: is the gene-FAMILY pattern at CTCF loop anchors (K+ channels and NMDA receptors above, Ca2+ channel pores below
+the genome-wide share) a general property of human cells? Frozen before any file map or download.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 19 November 2026.
+Basis: in all six cells so far (H1, HFFc6, SK-N-SH, K562, HepG2, IMR-90) KCN > other, GRIN > other, CACNA1 < other; pooled D significant
+in only 3 of 6 (L3725, L3825, L3845).
+Cells (ENCODE CTCF in-situ ChIA-PET, Ruan lab): HEK293 ENCSR410UHV; MCF 10A ENCSR403ZYJ; BJ ENCSR573PZV; RWPE1 ENCSR030KAB.
+File rule as L3825/L3845: a pooled loops bedpe if one exists, otherwise the larger replicate by loop count; GRCh38; 7 columns.
+Script: rounds/dcf_ctcf_neural_L3825a.py UNCHANGED (top 28,270 loops by PET count; seed 3825). Grader: rounds/dcf_grade_L3849.py.
+ F1 K+ channel genes (KCN, 96): share > all-other share in >= 3 of the 4 cells.
+ F2 NMDA receptor genes (GRIN, 7): share > all-other share in >= 3 of the 4 cells.
+ F3 Ca2+ channel pore genes (CACNA1, 10): share < all-other share in >= 3 of the 4 cells.
+ F4 Pooled D > 0 (sign only, no p threshold) in >= 3 of the 4 cells.
+Void cell: no released CTCF ChIA-PET loops on GRCh38. With 3 cells left the thresholds become "all 3"; with fewer, ungradeable.
+Failures stand.
