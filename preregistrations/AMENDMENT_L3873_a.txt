@@ -1,0 +1,4 @@
+AMENDMENT L3873-a (19 November 2026). The frozen script crashed with RecursionError while building the Kaux set (its rule looped over
+the family list that already contained itself). It stopped before printing any set or share (rounds/L3873_tool_output.txt, committed,
+contains only the traceback). Fix: the Kaux rule now refers to a fixed list of the four pore-forming subfamilies (rounds/dcf_sets_L3873a.py).
+Predictions Q1-Q4, sets, seed and grader are unchanged.
