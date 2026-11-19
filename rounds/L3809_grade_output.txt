@@ -1,0 +1,10 @@
+SF17 proteins 338 in window 264 hits 264
+SF18 proteins 3306 in window 2702 hits 2306
+SF18 PANTHER column match 1.000
+excluded reference entry P27526
+SF17 PANTHER column match 1.000
+SF18 graded hits 2300: aromatic at TrpD 34; score < 900: 1364
+SF17 graded hits 264: aromatic at TrpD 261; score >= 900: 129
+SF18 TrpD residues [('L', 1650), ('M', 288), ('H', 119), ('Q', 107), ('Y', 29), ('G', 27), ('-', 22), ('R', 20), ('N', 14), ('I', 8), ('F', 5), ('V', 4), ('A', 3), ('S', 2), ('C', 1), ('T', 1)] best refs [('CPD-photolyase(Neurospora)', 1621), ('phr6-4(fly)', 587), ('CRY4(robin)', 46), ('cry-dash(zf)', 46)]
+SF17 TrpD residues [('W', 257), ('F', 4), ('G', 2), ('-', 1)] best refs [('CRY4(robin)', 165), ('phr6-4(fly)', 99)]
+RESULT [('P1', 'PASS'), ('P2', 'PASS'), ('P3', 'FAIL'), ('P4', 'FAIL'), ('P5', 'PASS')]
