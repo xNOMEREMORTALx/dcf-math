@@ -1,0 +1,6 @@
+NOTE L3889 (20 November 2026, before any L3889 loop data were downloaded). File maps from Gary's screenshots (zip "neuron_3").
+  Astrocyte of the cerebellum ENCSR011GNI: default loops ENCFF886EVV (other loops files ENCFF687WIR, ENCFF174DMO, ENCFF414LNQ not used).
+  Astrocyte of the spinal cord ENCSR974LXZ: default loops ENCFF424KFY (others ENCFF244FWG, ENCFF341MZY, ENCFF547FHD not used).
+  Brain pericyte ENCSR323QIP: NO loops file released (compartments only) -> Part P void; P1 ungradeable.
+  SK-N-MC ENCSR834DXR: NO loops file released (compartments only) -> Part L void; L1 ungradeable.
+Not substituted (rule: missing files are dropped, not replaced). Part N (N1, N2) proceeds with the two astrocyte files.

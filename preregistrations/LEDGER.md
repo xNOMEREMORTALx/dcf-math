@@ -340,3 +340,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3889_astrocytes.txt | `9a79f62e2b245a3c5537532ce8138120cf4005ce4097e691bbe34468a4f6f53c` |
 | rounds/dcf_confirm_L3889.py | `90f5f9a91886621e55ac51a8f3ab5aac5ff2c51a0c300c9516691240abe00c67` |
 | rounds/dcf_grade_L3889.py | `2a0e3ec5f9dfb2d521f8453b24b5d1df21be7b805549ab9ad84d4ca87a61b9de` |
+| preregistrations/NOTE_L3889_files.txt | `c1e593ba59c362c62a98cde7cd67e90ba2b07786759f7ddabb940e11b2e0f9da` |
