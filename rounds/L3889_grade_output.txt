@@ -1,0 +1,2 @@
+N (2, {'KCN': 0.037, 'ALL': 0.0054, 'KPORE': 0.04, 'Kaux': 0.4125})
+RESULT [('N1', 'PASS'), ('N2', 'PASS'), ('P1', 'ungradeable'), ('L1', 'ungradeable')]
