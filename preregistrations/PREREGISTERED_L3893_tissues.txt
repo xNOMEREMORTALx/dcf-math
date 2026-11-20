@@ -1,0 +1,16 @@
+PRE-REGISTRATION L3893: NEURAL LINEAGE or ELECTRICALLY EXCITABLE? Tissue Hi-C from adult human skeletal muscle and heart (excitable,
+non-neural) and transverse colon (neither). Frozen before any file map or download.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 20 November 2026. Script rounds/dcf_confirm_L3893.py (L3881 method and Hi-C adapter,
+seed 3893); grader rounds/dcf_grade_L3893.py. File rule: ENCODE's default (starred) GRCh38 loops file per experiment.
+Parts (each scored together; >= 1 valid map needed):
+  M skeletal muscle, gastrocnemius medialis (in situ Hi-C, Bing Ren lab): ENCSR479USL, ENCSR089CCK
+  H heart left ventricle (intact Hi-C, Erez Aiden lab): ENCSR385MKW, ENCSR529BKV
+  C transverse colon (in situ Hi-C, Bing Ren lab): ENCSR079IDJ, ENCSR295BDK
+Predictions follow the neural-lineage reading (L3889):
+ E1 Muscle: K+ channels p_upper >= 0.05 (no excess).
+ E2 Heart: K+ channels p_upper >= 0.05 (no excess).
+ E3 Colon: K+ channels p_upper >= 0.05 (no excess).
+ E4 Muscle: all 139 genes p_upper >= 0.05 (no excess).
+Fixed interpretation: E1/E2 failing (excess in muscle or heart) means the feature tracks electrical excitability, not neural lineage.
+Caveat fixed now: tissues are cell mixtures (muscle nuclei are mostly myonuclei; colon is epithelium, immune and smooth muscle with a
+small enteric nervous system). Failures stand.
