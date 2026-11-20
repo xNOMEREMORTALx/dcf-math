@@ -8,3 +8,7 @@ Loops bedpe (bigInteract copies not used):
   ENCSR962FFY: rep1 ENCFF939ZKJ (default); rep2 ENCFF309GVQ
 The screenshots do not show the biosample. The five were found as Ruan-lab CTCF ChIA-PET T-cell sets; none of the ten biosamples used
 so far is a T cell. If a file's content or the ENCODE page shows a used biosample, that experiment is void.
+Addendum (19 November 2026, files received, before the run). Biosamples (ENCODE pages): ENCSR106INW CD4+ memory T, 43 y male;
+ENCSR345UIQ CD4+ T, 20 y male; ENCSR154MAJ activated CD4+ memory T, 43 y; ENCSR093CTT activated CD4+ T, 20 y; ENCSR962FFY activated
+CD4+ T (IL-2 5 d + beads 7 d), 20 y. All new biosamples; all valid. Files used (largest by loop count): ENCFF786NNV 622,390;
+ENCFF937PTH 1,669,861; ENCFF031DPV 666,061; ENCFF316XYJ 1,080,823; ENCFF939ZKJ 749,263.
