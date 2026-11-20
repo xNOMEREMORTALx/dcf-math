@@ -1,0 +1,2 @@
+cells 5 {'KCN': 0.578, 'ALL': 0.7203, 'KPORE': 0.5195, 'Kaux': 0.6302}
+RESULT [('T1', 'FAIL'), ('T2', 'FAIL'), ('T3', 'FAIL'), ('T4', 'PASS')]
