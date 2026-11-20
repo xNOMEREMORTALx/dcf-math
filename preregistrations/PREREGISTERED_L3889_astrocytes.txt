@@ -1,0 +1,13 @@
+PRE-REGISTRATION L3889: is the K+-channel loop-anchor excess NEURAL-LINEAGE (present in primary astrocytes) or confined to neurons and
+cell lines? One lab, one assay (ENCODE in situ Hi-C, Job Dekker lab), removing the ChIA-PET/Hi-C difference of L3881.
+Frozen before any file map or download. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 20 November 2026.
+Script rounds/dcf_confirm_L3889.py (= L3881 method and Hi-C adapter, seed 3889). Grader rounds/dcf_grade_L3889.py.
+File rule: ENCODE's default (starred) GRCh38 loops file of each experiment.
+PART N, primary neural-lineage cells: astrocyte of the cerebellum ENCSR011GNI; astrocyte of the spinal cord ENCSR974LXZ (scored together).
+ N1 K+ channels: p_upper < 0.05.   N2 All 139 genes: p_upper < 0.05.
+PART P, primary non-neural cell: brain pericyte ENCSR323QIP.
+ P1 K+ channels: p_upper >= 0.05 (no excess, as HUVEC/HMEC/T cells).
+PART L, neural cell line: SK-N-MC ENCSR834DXR.
+ L1 K+ channels: p_upper < 0.05 (as SK-N-SH).
+Fixed interpretation: N passes -> the excess is neural-lineage (astrocytes too), not a cell-line property; N fails while P passes ->
+confined to neurons (and some lines). A part whose file is missing is ungradeable. Failures stand.
