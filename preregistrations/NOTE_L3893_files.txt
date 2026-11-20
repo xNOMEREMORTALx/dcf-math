@@ -1,0 +1,7 @@
+NOTE L3893 (20 November 2026, before any L3893 loop data were downloaded). File maps from Gary's six screenshots.
+  Muscle ENCSR479USL: default loops ENCFF735TXQ (others ENCFF224ETW, ENCFF959ILF, ENCFF136PKO not used).
+  Muscle ENCSR089CCK: default loops ENCFF509PNA (others ENCFF793YKB, ENCFF618TRU, ENCFF381DBJ not used).
+  Heart ENCSR385MKW and ENCSR529BKV (intact Hi-C, Aiden lab): only haplotype-specific contact matrices and nuclease-cleavage files;
+    NO loops file released -> Part H void; E2 ungradeable. Not substituted.
+  Colon ENCSR079IDJ: default loops ENCFF008FXM (others ENCFF095MOH, ENCFF162QAW, ENCFF275EDO not used).
+  Colon ENCSR295BDK: default loops ENCFF259LCX (others ENCFF457SBY, ENCFF197XKB, ENCFF916WUH not used).
