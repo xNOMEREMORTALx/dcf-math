@@ -336,3 +336,4 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3885_symmetry.txt | `0562e3a5cc61ae11db5cf765ae20b6412152ebd5aa38786e6ad8056bb2574c6a` |
 | rounds/dcf_symmetry_L3885.py | `b5b210c43ef400dee57c60a2571bd27e9bfa7458b5b4ad2b914658e56938a938` |
 | rounds/dcf_grade_L3885.py | `9e2eb916ef37cfdce32b3bf4dcc7530cefabfbd772c76f3cbdb037fd6bfe44ef` |
+| preregistrations/AMENDMENT_L3881_a.txt | `ab43ad352b62e8cf4eed91155d3d98880c5875b61d92db2af24f96fd22083f47` |

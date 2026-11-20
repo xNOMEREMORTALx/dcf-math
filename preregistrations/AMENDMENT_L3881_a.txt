@@ -1,0 +1,10 @@
+AMENDMENT L3881-a (20 November 2026, before any L3881 loop data were downloaded). File maps from Gary's screenshots (zip "cells_3").
+PART A (CTCF ChIA-PET, rule unchanged: pooled loops file if any, else the largest replicate by loop count):
+  HUVEC ENCSR404FPI: three replicates, loops bedpe rep1 ENCFF975WWK, rep2 ENCFF377RDA (ENCODE default), rep3 ENCFF562OTG; no pooled.
+  HMEC ENCSR819BBB: one replicate, loops bedpe ENCFF436NFY.
+PART B (motor-neuron in situ Hi-C): each experiment has four "loops" files from different callers and matrices
+  (ENCSR550JLK: ENCFF215XMY default, ENCFF592ZKK, ENCFF501EQR, ENCFF887QFR; ENCSR794RDS: ENCFF638CCE default, ENCFF091WZX,
+  ENCFF701ZCW, ENCFF317MHI; ENCSR866FWQ: ENCFF836TQT default, ENCFF037BBE, ENCFF917EKT, ENCFF170LJE).
+  "The largest" would select the most permissive caller, not more data, so the rule for Part B is changed to: ENCODE's default
+  (starred) loops file, which is the loop call on the mapping-quality-thresholded contact matrix: ENCFF215XMY, ENCFF638CCE, ENCFF836TQT.
+Predictions, script and grader unchanged.
