@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3897: is the K+ loop-anchor excess an assay effect? Within the SAME cells (H1, HFFc6; 4DN union loops), compare loops
+supported by Hi-C with loops supported by CTCF ChIA-PET. Frozen before either split was computed.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 20 November 2026. Script rounds/dcf_assay_L3897.py (L3877 method: gene resampling
+matched for length and local density, the two cells scored together, 10,000 sets, seed 3897). NOT blind to H1/HFFc6.
+Run 1: loops tagged "Hi-C" (H1 39,509; HFFc6 50,732). Run 2: loops tagged "CTCF-ChIAPET" (H1 28,270; HFFc6 24,421).
+ A1 CTCF-ChIAPET loops: K+ channels p_upper < 0.05.
+ A2 Hi-C loops: K+ channels p_upper < 0.05.
+ A3 Hi-C loops: all 139 genes p_upper < 0.05.
+Fixed interpretation: A1 and A2 both pass -> in the same cells both assays show the excess, so the assay alone does not create it;
+A1 passes and A2 fails -> Hi-C is less sensitive here, which cannot explain Hi-C positives elsewhere; A2 passes and A1 fails -> the
+assay matters, and the primary-cell ChIA-PET "no" results are suspect. Failures stand.

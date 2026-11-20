@@ -345,3 +345,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | rounds/dcf_confirm_L3893.py | `c0bc0917ec9d4e7ce82a0d7e75b3e07aa6c768d155d19732cac7d48e14502dcb` |
 | rounds/dcf_grade_L3893.py | `9c8e8ff0a22e04d69b77ccc2b1497ba484f837013fa91d6e7a37a6cd548ec241` |
 | preregistrations/NOTE_L3893_files.txt | `ed48cbcde11cf9de249b142684faa822fdb70f6e644e43a588936b608579e585` |
+| preregistrations/PREREGISTERED_L3897_assay_split.txt | `17d8c36631841416b50b8179f75157bb49f408175dbf96c4b7627f5a7a0bc289` |
+| rounds/dcf_assay_L3897.py | `936c908ca0e4b2ac98082292e47d1b4f55a121bcae83af7c46bc9bec430272b4` |
+| rounds/dcf_grade_L3897.py | `49727ab2c58b0a0763c8d945fac8370824ef2e0e63810bd27e58003fe4f7679a` |
