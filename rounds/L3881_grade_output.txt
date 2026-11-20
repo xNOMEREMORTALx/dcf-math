@@ -1,0 +1,3 @@
+A cells 2 {'KCN': 0.3605, 'ALL': 0.1911, 'KPORE': 0.3813, 'Kaux': 0.4902}
+B cells 3 {'KCN': 0.0091, 'ALL': 0.0108, 'KPORE': 0.0009, 'Kaux': 0.8662}
+RESULT [('A1', 'PASS'), ('A2', 'PASS'), ('B1', 'PASS'), ('B2', 'PASS')]
