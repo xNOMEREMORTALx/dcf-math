@@ -1,0 +1,14 @@
+PRE-REGISTRATION L3881: after the T-cell failure (L3877), which reading holds: "cell-line specific" or "smaller than it looked"?
+Frozen before any file map or download. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 19 November 2026.
+Script rounds/dcf_confirm_L3881.py (L3877 method: gene resampling matched for length and local gene density, cells of one part scored
+together, 10,000 sets, seed 3881; Hi-C adapter for chromosome names). File rule: pooled loops file if any, else the larger replicate.
+PART A, primary non-immune cells, CTCF ChIA-PET (Charles Lee lab): HUVEC ENCSR404FPI; HMEC ENCSR819BBB.
+ A1 K+ channels (96): p_upper >= 0.05 (no excess; the primary-cell reading).
+ A2 All 139 genes: p_upper >= 0.05.
+PART B, iPSC-derived motor neurons, in situ Hi-C loops (Snyder lab): ENCSR550JLK, ENCSR794RDS, ENCSR866FWQ (one loops file each:
+ the GRCh38 "loops" bedpe; if several, the largest). Neurons express many of these genes, so this is a direct test in nerve cells.
+ B1 K+ channels: p_upper < 0.05.
+ B2 All 139 genes: p_upper < 0.05.
+Fixed interpretation: A1-A2 pass and B fails -> the excess belongs to cultured cell lines; A fails (excess present) -> the T-cell failure
+is T-cell specific; B passes -> the excess is present in nerve cells. A part with fewer than 2 valid cells (A) or 2 (B) is ungradeable.
+Failures stand.
