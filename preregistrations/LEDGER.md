@@ -333,3 +333,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3881_primary_neuron.txt | `8bdd7457d1695f901f4a9b4167cec95645d752a3389967f188413c06b75a3327` |
 | rounds/dcf_confirm_L3881.py | `08235ba8c05d8c57e037a3430015150c0bb9ebe01ed972158d8a01f7b236d28f` |
 | rounds/dcf_grade_L3881.py | `55141d8c091fe6cc67208cca9ec5b3af4b2544ec3152beb7b50ec2abd4d4f726` |
+| preregistrations/PREREGISTERED_L3885_symmetry.txt | `0562e3a5cc61ae11db5cf765ae20b6412152ebd5aa38786e6ad8056bb2574c6a` |
+| rounds/dcf_symmetry_L3885.py | `b5b210c43ef400dee57c60a2571bd27e9bfa7458b5b4ad2b914658e56938a938` |
+| rounds/dcf_grade_L3885.py | `9e2eb916ef37cfdce32b3bf4dcc7530cefabfbd772c76f3cbdb037fd6bfe44ef` |

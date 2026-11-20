@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3885: do channel genes grouped by the GEOMETRY of their pore (triangle 3-fold, square 4-fold, pentagon 5-fold,
+hexagon 6-fold) differ at CTCF loop anchors, and does any difference SCALE with symmetry order? Frozen before computing.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 19 November 2026. Script rounds/dcf_symmetry_L3885.py (L3869/L3873a method:
+gene resampling matched for length and local density, ten original cells scored together, 10,000 sets, seed 3885).
+NOT blind to the ten cells or to TETRA (seen in L3873); blind to TRI, PENTA, HEXA.
+Basis (L3873, descriptive): the excess seemed to belong to pore-forming channel genes. If so, other pore-forming channels should show it.
+ Y1 PENTA (Cys-loop pentamers, 45 genes): p_upper < 0.05.
+ Y2 TRI (ASIC/ENaC/P2X trimers, 16 genes): p_upper < 0.05.
+ Y3 HEXA (connexins + ORAI, 22 genes): p_upper < 0.05.
+ Y4 Scaling: Delta = T_obs - null mean is monotonic in symmetry order 3, 4, 5, 6 (either direction). Chance alone gives 1 in 12.
+Failures stand. Not for any claim about sound, tuning forks or healing.
