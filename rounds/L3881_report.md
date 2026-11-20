@@ -69,6 +69,6 @@ This repeats the pore-versus-auxiliary split seen in L3873.
 
 ## Potential leads for future research
 - **[Neurons by ChIA-PET]** A CTCF ChIA-PET or HiChIP map of neurons would remove the assay difference. Search ENCODE/4DN for neural CTCF HiChIP.
-- **[Which lines carry it?]** Pre-register: lines with neuronal or stem features (H1, SK-N-SH, HEK293) show a larger excess than the others. The same-assay data are already here.
+- **[Which lines carry it?]** Already visible, so descriptive only and not testable on these data: the three largest pooled D values among the ten lines are **H1 (0.110), SK-N-SH (0.100) and HEK293 (0.088)**, the stem-like and neural-like lines. A blind test needs new stem or neural lines.
 - **[Pore vs auxiliary]** Now seen in the ten lines and in neurons; pre-register it on any further dataset.
 - **[Other neurons]** Cortical/excitatory iPSC neurons or brain-tissue Hi-C (4DN, PsychENCODE) as a further blind test.
