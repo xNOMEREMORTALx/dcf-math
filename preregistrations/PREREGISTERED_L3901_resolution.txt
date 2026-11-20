@@ -1,0 +1,11 @@
+PRE-REGISTRATION L3901: is the L3897 Hi-C null a resolution effect? Frozen before either run below.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 20 November 2026. Script rounds/dcf_assay_L3901.py (L3897 script, seed 3901;
+TAG@W trims every anchor to its central W bp). H1 + HFFc6 4DN union loops, scored together. NOT blind to the cells.
+Disclosed before freezing: median anchor width in H1 is Hi-C 5,000 bp, CTCF-ChIAPET 1,070 bp, Micro-C (checked for this
+pre-registration, no gene shares computed) printed by the command log.
+Run 1: Hi-C loops, anchors trimmed to central 1,000 bp (Hi-C@1000). Run 2: Micro-C loops, anchors as given.
+ R1 Hi-C@1000: K+ channels p_upper < 0.05.
+ R2 Micro-C: K+ channels p_upper < 0.05.
+ R3 Micro-C: pore-forming K+ p_upper < 0.05.
+Fixed interpretation: R1 pass -> the L3897 Hi-C null was resolution; R1 fail -> Hi-C loops differ from ChIA-PET loops in which
+anchors they contain, not only in width. R2/R3 pass -> a third assay without CTCF pull-down shows the excess. Failures stand.
