@@ -1,0 +1,14 @@
+PRE-REGISTRATION L3909: does the CTCF split of L3905 hold in the Hi-C maps that showed the K+ excess (motor neurons, astrocytes, colon)?
+Frozen before any subset count or share was computed. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 21 November 2026.
+Script rounds/dcf_ctcfsplit_L3909.py (L3893 method: 50 length/density-matched candidates per gene, the seven maps scored together,
+10,000 sets, seed 3909). All loops of each file are read (all files have fewer than 28,270 loops, so this equals the earlier rule).
+Maps (ENCODE default loops, as in L3881/L3889/L3893): motor neurons ENCFF215XMY, ENCFF638CCE, ENCFF836TQT; astrocytes ENCFF886EVV,
+ENCFF424KFY; transverse colon ENCFF008FXM, ENCFF259LCX.
+Reference CTCF set: CTCF-ChIAPET-tagged loop anchors of the 4DN H1 and HFFc6 union files (pooled). LIMITATION, stated in advance:
+these are CTCF sites in other cells, used as a proxy for (largely shared) constitutive CTCF binding; no CTCF data from the target
+cells are used. Run 1 MODE both (both anchors overlap a reference CTCF anchor); Run 2 MODE none (neither does).
+ C1 both: pore-forming K+ (KPORE) p_upper < 0.05.
+ C2 none: KPORE p_upper >= 0.05.
+ C3 none: all 139 genes p_lower < 0.05 (the depletion seen in L3905, not graded there).
+Fixed interpretation: C1 and C2 pass -> the CTCF dependence seen in H1/HFFc6 holds in the Hi-C positives; C1 fails -> in these
+cells the excess is not tied to constitutive CTCF sites (or the proxy is too poor to tell). No minimum subset size. Failures stand.

@@ -354,3 +354,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3905_ctcf_bound_hic.txt | `9427f9aa8fce9863a3183fabb96773499cf63c6dca35b51e1467a464e4da2131` |
 | rounds/dcf_assay_L3905.py | `11a3b219ea1e1f5f184b6590505a0e0e5c4291f43b1c61bb1fa77e6a7e3585fc` |
 | rounds/dcf_grade_L3905.py | `f969ac2e201f940e0983cb60c6b6b8881c6a92d9cab75dace63669664e5fb5c6` |
+| preregistrations/PREREGISTERED_L3909_ctcf_split_hic_positives.txt | `6dbad6068e06389df2afc2ff73b88f2a2f94e8ea294295c96bb7da61f92dcc63` |
+| rounds/dcf_ctcfsplit_L3909.py | `df8b7c0132c3c63cb4188c4d6b119eec90fd06216628850afa2a241e527d22d9` |
+| rounds/dcf_grade_L3909.py | `52109bb78d1a8d86a6ff0cc5291e8c1760b30a603718ca283660b8d4a1929418` |
