@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3905: is the K+ excess a property of CTCF-bound anchors? Within H1 + HFFc6 (4DN union loops), split Hi-C loops
+by overlap with CTCF-ChIAPET anchors from the same file. Frozen before any count or share of either subset was computed.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 21 November 2026. Script rounds/dcf_assay_L3905.py (L3901 script, seed 3905).
+NOT blind to the cells. Run 1: Hi-C^both (both anchors overlap a CTCF-ChIAPET anchor). Run 2: Hi-C^none (neither anchor does).
+ B1 Hi-C^both: pore-forming K+ (KPORE) p_upper < 0.05.
+ B2 Hi-C^none: KPORE p_upper >= 0.05 (no excess).
+ B3 Hi-C^both: K+ channels (KCN) p_upper < 0.05.
+Fixed interpretation: B1 and B2 pass -> within one assay the excess follows CTCF binding; B1 fails -> overlap with CTCF anchors is not
+enough, and the ChIA-PET signal depends on ChIA-PET-specific loops. A subset may be small; no minimum is set and none is added later.
+Failures stand.

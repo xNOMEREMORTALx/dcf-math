@@ -1,0 +1,98 @@
+"""L3905 frozen: L3901 script, seed 3905; TAG^both keeps loops whose two anchors each overlap a CTCF-ChIAPET anchor from the
+same file; TAG^none keeps loops with neither anchor overlapping one.
+L3901 frozen: L3897 script, seed 3901; TAG@W trims each anchor to its central W bp.
+L3897 frozen: L3877 method (seed 3897) with anchors from the 4DN union-loop file restricted to loops whose column-7 method list
+contains a given tag (argv CELL=path:TAG), all such loops used (no cap).
+L3877 frozen: confirmatory L3869/L3873a test on NEW cell types only. Families KCN (96), ALL (139), KPORE (pore-forming K+: Kv, K2P,
+Kir, KCa), Kaux (KCN auxiliary). Seed 3877. Matched pool excludes channel, Ca2+ auxiliary and glutamate-receptor genes, as L3873a.
+L3873 amendment a: identical to dcf_sets_L3873.py except the Kaux rule (the original referred to its own list and recursed; it
+crashed before computing any share). L3873 frozen: L3869 gene-resampling test (unchanged machinery, seed 3873) applied to new gene sets:
+  GLUR = all ionotropic glutamate receptor genes GRIN1, GRIN2A-D, GRIN3A-B, GRIA1-4, GRIK1-5, GRID1-2 (matched pool also excludes them);
+  K+ subfamilies among the L3725 KCN genes: Kv = KCNA/B/C/D/F/G/H/Q/S/V; K2P = KCNK; Kir = KCNJ; KCa = KCNMA1, KCNN, KCNT, KCNU;
+  Kaux = the remaining KCN genes (auxiliary subunits such as KCNE, KCNAB, KCNIP, KCNMB).
+Original L3869 docstring follows.
+L3869 frozen: dependence-aware ten-cell test. Gene-resampling null with length+density matching; all cells scored on the SAME
+random gene set, so shared genes and shared CTCF sites are kept. For each member gene, its 50 nearest non-channel genes in (z log length,
+z log density) are its candidates; a null set draws one candidate per member (numpy seed 3869), 10,000 sets.
+T = mean over the ten cells of the set's anchor share. p_upper = (1 + #null >= obs)/(1 + 10000); p_lower likewise with <=.
+Families KCN, GRIN, CACNA1, ALL (139). Code below the docstring reuses L3861 (gene table, length, density).
+L3861 frozen: is the family pattern explained by gene length AND local gene density? Based on L3853 (same inputs, hits, families).
+Density = number of protein-coding gene TSSs within +-1 Mb of the gene TSS (itself excluded). Matching: the 20 non-channel genes
+nearest in (z-scored log10 length, z-scored log10(1 + density)), Euclidean, ties by table order. Also prints the anchor share of the
+lowest-density decile of non-channel genes. Original L3853 docstring follows.
+L3853 frozen: is the family pattern at CTCF anchors explained by gene length?
+argv: GENCODE v49 GTF, then CELL=path pairs. H1 and HFFc6 paths are 4DN union files (CTCF-ChIAPET-tagged loops, anchors() of L3725);
+every other path is an ENCODE loops bedpe (top 28,270 by PET count, anchors() of L3825a).
+Gene table, TSS +-5 kb and hits() verbatim from L3725. Gene length = GTF end - start + 1.
+Matched control for a family: for each member gene, the 20 non-channel genes (outside the L3725 channel set and outside the calcium
+auxiliary set) nearest in log10 length (ties by table order); the pooled list (with repeats) is the control.
+Delta(family, cell) = family share - matched-control share. Also prints, per cell, the share of the longest decile of non-channel genes
+and the share of all non-channel genes."""
+import sys, re, gzip, collections
+import numpy as np
+src = open('/home/claude/dcf-math/rounds/dcf_channel_perm_L3725.py').read()
+g = {'__name__': 'L3853', 'sys': sys}; exec(compile(src.split("isch=np.array")[0], 'L3725', 'exec'), g)
+G, hits, CH, anch725 = g['G'], g['hits'], g['CH'], g['anchors']
+src2 = open('/home/claude/dcf-math/rounds/dcf_ctcf_neural_L3825a.py').read(); a0 = src2.index('def anchors(p):'); a1 = src2.index('FAM = [')
+g2 = {'collections': collections, 'gzip': gzip}; exec(src2[a0:a1], g2); anch825 = g2['anchors']
+names, length = [], []
+for l in gzip.open(sys.argv[1], 'rt'):
+    if l.startswith('#'): continue
+    x = l.split('\t')
+    if x[2] != 'gene' or 'gene_type "protein_coding"' not in x[8] or not re.match(r'^chr([0-9]+|X)$', x[0]): continue
+    names.append(re.search(r'gene_name "([^"]+)"', x[8]).group(1)); length.append(int(x[4]) - int(x[3]) + 1)
+assert len(names) == len(G)
+loglen = np.log10(np.array(length, float))
+byc = collections.defaultdict(list)
+for i, q in enumerate(G): byc[q[0]].append(i)
+dens = np.zeros(len(G))
+for c, idx in byc.items():
+    T = np.array([G[i][1] for i in idx]); o = np.sort(T)
+    dens[idx] = np.searchsorted(o, T + 1_000_000, side='right') - np.searchsorted(o, T - 1_000_000, side='left') - 1
+ld = np.log10(1 + dens); zl = (loglen - loglen.mean()) / loglen.std(); zd = (ld - ld.mean()) / ld.std()
+AUX = re.compile(r'^(CACNB[1-4]|CACNA2D[1-4]|CACNG[1-8])$')
+GLU = re.compile(r'^(GRIN1|GRIN2[A-D]|GRIN3[AB]|GRIA[1-4]|GRIK[1-5]|GRID[12])$')
+nonch = np.array([not CH.match(n) and not AUX.match(n) and not GLU.match(n) for n in names]); pool = np.where(nonch)[0]
+KC = lambda n: bool(CH.match(n)) and n.startswith('KCN')
+PORE_RX = r'^(KCN[ABCDFGHQSV]\d|KCNK\d|KCNJ\d|KCNMA1$|KCNN\d|KCNT\d|KCNU\d)'
+FAM = [('KCN', lambda n: KC(n)), ('ALL', lambda n: bool(CH.match(n))),
+       ('KPORE', lambda n: KC(n) and bool(re.match(PORE_RX, n))), ('Kaux', lambda n: KC(n) and not re.match(PORE_RX, n))]
+members = {f: np.array([i for i, n in enumerate(names) if fn(n)]) for f, fn in FAM}
+for f, _ in FAM: print('SET %s n %d: %s' % (f, len(members[f]), ' '.join(sorted(names[i] for i in members[f]))), flush=True)
+cand = {f: np.array([pool[np.argsort(np.hypot(zl[pool] - zl[i], zd[pool] - zd[i]), kind='stable')[:50]] for i in idx]) for f, idx in members.items()}
+Hs = []
+for arg in sys.argv[2:]:
+    cell, p = arg.split('=', 1)
+    path, tag = p.rsplit(':', 1); W = 0
+    if '@' in tag: tag, W = tag.split('@'); W = int(W)
+    MODE = None
+    if '^' in tag:
+        tag, MODE = tag.split('^'); CI = collections.defaultdict(list)
+        for l in open(path):
+            f = l.rstrip('\n').split('\t')
+            if len(f) < 7 or not f[1].isdigit() or 'CTCF-ChIAPET' not in f[6].split(','): continue
+            CI[f[0]].append((int(f[1]), int(f[2]))); CI[f[3]].append((int(f[4]), int(f[5])))
+        CS = {c: (np.array(sorted(v))[:, 0], np.array(sorted(v))[:, 1]) for c, v in CI.items()}
+        MW = max(int((CS[c][1] - CS[c][0]).max()) for c in CS)
+        def ov(c, s, e):
+            if c not in CS: return False
+            st, en = CS[c]; i0 = np.searchsorted(st, s - MW); i1 = np.searchsorted(st, e)
+            return bool((en[i0:i1] > s).any())
+    A = collections.defaultdict(list); nl = 0
+    for l in open(path):
+        f = l.rstrip('\n').split('\t')
+        if len(f) < 7 or not f[1].isdigit() or tag not in f[6].split(','): continue
+        s1, e1, s2, e2 = int(f[1]), int(f[2]), int(f[4]), int(f[5])
+        if MODE:
+            k = ov(f[0], s1, e1) + ov(f[3], s2, e2)
+            if (MODE == 'both' and k < 2) or (MODE == 'none' and k > 0): continue
+        if W: m1, m2 = (s1 + e1) // 2, (s2 + e2) // 2; s1, e1, s2, e2 = m1 - W // 2, m1 + W // 2, m2 - W // 2, m2 + W // 2
+        A[f[0]].append((s1, e1)); A[f[3]].append((s2, e2)); nl += 1
+    print('loops with tag', tag, nl, flush=True)
+    Hs.append(hits(A, {}).astype(float)); print('cell', cell, flush=True)
+Hm = np.mean(Hs, axis=0); rng = np.random.default_rng(3905)
+for f, _ in FAM:
+    obs = Hm[members[f]].mean(); C = cand[f]
+    null = np.array([Hm[C[np.arange(len(C)), rng.integers(0, 50, len(C))]].mean() for _ in range(10000)])
+    pu = (1 + (null >= obs).sum()) / 10001; pl = (1 + (null <= obs).sum()) / 10001
+    print('FAM %s n %d T_obs %.4f null mean %.4f sd %.4f p_upper %.4f p_lower %.4f' % (f, len(C), obs, null.mean(), null.std(), pu, pl), flush=True)
