@@ -1,0 +1,7 @@
+PRE-REGISTRATION L3929: are primary-cell CTCF ChIA-PET anchors closer to gene starts than cell-line anchors (explaining the higher
+matched-gene baseline of L3917/L3921)? Frozen before any fraction was computed. Gary NOMEREMORTAL Mason, Digital Cosmos Framework,
+21 November 2026. Script rounds/dcf_promoter_L3929.py. Groups as L3921 (A = eight ENCODE cell lines; N = seven primary-cell maps).
+ P1 median promoter fraction (anchor midpoint within 5 kb of a protein-coding TSS) is higher in N than in A.
+ P2 one-sided Mann-Whitney p < 0.05 (N > A).
+Fixed interpretation: both pass -> the primary-cell baseline reflects promoter-proximal CTCF anchoring; P1 fails -> it does not.
+Failures stand.
