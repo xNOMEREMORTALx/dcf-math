@@ -1,0 +1,3 @@
+median coverage {'A': np.float64(69103837.0), 'N': np.float64(104970654.0)}
+{('A', 'KCN'): 0.0122, ('A', 'ALL'): 0.0073, ('A', 'KPORE'): 0.0039, ('A', 'Kaux'): 0.6572, ('N', 'KCN'): 0.6041, ('N', 'ALL'): 0.6753, ('N', 'KPORE'): 0.5858, ('N', 'Kaux'): 0.5729}
+RESULT [('W1', 'PASS'), ('W2', 'FAIL'), ('W3', 'PASS')]
