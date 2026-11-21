@@ -363,3 +363,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3917_gene_level.txt | `74fcbb4439ba281e51c391699539550ddd643c4ee041d8294b509c0132ea1a8d` |
 | rounds/dcf_genelevel_L3917.py | `c1a9b3ef292c9d2a975ae827e155f57e40c477c93326e799386745272f475326` |
 | rounds/dcf_grade_L3917.py | `4522506a4826c9b084b1de9fd7aec3b1998e972ed83dbaf640779d7d71f88d45` |
+| preregistrations/PREREGISTERED_L3921_width.txt | `d50de7c30fec37fc2639b18115fe0d53a28921a3292234ce9ecb6e229e3d11bf` |
+| rounds/dcf_trim_L3921.py | `098001c374acfc3d92b2018d3d5ffcefb9a5f5bf5e580a9af574dc1aa1939a40` |
+| rounds/dcf_grade_L3921.py | `ee2bafe9b4765209abc0071fda9c17f533e7c5c156b9be037af1cb4fe2415cc2` |

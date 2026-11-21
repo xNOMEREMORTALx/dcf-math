@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3921: does wider or denser anchor calling explain the higher matched-gene baseline in the primary-cell CTCF
+ChIA-PET maps (L3917)? Frozen before any coverage or width of any map was computed. Gary NOMEREMORTAL Mason, Digital Cosmos
+Framework, 21 November 2026. Script rounds/dcf_trim_L3921.py, W = 1000, seed 3921. Groups: A = the eight ENCODE cell-line ChIA-PET
+maps of L3869 (SK-N-SH, K562, HepG2, IMR-90, HEK293, MCF 10A, BJ, RWPE1; H1/HFFc6 excluded as a different pipeline); N = the seven
+primary-cell maps of L3917.
+ W1 Median over N maps of anchor coverage (bp) exceeds the median over A maps.
+ W2 With every anchor trimmed to its central 1 kb, group N pore-forming K+ p_upper < 0.05.
+ W3 With trimming, group A pore-forming K+ p_upper < 0.05 (the excess survives trimming in the cell lines).
+Fixed interpretation: W1 and W2 pass -> the primary-cell null was an anchor-width artefact; W1 passes and W2 fails -> wider anchors
+are present but do not explain the null; W1 fails -> the baseline difference is not anchor coverage. Failures stand.
