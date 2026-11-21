@@ -369,3 +369,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3929_promoter.txt | `53125b9596951422ace4c986f797e45451b8d82896ce07f001ba0c9fb9837f8b` |
 | rounds/dcf_promoter_L3929.py | `599904376b50c9d1be1fdb3bf07abc9d401e8df04a76078714f6799eb5314248` |
 | rounds/dcf_grade_L3929.py | `a801784d423d2c43bb56b4017a4f6693f93a61c0daa0da9e54833574d16febe5` |
+| preregistrations/PREREGISTERED_L3933_pp_filter.txt | `c4d921f144144e0e2f8ed1e8bf1017d5d37d8dbad433b582faa17b882d06cea2` |
+| rounds/dcf_ppfilter_L3933.py | `7167d459e6e50412a153325a32a0a1aa8488c1897532894c214496eac43085ab` |
+| rounds/dcf_grade_L3933.py | `3dcd1c0545a32a85351566c80593db1fe65f2ef52d24eb6d014ae4f202705bf9` |

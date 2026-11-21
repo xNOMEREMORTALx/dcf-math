@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3933: after removing promoter-promoter loops (both anchor midpoints within 5 kb of a protein-coding TSS), does the
+pore-forming K+ excess appear in the primary-cell CTCF ChIA-PET maps? Frozen before any filtered count or share was computed.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 21 November 2026. Script rounds/dcf_ppfilter_L3933.py, seed 3933.
+Groups as L3929: A = eight ENCODE cell lines; N = seven primary-cell maps; T = the five T-cell maps of N.
+ Q1 N filtered: KPORE p_upper < 0.05.
+ Q2 T filtered: KPORE p_upper < 0.05.
+ Q3 A filtered: KPORE p_upper < 0.05.
+Fixed interpretation: Q1/Q2 pass -> promoter-promoter CTCF loops masked the excess in primary cells; Q1 and Q2 fail -> they do
+not, and the primary-cell difference is not this simple; Q3 fail -> the cell-line excess depended on promoter-promoter loops.
+Failures stand.
