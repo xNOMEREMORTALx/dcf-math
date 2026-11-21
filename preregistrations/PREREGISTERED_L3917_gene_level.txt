@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3917: is the pore-forming K+ excess carried by the same genes across cell groups, and do the primary-cell
+ChIA-PET "negatives" anchor the same genes? Frozen before any per-gene frequency was computed (all maps were used before at group level).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 21 November 2026. Script rounds/dcf_genelevel_L3917.py (hash in LEDGER).
+Groups: A = ten cell lines (H1, HFFc6, SK-N-SH, K562, HepG2, IMR-90, HEK293, MCF 10A, BJ, RWPE1; files as L3869);
+B = nine Hi-C maps, CTCF-anchored loops (motor neurons x3, astrocytes x2, colon x2, muscle x2; as L3909/L3913);
+N = seven primary-cell CTCF ChIA-PET maps (T cells ENCFF786NNV, ENCFF937PTH, ENCFF031DPV, ENCFF316XYJ, ENCFF939ZKJ; HUVEC ENCFF377RDA;
+HMEC ENCFF436NFY; as L3877/L3881). Per gene: residual = anchor frequency in the group minus the mean of its 50 matched genes.
+ G1 rho(A, B) > 0 with permutation p_upper < 0.05 (the same genes carry the excess in cell lines and in Hi-C tissues/neurons).
+ G2 rho(A, N) > 0 with p_upper < 0.05 (the negatives anchor the same genes; their null result is a baseline effect).
+ G3 rho(A, B) > rho(A, N).
+Fixed interpretation: G1 pass -> a shared gene set; G2 pass -> negatives keep the same genes but lose the excess over matched genes;
+G2 fail -> in primary ChIA-PET cells a different set of K+ genes is anchored. The gene list is descriptive. Failures stand.

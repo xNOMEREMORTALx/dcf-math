@@ -360,3 +360,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3913_muscle_split.txt | `d63f5f72631fcca36259a413df494657be88ffd88682dd2b1134aa3c39b23e07` |
 | rounds/dcf_ctcfsplit_L3913.py | `bb88be5b7bfdff17dcc83d72f84d9a28a9a0f4b76269bbeefb085d3582c7f665` |
 | rounds/dcf_grade_L3913.py | `34016d2dc2650a35c7de8d8256b2355bc79486f8ab7664e1318bea26f34b0782` |
+| preregistrations/PREREGISTERED_L3917_gene_level.txt | `74fcbb4439ba281e51c391699539550ddd643c4ee041d8294b509c0132ea1a8d` |
+| rounds/dcf_genelevel_L3917.py | `c1a9b3ef292c9d2a975ae827e155f57e40c477c93326e799386745272f475326` |
+| rounds/dcf_grade_L3917.py | `4522506a4826c9b084b1de9fd7aec3b1998e972ed83dbaf640779d7d71f88d45` |
