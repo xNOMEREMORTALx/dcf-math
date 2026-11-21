@@ -1,0 +1,8 @@
+PRE-REGISTRATION L3913: CTCF split in the two skeletal-muscle Hi-C maps (L3893: K+ p = 0.18, pore K+ p = 0.042). Frozen before
+any muscle subset count or share was computed. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 21 November 2026.
+Script rounds/dcf_ctcfsplit_L3913.py (L3909 script, seed 3913), maps ENCFF735TXQ and ENCFF509PNA scored together, reference CTCF set
+as in L3909 (H1 + HFFc6 CTCF-ChIAPET anchors; proxy limitation as stated there). MODE both only.
+ D1 both: pore-forming K+ p_upper < 0.05.
+ D2 both: K+ channels (all 96) p_upper < 0.05.
+Fixed interpretation: D1 and D2 pass -> muscle behaves like the other Hi-C positives once loops are restricted to CTCF sites;
+D2 fails -> the muscle signal is limited to pore-forming genes. Failures stand.
