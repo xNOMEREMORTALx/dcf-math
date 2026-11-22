@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3937: is the CTCF loop-anchor excess a property of four-fold (tetrameric) channel genes in general, or of potassium
+channels? Frozen before the anchor share of any of the 37 genes below was computed in any map (they were never in any earlier set).
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 21 November 2026. Script rounds/dcf_tetra_L3937.py, seed 3937. BLIND to TETRA4.
+TETRA4 (37, all non-K+ tetrameric cation channels): TRPC1,3-7; TRPV1-6; TRPM1-8; TRPA1; MCOLN1-3; PKD2, PKD2L1, PKD2L2;
+CNGA1-4, CNGB1, CNGB3; CATSPER1-4. Groups: A = the ten cell lines of L3869; B = the nine Hi-C maps, CTCF-anchored loops (L3909/L3913).
+ S1 A: TETRA4 p_upper < 0.05.
+ S2 B: TETRA4 p_upper < 0.05.
+ S3 A: TETRA4 excess (share minus matched mean) is smaller than the KPORE excess.
+Fixed interpretation: S1 and S2 pass -> four-fold channel genes in general carry the excess (a symmetry/structure link); S1 and S2
+fail -> the excess is specific to potassium channels, not to four-fold pores. Failures stand.
