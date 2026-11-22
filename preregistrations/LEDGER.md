@@ -375,3 +375,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3937_tetramers.txt | `96e7eae6cd4aa9b89c647f99f28ffc2277d371a69fab32874d48112328794de6` |
 | rounds/dcf_tetra_L3937.py | `433e82f7c4e0b06c1ce3053228f4101149d56059ea0c1828e3d150cb558d0486` |
 | rounds/dcf_grade_L3937.py | `cb68c4d332201d1c78e3f44b81defe7f027de2e74169697c181ab6aa6d1b3e84` |
+| preregistrations/PREREGISTERED_L3941_ksub_hic.txt | `c4102449f414b515b39952f345bcc0fba4ab9c5859077d2b16bbca02dcc152c2` |
+| rounds/dcf_ksub_L3941.py | `b72dd42ed9cbe92a5059e716536814b0b2091fb1587e78b10ff04141cede3938` |
+| rounds/dcf_grade_L3941.py | `cab14211bf81fedc5bfc1784fda07d097bbb88eab7f9efbafa62dc5cdda17612` |

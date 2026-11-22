@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3941: which pore-forming K+ subfamilies carry the excess in the nine CTCF-anchored Hi-C maps? Frozen before any
+subfamily share was computed in those maps (group-level KPORE seen in L3909/L3913/L3937; subfamilies seen only in the ten cell lines,
+L3873: Kv p 0.10, K2P 0.04, Kir 0.06, KCa 0.06). Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 22 November 2026.
+Script rounds/dcf_ksub_L3941.py, seed 3941. Subfamilies: Kv (40), K2P (15), Kir (16), KCa (8). Group B = nine Hi-C maps (CTCF-anchored);
+group A (ten cell lines) re-printed for reference, not graded.
+ U1 B: all four subfamilies have excess > 0.
+ U2 B: Kv p_upper < 0.05.
+ U3 B: Kir p_upper < 0.05.
+Fixed interpretation: U1 pass -> the excess is spread across K+ pore families in tissues/neurons, as in cell lines; U1 fail -> it is
+carried by a subset. Failures stand.
