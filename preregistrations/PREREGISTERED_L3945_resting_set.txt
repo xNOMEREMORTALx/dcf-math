@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3945: do other resting-potential genes share the CTCF-anchor excess (L3941 suggested leak/inward-rectifier K+
+carry it)? BLIND: none of the 20 genes below has appeared in any earlier set or output. Gary NOMEREMORTAL Mason, Digital Cosmos
+Framework, 22 November 2026. Script rounds/dcf_rest_L3945.py (L3937 script, seed 3945). REST20: ATP1B1-4 (Na+/K+-ATPase beta),
+FXYD1-7 (Na+/K+-ATPase regulators), SLC12A1-9 (cation-chloride cotransporters, incl. NKCC1 and KCC2). Groups A (ten cell lines) and
+B (nine CTCF-anchored Hi-C maps) as L3937.
+ R1 A: REST20 p_upper < 0.05.
+ R2 B: REST20 p_upper < 0.05.
+Fixed interpretation: R1 and R2 pass -> the excess extends to the resting-potential machinery beyond K+ channels; both fail -> it is
+specific to K+ channel genes. Failures stand.

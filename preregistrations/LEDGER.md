@@ -378,3 +378,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3941_ksub_hic.txt | `c4102449f414b515b39952f345bcc0fba4ab9c5859077d2b16bbca02dcc152c2` |
 | rounds/dcf_ksub_L3941.py | `b72dd42ed9cbe92a5059e716536814b0b2091fb1587e78b10ff04141cede3938` |
 | rounds/dcf_grade_L3941.py | `cab14211bf81fedc5bfc1784fda07d097bbb88eab7f9efbafa62dc5cdda17612` |
+| preregistrations/PREREGISTERED_L3945_resting_set.txt | `b11bb12ab3cf6cd4719927244c6c45b1d77484feb0960cdba129fb4012e09a97` |
+| rounds/dcf_rest_L3945.py | `42b20751ae0f189a2f40161b2231751bf0fafd58b79a8a0a50560603be64c8b5` |
+| rounds/dcf_grade_L3945.py | `96b62bf44204a0d502aed74cdc6ba110caca6175e06166f66c3eea7754f74631` |
