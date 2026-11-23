@@ -1,0 +1,13 @@
+PRE-REGISTRATION L3977/L3979: deciding the T-cell question with CTCF binding measured in T cells. Files (Gary's downloads, ENCODE
+ENCSR550JJT, CTCF ChIA-PET in activated naive CD4 T cells, 43-year male donor): peaks ENCFF416VKW (rep1, 54,365; MD5 47c15e77...)
+and ENCFF478NWL (rep2, 63,643; MD5 3faf3f40...); loops ENCFF840AQR (515,842; MD5 070ec59d...). Peaks come from the ChIA-PET reads,
+not from loop calls. Frozen before any share was computed with these files.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 23 November 2026. L3977: rounds/dcf_peakref_L3977.py (L3961 script with the
+reference = union of the two peak sets; seed 3977; MODE both); the script also prints the reference's own pore-K+ share (descriptive).
+L3979: rounds/dcf_ksub_L3979.py (L3949 script, seed 3979) on ENCFF840AQR, top 28,270 loops, unrestricted.
+ P1 T-cell Hi-C (ENCFF749LFC + ENCFF169BLJ) restricted to loops with both anchors on T-cell CTCF peaks: pore-forming K+ p_upper < 0.05.
+ P2 nine Hi-C maps of L3909/L3913, same restriction: pore-forming K+ p_upper < 0.05 (third reference).
+ P3 new T-cell CTCF ChIA-PET loops ENCFF840AQR, unrestricted: pore-forming K+ p_upper >= 0.05 (the earlier T-cell ChIA-PET null repeats).
+Fixed interpretation: P1 pass -> at T cells' own CTCF sites the K+ excess is present; the T-cell "exception" is withdrawn and the L3961
+null is attributed to its loop-derived reference. P1 fail -> T cells are a genuine exception at their own CTCF sites.
+P2 pass -> the tissue result holds under a third, independent reference. Failures stand.

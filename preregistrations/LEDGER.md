@@ -402,3 +402,7 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3973_partner_replication.txt | `0e8fd6943ed7f85fc73fa6960165da7eccaba36155d9063a7385f9a74d807a9e` |
 | rounds/dcf_partner_L3973.py | `a5d7250a4b72a0f25e259a73db3c2fdca23b55e7e0460c1f60be2e4e779d40ef` |
 | rounds/dcf_grade_L3973.py | `eec7a1a566d213fe5412d81b6fffc83b25afbbb74924ef682032f9d9c275c8c1` |
+| preregistrations/PREREGISTERED_L3977_tcell_peaks.txt | `44b6980ee3b790ebaa01de652135f6bd42e24169da5c5d818bd1ce4d0f5813f6` |
+| rounds/dcf_peakref_L3977.py | `6fb09fdf72963c7cb5854dbf11861cceb83c118e6cb680172024d5c12292d706` |
+| rounds/dcf_ksub_L3979.py | `1f8612dcc5af8570f8c04f14ab8af0f15d74f93029ace08f7b97db83a650a32b` |
+| rounds/dcf_grade_L3977.py | `98e96a2e8cbd5a2b853ffdcc467d1e71184cee9bc6d415eead90c6ff1ad9979d` |
