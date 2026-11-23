@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3989: the six-fold channel lead (connexins + ORAI leaned toward CTCF anchors in the ten cell lines, L3885 p = 0.034)
+tested in maps where HEXA shares were never computed. Frozen before running. Gary NOMEREMORTAL Mason, Digital Cosmos Framework,
+23 November 2026. Script rounds/dcf_hexa_L3989.py (L3937 script, set HEXA (23) = GJA/B/C/D connexins + ORAI1-3; matched candidates
+with HEXA removed from the pool; seed 3989). Group A = two new CTCF ChIA-PET maps (WTC11 ENCFF455CNF; T-cell ENCFF840AQR; top 28,270);
+group B = nine Hi-C maps, CTCF-anchored with the H1/HFFc6 reference (as L3909/L3913/L3937).
+ H1 A: HEXA p_upper < 0.05.
+ H2 B: HEXA p_upper < 0.05.
+Fixed interpretation: both pass -> six-fold channel genes share the anchor excess, so it is not K+-only; both fail -> the L3885 lean
+does not replicate and the excess stays K+-specific (consistent with L3937). Failures stand.
