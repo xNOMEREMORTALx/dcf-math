@@ -53,3 +53,16 @@
 - **[Activation time course]** ENCODE has CD4 T-cell CTCF ChIA-PET at several activation times. Pre-register: the excess rises with activation duration. ENCSR731OFF (36 h) is the next file; it is the same series as ENCSR550JJT.
 - **[Loop partners in the new T-cell map]** Apply the L3969 partner test to ENCFF840AQR.
 - **[Manuscript 3 v2.9]** Done: §3.28 is added, and the T-cell line in the conclusion is revised.
+
+---
+## L3981: loop-partner test on the new T-cell map (0 of 1), added the same day
+**Map:** ENCFF840AQR, CTCF ChIA-PET.
+
+**Result:** pore-K⁺ loops have a partner at a gene start in 20.5% of loops, against 28.2% for matched genes. p_lower = 0.083, so the prediction **fails**.
+- **All K⁺ genes:** p = 0.027 (descriptive).
+
+**The partner signature now looks like this:**
+- **Hi-C:** strong in both sets (p = 0.0001, p = 0.0001).
+- **CTCF ChIA-PET:** a consistent but non-significant tendency in all three tests (p = 0.12, 0.059, 0.083).
+
+**Record:** 620 of 865. **Audit:** 287 of 392.

@@ -473,6 +473,10 @@ The 4DN union files tag every loop with the assays that support it, so H1 and HF
 
 **This partner signature does not depend on any CTCF reference,** and it replicates in Hi-C.
 
+**CTCF ChIA-PET maps:**
+- **The tendency is the same in all three maps tested:** ten cell lines p = 0.12; WTC11 p = 0.059; a new T-cell map p = 0.083 (L3981, 1 prediction, failed).
+- **None is significant alone.**
+
 ### 3.28 T-cell CTCF peaks as reference; a new T-cell sample (L3977, L3979; 1 of 3)
 **Reference:** CTCF peaks from activated CD4⁺ T-cell ChIA-PET reads (ENCSR550JJT; 54,365 + 63,643 peaks). These do not come from loop calls.
 
@@ -525,7 +529,7 @@ Source: `figures/L3841_manuscript3_fig1_v2.py`, which recomputes the frozen L372
 
 ## 5. Data and code availability
 - **Data:** Zenodo 17451616 (loops) and GENCODE v49 (genes).
-- **Code:** `dcf-math/rounds/` scripts L3713–L3979.
+- **Code:** `dcf-math/rounds/` scripts L3713–L3981.
 - **Records:** pre-registrations and ledger in `dcf-math/preregistrations/`.
 - **Archive:** dcf-math v1.2.0, DOI 10.5281/zenodo.24331499 (all versions: 10.5281/zenodo.24234794); dcf-genefinder v1.2.0, DOI 10.5281/zenodo.24331605 (all versions: 10.5281/zenodo.24234985).
 
