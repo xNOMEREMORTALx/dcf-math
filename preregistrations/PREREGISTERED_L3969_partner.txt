@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3969 (novel question): what is at the other end of loops anchored at pore-forming K+ genes? If K+ genes sit at
+structural CTCF boundaries rather than in regulatory contacts, their loop partners should land at gene starts LESS often than the
+partners of matched genes' loops. Never examined before. Frozen before any partner value was computed.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 23 November 2026. Script rounds/dcf_partner_L3969.py, seed 3969, groups and loops
+exactly as L3965 (A = ten cell lines, CTCF ChIA-PET; B = nine Hi-C maps, all loops).
+ M1 A: pore-forming K+ partner-promoter fraction below matched, p_lower < 0.05.
+ M2 B: same, p_lower < 0.05.
+Fixed interpretation: M1 and M2 pass -> K+ anchors pair with non-promoter (structural) partners: a boundary role; both fail -> their
+partners are ordinary. Failures stand.
