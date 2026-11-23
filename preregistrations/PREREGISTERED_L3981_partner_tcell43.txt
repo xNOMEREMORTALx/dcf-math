@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3981: loop-partner test (L3969) on the new T-cell CTCF ChIA-PET map ENCFF840AQR (top 28,270 loops), never used for
+partners. Frozen before running. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 23 November 2026. Script rounds/dcf_partner_L3981.py
+(L3969 script, seed 3981), group A, one map.
+ Q1 pore-forming K+ partner-promoter fraction below matched, p_lower < 0.05.
+Fixed interpretation: pass -> the non-promoter partner signature also holds in a T-cell CTCF ChIA-PET map; fail -> in CTCF ChIA-PET it
+remains a non-significant tendency (as in L3969 M1 and L3973 N2). Failures stand.
