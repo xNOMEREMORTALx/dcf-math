@@ -387,3 +387,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3953_tcell_hic.txt | `a6820ef61252d9d85052c4e0fe9e5e2863f2f1dcdcdfdb328e4c2fac036af2dd` |
 | rounds/dcf_tcellhic_L3953.py | `b9894942803d1bfd9bc977f2ff94100d5e953840700b047f43726d801a634cdf` |
 | rounds/dcf_grade_L3953.py | `f27a6c7f66ef87a34486819a6d538d4a2a797587fa68d8a1d77a3637b5eaabfa` |
+| preregistrations/PREREGISTERED_L3957_tcell_chia_ref.txt | `b4747940c7e5afcdfcfe1d1f2fafd7550e6ce4aa4520d1086db4685504ac6b8b` |
+| rounds/dcf_chiaref_L3957.py | `f1f1926c3bb7b42d6f80d4105a0f8b5585ec9f20736374663b80bc9751badfe1` |
+| rounds/dcf_grade_L3957.py | `a95fa3b25dc27484329917273c513beeb42eb640fd374a0b1fe929b6c4ff5954` |

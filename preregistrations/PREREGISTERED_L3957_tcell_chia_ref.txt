@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3957: do the five CD4 T-cell CTCF ChIA-PET maps (L3877 files, top 28,270 loops each) show the K+ excess once
+restricted, like the Hi-C maps, to loops whose both anchors overlap a reference CTCF anchor (H1 + HFFc6)? Frozen before any
+restricted count or share was computed. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 23 November 2026.
+Script rounds/dcf_chiaref_L3957.py, seed 3957. Group N = 5 T-cell maps + HUVEC + HMEC; group T = the 5 T-cell maps.
+ Y1 T: pore-forming K+ p_upper < 0.05.
+ Y2 N: pore-forming K+ p_upper < 0.05.
+Fixed interpretation: Y1 pass -> the T-cell ChIA-PET maps carry the excess at reference CTCF sites, and their earlier null came from
+non-reference (largely promoter-tied) loops; Y1 fail -> the ChIA-PET and Hi-C T-cell maps disagree even at shared CTCF sites.
+Failures stand.
