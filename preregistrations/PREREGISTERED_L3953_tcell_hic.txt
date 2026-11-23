@@ -1,0 +1,13 @@
+PRE-REGISTRATION L3953: is the T-cell exception (no K+ excess in five CD4 T-cell CTCF ChIA-PET maps, L3877) a cell-type or an assay
+effect? Two CD4 T-cell intact Hi-C maps (ENCODE, same 20-year-old male donor series): resting ENCSR335JYP default loops ENCFF749LFC
+(39,071 loops; MD5 e363179d...) and activated (36 h anti-CD3/CD28) ENCSR836MWK default loops ENCFF169BLJ (112,110 loops; MD5 a6de57b2...).
+ENCSR421CGL has no loops file (void, not substituted). Frozen before any gene share was computed in these files.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 23 November 2026. Script rounds/dcf_tcellhic_L3953.py (L3909 script, seed 3953),
+the two maps scored together, ALL loops read (no 28,270 cap, as for every Hi-C map in L3909/L3913; the cap's "first N lines" rule
+would be chromosome-ordered here). Reference CTCF set and its proxy limitation as L3909.
+Current reading (L3917-L3933): the T-cell exception is a cell-type difference. Predictions follow that reading:
+ X1 CTCF-anchored loops (MODE both): pore-forming K+ p_upper >= 0.05 (no excess).
+ X2 all loops (MODE all): pore-forming K+ p_upper >= 0.05 (no excess).
+ X3 CTCF-anchored loops: all 139 genes p_upper >= 0.05.
+Fixed interpretation: X1 holds -> two assays agree, the T-cell exception is cell type; X1 fails (excess present) -> the T-cell ChIA-PET
+negatives were an assay effect and the cell-type reading is withdrawn. Failures stand.
