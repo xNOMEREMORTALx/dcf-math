@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3965 (novel question): are the loops anchored at pore-forming K+ genes longer than loops anchored at matched genes?
+If K+ genes sit at the boundaries of large insulated domains, their loops should span more DNA. Loop lengths have never been examined
+in this project. Frozen before any loop length was computed. Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 23 November 2026.
+Script rounds/dcf_looplen_L3965.py, seed 3965. Groups: A = ten cell lines (CTCF ChIA-PET as L3869); B = nine Hi-C maps, all loops
+(motor neurons x3, astrocytes x2, colon x2, muscle x2; no CTCF restriction, so no reference is involved).
+ L1 A: pore-forming K+ mean log10 loop length > matched, p_upper < 0.05.
+ L2 B: same, p_upper < 0.05.
+ L3 A: auxiliary K+ subunits p_upper >= 0.05 (pore-only pattern).
+Fixed interpretation: L1 and L2 pass -> K+ pore genes anchor longer, domain-scale loops (a boundary role); both fail -> their anchor
+excess is not about loop span. Failures stand.
