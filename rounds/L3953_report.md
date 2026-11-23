@@ -60,3 +60,6 @@ Each cell gives the family share, then the matched-gene null mean, then the p-va
 - **[Why T-cell ChIA-PET misses it]** Pre-register: restrict the T-cell ChIA-PET loops to anchors that overlap the reference CTCF set (both ends). Prediction: the excess appears.
 - **[Non-Kv vs Kv in T cells]** Check the subfamily ordering in the T-cell Hi-C CTCF-anchored loops.
 - **[Manuscript 3 v2.5]** Done: the abstract conclusion and summary are rewritten; §3.25 is added.
+
+---
+**Note added after L3961 (23 November 2026):** the X1 excess depends on the H1/HFFc6 reference. With a T-cell ChIA-PET reference, the T-cell Hi-C maps show no excess (p = 0.96). The conclusion above ("assay effect; cell-type reading withdrawn") is **downgraded to unresolved**. See `L3957_L3961_report.md`. The grading itself is unchanged.

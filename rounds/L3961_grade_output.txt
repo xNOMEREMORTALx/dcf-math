@@ -1,0 +1,3 @@
+HIC9 {'KCN': 0.0163, 'ALL': 0.0224, 'KPORE': 0.0054, 'Kaux': 0.7122}
+TCELL {'KCN': 0.9805, 'ALL': 0.9938, 'KPORE': 0.962, 'Kaux': 0.8818}
+RESULT [('Z1', 'PASS'), ('Z2', 'FAIL')]
