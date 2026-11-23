@@ -89,3 +89,33 @@ A run of 32 or more digits between consecutive 5s, as from 1170 to 1202:
 - **2701 is the only triangular number up to 10,000 whose reciprocal has period 24.** That is exact.
 - **Not pre-registered:** the question was asked *because* of 2701, so it describes 2701 and does not test it.
 - **What would make it a test:** a fixed, written-in-advance statement about a different triangular number or a larger range.
+
+## Addendum 2: all triangular numbers with period 24 (complete, exact)
+**Method:** every number whose reciprocal repeats with period exactly 24 is a divisor of 10²⁴ − 1. There are 1,756 such numbers among its 2,048 divisors, so the list below is complete, not a sample.
+
+**Exactly three are triangular:**
+
+| number | triangular index | factorization |
+|---|---|---|
+| **2701** | T₇₃ | 37 · 73 |
+| **37401** | T₂₇₃ | 3 · 7 · 13 · 137 |
+| **862641** | T₁₃₁₃ | 3² · 13 · **73** · 101 |
+
+**Check:** the factorizations are recomputed and printed in `L3985_period24.txt`. 73 appears in both 2701 and 862641, and 137 appears in 37401. Both are factors of the repunit R₈. That is forced: period 24 needs a factor with period 8 (73, 137, or 11·73…) or 24 itself.
+
+**Other periods, for comparison (triangular numbers among all numbers with that period):**
+
+| period | triangular numbers |
+|---|---|
+| 3 | none |
+| 8 | none |
+| 12 | none |
+| 6 | 21, 91, 231, 351, 3003 |
+| 16 | **153**, 561, 5151 |
+| 24 | 2701, 37401, 862641 |
+| 48 | four |
+
+**What this shows:**
+- **2701 is the smallest of exactly three triangular numbers whose reciprocal has period 24.** Exact.
+- **153, the project's "gold guide" number, is the smallest triangular number with period 16.** Also exact.
+- **These are descriptive facts about finite sets, not tests.**
