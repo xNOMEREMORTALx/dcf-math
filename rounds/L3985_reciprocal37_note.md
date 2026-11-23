@@ -78,3 +78,14 @@ A run of 32 or more digits between consecutive 5s, as from 1170 to 1202:
 - **[Period-24 reciprocals]** Pre-register: among n ≤ 10,000 with period-24 reciprocals, how often does the period's digit sum equal 99, and how many are triangular? That shows whether 2701 is special among its class.
 - **[A-form and the 11 link]** If the K⁺ work ever touches RNA structure, the A-form 11 bp/turn is the measured anchor point. Use that, not a reduction.
 - **[Data lead carried]** The T-cell activation time course (ENCSR731OFF file graph screenshot).
+
+---
+## Addendum: the period-24 check, run right away (descriptive, not pre-registered)
+- **Numbers n ≤ 10,000 whose reciprocal repeats every 24 digits:** 18.
+- **Of these, 8 have a period digit sum of 99,** so a sum of 99 is common in this class (44%).
+- **Only one of the 18 is a triangular number: 2701.**
+
+**What this shows:**
+- **2701 is the only triangular number up to 10,000 whose reciprocal has period 24.** That is exact.
+- **Not pre-registered:** the question was asked *because* of 2701, so it describes 2701 and does not test it.
+- **What would make it a test:** a fixed, written-in-advance statement about a different triangular number or a larger range.
