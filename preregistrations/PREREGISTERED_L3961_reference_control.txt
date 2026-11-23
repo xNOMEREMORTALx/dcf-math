@@ -1,0 +1,12 @@
+PRE-REGISTRATION L3961: is the excess at "CTCF-anchored" Hi-C loops (L3909, L3913, L3953) and in restricted T-cell ChIA-PET (L3957)
+inherited from the reference? The reference so far was H1 + HFFc6 CTCF-ChIAPET anchors, where the K+ excess was first found, so
+restricting other maps to loops at those anchors could import the excess by construction. Control: replace the reference with the
+union of anchors of the five CD4 T-cell CTCF ChIA-PET maps (L3877 files, top 28,270 loops each), whose own K+ excess was null
+(L3877 p = 0.58). Frozen before any share under this reference was computed. Gary NOMEREMORTAL Mason, Digital Cosmos Framework,
+23 November 2026. Script rounds/dcf_refctrl_L3961.py, seed 3961, MODE both. The script also prints the new reference's own pore-K+
+share vs matched genes (descriptive, not graded).
+Run 1: nine Hi-C maps of L3909/L3913 (motor neurons x3, astrocytes x2, colon x2, muscle x2). Run 2: two T-cell Hi-C maps of L3953.
+ Z1 Run 1: pore-forming K+ p_upper < 0.05.
+ Z2 Run 2: pore-forming K+ p_upper < 0.05.
+Fixed interpretation: Z1 and Z2 pass -> the excess at CTCF-anchored loops is not an artefact of the H1/HFFc6 reference; either fails ->
+that run's earlier restricted result may be reference-inherited and is downgraded. Failures stand.
