@@ -101,7 +101,7 @@ A run of 32 or more digits between consecutive 5s, as from 1170 to 1202:
 | **37401** | T₂₇₃ | 3 · 7 · 13 · 137 |
 | **862641** | T₁₃₁₃ | 3² · 13 · **73** · 101 |
 
-**Check:** the factorizations are recomputed and printed in `L3985_period24.txt`. 73 appears in both 2701 and 862641, and 137 appears in 37401. Both are factors of the repunit R₈. That is forced: period 24 needs a factor with period 8 (73, 137, or 11·73…) or 24 itself.
+**Check:** the factorizations are recomputed and printed in `L3985_period24.txt`. 73 appears in both 2701 and 862641, and 137 appears in 37401. Both are factors of the repunit R₈. That is forced: a period of 24 needs at least one prime-power factor whose own period is 8 or 24. The primes with period 8 are 73 and 137.
 
 **Other periods, for comparison (triangular numbers among all numbers with that period):**
 
