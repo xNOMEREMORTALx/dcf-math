@@ -1,0 +1,9 @@
+PRE-REGISTRATION L3949: blind test in a new cell type, WTC11 iPSC CTCF ChIA-PET (ENCODE ENCSR779QAB, loops ENCFF455CNF, rep2,
+Ruan lab, 305,999 loops; top 28,270 by PET count as anchors() of L3825a). Frozen before any gene share was computed in this file.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 22 November 2026. Script rounds/dcf_ksub_L3949.py, seed 3949, one map (group A).
+ V1 pore-forming K+ (79) p_upper < 0.05.
+ V2 non-Kv pore genes (K2P + Kir + KCa, 39) have a larger excess than Kv (40) (the L3941 ordering, now on new data).
+ V3 non-Kv p_upper < 0.05.
+Fixed interpretation: V1 pass -> the excess repeats blind in an iPSC line; V2 pass -> the non-Kv > Kv ordering replicates;
+V2 fail -> the L3941 ordering was not stable. Failures stand. Not used: ENCFF168ZTH (dataset ENCSR949ZZD; cell type could not be
+confirmed, so it is dropped, not substituted). ENCSR421CGL (activated CD4 T, intact Hi-C) has no loops file (void).
