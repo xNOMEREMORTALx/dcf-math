@@ -41,3 +41,16 @@
 ## Potential leads for future research
 - **[HEXA under the T-cell reference]** Rerun H2 with the T-cell CTCF peaks (L3977 reference) to remove the reference caveat.
 - **[HUVEC Hi-C]** ENCSR008UIB (dilution Hi-C) and ENCSR788FBI (intact Hi-C) are HUVEC Hi-C experiments, and the last primary-cell gap. A file-graph screenshot of each is needed.
+
+---
+## L3993: H2 rerun under the T-cell CTCF peak reference (0 of 1), added the same day
+**Pre-registered in** `PREREGISTERED_L3993_hexa_tref.txt`. **Script:** `dcf_hexa_L3993.py` (seed 3993).
+
+| maps | HEXA share vs matched | p | result |
+|---|---|---|---|
+| 9 Hi-C, loops between T-cell CTCF peaks | 0.159 vs 0.119 | 0.18 | J1 **FAIL** |
+| (pore K⁺, same run) | 0.180 vs 0.103 | 0.0007 | — |
+
+**The fixed reading:** L3989 H2 was reference-dependent, and **the six-fold lead is closed.** Pore K⁺ holds under the same reference (p = 0.0007).
+
+**Record:** 621 of 868. **Audit:** 288 of 395.

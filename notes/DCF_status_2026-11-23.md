@@ -1,10 +1,10 @@
-# DCF status page, updated 23 November 2026 (after L3989)
+# DCF status page, updated 23 November 2026 (after L3993)
 ### Gary NOMEREMORTAL Mason · Digital Cosmos Framework
 *A one-page map of where everything stands. Counts are from `rounds/L3485_audit2.py` and the round reports. It replaces `DCF_status_2026-11-17.md`.*
 
 ## Record
-- **Blind predictions overall:** **621 passed of 867, plus 3 split.**
-- **Audit of the biology tests (nerve chemistry onward):** **288 of 394.**
+- **Blind predictions overall:** **621 passed of 868, plus 3 split.**
+- **Audit of the biology tests (nerve chemistry onward):** **288 of 395.**
 - **Every failure is kept.**
 - **Downgrades are written into the affected reports as dated notes.** L3953 was downgraded after L3961.
 
@@ -29,7 +29,7 @@
 **Open:**
 - **T cells are mixed and sample-dependent.**
 - **HUVEC and HMEC** have no Hi-C test.
-- **The six-fold lean is not established.**
+- **The six-fold lean is closed:** it failed in new ChIA-PET (L3989) and under the T-cell reference (L3993).
 
 ## Tools
 - **Phone bundle 6.20**, self-test 270/270.
@@ -37,9 +37,7 @@
 - **Zenodo DOIs:** as on the previous status page and in Gary's release messages.
 
 ## What Gary can do next
-1. **ENCODE screenshots (file graphs), as before:**
-   - ENCSR731OFF (T cells, 36 h activation; activation time course);
-   - ENCSR788FBI and ENCSR008UIB (HUVEC Hi-C).
+1. **Download four files (direct links in the 23 November reply):** ENCFF483FUL and ENCFF258BCQ (T cells, 36 h); ENCFF108FUH and ENCFF174NVV (HUVEC Hi-C).
 2. **Outside reader** for Manuscripts 1 and 2.
 3. **GitHub release** when ready, so Zenodo archives rounds L3877–L3989.
 
@@ -47,11 +45,11 @@
 1. **[T-cell activation]** Does the K⁺ excess rise with activation time? (ENCSR731OFF)
 2. **[HUVEC Hi-C]** The last primary-cell gap.
 3. **[Loop partners]** Are the non-promoter partners enhancers or CTCF-only sites? This needs H3K27ac peaks from a Hi-C tissue.
-4. **[HEXA under the T-cell reference]** This removes the reference caveat on L3989 H2.
+4. **[Pore vs auxiliary, pooled]** A formal paired test across all maps.
 5. **[Fish H/Y blind test]** Carried; needs NCBI protein downloads.
 
 ## Summary
-- **One page:** the record (621 of 867), the four manuscripts with Manuscript 3's established and open points, three actions for Gary, and the top five leads.
+- **One page:** the record (621 of 868), the four manuscripts with Manuscript 3's established and open points, three actions for Gary, and the top five leads.
 
 ## Potential leads for future research
 - **[Status page]** Refresh at each milestone.
