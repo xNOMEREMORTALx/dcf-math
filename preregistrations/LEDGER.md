@@ -412,3 +412,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3989_hexamers.txt | `9bb80f12d37bb10d9563415a8ac8006a8aaa06acd835c4cb768dbbd8b2b55c3d` |
 | rounds/dcf_hexa_L3989.py | `44957698094fe17942e3d97e56e2240175612a8079e7a7ffd5a407075f9da163` |
 | rounds/dcf_grade_L3989.py | `51ff1ad0fd8ca60e664f18395b2ef1bcc015c41c0310abb5ab0a67e1b03d91c1` |
+| preregistrations/PREREGISTERED_L3993_hexa_tref.txt | `1a4ea4a278b0bb6276f65262682eb61645efaaf716b7631702afab505849e0c6` |
+| rounds/dcf_hexa_L3993.py | `2e01726c522e1a309ff74525fc48f517302aa779093877bf1074938582ce20e7` |
+| rounds/dcf_grade_L3993.py | `5c02e09cdeefa17c540a748b471f23a5717763342ddeac766b5c805c94b3af04` |

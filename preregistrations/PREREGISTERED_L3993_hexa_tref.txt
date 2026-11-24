@@ -1,0 +1,6 @@
+PRE-REGISTRATION L3993: does the L3989 H2 six-fold result (nine Hi-C maps, p = 0.046 with the H1/HFFc6 reference) survive the T-cell
+CTCF peak reference (L3977: ENCFF416VKW + ENCFF478NWL)? Frozen before running. Gary NOMEREMORTAL Mason, Digital Cosmos Framework,
+23 November 2026. Script rounds/dcf_hexa_L3993.py (L3989 script with the L3977 setup; seed 3993); group B only (nine Hi-C maps).
+ J1 B: HEXA p_upper < 0.05.
+Fixed interpretation: pass -> the six-fold lean in tissue Hi-C is not reference-inherited (still not established overall, since L3989 H1
+failed); fail -> L3989 H2 is reference-dependent and the six-fold lead is closed. Failures stand.
