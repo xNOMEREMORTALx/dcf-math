@@ -1,0 +1,2 @@
+{('A', 'OXPHOS'): 0.4275, ('A', 'KPORE'): 0.0022, ('B', 'OXPHOS'): 0.5469, ('B', 'KPORE'): 0.0013}
+RESULT [('O1', 'PASS'), ('O2', 'PASS')]
