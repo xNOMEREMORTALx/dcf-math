@@ -1,0 +1,10 @@
+PRE-REGISTRATION L3997 (new question, Gary: "what about mitochondria?"): do nuclear-encoded mitochondrial energy genes share the CTCF
+loop-anchor excess of pore-forming K+ genes? BLIND: none of these genes has appeared in any earlier set. Frozen before running.
+Gary NOMEREMORTAL Mason, Digital Cosmos Framework, 24 November 2026. Script rounds/dcf_oxphos_L3997.py (L3993 script, seed 3997).
+OXPHOS (~100): NDUF* (complex I and assembly factors), SDHA-D, UQCR* and CYC1 (complex III), COX4-8* (complex IV), ATP5* (ATP synthase).
+Groups: A = ten cell lines (CTCF ChIA-PET); B = nine Hi-C maps, loops between T-cell CTCF peaks (L3977 reference).
+Expectation: these genes are active in every cell (housekeeping), unlike the mostly silent K+ genes, so:
+ O1 A: OXPHOS p_upper >= 0.05 (no excess).
+ O2 B: OXPHOS p_upper >= 0.05 (no excess).
+Fixed interpretation: both hold -> the anchor excess is not a property of mitochondrial energy genes, and the K+ result stays specific;
+either fails (an excess) -> a mitochondria link is real and gets its own follow-up. Failures stand.

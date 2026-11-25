@@ -415,3 +415,6 @@ Each file was frozen (SHA-256 recorded in the round report) before the data it p
 | preregistrations/PREREGISTERED_L3993_hexa_tref.txt | `1a4ea4a278b0bb6276f65262682eb61645efaaf716b7631702afab505849e0c6` |
 | rounds/dcf_hexa_L3993.py | `2e01726c522e1a309ff74525fc48f517302aa779093877bf1074938582ce20e7` |
 | rounds/dcf_grade_L3993.py | `5c02e09cdeefa17c540a748b471f23a5717763342ddeac766b5c805c94b3af04` |
+| preregistrations/PREREGISTERED_L3997_mitochondria.txt | `faaae653328793804dd74e9263be7016282162581498d3a45aa3e07ae1935c42` |
+| rounds/dcf_oxphos_L3997.py | `86f72802f3345e47fb5877c71635ab9ec9e4001484f56a4f7169ea181253e0bf` |
+| rounds/dcf_grade_L3997.py | `d63bc8891de2425f7e41e8c6acc7a0644775ce8c6ceeb012aff62a21254eb69f` |
