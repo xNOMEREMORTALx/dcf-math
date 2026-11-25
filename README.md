@@ -8,7 +8,8 @@
 Verified number-theory results from the Digital Cosmos Framework (DCF).
 - **Pre-registration.** Every prediction was hashed and frozen before its test was run.
 - **Honest grading.** Every result is graded honestly, failures included.
-- **Running record:** 291 of 411 pre-registered predictions passed, plus 3 split (L3261).
+- **Running record:** 623 of 870 pre-registered predictions passed, plus 3 split (L3997, 24 November 2026); biology audit 290 of 397.
+- **Handoff:** `handoff/H1_START_HERE.md` (H1–H8) summarises the whole project for a new session.
 
 ## Contents
 - **`notes/Note_Lambda_digit_agreement_draft_v0.5.md`:** a closed-form law for how often a number and its multiple share digits.
